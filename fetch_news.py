@@ -1,0 +1,39 @@
+name: Fetch Canadian News
+
+on:
+  schedule:
+    # Runs every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests feedparser python-dateutil
+        
+    - name: Fetch Canadian News
+      env:
+        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+      run: python fetch_news.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add articles.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update news articles [$(date +'%Y-%m-%d %H:%M:%S')]" && git push)
