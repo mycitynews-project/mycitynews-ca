@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyCityNews.ca - Canadian News Aggregator</title>
+    <meta name="description" content="Latest Canadian news from across the web and social media">
+    
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- Google AdSense (Add your code here) -->
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=YOUR_CLIENT_ID"></script> -->
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🍁 MyCityNews.ca</h1>
+            <p class="tagline">Your Source for Canadian News</p>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <button class="filter-btn active" data-category="all">All News</button>
+            <button class="filter-btn" data-category="politics">Politics</button>
+            <button class="filter-btn" data-category="business">Business</button>
+            <button class="filter-btn" data-category="sports">Sports</button>
+            <button class="filter-btn" data-category="tech">Technology</button>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Ad Space Top -->
+        <div class="ad-space">
+            <!-- Google AdSense or your ad code -->
+            <div class="ad-placeholder">Advertisement</div>
+        </div>
+
+        <div id="articles-container">
+            <p class="loading">Loading latest Canadian news...</p>
+        </div>
+
+        <!-- Ad Space Middle (inserted programmatically after 5 articles) -->
+        
+        <div id="load-more-container" style="display: none;">
+            <button id="load-more-btn" class="load-more-btn">Load More Articles</button>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 MyCityNews.ca | All news articles belong to their respective sources</p>
+            <p>Last updated: <span id="last-updated"></span></p>
+        </div>
+    </footer>
+
+    <script src="js/load-articles.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
