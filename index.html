@@ -5,18 +5,207 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MyCityNews.ca - Canadian News Aggregator</title>
     <meta name="description" content="Latest Canadian news from across the web and social media">
-    
-    <link rel="stylesheet" href="css/style.css">
-    
-    <!-- Google AdSense (Add your code here) -->
-    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=YOUR_CLIENT_ID"></script> -->
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f7fa;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .tagline {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        nav {
+            background: white;
+            padding: 15px 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            margin-bottom: 30px;
+        }
+
+        nav .container {
+            display: flex;
+            gap: 10px;
+            overflow-x: auto;
+            padding: 5px 20px;
+        }
+
+        .filter-btn {
+            background: #f0f0f0;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            white-space: nowrap;
+            transition: all 0.3s;
+        }
+
+        .filter-btn:hover {
+            background: #e0e0e0;
+        }
+
+        .filter-btn.active {
+            background: #667eea;
+            color: white;
+        }
+
+        #articles-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 25px;
+            margin: 30px 0;
+        }
+
+        .article-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            transition: all 0.3s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .article-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+        }
+
+        .article-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .article-content {
+            padding: 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .article-source {
+            color: #667eea;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+
+        .article-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #333;
+            line-height: 1.4;
+        }
+
+        .article-description {
+            color: #666;
+            font-size: 0.95em;
+            margin-bottom: 15px;
+            flex: 1;
+        }
+
+        .article-meta {
+            font-size: 0.85em;
+            color: #999;
+            margin-bottom: 15px;
+        }
+
+        .read-more-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: all 0.3s;
+            width: 100%;
+        }
+
+        .read-more-btn:hover {
+            background: #764ba2;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: #999;
+            font-size: 1.1em;
+        }
+
+        .error-message {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            color: #856404;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        footer p {
+            margin: 5px 0;
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+            #articles-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
 </head>
 <body>
     <header>
-        <div class="container">
-            <h1>🍁 MyCityNews.ca</h1>
-            <p class="tagline">Your Source for Canadian News</p>
-        </div>
+        <h1>🍁 MyCityNews.ca</h1>
+        <p class="tagline">Your Source for Canadian News</p>
     </header>
 
     <nav>
@@ -29,32 +218,154 @@
         </div>
     </nav>
 
-    <main class="container">
-        <!-- Ad Space Top -->
-        <div class="ad-space">
-            <!-- Google AdSense or your ad code -->
-            <div class="ad-placeholder">Advertisement</div>
-        </div>
-
+    <div class="container">
         <div id="articles-container">
             <p class="loading">Loading latest Canadian news...</p>
         </div>
-
-        <!-- Ad Space Middle (inserted programmatically after 5 articles) -->
-        
-        <div id="load-more-container" style="display: none;">
-            <button id="load-more-btn" class="load-more-btn">Load More Articles</button>
-        </div>
-    </main>
+    </div>
 
     <footer>
-        <div class="container">
-            <p>&copy; 2025 MyCityNews.ca | All news articles belong to their respective sources</p>
-            <p>Last updated: <span id="last-updated"></span></p>
-        </div>
+        <p>&copy; 2025 MyCityNews.ca | All news articles belong to their respective sources</p>
+        <p>Last updated: <span id="last-updated">Checking...</span></p>
     </footer>
 
-    <script src="js/load-articles.js"></script>
-    <script src="js/main.js"></script>
+    <script>
+        let allArticles = [];
+        let currentFilter = 'all';
+
+        async function loadArticles() {
+            const container = document.getElementById('articles-container');
+            
+            try {
+                console.log('Fetching articles.json...');
+                const response = await fetch('articles.json?t=' + new Date().getTime());
+                
+                console.log('Response status:', response.status);
+                
+                if (!response.ok) {
+                    throw new Error('Failed to load articles: ' + response.status);
+                }
+                
+                const data = await response.json();
+                console.log('Articles data:', data);
+                
+                allArticles = data.articles || [];
+                
+                if (allArticles.length === 0) {
+                    container.innerHTML = `
+                        <div class="error-message">
+                            <h3>⚠️ No articles available yet</h3>
+                            <p>The news aggregator is still fetching articles. Please wait a few minutes and refresh the page.</p>
+                            <p><small>Articles are fetched automatically every 2 hours.</small></p>
+                        </div>
+                    `;
+                    return;
+                }
+                
+                // Update last updated time
+                const lastUpdated = new Date(data.last_updated);
+                document.getElementById('last-updated').textContent = lastUpdated.toLocaleString();
+                
+                // Display articles
+                displayArticles();
+                
+            } catch (error) {
+                console.error('Error loading articles:', error);
+                container.innerHTML = `
+                    <div class="error-message">
+                        <h3>⚠️ Unable to load articles</h3>
+                        <p>Error: ${error.message}</p>
+                        <p>Please refresh the page or try again later.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function displayArticles() {
+            const container = document.getElementById('articles-container');
+            container.innerHTML = '';
+            
+            // Filter articles
+            let filteredArticles = allArticles;
+            if (currentFilter !== 'all') {
+                filteredArticles = allArticles.filter(article => 
+                    categorizeArticle(article) === currentFilter
+                );
+            }
+            
+            if (filteredArticles.length === 0) {
+                container.innerHTML = '<p class="loading">No articles in this category.</p>';
+                return;
+            }
+            
+            // Display up to 24 articles
+            filteredArticles.slice(0, 24).forEach(article => {
+                const card = createArticleCard(article);
+                container.appendChild(card);
+            });
+        }
+
+        function createArticleCard(article) {
+            const card = document.createElement('div');
+            card.className = 'article-card';
+            
+            const imageUrl = article.image || '';
+            const title = article.title || 'Untitled';
+            const description = (article.description || '').substring(0, 150);
+            const fullDescription = description + (description.length >= 150 ? '...' : '');
+            const source = article.source || 'Unknown Source';
+            const publishedDate = article.published ? new Date(article.published).toLocaleDateString() : 'Recently';
+            
+            // Create redirect URL with ad interstitial
+            const redirectUrl = `ad-redirect.html?url=${encodeURIComponent(article.url)}&title=${encodeURIComponent(title)}`;
+            
+            card.innerHTML = `
+                ${imageUrl ? `<img src="${imageUrl}" alt="${title}" class="article-image" onerror="this.style.display='none'">` : '<div class="article-image"></div>'}
+                <div class="article-content">
+                    <div class="article-source">${source}</div>
+                    <h2 class="article-title">${title}</h2>
+                    <p class="article-description">${fullDescription}</p>
+                    <div class="article-meta">📅 ${publishedDate}</div>
+                    <button class="read-more-btn" onclick="window.location.href='${redirectUrl}'">
+                        Read More →
+                    </button>
+                </div>
+            `;
+            
+            return card;
+        }
+
+        function categorizeArticle(article) {
+            const text = (article.title + ' ' + article.description).toLowerCase();
+            
+            if (text.match(/politics|election|parliament|government|trudeau|minister|liberal|conservative|ndp/)) {
+                return 'politics';
+            } else if (text.match(/business|economy|stock|market|finance|company|bank|dollar|trade/)) {
+                return 'business';
+            } else if (text.match(/sport|hockey|nhl|basketball|soccer|football|baseball|nba|mlb|raptors|leafs/)) {
+                return 'sports';
+            } else if (text.match(/tech|technology|ai|software|digital|internet|cyber|data|computer/)) {
+                return 'tech';
+            }
+            
+            return 'all';
+        }
+
+        // Filter button functionality
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                currentFilter = this.dataset.category;
+                displayArticles();
+            });
+        });
+
+        // Load articles on page load
+        loadArticles();
+        
+        // Auto-refresh every 10 minutes
+        setInterval(loadArticles, 10 * 60 * 1000);
+    </script>
 </body>
 </html>
