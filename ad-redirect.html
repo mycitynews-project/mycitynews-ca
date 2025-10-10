@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading Article...</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+
+        .logo {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 24px;
+        }
+
+        .ad-container {
+            margin: 30px 0;
+            min-height: 250px;
+            background: #f5f5f5;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .ad-placeholder {
+            padding: 60px 20px;
+            color: #999;
+            font-size: 18px;
+        }
+
+        /* Google AdSense - Replace .ad-placeholder with your ad code */
+        /* Example:
+        .ad-container ins {
+            display: block;
+            min-height: 250px;
+        }
+        */
+
+        .countdown-container {
+            margin: 20px 0;
+        }
+
+        .countdown {
+            font-size: 48px;
+            font-weight: bold;
+            color: #667eea;
+            margin: 20px 0;
+        }
+
+        .redirect-text {
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .skip-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 16px;
+            border-radius: 30px;
+            cursor: pointer;
+            display: none;
+            transition: all 0.3s;
+        }
+
+        .skip-btn:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .skip-btn.visible {
+            display: inline-block;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 4px;
+            background: #e0e0e0;
+            border-radius: 2px;
+            overflow: hidden;
+            margin-top: 20px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: #667eea;
+            width: 0%;
+            transition: width 1s linear;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px 20px;
+            }
+            
+            h1 {
+                font-size: 20px;
+            }
+            
+            .countdown {
+                font-size: 36px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">🍁</div>
+        <h1>Preparing Your Article</h1>
+        
+        <!-- Ad Container -->
+        <div class="ad-container">
+            <!-- ===================================== -->
+            <!-- REPLACE THIS WITH YOUR AD CODE -->
+            <!-- ===================================== -->
+            <!-- For Google AdSense, paste your ad code here -->
+            <!-- Example:
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXX"></script>
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-XXXXXXXX"
+                 data-ad-slot="XXXXXXXXXX"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            -->
+            
+            <div class="ad-placeholder">
+                Advertisement Space<br>
+                <small>Replace with your ad code in ad-redirect.html</small>
+            </div>
+        </div>
+
+        <div class="countdown-container">
+            <div class="countdown" id="countdown">5</div>
+            <p class="redirect-text">Redirecting to article in <span id="countdown-text">5</span> seconds...</p>
+        </div>
+
+        <button class="skip-btn" id="skip-btn">Continue to Article →</button>
+
+        <div class="progress-bar">
+            <div class="progress-fill" id="progress"></div>
+        </div>
+    </div>
+
+    <script>
+        // Get destination URL from query parameter
+        function getUrlParameter(name) {
+            name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+            const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+            const results = regex.exec(location.search);
+            return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+        }
+
+        const destinationUrl = getUrlParameter('url');
+        const articleTitle = getUrlParameter('title');
+        
+        // Validate URL
+        if (!destinationUrl || (!destinationUrl.startsWith('http://') && !destinationUrl.startsWith('https://'))) {
+            document.querySelector('.container').innerHTML = `
+                <div class="logo">⚠️</div>
+                <h1>Invalid Link</h1>
+                <p style="color: #666; margin-top: 20px;">The article link is missing or invalid.</p>
+                <button onclick="window.history.back()" class="skip-btn visible" style="margin-top: 20px;">Go Back</button>
+            `;
+        } else {
+            // Countdown logic
+            let timeLeft = 5;
+            const countdownEl = document.getElementById('countdown');
+            const countdownTextEl = document.getElementById('countdown-text');
+            const skipBtn = document.getElementById('skip-btn');
+            const progressFill = document.getElementById('progress');
+
+            // Start progress bar animation
+            progressFill.style.width = '0%';
+            setTimeout(() => {
+                progressFill.style.width = '100%';
+            }, 100);
+
+            const countdown = setInterval(() => {
+                timeLeft--;
+                countdownEl.textContent = timeLeft;
+                countdownTextEl.textContent = timeLeft;
+
+                // Show skip button after 2 seconds
+                if (timeLeft <= 3) {
+                    skipBtn.classList.add('visible');
+                }
+
+                // Redirect when countdown reaches 0
+                if (timeLeft <= 0) {
+                    clearInterval(countdown);
+                    redirect();
+                }
+            }, 1000);
+
+            // Skip button functionality
+            skipBtn.addEventListener('click', () => {
+                clearInterval(countdown);
+                redirect();
+            });
+
+            function redirect() {
+                // Optional: Track click analytics here
+                // Example with Google Analytics:
+                // gtag('event', 'article_click', { 'article_url': destinationUrl });
+                
+                // Redirect to article
+                window.location.href = destinationUrl;
+            }
+
+            // Prevent accidental back navigation during countdown
+            window.history.pushState(null, '', window.location.href);
+            window.addEventListener('popstate', function() {
+                window.history.pushState(null, '', window.location.href);
+            });
+        }
+    </script>
+</body>
+</html>
