@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MyCityNews.ca - Canadian News Aggregator</title>
-    <meta name="description" content="Latest Canadian news from across the web and social media">
+    <title>MyCityNews.ca - Canadian News</title>
+    <meta name="description" content="Latest Canadian news from across the web">
     <style>
         * {
             margin: 0;
@@ -13,220 +13,438 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #f5f7fa;
-            color: #333;
-            line-height: 1.6;
+            font-family: 'Google Sans', 'Roboto', Arial, sans-serif;
+            background: #fff;
+            color: #202124;
+            line-height: 1.5;
         }
 
+        /* Header */
         header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 40px 20px;
-            text-align: center;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-
-        header h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-
-        .tagline {
-            font-size: 1.1em;
-            opacity: 0.9;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 30px 20px;
-        }
-
-        nav {
-            background: white;
-            padding: 15px 0;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            background: #fff;
+            border-bottom: 1px solid #dadce0;
             position: sticky;
             top: 0;
-            z-index: 100;
-            margin-bottom: 30px;
+            z-index: 1000;
+            box-shadow: 0 1px 2px 0 rgba(60,64,67,0.1);
         }
 
-        nav .container {
+        .header-content {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 12px 24px;
             display: flex;
-            gap: 10px;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .logo-section {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .logo {
+            font-size: 24px;
+        }
+
+        .site-name {
+            font-size: 22px;
+            font-weight: 400;
+            color: #202124;
+        }
+
+        .site-name .ca {
+            color: #1a73e8;
+        }
+
+        .last-updated {
+            font-size: 13px;
+            color: #5f6368;
+        }
+
+        /* Navigation Tabs */
+        nav {
+            background: #fff;
+            border-bottom: 1px solid #dadce0;
             overflow-x: auto;
-            padding: 5px 20px;
+            -webkit-overflow-scrolling: touch;
         }
 
-        .filter-btn {
-            background: #f0f0f0;
+        nav::-webkit-scrollbar {
+            display: none;
+        }
+
+        .nav-tabs {
+            max-width: 1280px;
+            margin: 0 auto;
+            display: flex;
+            gap: 0;
+            padding: 0 24px;
+        }
+
+        .nav-tab {
+            background: none;
             border: none;
-            padding: 10px 20px;
-            border-radius: 20px;
-            cursor: pointer;
+            padding: 16px 24px;
             font-size: 14px;
+            color: #5f6368;
+            cursor: pointer;
             white-space: nowrap;
-            transition: all 0.3s;
+            border-bottom: 3px solid transparent;
+            transition: all 0.2s;
+            font-weight: 500;
         }
 
-        .filter-btn:hover {
-            background: #e0e0e0;
+        .nav-tab:hover {
+            color: #202124;
+            background: #f8f9fa;
         }
 
-        .filter-btn.active {
-            background: #667eea;
-            color: white;
+        .nav-tab.active {
+            color: #1a73e8;
+            border-bottom-color: #1a73e8;
         }
 
-        #articles-container {
+        /* Main Content */
+        main {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 24px;
+        }
+
+        /* Top Stories Section */
+        .top-stories {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 25px;
-            margin: 30px 0;
+            grid-template-columns: 2fr 1fr;
+            gap: 24px;
+            margin-bottom: 32px;
         }
 
-        .article-card {
-            background: white;
-            border-radius: 12px;
+        .featured-article {
+            background: #fff;
+            border-radius: 8px;
             overflow: hidden;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
-            transition: all 0.3s;
+            cursor: pointer;
+            transition: box-shadow 0.2s;
+        }
+
+        .featured-article:hover {
+            box-shadow: 0 1px 6px rgba(32,33,36,0.28);
+        }
+
+        .featured-image {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+            background: #f1f3f4;
+        }
+
+        .featured-content {
+            padding: 16px;
+        }
+
+        .article-source {
+            font-size: 12px;
+            color: #5f6368;
+            font-weight: 500;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .featured-title {
+            font-size: 24px;
+            font-weight: 400;
+            color: #202124;
+            margin-bottom: 8px;
+            line-height: 1.3;
+        }
+
+        .featured-description {
+            font-size: 14px;
+            color: #5f6368;
+            line-height: 1.5;
+            margin-bottom: 12px;
+        }
+
+        .article-meta {
+            font-size: 12px;
+            color: #70757a;
+            display: flex;
+            gap: 8px;
+            align-items: center;
+        }
+
+        /* Side Stories */
+        .side-stories {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .side-article {
+            background: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: box-shadow 0.2s;
             display: flex;
             flex-direction: column;
         }
 
+        .side-article:hover {
+            box-shadow: 0 1px 6px rgba(32,33,36,0.28);
+        }
+
+        .side-image {
+            width: 100%;
+            height: 160px;
+            object-fit: cover;
+            background: #f1f3f4;
+        }
+
+        .side-content {
+            padding: 12px;
+            flex: 1;
+        }
+
+        .side-title {
+            font-size: 16px;
+            font-weight: 400;
+            color: #202124;
+            line-height: 1.4;
+            margin-bottom: 8px;
+        }
+
+        /* Articles Grid */
+        .section-title {
+            font-size: 16px;
+            font-weight: 500;
+            color: #202124;
+            margin-bottom: 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #dadce0;
+        }
+
+        .articles-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 24px;
+            margin-bottom: 32px;
+        }
+
+        .article-card {
+            background: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: box-shadow 0.2s;
+        }
+
         .article-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+            box-shadow: 0 1px 6px rgba(32,33,36,0.28);
         }
 
         .article-image {
             width: 100%;
-            height: 200px;
+            height: 180px;
             object-fit: cover;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #f1f3f4;
         }
 
         .article-content {
-            padding: 20px;
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-        }
-
-        .article-source {
-            color: #667eea;
-            font-size: 12px;
-            font-weight: 600;
-            text-transform: uppercase;
-            margin-bottom: 10px;
+            padding: 12px;
         }
 
         .article-title {
-            font-size: 1.2em;
-            font-weight: 600;
-            margin-bottom: 10px;
-            color: #333;
+            font-size: 16px;
+            font-weight: 400;
+            color: #202124;
             line-height: 1.4;
+            margin-bottom: 8px;
         }
 
         .article-description {
-            color: #666;
-            font-size: 0.95em;
-            margin-bottom: 15px;
-            flex: 1;
-        }
-
-        .article-meta {
-            font-size: 0.85em;
-            color: #999;
-            margin-bottom: 15px;
-        }
-
-        .read-more-btn {
-            background: #667eea;
-            color: white;
-            border: none;
-            padding: 12px 24px;
-            border-radius: 6px;
-            cursor: pointer;
             font-size: 14px;
-            font-weight: 600;
-            transition: all 0.3s;
-            width: 100%;
+            color: #5f6368;
+            line-height: 1.5;
+            margin-bottom: 8px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
         }
 
-        .read-more-btn:hover {
-            background: #764ba2;
-        }
-
-        .loading {
+        /* Loading & Empty States */
+        .loading, .empty-state {
             text-align: center;
-            padding: 60px 20px;
-            color: #999;
-            font-size: 1.1em;
+            padding: 80px 20px;
+            color: #5f6368;
         }
 
-        .error-message {
-            background: #fff3cd;
-            border: 1px solid #ffc107;
-            color: #856404;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px 0;
-            text-align: center;
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f1f3f4;
+            border-top-color: #1a73e8;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 16px;
         }
 
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Footer */
         footer {
-            background: #333;
-            color: white;
-            padding: 30px 20px;
+            background: #f8f9fa;
+            border-top: 1px solid #dadce0;
+            padding: 24px;
             text-align: center;
-            margin-top: 50px;
+            margin-top: 48px;
         }
 
         footer p {
-            margin: 5px 0;
-            opacity: 0.8;
+            font-size: 13px;
+            color: #5f6368;
+            margin: 4px 0;
         }
 
-        @media (max-width: 768px) {
-            header h1 {
-                font-size: 2em;
-            }
-            #articles-container {
+        /* Responsive */
+        @media (max-width: 968px) {
+            .top-stories {
                 grid-template-columns: 1fr;
             }
+
+            .featured-image {
+                height: 250px;
+            }
+
+            .side-stories {
+                flex-direction: row;
+                overflow-x: auto;
+                gap: 12px;
+            }
+
+            .side-article {
+                min-width: 280px;
+            }
+
+            .articles-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .header-content {
+                padding: 12px 16px;
+            }
+
+            .site-name {
+                font-size: 18px;
+            }
+
+            main {
+                padding: 16px;
+            }
+
+            .nav-tabs {
+                padding: 0 16px;
+            }
+
+            .nav-tab {
+                padding: 16px 16px;
+            }
+
+            .featured-title {
+                font-size: 20px;
+            }
+        }
+
+        /* Ad Spaces */
+        .ad-space {
+            background: #f8f9fa;
+            border: 1px solid #dadce0;
+            border-radius: 8px;
+            padding: 16px;
+            text-align: center;
+            margin: 24px 0;
+            min-height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .ad-label {
+            font-size: 11px;
+            color: #70757a;
+            text-transform: uppercase;
+            margin-bottom: 8px;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>🍁 MyCityNews.ca</h1>
-        <p class="tagline">Your Source for Canadian News</p>
+        <div class="header-content">
+            <div class="logo-section">
+                <span class="logo">🍁</span>
+                <h1 class="site-name">MyCityNews<span class="ca">.ca</span></h1>
+            </div>
+            <div class="last-updated" id="last-updated">Loading...</div>
+        </div>
     </header>
 
     <nav>
-        <div class="container">
-            <button class="filter-btn active" data-category="all">All News</button>
-            <button class="filter-btn" data-category="politics">Politics</button>
-            <button class="filter-btn" data-category="business">Business</button>
-            <button class="filter-btn" data-category="sports">Sports</button>
-            <button class="filter-btn" data-category="tech">Technology</button>
+        <div class="nav-tabs">
+            <button class="nav-tab active" data-category="all">For you</button>
+            <button class="nav-tab" data-category="headlines">Headlines</button>
+            <button class="nav-tab" data-category="canada">Canada</button>
+            <button class="nav-tab" data-category="politics">Politics</button>
+            <button class="nav-tab" data-category="business">Business</button>
+            <button class="nav-tab" data-category="sports">Sports</button>
+            <button class="nav-tab" data-category="tech">Technology</button>
         </div>
     </nav>
 
-    <div class="container">
-        <div id="articles-container">
-            <p class="loading">Loading latest Canadian news...</p>
+    <main>
+        <!-- Top Stories Section -->
+        <div id="top-stories" class="top-stories" style="display: none;">
+            <!-- Featured article and side stories will be inserted here -->
         </div>
-    </div>
+
+        <!-- Ad Space -->
+        <div class="ad-space">
+            <div>
+                <div class="ad-label">Advertisement</div>
+                <!-- Insert your ad code here -->
+            </div>
+        </div>
+
+        <!-- More Articles -->
+        <div class="section-title">More headlines</div>
+        <div id="articles-grid" class="articles-grid">
+            <div class="loading">
+                <div class="loading-spinner"></div>
+                <p>Loading Canadian news...</p>
+            </div>
+        </div>
+
+        <!-- Ad Space -->
+        <div class="ad-space">
+            <div>
+                <div class="ad-label">Advertisement</div>
+                <!-- Insert your ad code here -->
+            </div>
+        </div>
+    </main>
 
     <footer>
-        <p>&copy; 2025 MyCityNews.ca | All news articles belong to their respective sources</p>
-        <p>Last updated: <span id="last-updated">Checking...</span></p>
+        <p>&copy; 2025 MyCityNews.ca</p>
+        <p>All news articles belong to their respective sources</p>
     </footer>
 
     <script>
@@ -234,105 +452,138 @@
         let currentFilter = 'all';
 
         async function loadArticles() {
-            const container = document.getElementById('articles-container');
-            
             try {
-                console.log('Fetching articles.json...');
+                console.log('Fetching articles...');
                 const response = await fetch('articles.json?t=' + new Date().getTime());
                 
-                console.log('Response status:', response.status);
-                
                 if (!response.ok) {
-                    throw new Error('Failed to load articles: ' + response.status);
+                    throw new Error('Failed to load articles');
                 }
                 
                 const data = await response.json();
-                console.log('Articles data:', data);
+                console.log('Loaded articles:', data.total_articles);
                 
                 allArticles = data.articles || [];
                 
                 if (allArticles.length === 0) {
-                    container.innerHTML = `
-                        <div class="error-message">
-                            <h3>⚠️ No articles available yet</h3>
-                            <p>The news aggregator is still fetching articles. Please wait a few minutes and refresh the page.</p>
-                            <p><small>Articles are fetched automatically every 2 hours.</small></p>
-                        </div>
-                    `;
+                    showEmptyState();
                     return;
                 }
                 
                 // Update last updated time
                 const lastUpdated = new Date(data.last_updated);
-                document.getElementById('last-updated').textContent = lastUpdated.toLocaleString();
+                const now = new Date();
+                const diffMinutes = Math.floor((now - lastUpdated) / 60000);
+                
+                let timeText;
+                if (diffMinutes < 1) {
+                    timeText = 'Just now';
+                } else if (diffMinutes < 60) {
+                    timeText = `${diffMinutes} minutes ago`;
+                } else if (diffMinutes < 1440) {
+                    const hours = Math.floor(diffMinutes / 60);
+                    timeText = `${hours} hour${hours > 1 ? 's' : ''} ago`;
+                } else {
+                    timeText = lastUpdated.toLocaleDateString();
+                }
+                
+                document.getElementById('last-updated').textContent = `Updated ${timeText}`;
                 
                 // Display articles
                 displayArticles();
                 
             } catch (error) {
-                console.error('Error loading articles:', error);
-                container.innerHTML = `
-                    <div class="error-message">
-                        <h3>⚠️ Unable to load articles</h3>
-                        <p>Error: ${error.message}</p>
-                        <p>Please refresh the page or try again later.</p>
-                    </div>
-                `;
+                console.error('Error:', error);
+                showError(error.message);
             }
         }
 
         function displayArticles() {
-            const container = document.getElementById('articles-container');
-            container.innerHTML = '';
-            
             // Filter articles
             let filteredArticles = allArticles;
             if (currentFilter !== 'all') {
-                filteredArticles = allArticles.filter(article => 
-                    categorizeArticle(article) === currentFilter
-                );
+                filteredArticles = allArticles.filter(article => {
+                    const category = categorizeArticle(article);
+                    return category === currentFilter || currentFilter === 'headlines';
+                });
             }
             
             if (filteredArticles.length === 0) {
-                container.innerHTML = '<p class="loading">No articles in this category.</p>';
+                showEmptyState();
                 return;
             }
             
-            // Display up to 24 articles
-            filteredArticles.slice(0, 24).forEach(article => {
-                const card = createArticleCard(article);
-                container.appendChild(card);
-            });
+            // Show top stories section
+            displayTopStories(filteredArticles.slice(0, 4));
+            
+            // Show remaining articles
+            displayArticlesGrid(filteredArticles.slice(4, 28));
         }
 
-        function createArticleCard(article) {
-            const card = document.createElement('div');
-            card.className = 'article-card';
+        function displayTopStories(articles) {
+            const topStoriesEl = document.getElementById('top-stories');
             
-            const imageUrl = article.image || '';
-            const title = article.title || 'Untitled';
-            const description = (article.description || '').substring(0, 150);
-            const fullDescription = description + (description.length >= 150 ? '...' : '');
-            const source = article.source || 'Unknown Source';
-            const publishedDate = article.published ? new Date(article.published).toLocaleDateString() : 'Recently';
+            if (articles.length === 0) {
+                topStoriesEl.style.display = 'none';
+                return;
+            }
             
-            // Create redirect URL with ad interstitial
-            const redirectUrl = `ad-redirect.html?url=${encodeURIComponent(article.url)}&title=${encodeURIComponent(title)}`;
+            topStoriesEl.style.display = 'grid';
             
-            card.innerHTML = `
-                ${imageUrl ? `<img src="${imageUrl}" alt="${title}" class="article-image" onerror="this.style.display='none'">` : '<div class="article-image"></div>'}
-                <div class="article-content">
-                    <div class="article-source">${source}</div>
-                    <h2 class="article-title">${title}</h2>
-                    <p class="article-description">${fullDescription}</p>
-                    <div class="article-meta">📅 ${publishedDate}</div>
-                    <button class="read-more-btn" onclick="window.location.href='${redirectUrl}'">
-                        Read More →
-                    </button>
+            const featured = articles[0];
+            const sideStories = articles.slice(1, 4);
+            
+            topStoriesEl.innerHTML = `
+                <div class="featured-article" onclick="redirectToArticle('${encodeURIComponent(featured.url)}', '${encodeURIComponent(featured.title)}')">
+                    ${featured.image ? `<img src="${featured.image}" class="featured-image" onerror="this.style.display='none'">` : '<div class="featured-image"></div>'}
+                    <div class="featured-content">
+                        <div class="article-source">${featured.source}</div>
+                        <h2 class="featured-title">${featured.title}</h2>
+                        ${featured.description ? `<p class="featured-description">${featured.description.substring(0, 150)}...</p>` : ''}
+                        <div class="article-meta">
+                            <span>${formatDate(featured.published)}</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="side-stories">
+                    ${sideStories.map(article => `
+                        <div class="side-article" onclick="redirectToArticle('${encodeURIComponent(article.url)}', '${encodeURIComponent(article.title)}')">
+                            ${article.image ? `<img src="${article.image}" class="side-image" onerror="this.style.display='none'">` : '<div class="side-image"></div>'}
+                            <div class="side-content">
+                                <div class="article-source">${article.source}</div>
+                                <h3 class="side-title">${article.title}</h3>
+                                <div class="article-meta">${formatDate(article.published)}</div>
+                            </div>
+                        </div>
+                    `).join('')}
                 </div>
             `;
+        }
+
+        function displayArticlesGrid(articles) {
+            const gridEl = document.getElementById('articles-grid');
             
-            return card;
+            if (articles.length === 0) {
+                gridEl.innerHTML = '<div class="empty-state">No more articles to show</div>';
+                return;
+            }
+            
+            gridEl.innerHTML = articles.map(article => `
+                <div class="article-card" onclick="redirectToArticle('${encodeURIComponent(article.url)}', '${encodeURIComponent(article.title)}')">
+                    ${article.image ? `<img src="${article.image}" class="article-image" onerror="this.style.display='none'">` : '<div class="article-image"></div>'}
+                    <div class="article-content">
+                        <div class="article-source">${article.source}</div>
+                        <h3 class="article-title">${article.title}</h3>
+                        ${article.description ? `<p class="article-description">${article.description}</p>` : ''}
+                        <div class="article-meta">${formatDate(article.published)}</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function redirectToArticle(url, title) {
+            const redirectUrl = `ad-redirect.html?url=${url}&title=${title}`;
+            window.location.href = redirectUrl;
         }
 
         function categorizeArticle(article) {
@@ -346,22 +597,63 @@
                 return 'sports';
             } else if (text.match(/tech|technology|ai|software|digital|internet|cyber|data|computer/)) {
                 return 'tech';
+            } else if (text.match(/canada|canadian|toronto|vancouver|montreal|ottawa|ontario|quebec|alberta|bc/)) {
+                return 'canada';
             }
             
-            return 'all';
+            return 'headlines';
         }
 
-        // Filter button functionality
-        document.querySelectorAll('.filter-btn').forEach(btn => {
+        function formatDate(dateString) {
+            if (!dateString) return 'Recently';
+            
+            const date = new Date(dateString);
+            const now = new Date();
+            const diffMs = now - date;
+            const diffMins = Math.floor(diffMs / 60000);
+            const diffHours = Math.floor(diffMs / 3600000);
+            const diffDays = Math.floor(diffMs / 86400000);
+            
+            if (diffMins < 1) return 'Just now';
+            if (diffMins < 60) return `${diffMins}m ago`;
+            if (diffHours < 24) return `${diffHours}h ago`;
+            if (diffDays < 7) return `${diffDays}d ago`;
+            
+            return date.toLocaleDateString();
+        }
+
+        function showEmptyState() {
+            document.getElementById('top-stories').style.display = 'none';
+            document.getElementById('articles-grid').innerHTML = `
+                <div class="empty-state">
+                    <p>No articles available yet</p>
+                    <p style="font-size: 13px; margin-top: 8px;">News will appear here once the aggregator fetches content</p>
+                </div>
+            `;
+        }
+
+        function showError(message) {
+            document.getElementById('top-stories').style.display = 'none';
+            document.getElementById('articles-grid').innerHTML = `
+                <div class="empty-state">
+                    <p>Unable to load articles</p>
+                    <p style="font-size: 13px; margin-top: 8px;">${message}</p>
+                </div>
+            `;
+        }
+
+        // Navigation
+        document.querySelectorAll('.nav-tab').forEach(btn => {
             btn.addEventListener('click', function() {
-                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                document.querySelectorAll('.nav-tab').forEach(b => b.classList.remove('active'));
                 this.classList.add('active');
                 currentFilter = this.dataset.category;
                 displayArticles();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
             });
         });
 
-        // Load articles on page load
+        // Load articles
         loadArticles();
         
         // Auto-refresh every 10 minutes
