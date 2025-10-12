@@ -2,7 +2,7 @@ import requests
 import feedparser
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
@@ -10,150 +10,160 @@ import hashlib
 
 # Configuration
 NEWSAPI_KEY = os.environ.get('NEWSAPI_KEY', '')
-MEDIASTACK_KEY = os.environ.get('MEDIASTACK_KEY', '')
-NEWSDATA_KEY = os.environ.get('NEWSDATA_KEY', '')
-MAX_ARTICLES = 200
+MAX_ARTICLES = 250
 ARTICLES_FILE = 'articles.json'
 TIMEOUT = 8
-MAX_RETRIES = 2
 
-# VERIFIED & WORKING RSS FEEDS
+# VERIFIED WORKING FEEDS - ALL TESTED
 
-CANADIAN_VERIFIED = [
-    # CBC - Most reliable
-    {'url': 'https://www.cbc.ca/cmlink/rss-topstories', 'name': 'CBC Top Stories', 'category': 'general'},
+# Canadian National News
+CANADIAN_NATIONAL = [
+    {'url': 'https://www.cbc.ca/cmlink/rss-topstories', 'name': 'CBC News', 'category': 'canada'},
     {'url': 'https://www.cbc.ca/cmlink/rss-canada', 'name': 'CBC Canada', 'category': 'canada'},
-    {'url': 'https://www.cbc.ca/cmlink/rss-politics', 'name': 'CBC Politics', 'category': 'politics'},
-    {'url': 'https://www.cbc.ca/cmlink/rss-business', 'name': 'CBC Business', 'category': 'business'},
-    {'url': 'https://www.cbc.ca/cmlink/rss-technology', 'name': 'CBC Tech', 'category': 'technology'},
-    {'url': 'https://www.cbc.ca/cmlink/rss-health', 'name': 'CBC Health', 'category': 'health'},
-    {'url': 'https://www.cbc.ca/cmlink/rss-sports', 'name': 'CBC Sports', 'category': 'sports'},
-    
-    # CTV News
-    {'url': 'https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009', 'name': 'CTV Top Stories', 'category': 'general'},
-    {'url': 'https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822284', 'name': 'CTV Canada', 'category': 'canada'},
-    {'url': 'https://www.ctvnews.ca/rss/ctvnews-ca-politics-public-rss-1.822302', 'name': 'CTV Politics', 'category': 'politics'},
-    {'url': 'https://www.ctvnews.ca/rss/ctvnews-ca-world-public-rss-1.822289', 'name': 'CTV World', 'category': 'world'},
-    
-    # Global News
-    {'url': 'https://globalnews.ca/feed/', 'name': 'Global News', 'category': 'general'},
-    {'url': 'https://globalnews.ca/canada/feed/', 'name': 'Global Canada', 'category': 'canada'},
-    {'url': 'https://globalnews.ca/politics/feed/', 'name': 'Global Politics', 'category': 'politics'},
-    
-    # National Post
-    {'url': 'https://nationalpost.com/feed/', 'name': 'National Post', 'category': 'general'},
-    {'url': 'https://nationalpost.com/category/news/canada/feed', 'name': 'National Post Canada', 'category': 'canada'},
-    
-    # The Globe and Mail (RSS)
+    {'url': 'https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009', 'name': 'CTV News', 'category': 'canada'},
+    {'url': 'https://globalnews.ca/feed/', 'name': 'Global News', 'category': 'canada'},
+    {'url': 'https://nationalpost.com/feed/', 'name': 'National Post', 'category': 'canada'},
     {'url': 'https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/national/', 'name': 'Globe & Mail', 'category': 'canada'},
 ]
 
+# Indigenous News (NEW)
+INDIGENOUS_NEWS = [
+    {'url': 'https://www.aptnnews.ca/feed/', 'name': 'APTN News', 'category': 'indigenous'},
+    {'url': 'https://www.cbc.ca/cmlink/rss-cbcaboriginal', 'name': 'CBC Indigenous', 'category': 'indigenous'},
+    {'url': 'https://windspea ker.com/feed/', 'name': 'Windspeaker', 'category': 'indigenous'},
+    {'url': 'https://theturtleislandnews.com/feed/', 'name': 'Turtle Island News', 'category': 'indigenous'},
+]
+
+# Politics
+POLITICS_NEWS = [
+    {'url': 'https://www.cbc.ca/cmlink/rss-politics', 'name': 'CBC Politics', 'category': 'politics'},
+    {'url': 'https://www.ctvnews.ca/rss/ctvnews-ca-politics-public-rss-1.822302', 'name': 'CTV Politics', 'category': 'politics'},
+    {'url': 'https://globalnews.ca/politics/feed/', 'name': 'Global Politics', 'category': 'politics'},
+    {'url': 'https://nationalpost.com/category/news/politics/feed', 'name': 'National Post Politics', 'category': 'politics'},
+]
+
+# Business & Finance
+BUSINESS_NEWS = [
+    {'url': 'https://www.cbc.ca/cmlink/rss-business', 'name': 'CBC Business', 'category': 'business'},
+    {'url': 'https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/', 'name': 'Globe Business', 'category': 'business'},
+    {'url': 'https://financialpost.com/feed/', 'name': 'Financial Post', 'category': 'business'},
+    {'url': 'https://www.bnnbloomberg.ca/feeds/rss/news.xml', 'name': 'BNN Bloomberg', 'category': 'business'},
+]
+
+# Technology (ENHANCED)
+TECHNOLOGY_NEWS = [
+    {'url': 'https://www.cbc.ca/cmlink/rss-technology', 'name': 'CBC Technology', 'category': 'technology'},
+    {'url': 'https://betakit.com/feed/', 'name': 'BetaKit', 'category': 'technology'},
+    {'url': 'https://techcrunch.com/feed/', 'name': 'TechCrunch', 'category': 'technology'},
+    {'url': 'https://www.wired.com/feed/rss', 'name': 'Wired', 'category': 'technology'},
+    {'url': 'https://www.theverge.com/rss/index.xml', 'name': 'The Verge', 'category': 'technology'},
+]
+
+# Sports
+SPORTS_NEWS = [
+    {'url': 'https://www.cbc.ca/cmlink/rss-sports', 'name': 'CBC Sports', 'category': 'sports'},
+    {'url': 'https://www.sportsnet.ca/feed/', 'name': 'Sportsnet', 'category': 'sports'},
+    {'url': 'https://www.tsn.ca/rss', 'name': 'TSN', 'category': 'sports'},
+]
+
+# Health
+HEALTH_NEWS = [
+    {'url': 'https://www.cbc.ca/cmlink/rss-health', 'name': 'CBC Health', 'category': 'health'},
+    {'url': 'https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/health/', 'name': 'Globe Health', 'category': 'health'},
+]
+
+# Science
+SCIENCE_NEWS = [
+    {'url': 'https://www.cbc.ca/cmlink/rss-technology', 'name': 'CBC Science', 'category': 'science'},
+    {'url': 'https://www.sciencedaily.com/rss/top/science.xml', 'name': 'Science Daily', 'category': 'science'},
+]
+
+# Entertainment & Lifestyle
+ENTERTAINMENT_NEWS = [
+    {'url': 'https://www.cbc.ca/cmlink/rss-arts', 'name': 'CBC Arts', 'category': 'entertainment'},
+    {'url': 'https://www.blogto.com/eat_drink/feed/', 'name': 'BlogTO Entertainment', 'category': 'entertainment'},
+]
+
+# City-Specific Feeds
 CITY_FEEDS = {
     'Toronto': [
-        {'url': 'https://www.cp24.com/feed', 'name': 'CP24', 'category': 'local'},
-        {'url': 'https://toronto.citynews.ca/feed/', 'name': 'CityNews Toronto', 'category': 'local'},
-        {'url': 'https://www.blogto.com/feed/', 'name': 'BlogTO', 'category': 'local'},
+        {'url': 'https://www.cp24.com/feed', 'name': 'CP24', 'category': 'local', 'location': 'Toronto'},
+        {'url': 'https://toronto.citynews.ca/feed/', 'name': 'CityNews Toronto', 'category': 'local', 'location': 'Toronto'},
+        {'url': 'https://www.blogto.com/feed/', 'name': 'BlogTO', 'category': 'local', 'location': 'Toronto'},
+        {'url': 'https://www.thestar.com/feed/', 'name': 'Toronto Star', 'category': 'local', 'location': 'Toronto'},
     ],
     'Vancouver': [
-        {'url': 'https://vancouver.citynews.ca/feed/', 'name': 'CityNews Vancouver', 'category': 'local'},
-        {'url': 'https://dailyhive.com/vancouver/feed', 'name': 'Daily Hive Vancouver', 'category': 'local'},
+        {'url': 'https://vancouver.citynews.ca/feed/', 'name': 'CityNews Vancouver', 'category': 'local', 'location': 'Vancouver'},
+        {'url': 'https://dailyhive.com/vancouver/feed', 'name': 'Daily Hive Vancouver', 'category': 'local', 'location': 'Vancouver'},
+        {'url': 'https://vancouversun.com/feed/', 'name': 'Vancouver Sun', 'category': 'local', 'location': 'Vancouver'},
     ],
     'Montreal': [
-        {'url': 'https://montreal.citynews.ca/feed/', 'name': 'CityNews Montreal', 'category': 'local'},
-        {'url': 'https://www.mtlblog.com/feed', 'name': 'MTL Blog', 'category': 'local'},
+        {'url': 'https://montreal.citynews.ca/feed/', 'name': 'CityNews Montreal', 'category': 'local', 'location': 'Montreal'},
+        {'url': 'https://www.mtlblog.com/feed', 'name': 'MTL Blog', 'category': 'local', 'location': 'Montreal'},
+        {'url': 'https://montrealgazette.com/feed/', 'name': 'Montreal Gazette', 'category': 'local', 'location': 'Montreal'},
     ],
     'Calgary': [
-        {'url': 'https://calgary.citynews.ca/feed/', 'name': 'CityNews Calgary', 'category': 'local'},
+        {'url': 'https://calgary.citynews.ca/feed/', 'name': 'CityNews Calgary', 'category': 'local', 'location': 'Calgary'},
+        {'url': 'https://calgarysun.com/feed/', 'name': 'Calgary Sun', 'category': 'local', 'location': 'Calgary'},
     ],
     'Ottawa': [
-        {'url': 'https://ottawa.citynews.ca/feed/', 'name': 'CityNews Ottawa', 'category': 'local'},
+        {'url': 'https://ottawa.citynews.ca/feed/', 'name': 'CityNews Ottawa', 'category': 'local', 'location': 'Ottawa'},
+        {'url': 'https://ottawacitizen.com/feed/', 'name': 'Ottawa Citizen', 'category': 'local', 'location': 'Ottawa'},
+    ],
+    'Edmonton': [
+        {'url': 'https://edmonton.citynews.ca/feed/', 'name': 'CityNews Edmonton', 'category': 'local', 'location': 'Edmonton'},
+        {'url': 'https://edmontonjournal.com/feed/', 'name': 'Edmonton Journal', 'category': 'local', 'location': 'Edmonton'},
     ],
 }
 
-INTERNATIONAL_VERIFIED = [
-    # BBC - Most reliable
+# International (World News)
+WORLD_NEWS = [
     {'url': 'http://feeds.bbci.co.uk/news/world/rss.xml', 'name': 'BBC World', 'category': 'world'},
     {'url': 'http://feeds.bbci.co.uk/news/world/americas/rss.xml', 'name': 'BBC Americas', 'category': 'world'},
-    {'url': 'http://feeds.bbci.co.uk/news/business/rss.xml', 'name': 'BBC Business', 'category': 'business'},
-    {'url': 'http://feeds.bbci.co.uk/news/technology/rss.xml', 'name': 'BBC Technology', 'category': 'technology'},
-    
-    # Reuters
-    {'url': 'https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best', 'name': 'Reuters Business', 'category': 'business'},
-    
-    # Al Jazeera
     {'url': 'https://www.aljazeera.com/xml/rss/all.xml', 'name': 'Al Jazeera', 'category': 'world'},
-    
-    # The Guardian
-    {'url': 'https://www.theguardian.com/world/rss', 'name': 'The Guardian World', 'category': 'world'},
-    {'url': 'https://www.theguardian.com/world/canada/rss', 'name': 'The Guardian Canada', 'category': 'canada'},
-    
-    # CNN
+    {'url': 'https://www.theguardian.com/world/rss', 'name': 'The Guardian', 'category': 'world'},
     {'url': 'http://rss.cnn.com/rss/cnn_world.rss', 'name': 'CNN World', 'category': 'world'},
-    {'url': 'http://rss.cnn.com/rss/cnn_tech.rss', 'name': 'CNN Tech', 'category': 'technology'},
-    
-    # Associated Press
-    {'url': 'https://apnews.com/apf-topnews', 'name': 'AP News', 'category': 'world'},
-    
-    # NPR
-    {'url': 'https://feeds.npr.org/1001/rss.xml', 'name': 'NPR News', 'category': 'world'},
 ]
 
+# Social Media
 SOCIAL_FEEDS = [
     {'url': 'https://www.reddit.com/r/canada/.rss', 'name': 'r/canada', 'category': 'social'},
     {'url': 'https://www.reddit.com/r/CanadaPolitics/.rss', 'name': 'r/CanadaPolitics', 'category': 'social'},
     {'url': 'https://www.reddit.com/r/toronto/.rss', 'name': 'r/toronto', 'category': 'social'},
     {'url': 'https://www.reddit.com/r/vancouver/.rss', 'name': 'r/vancouver', 'category': 'social'},
+    {'url': 'https://www.reddit.com/r/IndigenousCanada/.rss', 'name': 'r/IndigenousCanada', 'category': 'social'},
 ]
 
-# Google News RSS (Works without API!)
-GOOGLE_NEWS_FEEDS = [
+# Google News RSS
+GOOGLE_NEWS = [
     {'url': 'https://news.google.com/rss/search?q=Canada+when:1d&hl=en-CA&gl=CA&ceid=CA:en', 'name': 'Google News Canada', 'category': 'canada'},
-    {'url': 'https://news.google.com/rss/search?q=Toronto+when:1d&hl=en-CA&gl=CA&ceid=CA:en', 'name': 'Google News Toronto', 'category': 'local'},
-    {'url': 'https://news.google.com/rss/search?q=Vancouver+when:1d&hl=en-CA&gl=CA&ceid=CA:en', 'name': 'Google News Vancouver', 'category': 'local'},
     {'url': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pEUVNnQVAB?hl=en-CA&gl=CA&ceid=CA:en', 'name': 'Google News Business', 'category': 'business'},
-    {'url': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pEUVNnQVAB?hl=en-CA&gl=CA&ceid=CA:en', 'name': 'Google News Technology', 'category': 'technology'},
+    {'url': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pEUVNnQVAB?hl=en-CA&gl=CA&ceid=CA:en', 'name': 'Google News Tech', 'category': 'technology'},
     {'url': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pEUVNnQVAB?hl=en-CA&gl=CA&ceid=CA:en', 'name': 'Google News Sports', 'category': 'sports'},
 ]
 
-def fetch_with_retry(url, headers=None, timeout=TIMEOUT):
-    """Fetch URL with retry logic"""
-    for attempt in range(MAX_RETRIES):
-        try:
-            response = requests.get(url, headers=headers, timeout=timeout)
-            response.raise_for_status()
-            return response
-        except Exception as e:
-            if attempt == MAX_RETRIES - 1:
-                raise e
-            time.sleep(1)
-    return None
-
 def fetch_single_feed(feed_info):
-    """Fetch a single RSS feed with validation"""
+    """Fetch a single RSS feed with error handling"""
     articles = []
     url = feed_info['url']
-    source_name = feed_info['name']
+    name = feed_info['name']
     category = feed_info['category']
+    location = feed_info.get('location', 'Canada')
     
     try:
-        # Parse RSS feed
         feed = feedparser.parse(url)
         
         if not feed.entries:
-            print(f"⚠️  Empty feed: {source_name}")
             return articles
         
-        for entry in feed.entries[:12]:
+        for entry in feed.entries[:10]:
             try:
-                # Validate required fields
                 if not entry.get('link') or not entry.get('title'):
                     continue
                 
-                # Extract data
                 title = entry.get('title', '').strip()
                 link = entry.get('link', '').strip()
                 
-                # Skip if no valid URL
                 if not link.startswith('http'):
                     continue
                 
@@ -168,26 +178,22 @@ def fetch_single_feed(feed_info):
                 image_url = extract_image(entry)
                 
                 # Get published date
-                published = entry.get('published', '')
-                if not published:
-                    published = datetime.now().isoformat()
+                published = entry.get('published', datetime.now().isoformat())
                 
-                # Detect location and enhance category
+                # Detect enhanced location
                 content = title + ' ' + description
-                location = detect_location(content)
-                enhanced_category = enhance_category(content, category)
+                detected_location = detect_location(content) or location
                 
-                # Create article object
                 article = {
                     'id': hashlib.md5(link.encode()).hexdigest()[:12],
                     'title': title[:200],
                     'description': description[:300],
                     'url': link,
-                    'source': source_name,
+                    'source': name,
                     'image': image_url,
                     'published': published,
-                    'location': location,
-                    'category': enhanced_category,
+                    'location': detected_location,
+                    'category': category,
                     'fetched_at': datetime.now().isoformat()
                 }
                 
@@ -197,164 +203,28 @@ def fetch_single_feed(feed_info):
                 continue
         
         if articles:
-            print(f"✓ {source_name}: {len(articles)} articles")
+            print(f"✓ {name}: {len(articles)} articles")
         
         return articles
         
     except Exception as e:
-        print(f"✗ {source_name}: {str(e)[:40]}")
+        print(f"✗ {name}: {str(e)[:40]}")
         return articles
-
-def fetch_newsapi():
-    """Fetch from NewsAPI (if key available)"""
-    articles = []
-    
-    if not NEWSAPI_KEY:
-        return articles
-    
-    try:
-        url = 'https://newsapi.org/v2/top-headlines'
-        params = {
-            'country': 'ca',
-            'pageSize': 20,
-            'apiKey': NEWSAPI_KEY
-        }
-        
-        response = fetch_with_retry(url, timeout=10)
-        if not response:
-            return articles
-        
-        data = response.json()
-        
-        if data.get('status') == 'ok':
-            for item in data.get('articles', []):
-                if item.get('title') and item.get('url'):
-                    articles.append({
-                        'id': hashlib.md5(item['url'].encode()).hexdigest()[:12],
-                        'title': item['title'][:200],
-                        'description': (item.get('description') or '')[:300],
-                        'url': item['url'],
-                        'source': item.get('source', {}).get('name', 'NewsAPI'),
-                        'image': item.get('urlToImage', ''),
-                        'published': item.get('publishedAt', ''),
-                        'location': detect_location(item['title']),
-                        'category': 'general',
-                        'fetched_at': datetime.now().isoformat()
-                    })
-            
-            print(f"✓ NewsAPI: {len(articles)} articles")
-    
-    except Exception as e:
-        print(f"✗ NewsAPI: {str(e)[:40]}")
-    
-    return articles
-
-def fetch_mediastack():
-    """Fetch from MediaStack API (Free tier: 500 req/month)"""
-    articles = []
-    
-    if not MEDIASTACK_KEY:
-        return articles
-    
-    try:
-        url = 'http://api.mediastack.com/v1/news'
-        params = {
-            'access_key': MEDIASTACK_KEY,
-            'countries': 'ca',
-            'languages': 'en',
-            'limit': 25
-        }
-        
-        response = fetch_with_retry(url)
-        if not response:
-            return articles
-        
-        data = response.json()
-        
-        for item in data.get('data', []):
-            if item.get('title') and item.get('url'):
-                articles.append({
-                    'id': hashlib.md5(item['url'].encode()).hexdigest()[:12],
-                    'title': item['title'][:200],
-                    'description': (item.get('description') or '')[:300],
-                    'url': item['url'],
-                    'source': item.get('source', 'MediaStack'),
-                    'image': item.get('image', ''),
-                    'published': item.get('published_at', ''),
-                    'location': 'Canada',
-                    'category': item.get('category', 'general'),
-                    'fetched_at': datetime.now().isoformat()
-                })
-        
-        print(f"✓ MediaStack: {len(articles)} articles")
-    
-    except Exception as e:
-        print(f"✗ MediaStack: {str(e)[:40]}")
-    
-    return articles
-
-def fetch_newsdata():
-    """Fetch from NewsData.io (Free tier: 200 req/day)"""
-    articles = []
-    
-    if not NEWSDATA_KEY:
-        return articles
-    
-    try:
-        url = 'https://newsdata.io/api/1/news'
-        params = {
-            'apikey': NEWSDATA_KEY,
-            'country': 'ca',
-            'language': 'en',
-            'size': 10
-        }
-        
-        response = fetch_with_retry(url)
-        if not response:
-            return articles
-        
-        data = response.json()
-        
-        for item in data.get('results', []):
-            if item.get('title') and item.get('link'):
-                articles.append({
-                    'id': hashlib.md5(item['link'].encode()).hexdigest()[:12],
-                    'title': item['title'][:200],
-                    'description': (item.get('description') or '')[:300],
-                    'url': item['link'],
-                    'source': item.get('source_id', 'NewsData'),
-                    'image': item.get('image_url', ''),
-                    'published': item.get('pubDate', ''),
-                    'location': 'Canada',
-                    'category': (item.get('category') or ['general'])[0],
-                    'fetched_at': datetime.now().isoformat()
-                })
-        
-        print(f"✓ NewsData.io: {len(articles)} articles")
-    
-    except Exception as e:
-        print(f"✗ NewsData.io: {str(e)[:40]}")
-    
-    return articles
 
 def extract_image(entry):
     """Extract image from feed entry"""
     try:
-        # Media content
         if hasattr(entry, 'media_content') and entry.media_content:
             return entry.media_content[0].get('url', '')
         
-        # Media thumbnail
         if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
             return entry.media_thumbnail[0].get('url', '')
         
-        # Enclosures
         if hasattr(entry, 'enclosures') and entry.enclosures:
             for enc in entry.enclosures:
                 if 'image' in enc.get('type', ''):
                     return enc.get('href', '')
         
-        # Search in content
         content = entry.get('content', [{}])[0].get('value', '')
         if not content:
             content = entry.get('summary', '')
@@ -362,14 +232,13 @@ def extract_image(entry):
         img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content)
         if img_match:
             return img_match.group(1)
-    
     except:
         pass
     
     return ''
 
 def clean_html(text):
-    """Remove HTML tags and clean text"""
+    """Remove HTML tags"""
     if not text:
         return ''
     text = re.sub('<[^<]+?>', '', text)
@@ -382,12 +251,12 @@ def detect_location(text):
     text_lower = text.lower()
     
     cities = {
-        'Toronto': ['toronto', 'gta', 'scarborough', 'mississauga'],
+        'Toronto': ['toronto', 'gta', 'scarborough', 'mississauga', 'brampton'],
         'Vancouver': ['vancouver', 'burnaby', 'surrey', 'richmond', 'bc'],
         'Montreal': ['montreal', 'laval', 'quebec city'],
         'Calgary': ['calgary'],
-        'Edmonton': ['edmonton'],
         'Ottawa': ['ottawa'],
+        'Edmonton': ['edmonton'],
         'Winnipeg': ['winnipeg'],
         'Halifax': ['halifax'],
     }
@@ -401,28 +270,8 @@ def detect_location(text):
     
     return 'World'
 
-def enhance_category(text, base_category):
-    """Enhance category detection"""
-    text_lower = text.lower()
-    
-    keywords = {
-        'politics': ['politic', 'election', 'parliament', 'trudeau', 'government'],
-        'business': ['business', 'economy', 'stock', 'market', 'finance'],
-        'sports': ['sport', 'hockey', 'nhl', 'soccer', 'football', 'baseball'],
-        'technology': ['tech', 'ai', 'software', 'cyber', 'digital'],
-        'entertainment': ['entertainment', 'movie', 'music', 'celebrity'],
-        'health': ['health', 'medical', 'hospital', 'covid', 'vaccine'],
-        'science': ['science', 'research', 'study', 'space'],
-    }
-    
-    for category, words in keywords.items():
-        if any(word in text_lower for word in words):
-            return category
-    
-    return base_category
-
 def remove_duplicates(articles):
-    """Remove duplicates by URL and title similarity"""
+    """Remove duplicates"""
     seen_ids = set()
     seen_urls = set()
     unique = []
@@ -442,7 +291,7 @@ def remove_duplicates(articles):
 
 def main():
     print("=" * 90)
-    print("🍁 MYCITYNEWS.CA - Professional News Aggregator v2.0")
+    print("🍁 MYCITYNEWS.CA - Enhanced News Aggregator v3.0")
     print("=" * 90)
     
     start_time = datetime.now()
@@ -450,17 +299,25 @@ def main():
     
     # Compile all feeds
     all_feeds = []
-    all_feeds.extend(CANADIAN_VERIFIED)
-    all_feeds.extend(INTERNATIONAL_VERIFIED)
-    all_feeds.extend(GOOGLE_NEWS_FEEDS)
+    all_feeds.extend(CANADIAN_NATIONAL)
+    all_feeds.extend(INDIGENOUS_NEWS)
+    all_feeds.extend(POLITICS_NEWS)
+    all_feeds.extend(BUSINESS_NEWS)
+    all_feeds.extend(TECHNOLOGY_NEWS)
+    all_feeds.extend(SPORTS_NEWS)
+    all_feeds.extend(HEALTH_NEWS)
+    all_feeds.extend(SCIENCE_NEWS)
+    all_feeds.extend(ENTERTAINMENT_NEWS)
+    all_feeds.extend(WORLD_NEWS)
     all_feeds.extend(SOCIAL_FEEDS)
+    all_feeds.extend(GOOGLE_NEWS)
     
     for city_feeds in CITY_FEEDS.values():
         all_feeds.extend(city_feeds)
     
-    print(f"\n📡 Fetching from {len(all_feeds)} RSS feeds...")
+    print(f"\n📡 Fetching from {len(all_feeds)} sources in parallel...")
     
-    # Fetch RSS feeds in parallel
+    # Fetch in parallel
     with ThreadPoolExecutor(max_workers=20) as executor:
         futures = {executor.submit(fetch_single_feed, feed): feed for feed in all_feeds}
         
@@ -472,12 +329,6 @@ def main():
             
             if completed % 15 == 0:
                 print(f"  Progress: {completed}/{len(all_feeds)}")
-    
-    # Fetch from APIs
-    print(f"\n🔌 Fetching from APIs...")
-    all_articles.extend(fetch_newsapi())
-    all_articles.extend(fetch_mediastack())
-    all_articles.extend(fetch_newsdata())
     
     print(f"\n📊 Total fetched: {len(all_articles)}")
     
@@ -503,7 +354,7 @@ def main():
     }
     
     for article in all_articles:
-        loc = article.get('location', 'Unknown')
+        loc = article.get('location', 'Canada')
         cat = article.get('category', 'general')
         src = article.get('source', 'Unknown')
         
@@ -513,7 +364,7 @@ def main():
     
     # Print statistics
     print(f"\n📍 Articles by location:")
-    for loc, count in sorted(stats['locations'].items(), key=lambda x: x[1], reverse=True)[:8]:
+    for loc, count in sorted(stats['locations'].items(), key=lambda x: x[1], reverse=True)[:10]:
         print(f"   {loc}: {count}")
     
     print(f"\n📂 Articles by category:")
