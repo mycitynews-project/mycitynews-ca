@@ -5,12 +5,88 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#1a73e8">
     
-    <title>MyCityNews.ca - Canadian News & Indigenous Stories</title>
-    <meta name="description" content="Breaking Canadian news, Indigenous stories, local updates, politics, business, technology, and world news - all in one place.">
-    <meta name="keywords" content="Canadian news, Indigenous news, APTN, local news, breaking news, politics, business, technology">
-    
+    <!-- SEO Meta Tags -->
+    <title>MyCityNews.ca - Canadian News, Indigenous Stories & Breaking Headlines</title>
+    <meta name="description" content="Canada's premier news platform featuring Indigenous stories, local news, and breaking headlines from 150+ trusted sources. Updated every 2 hours.">
+    <meta name="keywords" content="Canadian news, Indigenous news, APTN, local news, breaking news, politics, business, technology, Toronto news, Vancouver news">
+    <meta name="author" content="MyCityNews.ca">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
     <link rel="canonical" href="https://mycitynews.ca">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="MyCityNews.ca - Canadian News & Indigenous Stories">
+    <meta property="og:description" content="Breaking news from Canada and around the world. Indigenous stories, local updates, and trusted journalism.">
+    <meta property="og:url" content="https://mycitynews.ca">
+    <meta property="og:site_name" content="MyCityNews.ca">
+    <meta property="og:image" content="https://mycitynews.ca/og-image.jpg">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="MyCityNews.ca - Canadian News">
+    <meta name="twitter:description" content="Breaking Canadian news, Indigenous stories, and local updates">
+    
+    <!-- PWA -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="MyCityNews">
+    <link rel="apple-touch-icon" href="/icon-192.png">
+    
+    <!-- Favicon -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍁</text></svg>">
+    
+    <!-- Preconnect -->
+    <link rel="preconnect" href="https://api.open-meteo.com">
+    <link rel="dns-prefetch" href="https://api.open-meteo.com">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "NewsMediaOrganization",
+          "@id": "https://mycitynews.ca/#organization",
+          "name": "MyCityNews.ca",
+          "url": "https://mycitynews.ca",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://mycitynews.ca/logo.png",
+            "width": 600,
+            "height": 60
+          },
+          "description": "Canada's premier news aggregator featuring Indigenous stories and breaking headlines",
+          "sameAs": [
+            "https://twitter.com/MyCityNewsCA",
+            "https://facebook.com/MyCityNewsCA",
+            "https://instagram.com/MyCityNewsCA"
+          ],
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "email": "info@mycitynews.ca",
+            "areaServed": "CA",
+            "availableLanguage": ["en", "fr"]
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://mycitynews.ca/#website",
+          "url": "https://mycitynews.ca",
+          "name": "MyCityNews.ca",
+          "publisher": {
+            "@id": "https://mycitynews.ca/#organization"
+          },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://mycitynews.ca/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
+    }
+    </script>
     
     <style>
         :root {
@@ -32,7 +108,29 @@
             line-height: 1.6;
         }
 
-        /* Header */
+        /* Skip Links */
+        .skip-link {
+            position: absolute;
+            top: -40px;
+            left: 0;
+            background: var(--primary);
+            color: white;
+            padding: 8px 16px;
+            text-decoration: none;
+            z-index: 10000;
+        }
+
+        .skip-link:focus {
+            top: 0;
+        }
+
+        /* Focus Indicators */
+        *:focus-visible {
+            outline: 2px solid var(--primary);
+            outline-offset: 2px;
+        }
+
+        /* Top Bar */
         .top-bar {
             background: var(--primary);
             color: white;
@@ -41,6 +139,7 @@
             font-size: 13px;
         }
 
+        /* Header */
         header {
             background: var(--bg);
             border-bottom: 1px solid var(--border);
@@ -78,7 +177,7 @@
             padding: 12px 20px;
             border: 1px solid var(--border);
             border-radius: 24px;
-            font-size: 15px;
+            font-size: 16px;
         }
 
         .weather-widget {
@@ -91,10 +190,46 @@
             cursor: pointer;
             text-decoration: none;
             color: inherit;
+            min-height: 44px;
         }
 
         .weather-temp { font-weight: 700; }
         .weather-location { font-size: 11px; color: var(--text-light); }
+
+        /* Breadcrumb */
+        .breadcrumb-nav {
+            background: var(--bg);
+            border-bottom: 1px solid var(--border);
+            padding: 12px 0;
+        }
+
+        .breadcrumb-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .breadcrumb {
+            display: flex;
+            list-style: none;
+            font-size: 14px;
+        }
+
+        .breadcrumb li {
+            display: flex;
+            align-items: center;
+        }
+
+        .breadcrumb li:not(:last-child)::after {
+            content: "›";
+            margin: 0 8px;
+            color: var(--text-light);
+        }
+
+        .breadcrumb a {
+            color: var(--primary);
+            text-decoration: none;
+        }
 
         /* Navigation */
         nav {
@@ -121,10 +256,12 @@
             white-space: nowrap;
             border-bottom: 3px solid transparent;
             transition: all 0.2s;
+            min-height: 44px;
         }
 
         .nav-tab:hover { color: var(--text); background: var(--bg-alt); }
         .nav-tab.active { color: var(--primary); border-bottom-color: var(--primary); }
+        .nav-tab:active { transform: scale(0.98); }
 
         /* Main */
         main {
@@ -308,6 +445,10 @@
             box-shadow: 0 4px 12px rgba(0,0,0,0.15);
         }
 
+        .news-card:active {
+            transform: scale(0.98);
+        }
+
         .news-image {
             width: 100%;
             height: 200px;
@@ -344,6 +485,19 @@
         .news-meta {
             font-size: 12px;
             color: var(--text-light);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .share-btn {
+            background: var(--bg-alt);
+            border: 1px solid var(--border);
+            padding: 6px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 13px;
+            min-height: 32px;
         }
 
         /* Loading */
@@ -416,15 +570,59 @@
             text-align: center;
             font-weight: 600;
             transition: all 0.2s;
+            min-height: 44px;
         }
 
         .location-option:hover {
             border-color: var(--primary);
         }
 
+        .location-option:active {
+            transform: scale(0.98);
+        }
+
         .location-icon {
             font-size: 32px;
             margin-bottom: 8px;
+        }
+
+        /* Cookie Consent */
+        .cookie-consent {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #1a1a1a;
+            color: white;
+            padding: 20px;
+            z-index: 10000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.3);
+        }
+
+        .cookie-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .cookie-buttons {
+            display: flex;
+            gap: 12px;
+        }
+
+        .btn-accept {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            min-height: 44px;
         }
 
         /* Footer */
@@ -489,6 +687,7 @@
             .hero-sidebar {
                 flex-direction: row;
                 overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
             }
 
             .sidebar-card {
@@ -503,6 +702,7 @@
 
             .search-box {
                 width: 100%;
+                font-size: 16px; /* Prevents iOS zoom */
             }
 
             .news-grid {
@@ -512,25 +712,63 @@
             .location-grid {
                 grid-template-columns: 1fr;
             }
+
+            /* Bottom navigation for mobile */
+            nav {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                z-index: 1001;
+                box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+            }
+
+            main {
+                padding-bottom: 80px;
+            }
+
+            .nav-container {
+                padding: 0 16px;
+            }
+
+            .nav-tab {
+                padding: 12px 16px;
+                font-size: 13px;
+            }
         }
     </style>
 </head>
 <body>
+    <!-- Skip Links -->
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    <a href="#nav" class="skip-link">Skip to navigation</a>
+
+    <!-- Top Bar -->
     <div class="top-bar">
         🍁 Canada's Premier News Platform | Indigenous Stories | Local News | Updated Every 2 Hours
     </div>
 
+    <!-- Header -->
     <header>
         <div class="header-main">
-            <a href="/" class="logo">
-                <span style="font-size: 32px;">🍁</span>
+            <a href="/" class="logo" aria-label="MyCityNews.ca Home">
+                <span style="font-size: 32px;" aria-hidden="true">🍁</span>
                 <span>MyCityNews<span class="ca">.ca</span></span>
             </a>
 
-            <input type="search" class="search-box" id="search-input" placeholder="Search news...">
+            <input type="search" 
+                   class="search-box" 
+                   id="search-input" 
+                   placeholder="Search news..." 
+                   aria-label="Search news articles"
+                   autocomplete="off">
 
-            <a href="#" class="weather-widget" id="weather-widget" onclick="showLocationModal(); return false;">
-                <span style="font-size: 24px;" id="weather-icon">🌤️</span>
+            <a href="#" 
+               class="weather-widget" 
+               id="weather-widget" 
+               onclick="showLocationModal(); return false;"
+               aria-label="Change location">
+                <span style="font-size: 24px;" id="weather-icon" aria-hidden="true">🌤️</span>
                 <div>
                     <div class="weather-temp" id="weather-temp">--°C</div>
                     <div class="weather-location" id="weather-location">Loading...</div>
@@ -539,24 +777,45 @@
         </div>
     </header>
 
-    <nav>
-        <div class="nav-container">
-            <button class="nav-tab active" data-category="all">🏠 For You</button>
-            <button class="nav-tab" data-category="indigenous">🪶 Indigenous</button>
-            <button class="nav-tab" data-category="local">📍 Local</button>
-            <button class="nav-tab" data-category="canada">🍁 Canada</button>
-            <button class="nav-tab" data-category="world">🌍 World</button>
-            <button class="nav-tab" data-category="politics">🏛️ Politics</button>
-            <button class="nav-tab" data-category="business">💼 Business</button>
-            <button class="nav-tab" data-category="technology">💻 Tech</button>
-            <button class="nav-tab" data-category="sports">⚽ Sports</button>
-            <button class="nav-tab" data-category="health">🏥 Health</button>
-            <button class="nav-tab" data-category="science">🔬 Science</button>
-            <button class="nav-tab" data-category="entertainment">🎬 Entertainment</button>
+    <!-- Breadcrumb -->
+    <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+        <div class="breadcrumb-container">
+            <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/">
+                        <span itemprop="name">Home</span>
+                    </a>
+                    <meta itemprop="position" content="1" />
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" id="breadcrumb-category">
+                    <span itemprop="name" id="breadcrumb-text">For You</span>
+                    <meta itemprop="position" content="2" />
+                </li>
+            </ol>
         </div>
     </nav>
 
-    <main>
+    <!-- Navigation -->
+    <nav id="nav" aria-label="Main navigation">
+        <div class="nav-container">
+            <button class="nav-tab active" data-category="all" aria-pressed="true">🏠 For You</button>
+            <button class="nav-tab" data-category="indigenous" aria-pressed="false">🪶 Indigenous</button>
+            <button class="nav-tab" data-category="local" aria-pressed="false">📍 Local</button>
+            <button class="nav-tab" data-category="canada" aria-pressed="false">🍁 Canada</button>
+            <button class="nav-tab" data-category="world" aria-pressed="false">🌍 World</button>
+            <button class="nav-tab" data-category="politics" aria-pressed="false">🏛️ Politics</button>
+            <button class="nav-tab" data-category="business" aria-pressed="false">💼 Business</button>
+            <button class="nav-tab" data-category="technology" aria-pressed="false">💻 Tech</button>
+            <button class="nav-tab" data-category="sports" aria-pressed="false">⚽ Sports</button>
+            <button class="nav-tab" data-category="health" aria-pressed="false">🏥 Health</button>
+            <button class="nav-tab" data-category="science" aria-pressed="false">🔬 Science</button>
+            <button class="nav-tab" data-category="entertainment" aria-pressed="false">🎬 Entertainment</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main id="main-content">
+        <!-- Trending -->
         <div class="trending">
             <div class="trending-label">🔥 TRENDING NOW</div>
             <div class="trending-items" id="trending-items">
@@ -564,17 +823,20 @@
             </div>
         </div>
 
-        <section class="hero" id="hero-section" style="display:none;"></section>
+        <!-- Hero Section -->
+        <section class="hero" id="hero-section" style="display:none;" aria-label="Featured news"></section>
 
+        <!-- News Sections -->
         <div id="news-sections">
-            <div class="loading">
-                <div class="spinner"></div>
+            <div class="loading" role="status" aria-live="polite">
+                <div class="spinner" aria-hidden="true"></div>
                 <p>Loading latest news...</p>
             </div>
         </div>
     </main>
 
-    <footer>
+    <!-- Footer -->
+    <footer role="contentinfo">
         <div class="footer-grid">
             <div class="footer-section">
                 <h3>About MyCityNews.ca</h3>
@@ -609,6 +871,7 @@
                     <li><a href="#privacy">Privacy Policy</a></li>
                     <li><a href="#terms">Terms of Service</a></li>
                     <li><a href="#disclaimer">Disclaimer</a></li>
+                    <li><a href="#accessibility">Accessibility</a></li>
                 </ul>
             </div>
         </div>
@@ -618,9 +881,10 @@
         </div>
     </footer>
 
-    <div class="modal" id="location-modal">
+    <!-- Location Modal -->
+    <div class="modal" id="location-modal" role="dialog" aria-labelledby="modal-title" aria-modal="true">
         <div class="modal-content">
-            <h2 class="modal-title">📍 Choose Your Location</h2>
+            <h2 class="modal-title" id="modal-title">📍 Choose Your Location</h2>
             <p style="color: #5f6368; margin-bottom: 16px;">
                 Get personalized local news and weather for your area
             </p>
@@ -631,375 +895,22 @@
             </button>
             
             <div class="location-grid">
-                <div class="location-option" onclick="selectLocation('Toronto')">
+                <div class="location-option" onclick="selectLocation('Toronto')" tabindex="0" role="button">
                     <div class="location-icon">🏙️</div>
                     <div>Toronto</div>
                 </div>
-                <div class="location-option" onclick="selectLocation('Vancouver')">
+                <div class="location-option" onclick="selectLocation('Vancouver')" tabindex="0" role="button">
                     <div class="location-icon">🌊</div>
                     <div>Vancouver</div>
                 </div>
-                <div class="location-option" onclick="selectLocation('Montreal')">
+                <div class="location-option" onclick="selectLocation('Montreal')" tabindex="0" role="button">
                     <div class="location-icon">⚜️</div>
                     <div>Montreal</div>
                 </div>
-                <div class="location-option" onclick="selectLocation('Calgary')">
+                <div class="location-option" onclick="selectLocation('Calgary')" tabindex="0" role="button">
                     <div class="location-icon">🏔️</div>
                     <div>Calgary</div>
                 </div>
-                <div class="location-option" onclick="selectLocation('Ottawa')">
+                <div class="location-option" onclick="selectLocation('Ottawa')" tabindex="0" role="button">
                     <div class="location-icon">🏛️</div>
-                    <div>Ottawa</div>
-                </div>
-                <div class="location-option" onclick="selectLocation('Edmonton')">
-                    <div class="location-icon">🌾</div>
-                    <div>Edmonton</div>
-                </div>
-                <div class="location-option" onclick="selectLocation('Canada')">
-                    <div class="location-icon">🍁</div>
-                    <div>All Canada</div>
-                </div>
-            </div>
-            
-            <button onclick="closeLocationModal()" 
-                    style="width: 100%; padding: 14px; background: #f8f9fa; color: #5f6368; border: none; border-radius: 12px; cursor: pointer; margin-top: 20px;">
-                Cancel
-            </button>
-        </div>
-    </div>
-
-    <script>
-        let allArticles = [];
-        let currentFilter = 'all';
-        let userLocation = 'Canada';
-
-        const weatherEmojis = {
-            'Clear': '☀️', 'Clouds': '☁️', 'Rain': '🌧️', 'Snow': '❄️',
-            'Drizzle': '🌦️', 'Thunderstorm': '⛈️', 'Mist': '🌫️', 'Fog': '🌫️'
-        };
-
-        async function init() {
-            const saved = localStorage.getItem('userLocation');
-            if (saved) {
-                userLocation = saved;
-            } else {
-                setTimeout(showLocationModal, 1000);
-            }
-
-            await loadArticles();
-            await loadWeather();
-            setupEvents();
-        }
-
-        async function loadArticles() {
-            try {
-                const res = await fetch('articles.json?t=' + Date.now());
-                const data = await res.json();
-                allArticles = data.articles || [];
-                
-                console.log('Loaded articles:', allArticles.length);
-                
-                if (allArticles.length) {
-                    displayContent();
-                    loadTrending();
-                } else {
-                    showEmpty();
-                }
-            } catch (err) {
-                console.error('Load error:', err);
-                showEmpty();
-            }
-        }
-
-        function displayContent() {
-            let filtered = filterArticles();
-            
-            // Prioritize local content
-            if (userLocation !== 'Canada' && userLocation !== 'World') {
-                filtered = filtered.sort((a, b) => {
-                    const aLocal = a.location === userLocation;
-                    const bLocal = b.location === userLocation;
-                    if (aLocal && !bLocal) return -1;
-                    if (!aLocal && bLocal) return 1;
-                    return 0;
-                });
-            }
-            
-            displayHero(filtered.slice(0, 4));
-            displaySections(filtered);
-        }
-
-        function filterArticles() {
-            console.log('Filtering articles for:', currentFilter);
-            
-            if (currentFilter === 'all') return allArticles;
-            
-            if (currentFilter === 'local') {
-                return allArticles.filter(a => a.location === userLocation);
-            }
-            
-            return allArticles.filter(a => a.category === currentFilter);
-        }
-
-        function displayHero(articles) {
-            const section = document.getElementById('hero-section');
-            if (!articles.length) {
-                section.style.display = 'none';
-                return;
-            }
-            
-            section.style.display = 'grid';
-            const main = articles[0];
-            const side = articles.slice(1, 4);
-            
-            section.innerHTML = `
-                <div class="hero-main" onclick="redirectTo('${esc(main.url)}', '${esc(main.title)}')">
-                    ${main.image ? `<img src="${main.image}" alt="${esc(main.title)}" class="hero-image" loading="lazy">` : ''}
-                    <div class="hero-overlay">
-                        <span class="hero-category">${getCategoryName(main.category)}</span>
-                        <h1 class="hero-title">${esc(main.title)}</h1>
-                        <div class="hero-meta">
-                            ${esc(main.source)} • ${formatDate(main.published)}
-                            ${main.location ? ` • 📍 ${esc(main.location)}` : ''}
-                        </div>
-                    </div>
-                </div>
-                <div class="hero-sidebar">
-                    ${side.map(a => `
-                        <div class="sidebar-card" onclick="redirectTo('${esc(a.url)}', '${esc(a.title)}')">
-                            ${a.image ? `<img src="${a.image}" alt="${esc(a.title)}" class="sidebar-image" loading="lazy">` : '<div class="sidebar-image"></div>'}
-                            <div class="sidebar-content">
-                                ${a.location ? `<span class="location-tag">📍 ${esc(a.location)}</span>` : ''}
-                                <h3 class="sidebar-title">${esc(a.title)}</h3>
-                                <div class="sidebar-meta">${esc(a.source)} • ${formatDate(a.published)}</div>
-                            </div>
-                        </div>
-                    `).join('')}
-                </div>
-            `;
-        }
-
-        function displaySections(articles) {
-            const container = document.getElementById('news-sections');
-            
-            const categories = [
-                { id: 'indigenous', name: 'Indigenous News', icon: '🪶' },
-                { id: 'canada', name: 'Canada', icon: '🍁' },
-                { id: 'world', name: 'World', icon: '🌍' },
-                { id: 'politics', name: 'Politics', icon: '🏛️' },
-                { id: 'business', name: 'Business', icon: '💼' },
-                { id: 'technology', name: 'Technology', icon: '💻' },
-                { id: 'sports', name: 'Sports', icon: '⚽' },
-                { id: 'health', name: 'Health', icon: '🏥' },
-                { id: 'science', name: 'Science', icon: '🔬' },
-                { id: 'entertainment', name: 'Entertainment', icon: '🎬' }
-            ];
-            
-            let html = '';
-            
-            // If specific category is selected, show only that
-            if (currentFilter !== 'all' && currentFilter !== 'local') {
-                const cat = categories.find(c => c.id === currentFilter);
-                if (cat) {
-                    const catArticles = articles.slice(0, 12);
-                    html = `
-                        <section class="section">
-                            <div class="section-header">
-                                <h2 class="section-title">${cat.icon} ${cat.name}</h2>
-                            </div>
-                            <div class="news-grid">
-                                ${catArticles.map(a => createNewsCard(a)).join('')}
-                            </div>
-                        </section>
-                    `;
-                }
-            } else {
-                // Show all categories
-                categories.forEach(cat => {
-                    const catArticles = articles.filter(a => a.category === cat.id).slice(0, 6);
-                    if (!catArticles.length) return;
-                    
-                    html += `
-                        <section class="section">
-                            <div class="section-header">
-                                <h2 class="section-title">${cat.icon} ${cat.name}</h2>
-                            </div>
-                            <div class="news-grid">
-                                ${catArticles.map(a => createNewsCard(a)).join('')}
-                            </div>
-                        </section>
-                    `;
-                });
-            }
-            
-            container.innerHTML = html || '<div class="loading">No articles available</div>';
-        }
-
-        function createNewsCard(article) {
-            return `
-                <article class="news-card" onclick="redirectTo('${esc(article.url)}', '${esc(article.title)}')">
-                    ${article.image ? `<img src="${article.image}" alt="${esc(article.title)}" class="news-image" loading="lazy">` : '<div class="news-image"></div>'}
-                    <div class="news-content">
-                        ${article.location ? `<span class="location-tag">📍 ${esc(article.location)}</span>` : ''}
-                        <div class="news-source">${esc(article.source)}</div>
-                        <h3 class="news-title">${esc(article.title)}</h3>
-                        ${article.description ? `<p class="news-description">${esc(article.description.substring(0, 120))}...</p>` : ''}
-                        <div class="news-meta">${formatDate(article.published)}</div>
-                    </div>
-                </article>
-            `;
-        }
-
-        async function loadWeather() {
-            try {
-                const coords = getCityCoords(userLocation);
-                const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${coords.lat}&longitude=${coords.lon}&current_weather=true&temperature_unit=celsius`);
-                const data = await res.json();
-                
-                const temp = Math.round(data.current_weather.temperature);
-                const condition = getWeatherCondition(data.current_weather.weathercode);
-                
-                document.getElementById('weather-temp').textContent = temp + '°C';
-                document.getElementById('weather-location').textContent = userLocation;
-                document.getElementById('weather-icon').textContent = weatherEmojis[condition] || '🌤️';
-            } catch (err) {
-                console.error('Weather error:', err);
-            }
-        }
-
-        function loadTrending() {
-            const topics = allArticles.slice(0, 15).map(a => a.title);
-            const container = document.getElementById('trending-items');
-            const doubled = [...topics, ...topics];
-            container.innerHTML = doubled.map(t => `<span class="trending-item">${esc(t)}</span>`).join('');
-        }
-
-        function getCityCoords(city) {
-            const coords = {
-                'Toronto': { lat: 43.65, lon: -79.38 },
-                'Vancouver': { lat: 49.28, lon: -123.12 },
-                'Montreal': { lat: 45.50, lon: -73.57 },
-                'Calgary': { lat: 51.05, lon: -114.07 },
-                'Ottawa': { lat: 45.42, lon: -75.70 },
-                'Edmonton': { lat: 53.55, lon: -113.47 },
-                'Canada': { lat: 45.42, lon: -75.70 }
-            };
-            return coords[city] || coords['Canada'];
-        }
-
-        function getWeatherCondition(code) {
-            if (code >= 61 && code <= 67) return 'Rain';
-            if (code >= 71 && code <= 77) return 'Snow';
-            if (code >= 45 && code <= 48) return 'Fog';
-            if (code >= 95) return 'Thunderstorm';
-            if (code >= 1 && code <= 3) return 'Clouds';
-            return 'Clear';
-        }
-
-        function getCategoryName(cat) {
-            const map = {
-                'indigenous': 'Indigenous', 'politics': 'Politics', 'business': 'Business',
-                'sports': 'Sports', 'technology': 'Technology', 'health': 'Health',
-                'science': 'Science', 'entertainment': 'Entertainment',
-                'world': 'World', 'canada': 'Canada', 'local': 'Local', 'social': 'Social'
-            };
-            return map[cat] || 'News';
-        }
-
-        function formatDate(dateStr) {
-            if (!dateStr) return 'Recently';
-            const date = new Date(dateStr);
-            const diff = Date.now() - date;
-            const mins = Math.floor(diff / 60000);
-            const hours = Math.floor(diff / 3600000);
-            const days = Math.floor(diff / 86400000);
-            
-            if (mins < 1) return 'Just now';
-            if (mins < 60) return mins + 'm ago';
-            if (hours < 24) return hours + 'h ago';
-            if (days < 7) return days + 'd ago';
-            return date.toLocaleDateString();
-        }
-
-        function esc(str) {
-            const div = document.createElement('div');
-            div.textContent = str || '';
-            return div.innerHTML;
-        }
-
-        function redirectTo(url, title) {
-            window.location.href = 'ad-redirect.html?url=' + encodeURIComponent(url) + '&title=' + encodeURIComponent(title);
-        }
-
-        function showEmpty() {
-            document.getElementById('news-sections').innerHTML = '<div class="loading">No articles available. Please run the workflow to fetch news.</div>';
-        }
-
-        function detectLocation() {
-            if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(
-                    () => selectLocation('Canada'),
-                    () => showLocationModal()
-                );
-            }
-        }
-
-        function selectLocation(location) {
-            console.log('Location changed to:', location);
-            userLocation = location;
-            localStorage.setItem('userLocation', location);
-            closeLocationModal();
-            loadWeather();
-            displayContent(); // Refresh content immediately
-        }
-
-        function showLocationModal() {
-            document.getElementById('location-modal').classList.add('active');
-        }
-
-        function closeLocationModal() {
-            document.getElementById('location-modal').classList.remove('active');
-        }
-
-        function setupEvents() {
-            // Navigation tabs
-            document.querySelectorAll('.nav-tab').forEach(btn => {
-                btn.addEventListener('click', function() {
-                    console.log('Tab clicked:', this.dataset.category);
-                    document.querySelectorAll('.nav-tab').forEach(b => b.classList.remove('active'));
-                    this.classList.add('active');
-                    currentFilter = this.dataset.category;
-                    displayContent(); // Refresh content immediately
-                    window.scrollTo({ top: 0, behavior: 'smooth' });
-                });
-            });
-
-            // Modal close
-            document.getElementById('location-modal').addEventListener('click', e => {
-                if (e.target.id === 'location-modal') closeLocationModal();
-            });
-
-            // Search
-            document.getElementById('search-input').addEventListener('keypress', e => {
-                if (e.key === 'Enter') {
-                    const query = e.target.value.toLowerCase();
-                    const results = allArticles.filter(a =>
-                        a.title.toLowerCase().includes(query) ||
-                        (a.description && a.description.toLowerCase().includes(query))
-                    );
-                    displaySections(results);
-                }
-            });
-        }
-
-        // Initialize
-        init();
-
-        // Auto-refresh every 10 minutes
-        setInterval(() => {
-            loadArticles();
-            loadWeather();
-        }, 10 * 60 * 1000);
-    </script>
-</body>
-</html>
+                    <div>Ottawa
