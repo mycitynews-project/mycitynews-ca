@@ -1,0 +1,49 @@
+{
+  "name": "MyCityNews.ca - Canadian News",
+  "short_name": "MyCityNews",
+  "description": "Canadian and Indigenous news aggregator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["news", "magazines"],
+  "shortcuts": [
+    {
+      "name": "Indigenous News",
+      "url": "/#indigenous",
+      "description": "Indigenous stories from across Canada"
+    },
+    {
+      "name": "Local News",
+      "url": "/#local",
+      "description": "News from your city"
+    },
+    {
+      "name": "Breaking News",
+      "url": "/#breaking",
+      "description": "Latest breaking news"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot1.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}
