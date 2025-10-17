@@ -1,4 +1,4 @@
-name: Fetch News Articles 
+name: Fetch News Articles
 
 on:
   schedule:
@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Fetch all history
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,109 +24,60 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests python-dateutil
-          echo "✓ Dependencies installed"
       
-      - name: List files (DEBUG)
+      - name: Pull latest changes
         run: |
-          echo "=== Files in repository ==="
-          ls -la
-          echo "=== Checking for fetch_news.py ==="
-          test -f fetch_news.py && echo "✓ fetch_news.py exists" || echo "✗ fetch_news.py NOT FOUND"
-          echo "=== Checking for generate_sitemap.py ==="
-          test -f generate_sitemap.py && echo "✓ generate_sitemap.py exists" || echo "✗ generate_sitemap.py NOT FOUND"
-      
-      - name: Check NEWS_API_KEY (DEBUG)
-        env:
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-        run: |
-          if [ -z "$NEWS_API_KEY" ]; then
-            echo "✗ NEWS_API_KEY is NOT set"
-            exit 1
-          else
-            echo "✓ NEWS_API_KEY is set"
-          fi
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git pull origin main --rebase
       
       - name: Fetch news articles
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: |
-          echo "=== Running fetch_news.py ==="
           python fetch_news.py
-          echo "✓ News fetched successfully"
       
-      - name: Check articles.json (DEBUG)
-        run: |
-          if [ -f articles.json ]; then
-            echo "✓ articles.json created"
-            echo "Size: $(wc -c < articles.json) bytes"
-            echo "First 5 lines:"
-            head -n 5 articles.json
-          else
-            echo "✗ articles.json NOT created"
-            exit 1
-          fi
-      
-      - name: Generate sitemap (OPTIONAL)
+      - name: Generate sitemap (optional)
         run: |
           if [ -f generate_sitemap.py ]; then
-            echo "=== Running generate_sitemap.py ==="
             python generate_sitemap.py
-            echo "✓ Sitemap generated"
           else
-            echo "⚠ generate_sitemap.py not found, skipping..."
-            echo "Creating basic sitemap manually..."
+            echo "⚠️  generate_sitemap.py not found, creating basic sitemap..."
             cat > sitemap.xml << 'EOF'
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mycitynews.ca/</loc>
+    <lastmod>$(date +%Y-%m-%d)</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
 </urlset>
 EOF
-            echo "✓ Basic sitemap created"
           fi
       
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet articles.json sitemap.xml || echo "changed=true" >> $GITHUB_OUTPUT
-          echo "=== Git status ==="
-          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "✓ Changes detected"
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  No changes to commit"
+          fi
       
       - name: Commit and push changes
         if: steps.changes.outputs.changed == 'true'
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
           git add articles.json sitemap.xml
-          git commit -m "Update news articles [$(date +'%Y-%m-%d %H:%M:%S')]"
-          git push
-          echo "✓ Changes pushed successfully"
+          git commit -m "Update news articles and sitemap [$(date +'%Y-%m-%d %H:%M:%S')]" || echo "No changes to commit"
+          git pull origin main --rebase
+          git push origin main
       
-      - name: Success summary
+      - name: Summary
         if: success()
         run: |
           echo "================================"
           echo "✓ Workflow completed successfully!"
-          echo "================================"
-      
-      - name: Failure debug info
-        if: failure()
-        run: |
-          echo "================================"
-          echo "✗ Workflow failed. Debug info:"
-          echo "================================"
-          echo "Current directory:"
-          pwd
-          echo ""
-          echo "Files present:"
-          ls -la
-          echo ""
-          echo "Python version:"
-          python --version
-          echo ""
-          echo "Pip packages:"
-          pip list
           echo "================================"
