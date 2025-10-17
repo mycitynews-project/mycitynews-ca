@@ -1,0 +1,32 @@
+# robots.txt for MyCityNews.ca
+
+User-agent: *
+Allow: /
+Disallow: /ad-redirect.html
+Disallow: /ads.txt
+
+# Sitemap
+Sitemap: https://mycitynews.ca/sitemap.xml
+
+# Crawl-delay for specific bots
+User-agent: Googlebot
+Crawl-delay: 0
+
+User-agent: Bingbot
+Crawl-delay: 1
+
+User-agent: Slurp
+Crawl-delay: 1
+
+# Block bad bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
