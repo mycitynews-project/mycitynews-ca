@@ -1,39 +1,54 @@
-name: Fetch Canadian News
+name: Fetch News Articles
 
 on:
   schedule:
-    # Runs every 2 hours
+    # Run every 2 hours
     - cron: '0 */2 * * *'
-  workflow_dispatch: # Allows manual trigger
-
-permissions:
-  contents: write
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
       
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-        
-    - name: Install dependencies
-      run: |
-        pip install requests feedparser
-        
-    - name: Fetch Canadian News
-      env:
-        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-      run: python fetch_news.py
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
       
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add articles.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update news articles [$(date +'%Y-%m-%d %H:%M:%S')]" && git push)
+      - name: Install dependencies
+        run: |
+          pip install requests python-dateutil
+      
+      - name: Fetch news articles
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          python fetch_news.py
+      
+      - name: Generate sitemap
+        run: |
+          python generate_sitemap.py
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet articles.json sitemap.xml robots.txt || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add articles.json sitemap.xml robots.txt
+          git commit -m "Update news articles and sitemap [$(date +'%Y-%m-%d %H:%M:%S')]"
+          git push
+      
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "❌ News fetch failed at $(date)"
+          echo "Check logs for details"
