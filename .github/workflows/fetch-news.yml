@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0  # Fetch all history
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -37,47 +37,23 @@ jobs:
         run: |
           python fetch_news.py
       
-      - name: Generate sitemap (optional)
+      - name: Generate sitemap
         run: |
-          if [ -f generate_sitemap.py ]; then
-            python generate_sitemap.py
-          else
-            echo "⚠️  generate_sitemap.py not found, creating basic sitemap..."
-            cat > sitemap.xml << 'EOF'
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://mycitynews.ca/</loc>
-    <lastmod>$(date +%Y-%m-%d)</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
-EOF
-          fi
+          python generate_sitemap.py
       
       - name: Check for changes
         id: changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             echo "changed=true" >> $GITHUB_OUTPUT
-            echo "✓ Changes detected"
           else
             echo "changed=false" >> $GITHUB_OUTPUT
-            echo "ℹ️  No changes to commit"
           fi
       
       - name: Commit and push changes
         if: steps.changes.outputs.changed == 'true'
         run: |
-          git add articles.json sitemap.xml
-          git commit -m "Update news articles and sitemap [$(date +'%Y-%m-%d %H:%M:%S')]" || echo "No changes to commit"
+          git add articles.json sitemap.xml robots.txt
+          git commit -m "Update news [$(date +'%Y-%m-%d %H:%M')]" || echo "No changes"
           git pull origin main --rebase
           git push origin main
-      
-      - name: Summary
-        if: success()
-        run: |
-          echo "================================"
-          echo "✓ Workflow completed successfully!"
-          echo "================================"
