@@ -32,18 +32,6 @@
       "name": "Local News",
       "url": "/#local",
       "description": "News from your city"
-    },
-    {
-      "name": "Breaking News",
-      "url": "/#breaking",
-      "description": "Latest breaking news"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/screenshot1.png",
-      "sizes": "540x720",
-      "type": "image/png"
     }
   ]
 }
