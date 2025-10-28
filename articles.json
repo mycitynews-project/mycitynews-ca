@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-28T20:33:14.706397",
+  "last_updated": "2025-10-28T22:29:56.804133",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 22 Oct 2025 11:00:50 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.662935"
+      "fetched_at": "2025-10-28T22:18:14.251409"
     },
     {
       "id": "66e97a76f1a5",
@@ -24,7 +24,7 @@
       "published": "Wed, 22 Oct 2025 11:00:35 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.662994"
+      "fetched_at": "2025-10-28T22:18:14.251451"
     },
     {
       "id": "489da7bd4578",
@@ -36,31 +36,751 @@
       "published": "Wed, 22 Oct 2025 11:00:06 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.663030"
+      "fetched_at": "2025-10-28T22:18:14.251487"
+    },
+    {
+      "id": "ccb1a7717759",
+      "title": "Waabi unveils autonomous truck made in partnership with Volvo",
+      "description": "The move comes as Waabi announced earlier this year that it was partnering with Volvo Autonomous Solutions to build a custom purpose built truck based on Volvo’s auto autonomy platform using Waabi's software stack.",
+      "url": "https://techcrunch.com/2025/10/28/waabi-unveils-autonomous-truck-made-in-partnership-with-volvo/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:17:45 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:11.390757"
+    },
+    {
+      "id": "2946e25802f9",
+      "title": "Unlisted connects homeowners with prospective buyers before they even put their homes up for sale and is part of TechCrunch Disrupt 2025",
+      "description": "Unlisted is like Zillow but for homes that are not yet on the market.",
+      "url": "https://techcrunch.com/2025/10/28/unlisted-homes-connects-homeowners-with-prospective-buyers-before-they-even-put-their-homes-up-for-sale-and-is-part-of-techcrunch-disrupt-2025/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:15:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:11.390817"
+    },
+    {
+      "id": "48867eeca11d",
+      "title": "Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025",
+      "description": "Founded by a former math teacher and Googler, Super Teacher's AI tutor is being used in public school in New York, New Jersey, and Hawaii.",
+      "url": "https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:15:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:11.390877"
+    },
+    {
+      "id": "cbdadb7e2f99",
+      "title": "Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025",
+      "description": "Mappa's AI hiring platform can assess a candidate's behavior based on voice patterns, and aims to take some of the guesswork out of hiring.",
+      "url": "https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:15:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:11.390941"
+    },
+    {
+      "id": "3f1a200477db",
+      "title": "Inside CampusAI’s mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025",
+      "description": "CampusAI is like “Coursera meets Github meets Tinder in the metaverse” — an educational platform focused on making learning accessible to everyday people who want to bring AI into their everyday workflows, and a virtual ecosystem to connect like-minded people.",
+      "url": "https://techcrunch.com/2025/10/28/inside-campusais-mission-to-close-the-ai-training-gap-for-everyday-workers-check-it-out-at-techcrunch-disrupt-2025/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:15:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:11.391008"
+    },
+    {
+      "id": "dd4f6a32d946",
+      "title": "Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025",
+      "description": "Unthread builds Slack-native, AI-powered support bots for high-profile customers like Intuit, Lemonade and Automattic.",
+      "url": "https://techcrunch.com/2025/10/28/unthread-has-a-plan-for-cleaning-up-slack-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:15:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:11.391057"
+    },
+    {
+      "id": "aebb61e34f6e",
+      "title": "Edmonton parents express mixed feelings as Alberta government ends teachers’ strike with back-to-work legislation",
+      "description": "Parents across Alberta are sharing mixed emotions after the provincial government introduced back-to-work legislation, forcing striking teachers to return to classrooms by Wednesday. “I just want my daughter back to school, but at the same time, my heart goes to the teachers,” said Leah Gagagena, a ",
+      "url": "https://edmonton.citynews.ca/2025/10/28/edmonton-parents-alberta-government-teachers-strike/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:12:31 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.214848"
+    },
+    {
+      "id": "ee2502cbba96",
+      "title": "US appeals court overturns West Virginia landmark opioid lawsuit decision",
+      "description": "CHARLESTON, W.Va. (AP) &#8212; A federal appeals court on Tuesday overturned a landmark decision in West Virginia that had rejected attempts by an opioid-ravaged area to be compensated by U.S. drug distributors for a influx of prescription pain pills into the region. The 4th U.S. Circuit Court of Ap",
+      "url": "https://financialpost.com/pmn/us-appeals-court-overturns-west-virginia-landmark-opioid-lawsuit-decision",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:12:09 +0000",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762141"
+    },
+    {
+      "id": "cd81db1a1a09",
+      "title": "Surrey DPAC launches Room Clear Tracker to monitor classroom disruptions, clearings",
+      "description": "The Surrey DPAC, with the support of the Surrey Teachers' Association and CUPE 78, has launched a Room Clear Tracker that can be used by every school district across B.C.",
+      "url": "https://globalnews.ca/news/11498964/surrey-dpac-room-clear-tracker-invisible-exclusion-public-schools/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2021/04/GettyImages-978615296-e1622685495458.jpg?quality=65&strip=all",
+      "published": "Tue, 28 Oct 2025 22:11:34 +0000",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.325970"
+    },
+    {
+      "id": "83ba01a86488",
+      "title": "US appeals court overturns West Virginia landmark opioid lawsuit decision",
+      "description": "CHARLESTON, W.Va. (AP) — A federal appeals court on Tuesday overturned a landmark decision in West Virginia that had rejected attempts by an opioid-ravaged area to be compensated by U.S. drug distributors for a influx of prescription pain pills into the region.",
+      "url": "https://globalnews.ca/news/11499181/us-appeals-court-overturns-west-virginia-landmark-opioid-lawsuit-decision/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/10/fb5606109cb34c354ba46f7ce05aaab0d77e2d438d986205eb8d1bb058980126.jpg?quality=65&strip=all",
+      "published": "Tue, 28 Oct 2025 22:10:33 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.326010"
+    },
+    {
+      "id": "2a6362c1745d",
+      "title": "CRA says AI will help boost call centre accuracy for taxpayers seeking info",
+      "description": "A senior CRA official told MPs the agency is looking to roll out more 'senior and standardized' training and introduce 'automation' to improve the accuracy of CRA agents' advice.",
+      "url": "https://globalnews.ca/news/11499170/cra-call-centre-accuracy-ai/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2024/02/20240219100216-7d5e2c29ee08c7e677ae86d3a029149116240434bfb1b3ff6b28b25402fe6984_db8cb4.jpg?quality=65&strip=all",
+      "published": "Tue, 28 Oct 2025 22:10:28 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.326036"
+    },
+    {
+      "id": "657e76f569a3",
+      "title": "Projects in Canada’s North gain momentum in defence push after decades of stalling",
+      "description": "Northwest Territories Finance Minister says rest of country is realizing it needs to invest in the Arctic",
+      "url": "https://www.theglobeandmail.com/business/article-northern-canada-defence-projects-momentum-decades-stalling/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ZTAFJKMNCNA3DNBVYBA5T6RTJI.jpg?auth=94c20ce3f0ad7583e8c5b8b3678c6d3921e4a4bd9bf0eb1b30690e87ab63d08c&smart=true&width=7701&height=5134",
+      "published": "Tue, 28 Oct 2025 22:10:23 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.640827"
+    },
+    {
+      "id": "f6cac0531adc",
+      "title": "Duo from Embrun charged with assault in Picton",
+      "description": "One of the two was also charged with attempted murder in the incident on Oct. 24.",
+      "url": "https://ottawacitizen.com/news/duo-from-embrun-charged-with-assault-in-picton",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:10:12 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.182012"
+    },
+    {
+      "id": "a02c8f9e9204",
+      "title": "Anteris DurAVR® THV Demonstrates Favorable Hemodynamics in Small Annuli Patients with no Valve Related Mortality at One Year",
+      "description": "MINNEAPOLIS and BRISBANE, Australia, Oct. 28, 2025 (GLOBE NEWSWIRE) &#8212; Anteris Technologies Global Corp. (Anteris or the Company) (NASDAQ: AVR, ASX: AVR) a global structural heart company committed to designing, developing, and commercializing cutting-edge medical devices to restore healthy hea",
+      "url": "https://financialpost.com/globe-newswire/anteris-duravr-thv-demonstrates-favorable-hemodynamics-in-small-annuli-patients-with-no-valve-related-mortality-at-one-year",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:09:49 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762193"
+    },
+    {
+      "id": "f84536b2d0fd",
+      "title": "Canterra Minerals Announces Closing of $2.0 Million Private Placement Led by Michael Gentile and Other Strategic Investors to Fund Gold Exploration in Newfoundland",
+      "description": "NOT FOR DISTRIBUTION TO U.S. NEWS WIRE SERVICES OR DISSEMINATION IN THE UNITED STATES. VANCOUVER, British Columbia, Oct. 28, 2025 (GLOBE NEWSWIRE) &#8212; Canterra Minerals Corporation (TSXV:CTM) (OTCQB: CTMCF) (FSE:DXZB) (“Canterra” or the “Company”) is pleased to announce the closing of its previo",
+      "url": "https://financialpost.com/globe-newswire/canterra-minerals-announces-closing-of-2-0-million-private-placement-led-by-michael-gentile-and-other-strategic-investors-to-fund-gold-exploration-in-newfoundland",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 22:04:48 +0000",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762236"
+    },
+    {
+      "id": "492605f71551",
+      "title": "MacKenzie Scott gives $60 million to the Center for Disaster Philanthropy",
+      "description": "MacKenzie Scott, one of the world&#8217;s richest women and most influential philanthropists, has donated $60 million to the Center for Disaster Philanthropy, according to a Tuesday announcement from the nonprofit. The donation is among the largest single gifts Scott, the ex-wife of Amazon founder J",
+      "url": "https://financialpost.com/pmn/mackenzie-scott-gives-60-million-to-the-center-for-disaster-philanthropy",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:54:49 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762296"
+    },
+    {
+      "id": "4bef851d22e5",
+      "title": "Khosla-backed Mazama taps super-hot rocks in race to deliver 24/7 power",
+      "description": "Geothermal startup Mazama Energy said it drilled a borehole that set a temperature record. Such superhot rocks could make geothermal a key player in data center power.",
+      "url": "https://techcrunch.com/2025/10/28/khosla-backed-mazama-taps-super-hot-rocks-in-race-to-deliver-24-7-power/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:50:33 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:11.391108"
+    },
+    {
+      "id": "1840006f21e5",
+      "title": "Guardian Capital Group Limited Obtains Final Court Approval for Plan of Arrangement",
+      "description": "TORONTO, Oct. 28, 2025 (GLOBE NEWSWIRE) &#8212; Guardian Capital Group Limited (“Guardian”) (TSX: GCG) (TSX: GCG.A) is pleased to announce that today it has obtained a final order from the Ontario Superior Court of Justice (Commercial List) approving the previously-announced plan of arrangement unde",
+      "url": "https://financialpost.com/globe-newswire/guardian-capital-group-limited-obtains-final-court-approval-for-plan-of-arrangement",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:49:33 +0000",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762335"
+    },
+    {
+      "id": "eec682963d86",
+      "title": "Trump administration moves to overrule state laws protecting credit reports from medical debt",
+      "description": "NEW YORK (AP) &#8212; The Trump administration is moving to overrule any state laws that may protect consumers&#8217; credit reports from medical debt and other debt issues. The Consumer Financial Protection Bureau has drafted what&#8217;s known as an interpretative rule related to the Fair Credit R",
+      "url": "https://financialpost.com/pmn/trump-administration-moves-to-overrule-state-laws-protecting-credit-reports-from-medical-debt",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:45:37 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762372"
+    },
+    {
+      "id": "a0a9904cd86c",
+      "title": "Trump administration moves to overrule state laws protecting credit reports from medical debt",
+      "description": "NEW YORK (AP) — The Trump administration is moving to overrule any state laws that may protect consumers' credit reports from medical debt and other debt issues.",
+      "url": "https://globalnews.ca/news/11499123/trump-administration-moves-to-overrule-state-laws-protecting-credit-reports-from-medical-debt/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/10/83d86c6e1c655c19a1b0712ec82e1a8cb2374fb015bbabc72c5ef6bd293a6925_94c335.jpg?quality=65&strip=all",
+      "published": "Tue, 28 Oct 2025 21:44:55 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.326065"
+    },
+    {
+      "id": "1ca6e4d59a1e",
+      "title": "Real Estate Split Corp. Announces Increased Preferred Share Distribution Rate",
+      "description": "TORONTO, Oct. 28, 2025 (GLOBE NEWSWIRE) &#8212; (TSX: RS, RS.PR.A) The board of directors of Real Estate Split Corp. (the “Company”) has extended the maturity date of the Company for an additional 5-year term to December 31, 2030, as was detailed in the press release dated August 13, 2025. The Compa",
+      "url": "https://financialpost.com/globe-newswire/real-estate-split-corp-announces-increased-preferred-share-distribution-rate",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:44:28 +0000",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762404"
+    },
+    {
+      "id": "3fdbd1b8f57b",
+      "title": "Liberals urged to increase penalties for intimate partner violence, murder",
+      "description": "Conservatives are pushing a private member's bill they say would combat intimate partner violence — just as a new report tracks how the problem has grown in recent years.",
+      "url": "https://globalnews.ca/news/11499046/intimate-partner-violence-murder-bill-liberals-conservatives-bailey-mccourt/",
+      "source": "Global Politics",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/10/7602b7a1ab60ca5a2585d8300b28deb7f90c9f3c9224b4bd7230fbf20edcca15_986a2f.jpg?quality=65&strip=all",
+      "published": "Tue, 28 Oct 2025 21:42:13 +0000",
+      "location": "World",
+      "category": "politics",
+      "fetched_at": "2025-10-28T22:18:11.323173"
+    },
+    {
+      "id": "33e98352eb04",
+      "title": "PWHL's Lansdowne capacity concerns 'ignored' by City of Ottawa, league says",
+      "description": "The event centre proposed for Lansdowne 2.0 redevelopment would provide about 5,500 seats with standing room bringing total capacity for hockey up to 6,600 fans.",
+      "url": "https://ottawacitizen.com/news/pwhl-lansdowne-capacity-concerns-ignored-ottawa",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:40:19 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.182049"
+    },
+    {
+      "id": "919d02b9b4e0",
+      "title": "Hurricane Melissa makes landfall in Jamaica as catastrophic Category 5 storm - CTV News",
+      "description": "Hurricane Melissa makes landfall in Jamaica as catastrophic Category 5 storm&nbsp;&nbsp;CTV NewsHurricane Melissa moving across western Jamaica, battering island with winds and heavy rain&nbsp;&nbsp;CBCStrong winds and flying debris as Hurricane Melissa makes landfall&nbsp;&nbsp;BBCHurricane Melissa",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR00xMnZQaGZ6bDcxdWlfWkxrQkxKdDAzWEdWUDJyWXFWc1NKZFIzZHR6Y3NvaFRqVTlhLWNOYmprb0N5MHBicllHOVRYU0doOElCTGxkZjNRX2preVU2WExBNjFUZUF6Nk56UHJOVVNaQU9qcVFzbXVJX0lCWUxhcTI4eE1Qb09kMm5DbW5TTGlDYWNsSHNpdjRZTHNEdnVlUUN5TEhOVWxGMl9Tbm4tUmtSOU0?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:39:56 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:13.553030"
+    },
+    {
+      "id": "d795dc2dff03",
+      "title": "ThreeD Capital Inc. Releases Results For the Year Ended June 30, 2025",
+      "description": "TORONTO, Oct. 28, 2025 (GLOBE NEWSWIRE) &#8212; ThreeD Capital Inc. (“ThreeD” or the “Company”) (CSE:IDK / OTCQX:IDKFF) a Canadian-based venture capital firm focused on opportunistic investments in companies in the junior resources and disruptive technologies sectors, is pleased to announce its audi",
+      "url": "https://financialpost.com/globe-newswire/threed-capital-inc-releases-results-for-the-year-ended-june-30-2025",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:34:26 +0000",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762435"
+    },
+    {
+      "id": "35683b9e06e0",
+      "title": "Petrolympic Announces Option Grant",
+      "description": "TORONTO, Oct. 28, 2025 (GLOBE NEWSWIRE) &#8212; Petrolympic Ltd. (TSX-V: PCQ) (OTC:PCQRF) (the “Company”), announces that a total of 1,950,000 options to purchase common shares of the Company have been granted to directors and officers of the Company at an exercise price of $0.10 per share, expiring",
+      "url": "https://financialpost.com/globe-newswire/petrolympic-announces-option-grant-5",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:34:20 +0000",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762465"
+    },
+    {
+      "id": "bf0bdceadc42",
+      "title": "Trump administration strips Nigerian Nobel winner Wole Soyinka of US visa",
+      "description": "The first African author to win the Nobel in literature, Soyinka has been an outspoken critic of governments worldwide.",
+      "url": "https://www.aljazeera.com/news/2025/10/28/trump-administration-strips-nigerian-nobel-winner-wole-soyinka-of-us-visa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:33:37 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-10-28T22:18:12.337250"
+    },
+    {
+      "id": "ed2a7dd3f290",
+      "title": "The Estée Lauder Companies Partners with Shopify to Reimagine Digital Beauty Commerce and Elevate Consumer Experiences",
+      "description": "Partnership with recognized tech leader will enable accelerated innovation and personalized omnichannel experiences NEW YORK &#8212; The Estée Lauder Companies Inc. (NYSE:EL) today announced a strategic partnership with Shopify Inc., a leading global commerce platform, to modernize its digital techn",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/the-estee-lauder-companies-partners-with-shopify-to-reimagine-digital-beauty-commerce-and-elevate-consumer-experiences",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:32:01 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.762513"
+    },
+    {
+      "id": "c328c64f026c",
+      "title": "Why Canada is about to lose the measles elimination status it has held since 1998",
+      "description": "Canada has tallied more than 5,000 cases this year, more than twice as many as the country recorded in the past 25 years combined",
+      "url": "https://nationalpost.com/news/canada/why-canada-is-about-to-lose-the-measles-elimination-status-it-has-held-since-1998",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:31:05 +0000",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.710950"
+    },
+    {
+      "id": "a2426fa6fa2f",
+      "title": "National conference on ending homelessness kicks off in Montreal, as mayoral candidate pledges new action",
+      "description": "As hundreds of experts, community leaders and advocates gather in Montreal this week for the National Conference on Ending Homelessness, the city’s homelessness crisis &#8212; and the urgent need for action &#8212; are taking centre stage both inside and outside the Palais des congrès. The conferenc",
+      "url": "https://montreal.citynews.ca/2025/10/28/conference-homelessness-montreal-mayoral-candidate/",
+      "source": "CityNews Montreal",
+      "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2025/10/Soraya-Martinez-Ferrada-2-1024x576.jpg",
+      "published": "Tue, 28 Oct 2025 21:27:07 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:13.837366"
+    },
+    {
+      "id": "8d78dca7f662",
+      "title": "Growing number of economists predict Liberal budget won’t shrink debt-to-GDP ratio",
+      "description": "Past Liberal governments under Trudeau frequently cited goal of lowering debt relative to size of economy",
+      "url": "https://www.theglobeandmail.com/politics/article-debt-to-gdp-ratio-federal-budget-liberals-mark-carney-champagne/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/4VNFZYUZNJHAVNDOGGDSMUOHXE.jpg?auth=2166626858c9285a85a2c435e1abbe14789eeae48d7c04a8ee765c5def69445b&smart=true&width=8175&height=5450",
+      "published": "Tue, 28 Oct 2025 21:25:35 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.640857"
+    },
+    {
+      "id": "489e1119a5f6",
+      "title": "Edmonton police charge seven in violent extortion case involving guns and arson",
+      "description": "Seven people are facing charges in what police say is another violent extortion plot involving guns and arson. Edmonton police on Tuesday announced a slew of charges after an investigation that began earlier this year after a shooting on the city&#8217;s south side. The shooting and a subsequent ars",
+      "url": "https://edmontonjournal.com/news/crime/edmonton-police-charge-7-extortion-guns-arson",
+      "source": "Edmonton Journal",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:20:50 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.271572"
+    },
+    {
+      "id": "01df2c708944",
+      "title": "Canadian studies set to be conducted on ISS. What to know",
+      "description": "The studies will examine such things as astronauts' mental health and how their bodies adapt to microgravity and cope with space anemia.",
+      "url": "https://globalnews.ca/news/11499048/canada-studies-international-space-station/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/10/824e374002a8f455b46ddd952cda753ca54845bd4cac82d8a90650c02e2befcb.jpg?quality=65&strip=all",
+      "published": "Tue, 28 Oct 2025 21:20:12 +0000",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.326117"
+    },
+    {
+      "id": "06d0374ea424",
+      "title": "By the numbers: Blue Jays-Dodgers 18-inning World Series classic",
+      "description": "The Toronto Blue Jays fell just short on Monday night, losing 6-5 in 18 innings to the Los Angeles Dodgers in Game 3 of the World Series. The Dodgers took a 2-1 series lead in a game that saw several eye-popping numbers produced. Here are some numbers to know from a showdown to remember: 18: The num",
+      "url": "https://toronto.citynews.ca/2025/10/28/by-the-numbers-blue-jays-dodgers-18-inning-world-series-classic/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:15:55 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:13.254908"
+    },
+    {
+      "id": "0a654c0567d5",
+      "title": "Ottawa pushes to become Canada’s defence innovation hub",
+      "description": "Invest Ottawa unveils strategy it hopes will unlock $3 billion in investment across the National Capital Region. The post Ottawa pushes to become Canada’s defence innovation hub first appeared on BetaKit.",
+      "url": "https://betakit.com/ottawa-pushes-to-become-canadas-defence-innovation-hub/",
+      "source": "BetaKit",
+      "image": "https://cdn.betakit.com/wp-content/uploads/2025/10/Sutcliffe-and-Shorey-LinkedIn-pic-150x150.jpg",
+      "published": "Tue, 28 Oct 2025 21:12:19 +0000",
+      "location": "Ottawa",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:13.352527"
+    },
+    {
+      "id": "65e2ef52a44f",
+      "title": "New West police arrest two youths in robbery",
+      "description": "Police in New Westminster say officers arrested two youths in a suspected robbery in Moody Park on Sunday.",
+      "url": "https://vancouver.citynews.ca/2025/10/28/new-west-police-arrest-youths-robbery/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:11:54 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.043261"
+    },
+    {
+      "id": "05aad2820682",
+      "title": "Ford government ‘working on’ anti-scalping plan, unlikely to be in place for Blue Jays games",
+      "description": "As tickets to catch a moment of the Toronto Blue Jays' post-season run sold for thousands, Ford had mused about reviving anti-scalping legislation.",
+      "url": "https://globalnews.ca/news/11498948/ontario-anti-scalping-legislation-toronto-blue-jays/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/09/16c464c37d6fa6aa2aa9738c2c31a358be5223f42e2db847292663042d781fcb.jpg?quality=65&strip=all",
+      "published": "Tue, 28 Oct 2025 21:06:07 +0000",
+      "location": "Toronto",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.326135"
+    },
+    {
+      "id": "1cf4aa110506",
+      "title": "Lost your earbuds? You may have info for Ottawa police about an unsolved homicide",
+      "description": "Police say the owner of the earbuds may have information relevant to a stabbing death on Oct. 2.",
+      "url": "https://ottawacitizen.com/news/earbuds-ottawa-police-unsolved-homicide",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:03:18 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.182078"
+    },
+    {
+      "id": "3fa9a260fce4",
+      "title": "Aurora expands self-driving trucks route to El Paso",
+      "description": "Aurora's first driverless route was from Dallas to Houston. This next one is Fort Worth to El Paso.",
+      "url": "https://techcrunch.com/2025/10/28/aurora-expands-self-driving-trucks-route-to-el-paso/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:02:55 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:11.391152"
+    },
+    {
+      "id": "951c5083b4e0",
+      "title": "What the Cowichan decision really means, and how we move forward together",
+      "description": "Niki Sharma and Spencer Chandra-Herbert: The fact is, you can respect Aboriginal title and protect private property",
+      "url": "https://vancouversun.com/opinion/op-ed/what-the-cowichan-decision-really-means-and-how-we-move-forward-together",
+      "source": "Vancouver Sun",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 21:00:35 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:13.855774"
+    },
+    {
+      "id": "3987f11ff10d",
+      "title": "US military kills 14 in attacks on vessels in the Pacific, according to Hegseth",
+      "description": "US says one person survived latest strikes, having killed 51 people in attacks on at least 13 vessels in recent weeksUS politics live – latest updatesThe US military killed 14 people and left one survivor in more strikes on alleged drug-trafficking boats in the eastern Pacific, the defense secretary",
+      "url": "https://www.theguardian.com/us-news/2025/oct/28/latest-boat-strikes-caribbean-hegseth-trump",
+      "source": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/465bf8413920e419e597f55cbf6220fb212f4798/499_0_2524_2020/master/2524.jpg?width=140&quality=85&auto=format&fit=max&s=de327bfae0d1b80ef500e896ed9934d7",
+      "published": "Tue, 28 Oct 2025 20:59:21 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-10-28T22:18:12.751131"
+    },
+    {
+      "id": "77882a33d4a6",
+      "title": "Eye of Hurricane Melissa exits Jamaica, heads towards Cuba",
+      "description": "World Meteorological Organization dubs slow-moving Melissa the ‘storm of the century’ as Cuba braces for impact.",
+      "url": "https://www.aljazeera.com/news/2025/10/28/catastrophic-category-5-hurricane-melissa-makes-landfall-in-jamaica?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:58:37 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-10-28T22:18:12.337308"
+    },
+    {
+      "id": "476c8583055f",
+      "title": "Police seize dozens of weapons, drugs in Calgary trafficking investigation",
+      "description": "A month-long drug trafficking investigation in Calgary has led to the arrest of two men and the seizure of more than $40,000 worth of drugs, cash, and weapons. Calgary police launched an investigation in September 2025, which led officers to execute a search warrant at a home along 42 Street SE in t",
+      "url": "https://calgary.citynews.ca/2025/10/28/calgary-police-seize-weapons-drugs-se-home/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:53:26 +0000",
+      "location": "Calgary",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:13.958992"
+    },
+    {
+      "id": "bf66fd4b68bf",
+      "title": "‘Strengthening ties’: Sask. internal trade bill to allow mutual recognition of goods",
+      "description": "A new act introduced by the provincial government aims to strengthen Saskatchewan's interprovincial trade relationships, the trade and export minister says.",
+      "url": "https://globalnews.ca/news/11498378/saskatchewan-internal-trade-bill-announcement/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2023/04/20230420150428-644192533c40bffb56c80265jpeg-1.jpg?quality=65&strip=all",
+      "published": "Tue, 28 Oct 2025 20:46:43 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.326160"
+    },
+    {
+      "id": "09f88152a556",
+      "title": "Canada Post lays off dozens of managers amidst restructuring push - Toronto Star",
+      "description": "Canada Post lays off dozens of managers amidst restructuring push&nbsp;&nbsp;Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUDlCS01yUlhWRG91OUFnTmxJUENwVkJsempsVnRYZjA0N09NLXRnQ0Y1ekxMb1pJRXR2UlJDSGRibC1ORGRnNG5RWUZGaUxpYURVMDI5aXdxQ0RHTXhnbkZpejhsWUdTcWhhVWJnc3cxRlhMYU1hRkcxVHlvOGtjaDRVaXRBV1RHQXhzV1pKcFNuVEVUd2pJcjI2TEktamFtQW5FSWZ0bVhvN0VUdF91TGxXOEE3V0EtTWY5aUw4dVRDeERBcnpTZFlVX05uU25qdEFGVWdIVFFWUWg3bHlOckdR?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:45:00 GMT",
+      "location": "Toronto",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:13.623159"
+    },
+    {
+      "id": "3c24569349a5",
+      "title": "Mirror’s founder is back with a new ‘connected screen’ startup: a gaming device called ‘Board’",
+      "description": "Mirror's founder is back with a connected gaming startup called Board that combines board games and video games.",
+      "url": "https://techcrunch.com/2025/10/28/mirrors-founder-is-back-with-a-new-connected-screen-startup-a-gaming-device-called-board/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:45:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:11.391202"
+    },
+    {
+      "id": "19a1e3b1f628",
+      "title": "Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with U.S. government - CBC",
+      "description": "Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with U.S. government&nbsp;&nbsp;CBCCameco shares soar after company and Brookfield sign nuclear reactor deal with U.S.&nbsp;&nbsp;Toronto StarCameco and Brookfield sign deal with U.S. government to help build reactors&nbsp;&nbsp;Cit",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHZ2dmZyVUd1NjhKS2o0UDJZSi1MMzU5M3UxYkpkVWdJNVBpME00aGtBd2ppWFR2cG82U0FxM0pjcmRlc1g0dFc2NTV1Sl9USVhoLW5VUjgtNi1SZFNDZFJIVElUdDNRMkZ3Y0pHQkF1ZFdmZGtmd3FTNEhXdWNhRS1hV3lrLWMyMlNROHpB?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:41:36 GMT",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:13.768571"
+    },
+    {
+      "id": "2755b60027d0",
+      "title": "'Forever Canadian' petition surpasses goal, collects 456K signatures - CBC",
+      "description": "'Forever Canadian' petition surpasses goal, collects 456K signatures&nbsp;&nbsp;CBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbl9ZOVdacmFRTDEwTmN3N2ppUVBHcnRQUlZOU3hNM1luS1NlRXg3MGw2VjNqMnpBTW5vY1N5TlZHTWJGUFJ4NzFaYy01VXF5V0ZncHp2MWRpeW4yRW0yLUQ0a05mblpoQmhTODRFbWFPdWVvRVQ2eTFNcHU3SGJTQWJMWmh3NnIzWnlSUF9RbmttZVE?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:41:10 GMT",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:13.623191"
+    },
+    {
+      "id": "f012b9cad0be",
+      "title": "Family of slain B.C. woman to discuss intimate partner violence bill with justice minister",
+      "description": "The bill, if passed, would establish GPS monitoring and a registry for convicted domestic offenders",
+      "url": "https://nationalpost.com/news/canada/family-of-slain-kelowna-woman-to-discuss-intimate-partner-violence-bill-with-justice-minister",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:37:21 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.711005"
+    },
+    {
+      "id": "0b7e0d9c3acc",
+      "title": "Chris Selley: Ontario’s ticket-scalping debate could not be dumber",
+      "description": "No major political party in the province supports letting people sell luxury goods for what people are willing to pay",
+      "url": "https://nationalpost.com/opinion/selley-blue-jays-world-series-ontarios-ticket-scalping-debate",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:35:51 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.711061"
+    },
+    {
+      "id": "bb88d4c692cb",
+      "title": "Recount confirms Jeromy Farkas as Calgary’s new mayor",
+      "description": "Elections Calgary has completed a recount of votes cast in last week's mayoral election and the results confirm that Jeromy Farkas will be the city's new mayor.",
+      "url": "https://globalnews.ca/news/11498883/jeromy-farkas-calgary-new-mayor/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/10/c973a0fab85d01e9169c2192d1d271f09ea7bd54d20765f634ee787035d48132_9bb769.jpg?quality=65&strip=all",
+      "published": "Tue, 28 Oct 2025 20:35:11 +0000",
+      "location": "Calgary",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:11.326182"
+    },
+    {
+      "id": "3b127b3a6f9d",
+      "title": "Grandparents raising 36 children after losing sons in Gaza war",
+      "description": "Hamed and Rida Aliwa have taken up the responsibility of raising dozens of their grandchildren after losing their sons.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/grandparents-raising-36-children-after-losing-sons-in-gaza-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:32:39 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-10-28T22:18:12.337341"
+    },
+    {
+      "id": "338440cd2e7c",
+      "title": "These Blue Jays ticket prices are too high. We must do something",
+      "description": "The resale business has so badly distorted the market that only those with the deepest pockets can afford event tickets",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-blue-jays-ticket-price-world-series-too-high-resale/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/EJFY3RNZZJAIRH5IBXGQLO67IM.JPG?auth=5f6794270cf096fdb11878d13ede9a75156d6f95eaff0a5f6bdda0216bba8393&smart=true&width=3000&height=2001",
+      "published": "Tue, 28 Oct 2025 20:31:05 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:11.640903"
+    },
+    {
+      "id": "ced96cb5f226",
+      "title": "South Africa force Pakistan collapse as Babar out for a duck on T20 return",
+      "description": "South Africa win opening T20 against Pakistan by 55 runs as hosts&#039; dire form continues despite Babar Azam&#039;s comeback.",
+      "url": "https://www.aljazeera.com/sports/2025/10/28/south-africa-force-pakistan-collapse-as-babar-out-for-a-duck-on-t20-return?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:30:53 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-10-28T22:18:12.337371"
+    },
+    {
+      "id": "65d7a48efa72",
+      "title": "‘Storm of the century’: record-breaking Hurricane Melissa hits Jamaica",
+      "description": "Government says it has done all it can to prepare for strongest hurricane in country since records beganHurricane Melissa – latest updatesHurricane Melissa has made landfall in Jamaica, where sheltering residents braced themselves against ferocious winds, heavy flood waters and landslides from the c",
+      "url": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
+      "source": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/890d152464797e466186f66ffec97e0a8e1f24ac/535_0_5352_4281/master/5352.jpg?width=140&quality=85&auto=format&fit=max&s=e7d16d384d46b30cea939cfb5e69914b",
+      "published": "Tue, 28 Oct 2025 20:30:18 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-10-28T22:18:12.751190"
+    },
+    {
+      "id": "b06f583511a5",
+      "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
+      "description": "Footage shows emergency crews rescuing civilians from rubble after Israel carried out new strikes across Gaza City.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:27:06 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-10-28T22:18:12.337400"
+    },
+    {
+      "id": "25a7ba316dc9",
+      "title": "'Put separatism to bed': More than 450,000 signatures collected for petition to keep Alberta in Canada - Edmonton Journal",
+      "description": "'Put separatism to bed': More than 450,000 signatures collected for petition to keep Alberta in Canada&nbsp;&nbsp;Edmonton Journal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHpqMHBjS29admVadVpSY2lWeEcxdmx3RFh1WDRsaHVnTTRBUWtBaWJld09waF9Dbnl4OHFDVHdOUUdWY19yYzJqX3RsWnQ1bG5sekloWU1PcFFIZ0JZZjlvT1R4SkVSeXlwYjlmSmMtZEkwV1dVR05YM2F6VFlwYW00Y2F6ZnpJTXJsQk1WcTBabU5uT1RNLXlFOG54Smc?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:26:15 GMT",
+      "location": "Edmonton",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:13.623226"
+    },
+    {
+      "id": "ed4d6b0296d5",
+      "title": "Canada Post says layoffs aim to ‘align our management team’ amid overhaul - National - Global News",
+      "description": "Canada Post says layoffs aim to ‘align our management team’ amid overhaul - National&nbsp;&nbsp;Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbjlFcUI3MUthcnlJZlU1aHp4R1BKMFRIajZiNjJVM2xWSUlHc01kaFFGdUIxZTdwajhiOU5ZSE1uOXp2NnBPeUhpeGVQSl95NE40bTdLNDlxc0JJemVZSjZRNm9WNmtEZ3FZUHQ0TzVRVnl1ekVlN256UnpicUlTNGtDcWF4dw?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:19:18 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:13.623266"
     },
     {
       "id": "208a28af3872",
       "title": "Canada Post says layoffs aim to ‘align our management team’ amid overhaul",
       "description": "The company said the changes 'will align with the government’s expectation that leadership and structural change from within the Corporation is essential.'",
       "url": "https://globalnews.ca/news/11498257/canada-post-cuts-service-managers-cupw-mps/",
-      "source": "Global News",
+      "source": "Global Politics",
       "image": "https://globalnews.ca/wp-content/uploads/2025/08/66f397c9936384d2a0684c0e50985184041476d6c1dca397d884b9363c31172c.jpg?quality=65&strip=all",
       "published": "Tue, 28 Oct 2025 20:19:18 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993170"
+      "category": "politics",
+      "fetched_at": "2025-10-28T22:18:11.323243"
     },
     {
-      "id": "c4623cac0c98",
-      "title": "Xali Gold Outlines Plans for Pico Machay Gold Project in Peru",
-      "description": "VANCOUVER, British Columbia, Oct. 28, 2025 (GLOBE NEWSWIRE) &#8212; Xali Gold Corp. (TSXV:XGC) (&#8220;Xali Gold” or the “Company”) is pleased to announce plans to advance the Pico Machay Gold Project (“Pico Machay” or the “Project”) in Central Peru. The Project is under acquisition through a Share ",
-      "url": "https://financialpost.com/globe-newswire/xali-gold-outlines-plans-for-pico-machay-gold-project-in-peru",
-      "source": "Financial Post",
+      "id": "a2ad0886e9bd",
+      "title": "Amnesty International Canada condemns Alberta government’s use of notwithstanding clause in Bill 2 - Amnesty International Canada",
+      "description": "Amnesty International Canada condemns Alberta government’s use of notwithstanding clause in Bill 2&nbsp;&nbsp;Amnesty International Canada",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MDBiLXd1SHVzRkdNcnZDZTFObi1hMG5CR25hMkFBbm5FMXZBM3BNalhYR2FfbV9aNUpjQy1iUkxYdUp3b1FXV0FBZXNQTzI0RnowNlVLQnFLQU9YUWhFd1pLYmVvR1JHeHM4VWxJMkJZWERGejlzX2hZMDk?oc=5",
+      "source": "Google News Canada",
       "image": "",
-      "published": "Tue, 28 Oct 2025 20:13:42 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.793989"
+      "published": "Tue, 28 Oct 2025 20:17:44 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:13.623416"
+    },
+    {
+      "id": "7410df454c1b",
+      "title": "Woman linked to abandoned newborn death in Longueuil released from police custody",
+      "description": "“For now, the focus is on services tailored to her psychological and medical condition,” said police spokesperson Marie Beauvais-Lavoie.",
+      "url": "https://montrealgazette.com/news/crime/woman-linked-to-abandoned-newborn-death-in-longueuil-released-from-police-custody",
+      "source": "Montreal Gazette",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:17:25 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.052933"
+    },
+    {
+      "id": "7a0f968b8ca1",
+      "title": "Video evidence of atrocities emerges as Sudan’s RSF seizes el-Fasher",
+      "description": "Video evidence of mass atrocities in el-Fasher has quickly emerged after the Rapid Support Forces seized the city.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/video-evidence-of-atrocities-emerges-as-sudans-rsf-seize-el-fasher?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 20:16:52 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-10-28T22:18:12.337431"
     },
     {
       "id": "32009edb5049",
@@ -72,43 +792,31 @@
       "published": "Tue, 28 Oct 2025 20:13:21 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960330"
+      "fetched_at": "2025-10-28T22:18:14.271607"
     },
     {
-      "id": "734a8f2c1e7f",
-      "title": "SS&C Introduces AI Agents to Simplify Financial Services and Healthcare Operations",
-      "description": "Proven, prebuilt AI agents from a leader in responsible AI governance enable first adopter, American Life &#38; Security Corp., to streamline private credit operations WINDSOR, Conn. &#8212; SS&#38;C Technologies Holdings, Inc. (Nasdaq: SSNC) today announced the launch of its AI agent catalogue for ",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ssc-introduces-ai-agents-to-simplify-financial-services-and-healthcare-operations",
-      "source": "Financial Post",
+      "id": "2bfca1d13187",
+      "title": "What’s happening with Canada Post strike? Manager layoffs, business group calls for binding arbitration, rotating strikes continue - Inside Halton",
+      "description": "What’s happening with Canada Post strike? Manager layoffs, business group calls for binding arbitration, rotating strikes continue&nbsp;&nbsp;Inside Halton",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFJESVdyLXJ6LXhPT0piODlUSzV1TnAzNUNXY20yRGNLQWJsTVUtcFZBUjVHQ1EwbllVTTQwaDJVSzBxcXFzSHhqa1FlT1pydTFsSmlUalJfeGsyZVRxYTJxWTVWRk5RT20xNEN0MFRpcE9KNkhjeTloemVSVjJQb2VtcUhKU2xOQmtka3JtQU5sRVJ2M1p6X2QxUTVTVWl4WlZRY2VNLTYzaWNjZ1Fr?oc=5",
+      "source": "Google News Canada",
       "image": "",
-      "published": "Tue, 28 Oct 2025 20:10:55 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.794042"
+      "published": "Tue, 28 Oct 2025 20:08:00 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-10-28T22:18:13.623122"
     },
     {
-      "id": "36d293a7ff17",
-      "title": "IQM collaborates with NVIDIA on NVQLink to enable scalable quantum error correction",
-      "description": "Collaboration underscores commitment in scaling one of the key challenges to useful quantum computing applications ESPOO, Finland &#8212; IQM Quantum Computers, a global leader in superconducting quantum computers, today announced it will integrate NVIDIA’s NVQLink into its quantum computers to scal",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/iqm-collaborates-with-nvidia-on-nvqlink-to-enable-scalable-quantum-error-correction",
-      "source": "Financial Post",
+      "id": "03eec2e8b33e",
+      "title": "Nvidia will build AI supercomputers for US Energy Department, announces total bookings of $500 billion By Reuters - Investing.com",
+      "description": "Nvidia will build AI supercomputers for US Energy Department, announces total bookings of $500 billion By Reuters&nbsp;&nbsp;Investing.comThe world’s most valuable public company just laid out its vision for the future&nbsp;&nbsp;CNNPalantir and NVIDIA Team Up to Operationalize AI — Turning Enterpri",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeUlfZWloQzFSNmJEODN4VWVMclNLa3VpZVFISE5NSGJhOVhxb2pNX1lSTk5laVN0R3VTcHFvYVFDTnBfT3ZUQ3lJRThPN2VmeGswNDZjT0VKaHp0dW5fSVZ1VnJMa2UwcGRTWGNtNlBPV1UwOWFwRE9RUzA0a3FsaURuSnZoX0pVcHMyN3ZfeDd0QldtTVFoaWNUQUtxVUhXd2N0akw1QmZfSWJYdUd1dDJFS1kxVTh0aGszUGhDMUUxNlR3cEM5V2Zsb0xabzNvZ0Nr?oc=5",
+      "source": "Google News Business",
       "image": "",
-      "published": "Tue, 28 Oct 2025 20:10:50 +0000",
-      "location": "World",
+      "published": "Tue, 28 Oct 2025 20:07:57 GMT",
+      "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.794092"
-    },
-    {
-      "id": "8abc9bd53a38",
-      "title": "Tesla eyes internal CEO candidates if Musk leaves over pay vote",
-      "description": "The EV maker has a 'range of different alternatives out there,' including having more than one person run the company",
-      "url": "https://financialpost.com/fp-work/tesla-eyes-internal-ceo-candidates-if-musk-leaves-over-pay-vote",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 20:08:50 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.794126"
+      "fetched_at": "2025-10-28T22:18:13.769027"
     },
     {
       "id": "e3bcde10d940",
@@ -120,7 +828,7 @@
       "published": "Tue, 28 Oct 2025 20:06:25 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124022"
+      "fetched_at": "2025-10-28T22:18:12.337460"
     },
     {
       "id": "68528e7bba01",
@@ -132,7 +840,7 @@
       "published": "Tue, 28 Oct 2025 20:04:36 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526021"
+      "fetched_at": "2025-10-28T22:18:13.855888"
     },
     {
       "id": "5386357d9974",
@@ -144,7 +852,7 @@
       "published": "Tue, 28 Oct 2025 20:01:59 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207123"
+      "fetched_at": "2025-10-28T22:18:12.182338"
     },
     {
       "id": "4276b87b36eb",
@@ -156,23 +864,11 @@
       "published": "Tue, 28 Oct 2025 20:00:52 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739594"
-    },
-    {
-      "id": "e70c27e19f62",
-      "title": "Alberta students expected to return to the classroom Wednesday",
-      "description": "Students are expected to return to class on Wednesday after the Alberta government passed back-to-work legislation, forcing an end to the four-week teachers' strike.",
-      "url": "https://globalnews.ca/news/11498508/alberta-students-expected-to-return-to-the-classroom-wednesday/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/classroom-3_1_1.jpg?quality=65&strip=all",
-      "published": "Tue, 28 Oct 2025 19:58:48 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993205"
+      "fetched_at": "2025-10-28T22:18:14.052970"
     },
     {
       "id": "fbd8637a982b",
-      "title": "Brazil: at least 60 reported killed in Rio’s worst day of violence amid police favela raids",
+      "title": "Brazil: at least 64 reported killed in Rio’s worst day of violence amid police favela raids",
       "description": "Governor says city ‘at war’ after gunfights between troops and Red Command drug traffickers who reportedly used weaponised dronesAt least 64 people have reportedly been killed in Rio’s worst-ever day of violence as more than 2,500 officers and special forces stormed an area of favelas near Rio’s int",
       "url": "https://www.theguardian.com/world/2025/oct/28/brazil-rio-at-war-police-drug-raids-favelas",
       "source": "The Guardian",
@@ -180,31 +876,7 @@
       "published": "Tue, 28 Oct 2025 19:55:00 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.597483"
-    },
-    {
-      "id": "9a5a19f99369",
-      "title": "Dodgers vs. Blue Jays, Game 4 tonight: How to watch the 2025 MLB World Series without cable - Engadget",
-      "description": "Dodgers vs. Blue Jays, Game 4 tonight: How to watch the 2025 MLB World Series without cable&nbsp;&nbsp;EngadgetDodgers 6-5 Blue Jays (Oct 27, 2025) Final Score&nbsp;&nbsp;ESPNToronto Blue Jays fans: How and where you can catch Game 4 of the World Series tonight&nbsp;&nbsp;Toronto StarToronto Blue Ja",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYi0zalpRb2pqU21rRlRyTDNXdVdRQlFMX0pMNUVuZVFBV19FZjNIQ2xmVnptaW1ZbXdRcDJHZmFBODJudjlFTThscVRPVS1KbWZpM2FCU3JSa0J0QWgxWmxyUEY2YlZfSEh6LWJROEVaVDhTZUJCTUhzQTVueDB3NjJuWk9nTko3NGxhbFhzVkphSXB2X28yNG0yT21oTXByYnVCV0NFTHMxYktzN3paREUxMGZHbjM2eXExNDlsMmt0dmhpaUR1ZWFmVW9icGE2T3RhOHY3SXgwb3JKVklka3ZtSnc4eVk?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:52:56 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2025-10-28T20:21:32.105405"
-    },
-    {
-      "id": "8477eebc6403",
-      "title": "Canadian steel industry: ‘People are uncertain’ amid U.S. trade war",
-      "description": "After a turbulent year for Canada&#8217;s steel industry, now facing more tariff uncertainty under U.S. President Donald Trump, the Canadian Institute of Steel Construction (CISC) is gathering industry leaders this week in Montreal for its annual steel conference. Organizers say the goal of the conf",
-      "url": "https://ottawa.citynews.ca/2025/10/28/canadian-steel-industry-montreal-conference/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:52:49 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635132"
+      "fetched_at": "2025-10-28T22:18:12.751238"
     },
     {
       "id": "50017ac4c4fe",
@@ -216,7 +888,19 @@
       "published": "Tue, 28 Oct 2025 19:52:49 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990459"
+      "fetched_at": "2025-10-28T22:18:13.837456"
+    },
+    {
+      "id": "8477eebc6403",
+      "title": "Canadian steel industry: ‘People are uncertain’ amid U.S. trade war",
+      "description": "After a turbulent year for Canada&#8217;s steel industry, now facing more tariff uncertainty under U.S. President Donald Trump, the Canadian Institute of Steel Construction (CISC) is gathering industry leaders this week in Montreal for its annual steel conference. Organizers say the goal of the conf",
+      "url": "https://ottawa.citynews.ca/2025/10/28/canadian-steel-industry-montreal-conference/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 19:52:49 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.016134"
     },
     {
       "id": "af52cc4106ac",
@@ -228,19 +912,7 @@
       "published": "Tue, 28 Oct 2025 19:52:49 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065506"
-    },
-    {
-      "id": "2fabb3c454ae",
-      "title": "Layoffs are piling up, raising worker anxiety. Here are some companies that have cut jobs recently",
-      "description": "NEW YORK (AP) &#8212; It&#8217;s a tough time for the job market. Amid wider economic uncertainty, some analysts have said that businesses are at a &#8220;no-hire, no fire&#8221; standstill. That&#8217;s caused many to limit new work to only a few specific roles, if not pause openings entirely. At t",
-      "url": "https://financialpost.com/pmn/layoffs-are-piling-up-raising-worker-anxiety-here-are-some-companies-that-have-cut-jobs-recently",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:51:34 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.794163"
+      "fetched_at": "2025-10-28T22:18:14.214905"
     },
     {
       "id": "c4fc30c35f94",
@@ -252,19 +924,19 @@
       "published": "Tue, 28 Oct 2025 19:50:33 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.290117"
+      "fetched_at": "2025-10-28T22:18:11.640925"
     },
     {
-      "id": "701c2e312772",
-      "title": "Ford government to limit debate, skip public hearings on bill to scrap speed cameras",
-      "description": "Government House Leader Steve Clark is proposing to fast track a red tape reduction bill that includes banning speed cameras, a labour bill and an emergency management bill.",
-      "url": "https://globalnews.ca/news/11498873/ontario-skip-committee-speed-camera-ban/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/af2b43d7247fa96acb6b79c9d2d60b08d3fbfc6fa51cd61506e17a2602906616_f9f268.jpg?quality=65&strip=all",
-      "published": "Tue, 28 Oct 2025 19:47:42 +0000",
-      "location": "World",
+      "id": "f8c203c1d206",
+      "title": "’Forever Canadian’ petition surpasses goal, collects 456K signatures - Radio-Canada",
+      "description": "’Forever Canadian’ petition surpasses goal, collects 456K signatures&nbsp;&nbsp;Radio-Canada",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVRhbGpBcWNiVlljbW0zbjlQRkpVMXVJSXVrNzVTYi1kWmtCNXh5UGQ5NUx0dkl5Ukp5MU9EeDRFM0hCZ1RvUFc0ZGI1dXNrY0NhYTVjYW5QYnVWbl9iYjNieVVhb1lhcGl1Q29LQmhtaEFrSHdFUVhyV0JmdjNGMWFWYld0dG4xV2IwMlRqWGltM2xYRG1Vc1MwSEdWdGFjbHU3U3BGYVlnZlhCSzJjRnRvWQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 19:47:52 GMT",
+      "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993233"
+      "fetched_at": "2025-10-28T22:18:13.623338"
     },
     {
       "id": "a6ad8525f3c6",
@@ -276,11 +948,11 @@
       "published": "Tue, 28 Oct 2025 19:47:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.060600"
+      "fetched_at": "2025-10-28T22:18:11.391256"
     },
     {
       "id": "6f5b2e55be66",
-      "title": "Police operation in Rio de Janeiro favelas leaves dozens dead",
+      "title": "Police operation in Rio de Janeiro favelas leaves at least 60 people dead",
       "description": "The raid is already being called the most lethal police action in the history of the state of Rio de Janeiro, Brazil.",
       "url": "https://www.aljazeera.com/news/2025/10/28/police-operation-in-rio-de-janeiro-favelas-leaves-dozens-dead?traffic_source=rss",
       "source": "Al Jazeera",
@@ -288,43 +960,7 @@
       "published": "Tue, 28 Oct 2025 19:46:30 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124059"
-    },
-    {
-      "id": "7b67a703229b",
-      "title": "The Bank of Canada could cut rates again. It likely won’t help food prices",
-      "description": "As many Canadians struggle with affording essentials like food, experts say an interest rate cut by the Bank of Canada could help consumers, but not as much for grocery prices.",
-      "url": "https://globalnews.ca/news/11498632/food-inflation-bank-of-canada/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/07/6P-VICTORIA-US-PRODUCE-_OM01ESPT.jpg?quality=65&strip=all",
-      "published": "Tue, 28 Oct 2025 19:45:44 +0000",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993261"
-    },
-    {
-      "id": "4d7e28e02440",
-      "title": "Paramedic assaulted while refuelling ambulance at Kamloops gas station",
-      "description": "'It's even more troubling when our members are victims of violence, because we are truly there to help people and nothing else,' Ian Tait with the Ambulance Paramedics of BC said.",
-      "url": "https://globalnews.ca/news/11498709/paramedic-assaulted-refueling-ambulance-kamloops-gas-station/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2024/10/CP169033296.jpg?quality=65&strip=all",
-      "published": "Tue, 28 Oct 2025 19:43:57 +0000",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993282"
-    },
-    {
-      "id": "e9a36084ed26",
-      "title": "Creepy Halloween prank perpetrators unmasked: It was family, police say",
-      "description": "'While this case may not result in prosecution, it represents a serious moral failure,' said the local police chief.",
-      "url": "https://globalnews.ca/news/11498689/doorbell-footage-trio-halloween-masks-threats-virginia-caught/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/virginia-halloween-masks-ring-camera.jpg?quality=65&strip=all",
-      "published": "Tue, 28 Oct 2025 19:43:24 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993304"
+      "fetched_at": "2025-10-28T22:18:12.337510"
     },
     {
       "id": "e0a97bda7603",
@@ -336,19 +972,19 @@
       "published": "Tue, 28 Oct 2025 19:40:08 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.185687"
+      "fetched_at": "2025-10-28T22:18:13.254955"
     },
     {
-      "id": "d6bc241745c9",
-      "title": "Port of Saint John trying to position itself as East Coast’s next major gateway",
-      "description": "With major upgrades and carrier partnerships, Saint John is eyeing growth beyond Montreal and Halifax",
-      "url": "https://financialpost.com/news/economy/port-of-saint-john-east-coast-next-major-gateway",
-      "source": "Financial Post",
+      "id": "f75fd0c4d0c1",
+      "title": "What is the notwithstanding clause? An explainer on the rarely used provision",
+      "description": "The Alberta government on Monday invoked the notwithstanding clause in legislation ordering 51,000 striking teachers back to work. Premier Danielle Smith said it was needed because of the size of the strike — the largest in Alberta history — and the need for labour stability in schools. Here is a lo",
+      "url": "https://calgary.citynews.ca/2025/10/28/what-is-the-notwithstanding-clause/",
+      "source": "CityNews Calgary",
       "image": "",
-      "published": "Tue, 28 Oct 2025 19:32:14 +0000",
-      "location": "Montreal",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.794192"
+      "published": "Tue, 28 Oct 2025 19:36:54 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:13.959047"
     },
     {
       "id": "c7fc15bb1cfa",
@@ -360,19 +996,7 @@
       "published": "Tue, 28 Oct 2025 19:30:00 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124096"
-    },
-    {
-      "id": "d4f7a4bbee3f",
-      "title": "Who will be Canada's Top 10 Labour and Employment Boutiques in 2026–27? - Canadian Lawyer Mag",
-      "description": "Who will be Canada's Top 10 Labour and Employment Boutiques in 2026–27?&nbsp;&nbsp;Canadian Lawyer Mag",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFJielhCUU1ORDI3TGVSYWliamdoUnhnVkVmUHpqTnoycTY0SUNqWmpuclZKakI5RG1qNjZJbUJwQm5PbEQ2Ri04N3BuWnNNb3lOWDhvUGdiRUZZeTdsVDRJNXk3TE8xT0ZaNjR5ak52ZWlMR3J3eHRRVE1lNlAyakExMmZ4QWZKSDFvNTlNM3ZaVGhnWi1wVUtsMTV2SHN2ZUxuZGVTR3h6SDdPdVFVVExoa1hMZkh4ODNIb0NNVQ?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:28:27 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.254013"
+      "fetched_at": "2025-10-28T22:18:12.337544"
     },
     {
       "id": "d490d133da78",
@@ -384,55 +1008,7 @@
       "published": "Tue, 28 Oct 2025 19:27:57 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.290147"
-    },
-    {
-      "id": "12ff83bf95bc",
-      "title": "KFC’s plan to catch up in the fried chicken wars: ditch the bones",
-      "description": "A failure to successfully pivot would mean missing out on consumers’ seemingly insatiable taste for chicken",
-      "url": "https://financialpost.com/news/retail-marketing/kfcs-plan-fried-chicken-wars",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:27:43 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.794224"
-    },
-    {
-      "id": "25c0cd3de2de",
-      "title": "Canucks’ Hughes to miss second game with injury",
-      "description": "Vancouver Canucks captain Quinn Hughes is set to miss a second straight game Tuesday when his team hosts the New York Rangers.",
-      "url": "https://globalnews.ca/news/11498826/canucks-hughes-to-miss-second-game-with-injury/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/5a4ec4b88300d8012d31e3207e609358edc2954b31bad4d4fc31d23c8f673194.jpg?quality=65&strip=all",
-      "published": "Tue, 28 Oct 2025 19:26:54 +0000",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993323"
-    },
-    {
-      "id": "f8e0aff99281",
-      "title": "Howard Levitt: The scariest thing about Halloween is the office party",
-      "description": "Every year, well-intentioned managers end up in our office wondering how their good intentions turned into a legal nightmare",
-      "url": "https://financialpost.com/fp-work/office-partty-scariest-thing-about-halloween",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:24:54 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.794252"
-    },
-    {
-      "id": "65d7a48efa72",
-      "title": "‘Storm of the century’: record-breaking Hurricane Melissa hits Jamaica",
-      "description": "Government says it has done all it can to prepare for strongest hurricane in country since records beganHurricane Melissa – latest updatesHurricane Melissa has made landfall in Jamaica, where sheltering residents braced themselves against ferocious winds, heavy flood waters and landslides from the c",
-      "url": "https://www.theguardian.com/world/2025/oct/28/hurricane-melissa-makes-landfall-in-jamaica",
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/890d152464797e466186f66ffec97e0a8e1f24ac/535_0_5352_4281/master/5352.jpg?width=140&quality=85&auto=format&fit=max&s=e7d16d384d46b30cea939cfb5e69914b",
-      "published": "Tue, 28 Oct 2025 19:23:43 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.597534"
+      "fetched_at": "2025-10-28T22:18:11.640950"
     },
     {
       "id": "f84b7202ca3c",
@@ -444,7 +1020,7 @@
       "published": "Tue, 28 Oct 2025 19:22:31 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124127"
+      "fetched_at": "2025-10-28T22:18:12.337574"
     },
     {
       "id": "85ef4d181df4",
@@ -456,7 +1032,7 @@
       "published": "Tue, 28 Oct 2025 19:22:05 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181511"
+      "fetched_at": "2025-10-28T22:18:14.043324"
     },
     {
       "id": "274c302ebdc4",
@@ -468,43 +1044,7 @@
       "published": "Tue, 28 Oct 2025 19:20:43 GMT",
       "location": "Calgary",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.253909"
-    },
-    {
-      "id": "fe09f1e4eb0f",
-      "title": "Video captures fatal Abbotsford shooting as victim’s name released",
-      "description": "The Integrated Homicide Investigation Team (IHIT) has identified the victim as 68-year-old Darshan Sahsi of Abbotsford in hopes of advancing the investigation.",
-      "url": "https://globalnews.ca/news/11498653/video-fatal-abbotsford-shooting-victim-name-released/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/image003-2.png",
-      "published": "Tue, 28 Oct 2025 19:12:40 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993348"
-    },
-    {
-      "id": "3636c201a4ae",
-      "title": "Netflix launches redesigned profiles for kids",
-      "description": "Netflix announces new Kids' profiles with real-time recommendations, a 'My Netflix' hub, and more.",
-      "url": "https://techcrunch.com/2025/10/28/netflix-launches-redesigned-profiles-for-kids/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:12:21 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.060655"
-    },
-    {
-      "id": "8f3885dda3cb",
-      "title": "Kamloops rally calls for better maternity care amid OB/GYNs mass resignation",
-      "description": "A large rally was held in Kamloops amid growing concerns over the level of maternity care being provided at Royal Inland Hospital following the resignation of all seven OB/GYNs.",
-      "url": "https://globalnews.ca/news/11495273/kamloops-rally-maternity-ob-gyns-mass-resignation/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/Kamloops-rally.jpg?quality=65&strip=all",
-      "published": "Tue, 28 Oct 2025 19:11:06 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993371"
+      "fetched_at": "2025-10-28T22:18:13.623450"
     },
     {
       "id": "f8efb0d4ae3c",
@@ -516,31 +1056,7 @@
       "published": "Tue, 28 Oct 2025 19:08:33 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990518"
-    },
-    {
-      "id": "f512a0be037d",
-      "title": "California woman on trial for taking chickens from Perdue Farms’ plant says she was rescuing them",
-      "description": "SAN FRANCISCO (AP) &#8212; A California animal rights activist on trial for taking four chickens from one of Perdue Farms&#8217; major poultry plants said Tuesday that she was rescuing Poppy, Ivy, Aster, and Azalea from abuse while prosecutors say she broke the law. Zoe Rosenberg, 23, faces more tha",
-      "url": "https://financialpost.com/pmn/california-woman-on-trial-for-taking-chickens-from-perdue-farms-plant-says-she-was-rescuing-them",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:06:52 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.794291"
-    },
-    {
-      "id": "f435ca4603b7",
-      "title": "Netflix CTO announces interactive real-time voting for live content",
-      "description": "While watching live content, viewers will be able to vote to directly influence the outcome of what they're watching on their TV or mobile device.",
-      "url": "https://techcrunch.com/2025/10/28/netflix-cto-announces-interactive-real-time-voting-for-live-content/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:06:46 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.060713"
+      "fetched_at": "2025-10-28T22:18:13.837541"
     },
     {
       "id": "52c90b5bb4c8",
@@ -552,31 +1068,7 @@
       "published": "Tue, 28 Oct 2025 19:02:51 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960367"
-    },
-    {
-      "id": "21e379d139fa",
-      "title": "The world’s most valuable public company just laid out its vision for the future - CNN",
-      "description": "The world’s most valuable public company just laid out its vision for the future&nbsp;&nbsp;CNNNvidia's DC Power Play: Can Jensen Huang Revive the AI Stock King?&nbsp;&nbsp;Yahoo FinancePalantir and NVIDIA Team Up to Operationalize AI — Turning Enterprise Data Into Dynamic Decision Intelligence&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kVUYtUTdZQ0Z6dzZLVUxMUUFVN2xtT05WcWhSVzdPdi00cW0zRjZjaHlHekRsSzJkWmV1TXo5V25yRU93a0tzREhtMGhBMzhXaDAtZnJkWmZWTTJEcE5TLXdmcm1YLXdQRGRNbkpTN1RHZnIyZUtURGpwTGhrQQ?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:02:36 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:32.365341"
-    },
-    {
-      "id": "d0731f24e6c5",
-      "title": "Discovery 2025 Short Duration LP Raises the Maximum – $25 Million",
-      "description": "TORONTO, Oct. 28, 2025 (GLOBE NEWSWIRE) &#8212; Middlefield, on behalf of Discovery 2025 Short Duration LP (the “Partnership”), is pleased to announce the Partnership raised the maximum proceeds of $25 million upon its second &#38; final closing of the initial public offering of Class A and Class F ",
-      "url": "https://financialpost.com/globe-newswire/discovery-2025-short-duration-lp-raises-the-maximum-25-million",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 19:01:59 +0000",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.794322"
+      "fetched_at": "2025-10-28T22:18:14.271640"
     },
     {
       "id": "6dd5ca7c294c",
@@ -588,7 +1080,7 @@
       "published": "Tue, 28 Oct 2025 19:00:47 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.022235"
+      "fetched_at": "2025-10-28T22:18:11.711119"
     },
     {
       "id": "6c263915e841",
@@ -600,7 +1092,7 @@
       "published": "Tue, 28 Oct 2025 19:00:20 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.022309"
+      "fetched_at": "2025-10-28T22:18:11.711175"
     },
     {
       "id": "22eec29b2fc5",
@@ -612,11 +1104,11 @@
       "published": "Tue, 28 Oct 2025 19:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288404"
+      "fetched_at": "2025-10-28T22:18:11.572608"
     },
     {
       "id": "da40109a40d7",
-      "title": "B.C. crime news: Arrest made in Surrey shooting | North Van tire slashing suspect arrested",
+      "title": "B.C. crime news: Arrest made in Surrey shooting | Arson suspect fired slingshot at workers: RCMP | Greed the downfall of New West scammers | Arrest in North Van tire slashings",
       "description": "Here's a roundup of crime news from around Metro Vancouver and B.C. on Tuesday, Oct. 28, 2025",
       "url": "https://vancouversun.com/news/bc-crime-news-north-van-tire-slashing-suspect-arrested-new-west-teens-robbery",
       "source": "Vancouver Sun",
@@ -624,19 +1116,7 @@
       "published": "Tue, 28 Oct 2025 18:55:38 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526066"
-    },
-    {
-      "id": "21b347d18592",
-      "title": "Ford calls fixed election dates a ‘fake law’, defends proposed changes",
-      "description": "The Ford government announced it intended to make major changes to the rules governing elections in Ontario, including to donations and the date voters head to the polls.",
-      "url": "https://globalnews.ca/news/11498639/ontario-election-change-doug-ford-defend/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/abd10a521cacfab4840c7653fa190d1ef6b6c9120e626072dabb7e4acbbdedb8.jpg?quality=65&strip=all",
-      "published": "Tue, 28 Oct 2025 18:55:23 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:29.993397"
+      "fetched_at": "2025-10-28T22:18:13.855918"
     },
     {
       "id": "5b858c4bfeba",
@@ -648,7 +1128,7 @@
       "published": "Tue, 28 Oct 2025 18:54:48 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.022359"
+      "fetched_at": "2025-10-28T22:18:11.711240"
     },
     {
       "id": "413baa5c66a5",
@@ -660,19 +1140,7 @@
       "published": "Tue, 28 Oct 2025 18:53:30 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.185737"
-    },
-    {
-      "id": "1f61e8c6488b",
-      "title": "World Series Game 4 preview: Blue Jays look to pull even after heartbreaker",
-      "description": "After one of the most extraordinary games we’ve seen on the World Series stage —&#160;an 18-inning war of attrition that wound up a heartbreaking defeat for the&#160;Toronto Blue Jays&#160;—&#160;they go again. It’s been a back-and-forth battle between the Blue Jays and&#160;Los Angeles Dodgers&#160",
-      "url": "https://ottawa.citynews.ca/2025/10/28/world-series-game-4-preview-blue-jays-look-to-pull-even-after-heartbreaker/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:53:30 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635182"
+      "fetched_at": "2025-10-28T22:18:13.255003"
     },
     {
       "id": "b3e58c043046",
@@ -684,7 +1152,7 @@
       "published": "Tue, 28 Oct 2025 18:53:30 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990572"
+      "fetched_at": "2025-10-28T22:18:13.837625"
     },
     {
       "id": "f560b49a5970",
@@ -696,19 +1164,19 @@
       "published": "Tue, 28 Oct 2025 18:53:30 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.041685"
+      "fetched_at": "2025-10-28T22:18:13.959090"
     },
     {
-      "id": "b3f25d20c857",
+      "id": "1f61e8c6488b",
       "title": "World Series Game 4 preview: Blue Jays look to pull even after heartbreaker",
       "description": "After one of the most extraordinary games we’ve seen on the World Series stage —&#160;an 18-inning war of attrition that wound up a heartbreaking defeat for the&#160;Toronto Blue Jays&#160;—&#160;they go again. It’s been a back-and-forth battle between the Blue Jays and&#160;Los Angeles Dodgers&#160",
-      "url": "https://edmonton.citynews.ca/2025/10/28/world-series-game-4-preview-blue-jays-look-to-pull-even-after-heartbreaker/",
-      "source": "CityNews Edmonton",
+      "url": "https://ottawa.citynews.ca/2025/10/28/world-series-game-4-preview-blue-jays-look-to-pull-even-after-heartbreaker/",
+      "source": "CityNews Ottawa",
       "image": "",
       "published": "Tue, 28 Oct 2025 18:53:30 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065565"
+      "fetched_at": "2025-10-28T22:18:14.016185"
     },
     {
       "id": "5c0cab8599b8",
@@ -720,7 +1188,19 @@
       "published": "Tue, 28 Oct 2025 18:53:30 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181561"
+      "fetched_at": "2025-10-28T22:18:14.043373"
+    },
+    {
+      "id": "b3f25d20c857",
+      "title": "World Series Game 4 preview: Blue Jays look to pull even after heartbreaker",
+      "description": "After one of the most extraordinary games we’ve seen on the World Series stage —&#160;an 18-inning war of attrition that wound up a heartbreaking defeat for the&#160;Toronto Blue Jays&#160;—&#160;they go again. It’s been a back-and-forth battle between the Blue Jays and&#160;Los Angeles Dodgers&#160",
+      "url": "https://edmonton.citynews.ca/2025/10/28/world-series-game-4-preview-blue-jays-look-to-pull-even-after-heartbreaker/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 18:53:30 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.214959"
     },
     {
       "id": "7c490200df4d",
@@ -732,7 +1212,7 @@
       "published": "Tue, 28 Oct 2025 18:51:45 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288438"
+      "fetched_at": "2025-10-28T22:18:11.572642"
     },
     {
       "id": "a6529989dd52",
@@ -744,7 +1224,7 @@
       "published": "Tue, 28 Oct 2025 18:50:45 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.185777"
+      "fetched_at": "2025-10-28T22:18:13.255041"
     },
     {
       "id": "0908a998f22a",
@@ -756,19 +1236,7 @@
       "published": "Tue, 28 Oct 2025 18:49:43 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207179"
-    },
-    {
-      "id": "531194bfd4b5",
-      "title": "Sam Altman says OpenAI will have a ‘legitimate AI researcher’ by 2028",
-      "description": "To achieve those goals, OpenAI is betting on two key strategies: continued algorithmic innovation and dramatically scaling up \"test time compute\" — essentially how long models spend thinking about problems.",
-      "url": "https://techcrunch.com/2025/10/28/sam-altman-says-openai-will-have-a-legitimate-ai-researcher-by-2028/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:46:46 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.060778"
+      "fetched_at": "2025-10-28T22:18:12.182397"
     },
     {
       "id": "658ec6b6f211",
@@ -780,19 +1248,19 @@
       "published": "Tue, 28 Oct 2025 18:44:14 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065619"
+      "fetched_at": "2025-10-28T22:18:14.215012"
     },
     {
       "id": "cf51cab97475",
-      "title": "Hurricane Melissa: Montreal flights cancelled as Canadians advised to avoid travel to Jamaica",
+      "title": "Hurricane Melissa: Flights cancelled as Ottawa advises Canadians to avoid travel to Jamaica",
       "description": "Airports in Kingston and Montego Bay are closed until further notice, according to the travel advisory.",
       "url": "https://montrealgazette.com/news/canada_news/hurricane-melissa-flights-cancelled-as-ottawa-advises-canadians-to-avoid-travel-to-jamaica",
       "source": "Montreal Gazette",
       "image": "",
       "published": "Tue, 28 Oct 2025 18:42:43 +0000",
-      "location": "Montreal",
+      "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739626"
+      "fetched_at": "2025-10-28T22:18:14.053003"
     },
     {
       "id": "dee90e6577bb",
@@ -804,7 +1272,7 @@
       "published": "Tue, 28 Oct 2025 18:40:53 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.022428"
+      "fetched_at": "2025-10-28T22:18:11.711320"
     },
     {
       "id": "e585f5d41449",
@@ -816,7 +1284,7 @@
       "published": "Tue, 28 Oct 2025 18:37:58 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288460"
+      "fetched_at": "2025-10-28T22:18:11.572665"
     },
     {
       "id": "289d7518fa1a",
@@ -828,19 +1296,7 @@
       "published": "Tue, 28 Oct 2025 18:34:44 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207226"
-    },
-    {
-      "id": "919d02b9b4e0",
-      "title": "Hurricane Melissa makes landfall in Jamaica as catastrophic Category 5 storm - CTV News",
-      "description": "Hurricane Melissa makes landfall in Jamaica as catastrophic Category 5 storm&nbsp;&nbsp;CTV NewsOctober 27, 2025: News on Hurricane Melissa&nbsp;&nbsp;CNNCategory 5 Hurricane Melissa brings flooding and catastrophic winds to Jamaica&nbsp;&nbsp;Toronto StarHurricane Melissa live updates: Catastrophic",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR00xMnZQaGZ6bDcxdWlfWkxrQkxKdDAzWEdWUDJyWXFWc1NKZFIzZHR6Y3NvaFRqVTlhLWNOYmprb0N5MHBicllHOVRYU0doOElCTGxkZjNRX2preVU2WExBNjFUZUF6Nk56UHJOVVNaQU9qcVFzbXVJX0lCWUxhcTI4eE1Qb09kMm5DbW5TTGlDYWNsSHNpdjRZTHNEdnVlUUN5TEhOVWxGMl9Tbm4tUmtSOU0?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:33:06 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:32.137544"
+      "fetched_at": "2025-10-28T22:18:12.182444"
     },
     {
       "id": "1cd424482049",
@@ -852,19 +1308,19 @@
       "published": "Tue, 28 Oct 2025 18:31:13 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.080937"
+      "fetched_at": "2025-10-28T22:18:14.182108"
     },
     {
       "id": "599c2176e8c7",
-      "title": "Hurricane Melissa approaching Jamaica as a Category 5 storm",
-      "description": "With winds of almost 300 kph, Melissa would be the first confirmed Category 5 storm to hit Jamaica, and the worst in the region since 2019",
+      "title": "‘Catastrophic’ Hurricane Melissa slams into Jamaica as a Category 5 storm",
+      "description": "With winds of almost 300 kph, Melissa is the first confirmed Category 5 storm to hit Jamaica, and the worst in the region since 2019",
       "url": "https://nationalpost.com/news/hurricane-melissa-approaching-jamaica-as-a-category-5-storm",
       "source": "National Post",
       "image": "",
       "published": "Tue, 28 Oct 2025 18:27:26 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.022518"
+      "fetched_at": "2025-10-28T22:18:11.711375"
     },
     {
       "id": "e75b9e5b783e",
@@ -876,7 +1332,7 @@
       "published": "Tue, 28 Oct 2025 18:25:42 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.080996"
+      "fetched_at": "2025-10-28T22:18:14.182142"
     },
     {
       "id": "285fbbf0d642",
@@ -888,19 +1344,7 @@
       "published": "Tue, 28 Oct 2025 18:25:06 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181598"
-    },
-    {
-      "id": "5bdb5a76b923",
-      "title": "Yale report finds evidence of RSF mass killings in Sudan’s el-Fasher",
-      "description": "Yale&#039;s Humanitarian Research Lab says satellite images seem to show mass killings in Sudan&#039;s western city of el-Fasher.",
-      "url": "https://www.aljazeera.com/news/2025/10/28/yale-report-finds-evidence-of-rsf-mass-killings-in-sudans-el-fasher?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:24:03 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124159"
+      "fetched_at": "2025-10-28T22:18:14.053463"
     },
     {
       "id": "ab68376322c3",
@@ -912,67 +1356,7 @@
       "published": "Tue, 28 Oct 2025 18:23:17 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.022647"
-    },
-    {
-      "id": "f24fb010da1e",
-      "title": "Charter Space brings fintech to spacecraft insurance and is showing off its stuff at TechCrunch Disrupt 2025",
-      "description": "The goal is faster, cheaper, and more reliable risk evaluation for spacecraft insurance, and eventually to power new forms of credit and nondilutive funding for space companies looking outside venture capital and the public markets.",
-      "url": "https://techcrunch.com/2025/10/28/charter-space-brings-fintech-to-spacecraft-insurance-and-is-showing-off-its-stuff-at-techcrunch-disrupt-2025/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:20:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.060839"
-    },
-    {
-      "id": "caf26b7111af",
-      "title": "CyDeploy wants to create a replica of a company’s system to help it test updates before pushing them out — catch it at Disrupt 2025",
-      "description": "Tina Williams-Koroma said CyDeploy uses machine learning to understand what happens on a company’s machine and then creates a “digital twin” where system administrators can test updates.",
-      "url": "https://techcrunch.com/2025/10/28/cydeploy-wants-to-create-a-replica-of-a-companys-system-to-help-it-test-updates-before-pushing-them-out-catch-it-at-disrupt-2025/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:20:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.060900"
-    },
-    {
-      "id": "18ccbad11491",
-      "title": "Cyphr will reveal how it makes lending easier for small businesses at TechCrunch Disrupt 2025",
-      "description": "Cyphr's product analyzes alternative data sources and financial patterns of small businesses to help lenders make decisions about small business creditworthiness.",
-      "url": "https://techcrunch.com/2025/10/28/cyphr-will-reveal-how-it-makes-lending-easier-for-small-businesses-at-techcrunch-disrupt-2025/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:20:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.060976"
-    },
-    {
-      "id": "18dd1f4fb8c5",
-      "title": "Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025",
-      "description": "The startup’s platform is built on several modular systems that clients can purchase individually or as a complete suite.",
-      "url": "https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:20:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.061045"
-    },
-    {
-      "id": "85fe126015a4",
-      "title": "Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025",
-      "description": "Elloe AI promises a system capable of fact-checking AI outputs, making sure they don’t violate laws and regulations, and that they are safe for the users.",
-      "url": "https://techcrunch.com/2025/10/28/elloe-ai-wants-to-be-the-immune-system-for-ai-check-it-out-at-disrupt-2025/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:20:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.061103"
+      "fetched_at": "2025-10-28T22:18:11.711430"
     },
     {
       "id": "4f14eafe4f3e",
@@ -984,7 +1368,7 @@
       "published": "Tue, 28 Oct 2025 18:13:52 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960418"
+      "fetched_at": "2025-10-28T22:18:14.271688"
     },
     {
       "id": "fba519a3d033",
@@ -996,7 +1380,7 @@
       "published": "Tue, 28 Oct 2025 18:11:06 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.253810"
+      "fetched_at": "2025-10-28T22:18:13.623483"
     },
     {
       "id": "49f939465e6a",
@@ -1008,7 +1392,7 @@
       "published": "Tue, 28 Oct 2025 18:07:13 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526119"
+      "fetched_at": "2025-10-28T22:18:13.855957"
     },
     {
       "id": "258049e3b2f0",
@@ -1020,7 +1404,7 @@
       "published": "Tue, 28 Oct 2025 18:06:43 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.185811"
+      "fetched_at": "2025-10-28T22:18:13.255072"
     },
     {
       "id": "113067e7cadc",
@@ -1032,7 +1416,7 @@
       "published": "Tue, 28 Oct 2025 18:06:43 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990614"
+      "fetched_at": "2025-10-28T22:18:13.837686"
     },
     {
       "id": "0e6c0c97e9f4",
@@ -1044,19 +1428,19 @@
       "published": "Tue, 28 Oct 2025 18:06:25 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.253875"
+      "fetched_at": "2025-10-28T22:18:13.623375"
     },
     {
-      "id": "2755b60027d0",
-      "title": "'Forever Canadian' petition surpasses goal, collects 456K signatures - CBC",
-      "description": "'Forever Canadian' petition surpasses goal, collects 456K signatures&nbsp;&nbsp;CBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbl9ZOVdacmFRTDEwTmN3N2ppUVBHcnRQUlZOU3hNM1luS1NlRXg3MGw2VjNqMnpBTW5vY1N5TlZHTWJGUFJ4NzFaYy01VXF5V0ZncHp2MWRpeW4yRW0yLUQ0a05mblpoQmhTODRFbWFPdWVvRVQ2eTFNcHU3SGJTQWJMWmh3NnIzWnlSUF9RbmttZVE?oc=5",
-      "source": "Google News Canada",
+      "id": "b41dc32df26c",
+      "title": "Prediction Time: CFL.ca writers’ Division Semi-Finals picks - CFL.ca",
+      "description": "Prediction Time: CFL.ca writers’ Division Semi-Finals picks&nbsp;&nbsp;CFL.caThe Road To The Grey Cup Playoffs&nbsp;&nbsp;Calgary StampedersDanger ahead: Blue Bombers' playoff road fraught with booby traps&nbsp;&nbsp;Winnipeg SunCFL Eastern, Western semifinals kick off Saturday on TSN&nbsp;&nbsp;TSN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVzFTYWhkR2FWTnlWRWtRZjFyNEFOX0J6R2M0ZGN2VWNBNUgxTTFRUTl3VXVhclVaYWVJUWhDeWRLckI1X2ZBYk42aVZ0Vmd0RVc4MjBQZG1RX2dycTVLQ2djel9rOUhTMXRQd01ob0Q0ei1MUFNvU01VNmJrNTZ6N2o1ajQ0aFBsTEFWUWVqXzEtQQ?oc=5",
+      "source": "Google News Sports",
       "image": "",
-      "published": "Tue, 28 Oct 2025 18:05:27 GMT",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.253769"
+      "published": "Tue, 28 Oct 2025 18:05:36 GMT",
+      "location": "Calgary",
+      "category": "sports",
+      "fetched_at": "2025-10-28T22:18:13.620121"
     },
     {
       "id": "eec5540e429d",
@@ -1068,7 +1452,7 @@
       "published": "Tue, 28 Oct 2025 18:04:08 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.022741"
+      "fetched_at": "2025-10-28T22:18:11.711483"
     },
     {
       "id": "9e38fb3470e5",
@@ -1080,19 +1464,7 @@
       "published": "Tue, 28 Oct 2025 18:01:30 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.185857"
-    },
-    {
-      "id": "8edc2187caf4",
-      "title": "Canada Post union asks Ottawa to butt out as talks set to resume",
-      "description": "OTTAWA — The union representing thousands of Canada Post workers on rotating strike wants the federal government to butt out of bargaining as negotiators prepare to head back to the table with the employer for the first time in nearly a month. The Crown corporation and the Canadian Union of Postal W",
-      "url": "https://ottawa.citynews.ca/2025/10/28/canada-post-labour-dispute-latest/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 18:01:30 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635228"
+      "fetched_at": "2025-10-28T22:18:13.255117"
     },
     {
       "id": "2b703e84859b",
@@ -1104,7 +1476,7 @@
       "published": "Tue, 28 Oct 2025 18:01:30 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990653"
+      "fetched_at": "2025-10-28T22:18:13.837744"
     },
     {
       "id": "ae63625ce91b",
@@ -1116,19 +1488,19 @@
       "published": "Tue, 28 Oct 2025 18:01:30 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.041730"
+      "fetched_at": "2025-10-28T22:18:13.959126"
     },
     {
-      "id": "1e888faad874",
-      "title": "Canada Post, union set to meet again as rotating strike stretches on",
-      "description": "Canada Post is heading back to the bargaining table with the union representing thousands of postal workers still on a national rotating strike. Both the Crown corporation and the Canadian Union of Postal Workers confirm plans to meet later this week with a mediator but did not provide a specific da",
-      "url": "https://edmonton.citynews.ca/2025/10/28/canada-post-labour-dispute-latest/",
-      "source": "CityNews Edmonton",
+      "id": "8edc2187caf4",
+      "title": "Canada Post union asks Ottawa to butt out as talks set to resume",
+      "description": "OTTAWA — The union representing thousands of Canada Post workers on rotating strike wants the federal government to butt out of bargaining as negotiators prepare to head back to the table with the employer for the first time in nearly a month. The Crown corporation and the Canadian Union of Postal W",
+      "url": "https://ottawa.citynews.ca/2025/10/28/canada-post-labour-dispute-latest/",
+      "source": "CityNews Ottawa",
       "image": "",
       "published": "Tue, 28 Oct 2025 18:01:30 +0000",
-      "location": "Edmonton",
+      "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065662"
+      "fetched_at": "2025-10-28T22:18:14.016234"
     },
     {
       "id": "39fbad07dd0b",
@@ -1140,7 +1512,19 @@
       "published": "Tue, 28 Oct 2025 18:01:30 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181636"
+      "fetched_at": "2025-10-28T22:18:14.053536"
+    },
+    {
+      "id": "1e888faad874",
+      "title": "Canada Post, union set to meet again as rotating strike stretches on",
+      "description": "Canada Post is heading back to the bargaining table with the union representing thousands of postal workers still on a national rotating strike. Both the Crown corporation and the Canadian Union of Postal Workers confirm plans to meet later this week with a mediator but did not provide a specific da",
+      "url": "https://edmonton.citynews.ca/2025/10/28/canada-post-labour-dispute-latest/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 18:01:30 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.215055"
     },
     {
       "id": "b0c185e4aecd",
@@ -1152,7 +1536,7 @@
       "published": "Tue, 28 Oct 2025 18:00:35 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526172"
+      "fetched_at": "2025-10-28T22:18:13.855988"
     },
     {
       "id": "23857ee10f81",
@@ -1160,11 +1544,11 @@
       "description": "Police have arrested a man suspected of slashing tires in North Vancouver over the weekend.",
       "url": "https://vancouver.citynews.ca/2025/10/28/man-arrested-after-dozens-of-tires-slashed-in-north-vancouver/",
       "source": "CityNews Vancouver",
-      "image": "",
+      "image": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2025/10/28/North-Vancouver-Tire-Slashing-2-1024x576.png",
       "published": "Tue, 28 Oct 2025 18:00:15 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181662"
+      "fetched_at": "2025-10-28T22:18:14.053577"
     },
     {
       "id": "0f269b49e90d",
@@ -1176,7 +1560,7 @@
       "published": "Tue, 28 Oct 2025 18:00:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.081033"
+      "fetched_at": "2025-10-28T22:18:14.182173"
     },
     {
       "id": "6cdf786fd8eb",
@@ -1188,19 +1572,7 @@
       "published": "Tue, 28 Oct 2025 17:59:08 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739664"
-    },
-    {
-      "id": "a21ebf9a74ee",
-      "title": "Flight delays more common as US government shutdown drags on",
-      "description": "More air traffic controllers are calling in sick, often to work another job to pay for groceries and medicines.",
-      "url": "https://www.aljazeera.com/economy/2025/10/28/flight-delays-more-common-as-us-government-shutdown-drags-on?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 17:58:30 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124187"
+      "fetched_at": "2025-10-28T22:18:14.053037"
     },
     {
       "id": "7bbbf5064980",
@@ -1212,7 +1584,7 @@
       "published": "Tue, 28 Oct 2025 17:53:47 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635266"
+      "fetched_at": "2025-10-28T22:18:14.016296"
     },
     {
       "id": "df887db66105",
@@ -1224,7 +1596,7 @@
       "published": "Tue, 28 Oct 2025 17:51:38 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2025-10-28T20:21:30.412051"
+      "fetched_at": "2025-10-28T22:18:11.323293"
     },
     {
       "id": "5885b86cb5f6",
@@ -1236,7 +1608,7 @@
       "published": "Tue, 28 Oct 2025 17:50:24 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739699"
+      "fetched_at": "2025-10-28T22:18:14.053071"
     },
     {
       "id": "c2b8e8b4dc67",
@@ -1248,55 +1620,7 @@
       "published": "Tue, 28 Oct 2025 17:45:56 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-10-28T20:21:30.346591"
-    },
-    {
-      "id": "a906b301bd23",
-      "title": "VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGI",
-      "description": "Vinod Khosla has a bold vision for how society could be reconfigured to share the abundance created by AI technology.",
-      "url": "https://techcrunch.com/2025/10/28/vc-vinod-khosla-says-the-us-government-could-take/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 17:45:42 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.061151"
-    },
-    {
-      "id": "e373344dc242",
-      "title": "Elon Musk launches Grokipedia to rival ‘left-biased’ Wikipedia",
-      "description": "The content of Grokipedia is generated by artificial intelligence and the generative AI assistant Grok",
-      "url": "https://nationalpost.com/news/world/musk-grokipedia-rivals-wikipedia",
-      "source": "National Post",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 17:45:36 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.022802"
-    },
-    {
-      "id": "c2b19a09f79e",
-      "title": "Roberts apologizes for remarks about difficult travel day from Canada - MLB.com",
-      "description": "Roberts apologizes for remarks about difficult travel day from Canada&nbsp;&nbsp;MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUJBTlJ4UndqVC04aEFkTDVzQW1UaFJmdy1MWUw3bGY0UklHdC16YWI0aU10R3RrWEg0VmxVRXFXLXhCMHhMZGtST1lfSUJoT1NhWjlsa1ZUSXNDU21OaTRtdm1ibWNNS0t2N1FoWUUzbFBkT2RoWkI3WFNCa1FYVEc1UndlNW_SAZMBQVVfeXFMT0taa0ZQRVdudzA0cTFULVIwN0JndXduMkxqZTA5bWU0dGVaQk9sdld0bGxLdVdTNDRQcjhFa3pSeWV5UDhDNjRyRFZCdFNJd245ZV83ZEowUWZTTUhUaGVWMk1KY1BmQUR4S0RHMHJVQU5FS2dxOS1WcjhQclNPN2dlbWNmVDRlbHpmOTVfdFZnXy1j?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 17:43:16 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.254051"
-    },
-    {
-      "id": "c791839f20d3",
-      "title": "UN’s Albanese presents blistering report on complicity in Gaza genocide",
-      "description": "Expert&#039;s 24-page report looks at role of 63 states in &#039;collective crime&#039; of Gaza genocide, with US cast in lead role.",
-      "url": "https://www.aljazeera.com/news/2025/10/28/uns-albanese-presents-blistering-report-on-complicity-in-gaza-genocide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 17:39:22 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124218"
+      "fetched_at": "2025-10-28T22:18:11.457243"
     },
     {
       "id": "17a2d87d7be0",
@@ -1308,7 +1632,7 @@
       "published": "Tue, 28 Oct 2025 17:38:38 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.041761"
+      "fetched_at": "2025-10-28T22:18:13.959154"
     },
     {
       "id": "c12440e4db7d",
@@ -1320,7 +1644,7 @@
       "published": "Tue, 28 Oct 2025 17:37:52 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526223"
+      "fetched_at": "2025-10-28T22:18:13.856018"
     },
     {
       "id": "439b611346fa",
@@ -1332,7 +1656,7 @@
       "published": "Tue, 28 Oct 2025 17:26:44 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990703"
+      "fetched_at": "2025-10-28T22:18:13.837822"
     },
     {
       "id": "0e2052548dcd",
@@ -1344,43 +1668,19 @@
       "published": "Tue, 28 Oct 2025 17:26:35 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635310"
-    },
-    {
-      "id": "c58e7858f98c",
-      "title": "What to expect from Wednesday's Bank of Canada interest rate update - Daily Hive Vancouver",
-      "description": "What to expect from Wednesday's Bank of Canada interest rate update&nbsp;&nbsp;Daily Hive Vancouver",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHZhekRfLUVoNHpTQXk5cHJBcnE3dUh0RDJBTTZDeXJET2p2TWluT3RxMFYzMzhaeFlMcXNyb3NaUUY2am1kSU8tNEJzNUxZN0l6NEllYkprVUp6NzFHU0FSeVR6Qm1NVGY0dlZQQk55OUhHclZEcU5mQWdqOG5WVA?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 17:16:00 GMT",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.254125"
-    },
-    {
-      "id": "09f88152a556",
-      "title": "Canada Post lays off dozens of managers amidst restructuring push - Toronto Star",
-      "description": "Canada Post lays off dozens of managers amidst restructuring push&nbsp;&nbsp;Toronto Star",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUDlCS01yUlhWRG91OUFnTmxJUENwVkJsempsVnRYZjA0N09NLXRnQ0Y1ekxMb1pJRXR2UlJDSGRibC1ORGRnNG5RWUZGaUxpYURVMDI5aXdxQ0RHTXhnbkZpejhsWUdTcWhhVWJnc3cxRlhMYU1hRkcxVHlvOGtjaDRVaXRBV1RHQXhzV1pKcFNuVEVUd2pJcjI2TEktamFtQW5FSWZ0bVhvN0VUdF91TGxXOEE3V0EtTWY5aUw4dVRDeERBcnpTZFlVX05uU25qdEFGVWdIVFFWUWg3bHlOckdR?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 17:15:00 GMT",
-      "location": "Toronto",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.253842"
+      "fetched_at": "2025-10-28T22:18:14.016610"
     },
     {
       "id": "0d761c0cd3dd",
-      "title": "Poilievre says Carney ‘approved’ Ontario’s anti-tariff ad that Trump said ended trade talks",
+      "title": "Poilievre says Carney 'approved' Ontario's anti-tariff ad that Trump said ended trade talks",
       "description": "Poilievre says the prime minister must now 'come clean' about the controversial ads",
       "url": "https://nationalpost.com/news/politics/poilievre-says-carney-approved-ontarios-anti-tariff-ad-that-trump-said-ended-trade-talks",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/10/1025-conservatives_299539642.jpg",
       "published": "Tue, 28 Oct 2025 17:12:24 +0000",
       "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.022884"
+      "category": "politics",
+      "fetched_at": "2025-10-28T22:18:12.069668"
     },
     {
       "id": "4593138c4a46",
@@ -1392,7 +1692,7 @@
       "published": "Tue, 28 Oct 2025 17:11:01 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990744"
+      "fetched_at": "2025-10-28T22:18:13.837886"
     },
     {
       "id": "8e11592ca618",
@@ -1404,7 +1704,7 @@
       "published": "Tue, 28 Oct 2025 17:10:03 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.597240"
+      "fetched_at": "2025-10-28T22:18:12.750876"
     },
     {
       "id": "381d87c39cf6",
@@ -1416,7 +1716,7 @@
       "published": "Tue, 28 Oct 2025 17:09:33 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526264"
+      "fetched_at": "2025-10-28T22:18:13.856045"
     },
     {
       "id": "afbbaa6d68f1",
@@ -1428,7 +1728,7 @@
       "published": "Tue, 28 Oct 2025 17:02:45 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181695"
+      "fetched_at": "2025-10-28T22:18:14.053634"
     },
     {
       "id": "f45648c6fc15",
@@ -1440,19 +1740,7 @@
       "published": "Tue, 28 Oct 2025 16:54:25 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-10-28T20:21:30.346639"
-    },
-    {
-      "id": "bbf4b907660c",
-      "title": "Cygnet Energy to buy natural gas producer Kiwetinohk Energy for $1.4-billion",
-      "description": "Kiwetinohk shareholders will receive $24.75 per share",
-      "url": "https://www.theglobeandmail.com/business/article-cygnet-energy-to-buy-natural-gas-producer-kiwetinohk-energy-for-14/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/WMY6ZKZ4VFCRZKC6PQAECXLRD4.JPG?auth=9bef66f18151ae1bbf8c00bcf2ba3ed6e059305655ab477031421cae90ce9d9b&smart=true&width=5943&height=3730",
-      "published": "Tue, 28 Oct 2025 16:49:44 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.290281"
+      "fetched_at": "2025-10-28T22:18:11.457350"
     },
     {
       "id": "489449937d3b",
@@ -1464,19 +1752,19 @@
       "published": "Tue, 28 Oct 2025 16:48:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739730"
+      "fetched_at": "2025-10-28T22:18:14.053105"
     },
     {
       "id": "361058cfccc0",
       "title": "Quebec family doctors work enough, data shows",
-      "description": "There is no collective disengagement among family physicians, concludes a new study from the Centre de recherche du Centre hospitalier universitaire de Sherbrooke. Their workload has been transformed by an increase in case complexity. Presented by the Claude Brunet Foundation, the data suggests that",
+      "description": "There is no collective disengagement among family physicians, concludes a new study from the Centre de recherche du Centre hospitalier universitaire de Sherbrooke. Their workload has been transformed by an increase in case complexity.&#160; Presented by the Claude Brunet Foundation, the data suggest",
       "url": "https://montreal.citynews.ca/2025/10/28/quebec-family-doctors-work-enough-study/",
       "source": "CityNews Montreal",
       "image": "",
       "published": "Tue, 28 Oct 2025 16:47:19 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990788"
+      "fetched_at": "2025-10-28T22:18:13.837956"
     },
     {
       "id": "328ff6f50399",
@@ -1488,67 +1776,19 @@
       "published": "Tue, 28 Oct 2025 16:47:04 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960449"
-    },
-    {
-      "id": "1b7693462034",
-      "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
-      "description": "Israel is holding captive 95 Palestinian healthcare workers in its prisons.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel-3?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 16:44:34 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124246"
-    },
-    {
-      "id": "ce8e14136583",
-      "title": "Lebanon’s Aoun calls for end to Israeli attacks in meeting with US envoy",
-      "description": "Israel has repeatedly bombed Lebanon, violating a November 2024 ceasefire agreement to end conflict with Hezbollah.",
-      "url": "https://www.aljazeera.com/news/2025/10/28/lebanons-aoun-calls-for-end-to-israeli-attacks-in-meeting-with-us-envoy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 16:42:58 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124276"
-    },
-    {
-      "id": "c021b49b4d81",
-      "title": "Olympic ski season opening marred by dangerous course debate",
-      "description": "Debate on dangerous ski training courses flares at start of Olympic season, five months ahead of Milan Cortina Games.",
-      "url": "https://www.aljazeera.com/sports/2025/10/28/olympic-ski-season-opening-marred-by-dangerous-course-debate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 16:41:39 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.124304"
+      "fetched_at": "2025-10-28T22:18:14.271719"
     },
     {
       "id": "13bc98a9226e",
-      "title": "Amazon Games Unit Hit by Layoffs, Will Halt ‘Significant Amount’ of AAA Development and Shift Online Strategy - Yahoo! Finance Canada",
-      "description": "Amazon Games Unit Hit by Layoffs, Will Halt ‘Significant Amount’ of AAA Development and Shift Online Strategy&nbsp;&nbsp;Yahoo! Finance CanadaStaying nimble and continuing to strengthen our organizations&nbsp;&nbsp;About AmazonAmazon cutting 14,000 corporate jobs to spend more on AI&nbsp;&nbsp;CBCEx",
+      "title": "Amazon Games Unit Hit by Layoffs, Will Halt ‘Significant Amount’ of AAA Development and Shift Online Strategy - Yahoo",
+      "description": "Amazon Games Unit Hit by Layoffs, Will Halt ‘Significant Amount’ of AAA Development and Shift Online Strategy&nbsp;&nbsp;YahooStaying nimble and continuing to strengthen our organizations&nbsp;&nbsp;About Amazon\"No hire, no fire\" job market may no longer be a thing as big companies announce mass lay",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcV8xTW9FNU56ejhiUGI1UExiNjBJNXB3QTJMLVdpV3hVSGV0VVV4YmhXMGNXNUJRNmNKX2NSNkZ3QXhWXzRaa1pUN2RwX0lvbVhIdmJQX2dfLUY5N0NIQ1hIS20yTmNPVjh1MlltOGNEQUlCYkVlVTQtbGFFeGFrZXE2c0o?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 28 Oct 2025 16:36:48 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:32.364923"
-    },
-    {
-      "id": "8e70077c0547",
-      "title": "Israel PM Netanyahu orders military to immediately strike Gaza - BBC",
-      "description": "Israel PM Netanyahu orders military to immediately strike Gaza&nbsp;&nbsp;BBCIsrael strikes Gaza after it accuses Hamas of violating ceasefire and staging hostage discovery&nbsp;&nbsp;CNNIsraeli PM Benjamin Netanyahu orders immediate 'powerful' strikes on Gaza&nbsp;&nbsp;NBC NewsGaza ceasefire teste",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hUmJHZUN1LTVmTU94VFRNckpsc0E2Vm95dHU4Y2VEN3dXTGtNRmVUbGtCa1FrcENFeEI5dzRhNFM0ZjZsamJlTGdDWmpSZFZEUnZ4MQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 16:36:20 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:32.137750"
+      "fetched_at": "2025-10-28T22:18:13.768700"
     },
     {
       "id": "d276efa5507a",
@@ -1560,19 +1800,7 @@
       "published": "Tue, 28 Oct 2025 16:35:04 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.185901"
-    },
-    {
-      "id": "e774748c0389",
-      "title": "Tories call on all parties to back tougher sentences for intimate partner violence",
-      "description": "OTTAWA — Conservative Leader Pierre Poilievre called on other parties Tuesday to support a private member&#8217;s bill he said would combat intimate partner violence — just as a new report tracks how the problem has grown in recent years. &#8220;There are countless who have lost their lives because ",
-      "url": "https://ottawa.citynews.ca/2025/10/28/tories-call-on-all-parties-to-back-tougher-sentences-for-intimate-partner-violence/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 16:35:04 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635354"
+      "fetched_at": "2025-10-28T22:18:13.255161"
     },
     {
       "id": "c6aae62e9a94",
@@ -1584,7 +1812,7 @@
       "published": "Tue, 28 Oct 2025 16:35:04 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990838"
+      "fetched_at": "2025-10-28T22:18:13.838035"
     },
     {
       "id": "781b8b146b06",
@@ -1596,19 +1824,19 @@
       "published": "Tue, 28 Oct 2025 16:35:04 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.041806"
+      "fetched_at": "2025-10-28T22:18:13.959196"
     },
     {
-      "id": "5be3baae3161",
+      "id": "e774748c0389",
       "title": "Tories call on all parties to back tougher sentences for intimate partner violence",
-      "description": "OTTAWA — Conservative Leader Pierre Poilievre called on other parties on Tuesday to support a private members&#8217; bill he said intends to combat intimate partner violence, as new statistics show the number of reports of such violence has grown. &#8220;There are countless who have lost their lives",
-      "url": "https://edmonton.citynews.ca/2025/10/28/tories-call-on-all-parties-to-back-tougher-sentences-for-intimate-partner-violence/",
-      "source": "CityNews Edmonton",
+      "description": "OTTAWA — Conservative Leader Pierre Poilievre called on other parties Tuesday to support a private member&#8217;s bill he said would combat intimate partner violence — just as a new report tracks how the problem has grown in recent years. &#8220;There are countless who have lost their lives because ",
+      "url": "https://ottawa.citynews.ca/2025/10/28/tories-call-on-all-parties-to-back-tougher-sentences-for-intimate-partner-violence/",
+      "source": "CityNews Ottawa",
       "image": "",
       "published": "Tue, 28 Oct 2025 16:35:04 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065716"
+      "fetched_at": "2025-10-28T22:18:14.016683"
     },
     {
       "id": "6fe41b85ab51",
@@ -1620,7 +1848,19 @@
       "published": "Tue, 28 Oct 2025 16:35:04 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181739"
+      "fetched_at": "2025-10-28T22:18:14.053692"
+    },
+    {
+      "id": "5be3baae3161",
+      "title": "Tories call on all parties to back tougher sentences for intimate partner violence",
+      "description": "OTTAWA — Conservative Leader Pierre Poilievre called on other parties on Tuesday to support a private members&#8217; bill he said intends to combat intimate partner violence, as new statistics show the number of reports of such violence has grown. &#8220;There are countless who have lost their lives",
+      "url": "https://edmonton.citynews.ca/2025/10/28/tories-call-on-all-parties-to-back-tougher-sentences-for-intimate-partner-violence/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 16:35:04 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.215109"
     },
     {
       "id": "f4ffd04385d0",
@@ -1632,7 +1872,7 @@
       "published": "Tue, 28 Oct 2025 16:34:10 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.185931"
+      "fetched_at": "2025-10-28T22:18:13.255189"
     },
     {
       "id": "24ca2c8db545",
@@ -1644,19 +1884,7 @@
       "published": "Tue, 28 Oct 2025 16:34:01 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.290220"
-    },
-    {
-      "id": "bc5af85d6555",
-      "title": "Tasha Kheiriddin: Carney must not give in to China’s temptations",
-      "description": "Canada needs to tough out the Trump years instead of warming up to a security threat",
-      "url": "https://nationalpost.com/opinion/tasha-kheiriddin-carney-must-not-give-in-to-chinas-temptations",
-      "source": "National Post",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 16:29:36 +0000",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:30.023013"
+      "fetched_at": "2025-10-28T22:18:11.641003"
     },
     {
       "id": "581ccf8b51d9",
@@ -1668,7 +1896,7 @@
       "published": "Tue, 28 Oct 2025 16:29:10 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.185990"
+      "fetched_at": "2025-10-28T22:18:13.255223"
     },
     {
       "id": "20c251049a17",
@@ -1680,31 +1908,19 @@
       "published": "Tue, 28 Oct 2025 16:29:10 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635389"
+      "fetched_at": "2025-10-28T22:18:14.016730"
     },
     {
-      "id": "271abc2e7538",
-      "title": "Woman arrested in death of abandoned newborn in Longueuil had spent morning at homeless shelter",
-      "description": "A 33-year-old woman arrested in the death of a newborn found abandoned in a Montreal-area bus shelter on Monday had been at a homeless centre earlier that day. Pierre Rousseau, general manager of the Halte du Coin homeless shelter in Longueuil, Que., on Montreal&#8217;s South Shore, about 700 metres",
-      "url": "https://montreal.citynews.ca/2025/10/28/woman-arrested-in-death-of-abandoned-newborn-had-spent-morning-at-homeless-shelter/",
-      "source": "CityNews Montreal",
-      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2025/10/28/Longueuil-bus-shelter-1024x576.jpg",
-      "published": "Tue, 28 Oct 2025 16:29:10 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.990881"
-    },
-    {
-      "id": "f2e7dfd36f12",
-      "title": "Top House Republican sees no path forward for third Trump term - Reuters",
-      "description": "Top House Republican sees no path forward for third Trump term&nbsp;&nbsp;ReutersTrump does not rule out seeking third term - but says he will not use VP loophole&nbsp;&nbsp;BBCTrump’s third term? Don’t laugh. He’s never let the rules stop him before | Arwa Mahdawi&nbsp;&nbsp;The GuardianWill Trump ",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMlEzUnp6Uk51dkpMWjUwbnVwRmMyNkdVdUVjYW4xTm1xR0JZVllKdzFHVzRqdVY0anpsMm96ZjZIQVE0QjlwUkNuQm92MFk3NVI0b3NrZ25TNnh0eFFPeS1SbThMVUlXN0cydjdTSUNvX3U4czc3LXFKclBjUkpKSEJ3UElJYzVmU0kyck1qSmFQZWRUQThsZVB0TmxQOFlmTVB4aHVIVklfaEprVDJvNlVxblZ1Qm52cEE?oc=5",
-      "source": "Google News Tech",
+      "id": "2545ccede91d",
+      "title": "MLB umpire addresses costly call that went against Toronto Blue Jays in marathon World Series game - Daily Hive Vancouver",
+      "description": "MLB umpire addresses costly call that went against Toronto Blue Jays in marathon World Series game&nbsp;&nbsp;Daily Hive VancouverStrike? Ball? Confused Bichette picked off after he thought batter walked&nbsp;&nbsp;MLB.comBlue Jays on wrong side of bizarre Game 3 sequence vs. Dodgers&nbsp;&nbsp;Spor",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGwwTFp3ajlHeVZfVmxPY216MWZsVWh3Sm9qaUhWYWJ0NE41cklyd1BRMW4tb1JjbTBhWVo1UE9OOEtfd3RhaHRQMmdaNm84ZnVTZ3RWbEZ2QUJHV2MwTER3Sk9BOVRDazdvQWl2aXE5clFyeHVyQU1BS1hKcERFZldST2x5OTRwVkRtR0NB?oc=5",
+      "source": "Google News Sports",
       "image": "",
-      "published": "Tue, 28 Oct 2025 16:28:18 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:32.137855"
+      "published": "Tue, 28 Oct 2025 16:17:00 GMT",
+      "location": "Toronto",
+      "category": "sports",
+      "fetched_at": "2025-10-28T22:18:13.620057"
     },
     {
       "id": "fd6eb52fd40b",
@@ -1716,19 +1932,7 @@
       "published": "Tue, 28 Oct 2025 16:13:44 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739759"
-    },
-    {
-      "id": "370c4b988bd2",
-      "title": "Canada Strong Pass boosts visits to parks, museums but adds community congestion - Global News",
-      "description": "Canada Strong Pass boosts visits to parks, museums but adds community congestion&nbsp;&nbsp;Global News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWEtc3llNnlXalktWm1Ka1pMOVJRTi01b0lUS0xKWlpkdUk1eUN6dGJPejc0QTR2Y1cxSVlKeGgzV0lXbk1UTVFJTm92XzR5TmVhZlZfY3NWMVB3NzVQZ1p5T3pzcW9pRGE4eGs3em9Ba0hfVDJwX0NuNjVvS09aUmxIc3VFOXZPaXlqVHNaSmV5RWUwSTc4NGZFS2RBTngwVGJJMWZ6YW9odHNtb3hkRV9yRWxOZmc?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 16:03:49 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.253942"
+      "fetched_at": "2025-10-28T22:18:14.053136"
     },
     {
       "id": "7c0652aecac2",
@@ -1740,7 +1944,7 @@
       "published": "Tue, 28 Oct 2025 16:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288482"
+      "fetched_at": "2025-10-28T22:18:11.572688"
     },
     {
       "id": "bd71e22ae9e8",
@@ -1752,7 +1956,7 @@
       "published": "Tue, 28 Oct 2025 15:56:36 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.186031"
+      "fetched_at": "2025-10-28T22:18:13.255260"
     },
     {
       "id": "72f20b75a44e",
@@ -1764,7 +1968,7 @@
       "published": "Tue, 28 Oct 2025 15:55:49 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739784"
+      "fetched_at": "2025-10-28T22:18:14.053169"
     },
     {
       "id": "7ee478606d9d",
@@ -1776,7 +1980,7 @@
       "published": "Tue, 28 Oct 2025 15:54:57 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065766"
+      "fetched_at": "2025-10-28T22:18:14.215159"
     },
     {
       "id": "d73d6b112245",
@@ -1788,19 +1992,19 @@
       "published": "Tue, 28 Oct 2025 15:54:07 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-10-28T20:21:30.224223"
+      "fetched_at": "2025-10-28T22:18:12.069800"
     },
     {
       "id": "82de319de2ea",
-      "title": "REM's Deux-Montagnes branch is expected to come online Nov. 17",
-      "description": "But planners say they don’t yet have a plan if the REM breaks down during an STM strike when métros and buses aren’t running.",
+      "title": "No plan in place yet if REM's new line breaks down during STM strike, planners say",
+      "description": "Newest branch of the light-rail network, which adds 14 stations and replaces the old Deux-Montagnes commuter rail line, is set to open on Nov. 17.",
       "url": "https://montrealgazette.com/news/local-news/rem-exo-mascouche-link-delayed",
       "source": "Montreal Gazette",
       "image": "",
       "published": "Tue, 28 Oct 2025 15:44:13 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739817"
+      "fetched_at": "2025-10-28T22:18:14.053200"
     },
     {
       "id": "68eeb99bd500",
@@ -1812,31 +2016,19 @@
       "published": "Tue, 28 Oct 2025 15:41:38 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288504"
+      "fetched_at": "2025-10-28T22:18:11.572711"
     },
     {
       "id": "53461873560d",
       "title": "OpenAI restructures into public-benefit firm, Microsoft takes 27% stake - Al Jazeera",
-      "description": "OpenAI restructures into public-benefit firm, Microsoft takes 27% stake&nbsp;&nbsp;Al JazeeraBuilt to benefit everyone&nbsp;&nbsp;OpenAIBloomberg Tech: OpenAI’s For-Profit Path Cleared&nbsp;&nbsp;Bloomberg.comThe next chapter of the Microsoft–OpenAI partnership&nbsp;&nbsp;The Official Microsoft Blog",
+      "description": "OpenAI restructures into public-benefit firm, Microsoft takes 27% stake&nbsp;&nbsp;Al JazeeraBuilt to benefit everyone&nbsp;&nbsp;OpenAIOpenAI Gives Long-Time Backer Microsoft 27% Stake&nbsp;&nbsp;Bloomberg.comThe next chapter of the Microsoft–OpenAI partnership&nbsp;&nbsp;The Official Microsoft Blo",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzFtcmNDcUtVcWtwbEF0WEhtRW54TEF6RTNPTzl4SEU5QmRhOWI0N1A2Y0hXbExyRDJhaDlNLXU4RlB4VXV6Smt4X01XRjVjMjBoWEowNFdOVFFuY3RuZGg3bVJOckRZU2dfR0x4MjV6a1BqMFNWeUtnSDhCOEVrdHVma3N0RW9fd1MxOTZidDRxN21pYVFnaWE3dk13NVQ4am05NUItVU5HeTFYUlJYVFZPYzTSAboBQVVfeXFMTk04U21lNDM4S1BhbnFMTmpiLS1IMGVFTU9nZ0Z6QkZxcFRRQXZ3eHR3TTNWend6ZE1lLTg2dWJnR0V6bTVQcWx4SkMyZXl1Ukc1RGZjNXprYzF0VGxUVGM4VDA3LUJaRkpiY2NFMTA3Y3RkaUVxMFg2WWM2YzRuVnFSTXNVZ2FqR2pGdjN5cy1KanFld0J6WUp6N3ByNmt6TXROVkF3UTdZQTRKUUpiSV9vd1d0LXVVZy1n?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 28 Oct 2025 15:41:28 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:32.365211"
-    },
-    {
-      "id": "6266d175bd85",
-      "title": "Drug to slow early-stage Alzheimer's disease approved by Health Canada - CBC",
-      "description": "Drug to slow early-stage Alzheimer's disease approved by Health Canada&nbsp;&nbsp;CBC‘An important milestone:’ Canada approves expensive new drug that can slow Alzheimer’s disease&nbsp;&nbsp;CTV NewsExcitement around Alzheimer’s treatment tempered by questions about efficacy, accessibility&nbsp;&nbs",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JbnBONm4yT1FKcHU5NDhHVDFFMmFtMnRsaGd5amJnbmo5T3piQjNHLTNqbXlweG5HbzVwNE5aREpaU0JuekFfbW5DRllMMzU5bVFwZDdXV2EtT3kxNUNYRDFJd0pBcmJxZmtyaw?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 15:38:33 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:32.365028"
+      "fetched_at": "2025-10-28T22:18:13.768959"
     },
     {
       "id": "0caa07407712",
@@ -1848,7 +2040,7 @@
       "published": "Tue, 28 Oct 2025 15:37:49 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2025-10-28T20:21:30.224159"
+      "fetched_at": "2025-10-28T22:18:12.069752"
     },
     {
       "id": "6a4fb8a228f2",
@@ -1860,7 +2052,7 @@
       "published": "Tue, 28 Oct 2025 15:37:12 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.081064"
+      "fetched_at": "2025-10-28T22:18:14.182203"
     },
     {
       "id": "e9d4500bce5a",
@@ -1872,7 +2064,7 @@
       "published": "Tue, 28 Oct 2025 15:28:43 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.081093"
+      "fetched_at": "2025-10-28T22:18:14.182230"
     },
     {
       "id": "b406abfddfa1",
@@ -1884,19 +2076,7 @@
       "published": "Tue, 28 Oct 2025 15:26:29 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288527"
-    },
-    {
-      "id": "08324ed3b505",
-      "title": "Kelsey Grammer, 70, announces the birth of his 8th child: ‘Isn’t that lovely?’",
-      "description": "It&#8217;s a boy — named Christopher — for 70-year-old actor Kelsey Grammer and his wife Kayte Walsh. The “Frasier” star announced his latest baby news on Monday&#8217;s edition of the “Pod Meets World” podcast. “We just had our fourth one, it just became eight kids,&#8221; Grammer said. &#8220;It w",
-      "url": "https://toronto.citynews.ca/2025/10/28/kelsey-grammer-70-announces-the-birth-of-his-8th-child-isnt-that-lovely/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 15:22:06 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.186078"
+      "fetched_at": "2025-10-28T22:18:11.572734"
     },
     {
       "id": "ff910c519ded",
@@ -1908,7 +2088,7 @@
       "published": "Tue, 28 Oct 2025 15:22:06 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.041850"
+      "fetched_at": "2025-10-28T22:18:13.959238"
     },
     {
       "id": "168e4d059317",
@@ -1920,7 +2100,7 @@
       "published": "Tue, 28 Oct 2025 15:22:06 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181784"
+      "fetched_at": "2025-10-28T22:18:14.053747"
     },
     {
       "id": "9252672a0ebc",
@@ -1932,19 +2112,31 @@
       "published": "Tue, 28 Oct 2025 15:16:31 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288552"
+      "fetched_at": "2025-10-28T22:18:11.572762"
     },
     {
       "id": "244959c280a3",
       "title": "‘This guy is incredible’: Reaction pours in following LA Dodgers walk-off victory over Toronto Blue Jays - CTV News",
-      "description": "‘This guy is incredible’: Reaction pours in following LA Dodgers walk-off victory over Toronto Blue Jays&nbsp;&nbsp;CTV NewsArmchair manager: What do the Blue Jays have left for Game 4?&nbsp;&nbsp;Sportsnet.ca‘I’m not going to miss a pitch’: Fans bleary-eyed after defeat in marathon World Series gam",
+      "description": "‘This guy is incredible’: Reaction pours in following LA Dodgers walk-off victory over Toronto Blue Jays&nbsp;&nbsp;CTV NewsAfter torturing Blue Jays, Ohtani could decide path of World Series in Game 4&nbsp;&nbsp;Sportsnet.caDodgers produce 18-inning World Series sequel, `The Late, Late Sho’&nbsp;&n",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0RoZ0U5UHBQVTdlVjhuemNZQlgzYl9MbmZaLUF5MWdBREdFVUNhMVdrQ3BjMG9DNlNZdHBTU0t2S0VIS21FYXNOMmgtUERLbjd3YncxcnIwMThNVkFHUG9GUGdMZk9CTGtCVUVHdmhQX0s5eEgyVEJpSlFHM1AxOGU2TTU4RjljY1R4MjV5LXFUY1plTnREaE8zVWRoZzNmSVFZclpROHNNYkg3b2RIdXNNdzNBT1VzVEV0dmtPNUM?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 28 Oct 2025 15:09:41 GMT",
       "location": "Toronto",
       "category": "sports",
-      "fetched_at": "2025-10-28T20:21:32.105220"
+      "fetched_at": "2025-10-28T22:18:13.619953"
+    },
+    {
+      "id": "73603c21a6bd",
+      "title": "Auger-Aliassime keeps Turin hopes alive with opening Paris victory, Fonseca wins again - ATP Tour",
+      "description": "Auger-Aliassime keeps Turin hopes alive with opening Paris victory, Fonseca wins again&nbsp;&nbsp;ATP TourAuger-Aliassime keeps ATP Finals hopes alive with first-round win in Paris&nbsp;&nbsp;Sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VNG41cmJuclRFMzJLWXoyMU9vSTlNbmtWdENSdDJJOU1PV1RSVzBNRXI0VDRMbVJfRzh3bTdzNDBGc0RJWk9IRHl1Nml2SVZ5enRlZVBOTXZ1TGVrY1JhQU5JbEFHQzA?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 15:00:00 GMT",
+      "location": "World",
+      "category": "sports",
+      "fetched_at": "2025-10-28T22:18:13.620003"
     },
     {
       "id": "f1af195c3bbf",
@@ -1956,7 +2148,7 @@
       "published": "Tue, 28 Oct 2025 14:55:43 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:32.365385"
+      "fetched_at": "2025-10-28T22:18:13.769066"
     },
     {
       "id": "9e06d67e688a",
@@ -1968,7 +2160,7 @@
       "published": "Tue, 28 Oct 2025 14:52:21 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207339"
+      "fetched_at": "2025-10-28T22:18:12.182558"
     },
     {
       "id": "50e5f6160f7e",
@@ -1980,19 +2172,7 @@
       "published": "Tue, 28 Oct 2025 14:51:36 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181815"
-    },
-    {
-      "id": "590f9da9712d",
-      "title": "Former NHLer Ryan Kesler charged with criminal sexual conduct in Michigan - Sportsnet.ca",
-      "description": "Former NHLer Ryan Kesler charged with criminal sexual conduct in Michigan&nbsp;&nbsp;Sportsnet.caFormer Vancouver Canuck Ryan Kesler charged with criminal sexual conduct in Michigan&nbsp;&nbsp;CBCEx-NHL star Kesler faces sexual conduct charges&nbsp;&nbsp;ESPNReport: Former Canucks Forward Ryan Kesle",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1V5Xzl6VEpKT1FkVEVUdVRSbW93eVFTZmYxUW9KWS1xMld1WTFYLWFIbE5JbjJYd3llU2lxX0t3QnVrdW45RVkzdDJtYmZvc1hRTlRYMmpTaFpOUlNuTFo4Qm5MeURZOVZhRUpmNTRzTzZaWGFQZ1BCLWhfTnJaVU1FdW1Hc2tHTDRuMVdqamNLUmZEQkhKakZFNmhVbzc1YUV2YzJmUFBiWE9WclFCMk9rbXEwSHFU?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 14:51:00 GMT",
-      "location": "Vancouver",
-      "category": "sports",
-      "fetched_at": "2025-10-28T20:21:32.105596"
+      "fetched_at": "2025-10-28T22:18:14.053786"
     },
     {
       "id": "77ee4ba0d576",
@@ -2004,19 +2184,31 @@
       "published": "Tue, 28 Oct 2025 14:45:02 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:32.138001"
+      "fetched_at": "2025-10-28T22:18:13.553525"
     },
     {
       "id": "eaecded807b2",
       "title": "Texas sues Tylenol, claims companies hid autism risks - Global News",
-      "description": "Texas sues Tylenol, claims companies hid autism risks&nbsp;&nbsp;Global NewsTexas sues Tylenol makers J&amp;J and Kenvue, citing unproven link between the drug and autism&nbsp;&nbsp;CBCTexas sues Tylenol makers alleging deceptive marketing to pregnant people&nbsp;&nbsp;The GuardianTexas attorney gen",
+      "description": "Texas sues Tylenol, claims companies hid autism risks&nbsp;&nbsp;Global NewsTexas sues Tylenol makers J&amp;J and Kenvue, citing unproven link between the drug and autism&nbsp;&nbsp;CBCTexas attorney general sues Tylenol makers over autism claims&nbsp;&nbsp;BBCTexas sues Tylenol, taking cues from Tr",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50ZXJnbDRrdUU1bEh2RUh4R19Zd2lfcGFZQjJ4dGNRTXlhTEVwb1R5SmNvbnhJa2Vhem5QODZ5T0FGMDYxM3ZlM0VoMVVsdmhMaVNEMlhjSkxXa2FUUjNRc21HbldxYk81X2VLeVItdw?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 28 Oct 2025 14:38:49 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:32.365081"
+      "fetched_at": "2025-10-28T22:18:13.768888"
+    },
+    {
+      "id": "252b8f5cad2f",
+      "title": "Former Vancouver Canuck Ryan Kesler faces criminal sexual conduct charges in Michigan - Global News",
+      "description": "Former Vancouver Canuck Ryan Kesler faces criminal sexual conduct charges in Michigan&nbsp;&nbsp;Global NewsFormer Vancouver Canuck Ryan Kesler charged with criminal sexual conduct in Michigan&nbsp;&nbsp;CBCPolice won’t comment after former NHLer Kesler charged with criminal sexual conduct&nbsp;&nbs",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY3hhNk1FZjdKTkZuaXJLbUo1ZzJidklKMWlwUUFtRUpJaElMbWZ0Y1BQZmNEaGQ2ZGQwdEtnSUlRRFM1QlpLUFFTSnZJUEVmd0NtWTRZV1QxeXFNMXhCUjZGSHU4NEZ5Yl84NVl3Mjc1NjlHYXIwY1RzY3g5Z3RKY2NiMGxwMEhsQTBKRngzb9IBlAFBVV95cUxPckxvZ0NNVUZCZzVOdXNFOC1IZzNlemxjd1A0SlZxbm5rWC1lZE9vc2F4b0hOMzhGaEtlOHVWQklLUDlPSVRmbzlYZTBqSV9Nc3V6Zy1sNU9HaXlGYVlSZ2lIbTBsUi1MYVhOQWd0dGc3bDVNM1E5MWt0Vml6R0M1c3BGSHBFTGo3NTlIVnlLbS10Vjg5?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 14:36:41 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2025-10-28T22:18:13.620357"
     },
     {
       "id": "8a523cf1d8c0",
@@ -2028,19 +2220,7 @@
       "published": "Tue, 28 Oct 2025 14:36:11 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635425"
-    },
-    {
-      "id": "67f09748557f",
-      "title": "King Charles heckled over Prince Andrew’s ties to Jeffrey Epstein",
-      "description": "A heckler accosted King Charles III on Monday and pressed him about Prince Andrew’s ties to convicted sex offender Jeffrey Epstein. The king was greeting well-wishers who gathered outside of Lichfield Cathedral in England on Oct. 27, when a man began shouting from within the crowd. He asked the king",
-      "url": "https://ottawa.citynews.ca/2025/10/28/king-charles-heckled-over-prince-andrews-ties-to-jeffrey-epstein/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 14:31:55 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635470"
+      "fetched_at": "2025-10-28T22:18:14.016769"
     },
     {
       "id": "a945ac248b36",
@@ -2052,7 +2232,19 @@
       "published": "Tue, 28 Oct 2025 14:31:55 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.041895"
+      "fetched_at": "2025-10-28T22:18:13.959308"
+    },
+    {
+      "id": "67f09748557f",
+      "title": "King Charles heckled over Prince Andrew’s ties to Jeffrey Epstein",
+      "description": "A heckler accosted King Charles III on Monday and pressed him about Prince Andrew’s ties to convicted sex offender Jeffrey Epstein. The king was greeting well-wishers who gathered outside of Lichfield Cathedral in England on Oct. 27, when a man began shouting from within the crowd. He asked the king",
+      "url": "https://ottawa.citynews.ca/2025/10/28/king-charles-heckled-over-prince-andrews-ties-to-jeffrey-epstein/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 14:31:55 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-10-28T22:18:14.016817"
     },
     {
       "id": "724559538806",
@@ -2064,43 +2256,19 @@
       "published": "Tue, 28 Oct 2025 14:31:55 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065817"
-    },
-    {
-      "id": "c6932e6290b4",
-      "title": "King Charles heckled over Prince Andrew’s ties to Jeffrey Epstein",
-      "description": "A heckler accosted King Charles III on Monday and pressed him about Prince Andrew’s ties to convicted sex offender Jeffrey Epstein. The king was greeting well-wishers who gathered outside of Lichfield Cathedral in England on Oct. 27, when a man began shouting from within the crowd. He asked the king",
-      "url": "https://vancouver.citynews.ca/2025/10/28/king-charles-heckled-over-prince-andrews-ties-to-jeffrey-epstein/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 14:31:55 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.181861"
-    },
-    {
-      "id": "2265bfd590c4",
-      "title": "Canada isn’t deeply polarized — yet. What new research reveals about partisan animosity - The Conversation",
-      "description": "Canada isn’t deeply polarized — yet. What new research reveals about partisan animosity&nbsp;&nbsp;The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcUhCajRMem1xWFZvd1ppOW1ybkZLS0lMYm02NTlBTW9LRlVEVnMyWlpmYVg0MnFTZlNESmpuendtazlRejdMVl9zTU1MYTB3NVRfaFRBZEVXUktFVFV5c3QtdHFvckR1SVo1TFE0aFBDMC1naTBqZkJHc1JBdTBmc2lWSVgtZXRMdk9oRHRTMzV0RHZoSVdWX3NXVjZRZWNHSjlpVEdwMnZ2aWhRUThnT2hoRi1aczhpU3c?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 14:29:37 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-10-28T20:21:32.254095"
+      "fetched_at": "2025-10-28T22:18:14.215211"
     },
     {
       "id": "14b758da6ef4",
       "title": "Two suspects arrested in connection with 'distraction' jewelry thefts in Laval",
-      "description": "Distraction scams involve thieves making conversation with people in public places, offering them “gifts” and stealing the victim’s jewelry.",
+      "description": "Distraction scams involve thieves making conversation with people in public places, offering them “gifts” and stealing the victims' jewelry.",
       "url": "https://montrealgazette.com/news/crime/laval-distraction-jewelry-scam-suspects-arrested",
       "source": "Montreal Gazette",
       "image": "",
       "published": "Tue, 28 Oct 2025 14:27:37 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739846"
+      "fetched_at": "2025-10-28T22:18:14.053231"
     },
     {
       "id": "4351d2e3c6a4",
@@ -2112,7 +2280,7 @@
       "published": "Tue, 28 Oct 2025 14:27:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.081120"
+      "fetched_at": "2025-10-28T22:18:14.182259"
     },
     {
       "id": "0d8b89fdebb8",
@@ -2124,7 +2292,7 @@
       "published": "Tue, 28 Oct 2025 14:21:16 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960483"
+      "fetched_at": "2025-10-28T22:18:14.271752"
     },
     {
       "id": "2ab30342384f",
@@ -2136,7 +2304,19 @@
       "published": "Tue, 28 Oct 2025 14:17:51 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.041925"
+      "fetched_at": "2025-10-28T22:18:13.959342"
+    },
+    {
+      "id": "368dfbe36e77",
+      "title": "Projected Lineup - Flames @ Maple Leafs 28.10.25 - NHL.com",
+      "description": "Projected Lineup - Flames @ Maple Leafs 28.10.25&nbsp;&nbsp;NHL.com5 Things - Flames @ Maple Leafs 28.10.25&nbsp;&nbsp;NHL.comExpect Matthews, McMann Helping Leafs Over Flames in High-Scoring Affair&nbsp;&nbsp;YahooGAME DAY Preview: Calgary Flames @ Toronto Maple Leafs (Oct. 28)&nbsp;&nbsp;The Hocke",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWY3SVhMXzBjbmpHZmpWcXlHZHYxVVktRGpLMzhwelZaUExsMTJ2eUpTeUtMR0FYQWM1N1VKRjdUTS1XYW9WR0tDTFZla3AxM2xkV29nTGoyZGVvWWlMNGhBX1lSWG1tNHNWVHVwUnpzdUFlNXROdWJ6UkZ3SUJkOXNn?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 14:08:44 GMT",
+      "location": "Toronto",
+      "category": "sports",
+      "fetched_at": "2025-10-28T22:18:13.620408"
     },
     {
       "id": "79e8749c358f",
@@ -2148,19 +2328,19 @@
       "published": "Tue, 28 Oct 2025 14:05:12 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960518"
+      "fetched_at": "2025-10-28T22:18:14.271787"
     },
     {
       "id": "23efb1540035",
       "title": "Hamas fakes unearthing partial remains of hostage whose body IDF recovered in 2023, Israel says - The Times of Israel",
-      "description": "Hamas fakes unearthing partial remains of hostage whose body IDF recovered in 2023, Israel says&nbsp;&nbsp;The Times of IsraelAt least 2 people killed after Israeli strikes reported in Gaza City&nbsp;&nbsp;CBCHamas hands over remains of captive as Israeli drone strike kills two&nbsp;&nbsp;Al Jazeera",
+      "description": "Hamas fakes unearthing partial remains of hostage whose body IDF recovered in 2023, Israel says&nbsp;&nbsp;The Times of IsraelAt least 2 people killed after Israeli strikes reported in Gaza City&nbsp;&nbsp;CBCSlain hostage’s family blasts Hamas ‘manipulation’ after fake recovery of remains&nbsp;&nbs",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFFsVDFheFVnWm5VcHAxNHVUWjVlWVNTSXU1SzNYVXlKZm15a1RPOWtQaWo3MndvZU1RT1UtZTl3dWE1YUpzSjgzMkFYT1oyVHRheE0zb3VnQVFHX3ktSzhwY3c5ZFhWS0ZSZFJOT25BMGxzN3pVUUhMaFJnUWcza0Y0aXhmbFpPY0p3TVVDdjBVUkppMFpGT21IX1JGYl9Va19IWFZYdjQ2WXFUVm4wSjRYVTB3c3htMVRkQmktaGTSAcYBQVVfeXFMTW1abDJ5WkRWMEpUQ3NCT0NkU1ZQMDM3c2VUZlp4WWZYTk5tTjhuV2JXd2VGUWJoM0lJdWQ5bmhEajVYZ1JJeXdLX0dpVDYtNW5pMWlBb0l2YWUzLS16dEJoNlM3THpCLTNOeUUtZXI5ejBBdWxqZjRaVktPQ0c5Wnc4ZkZvS2VOUXRDbHZtOUNVX05jSnB2Q0o3NlhLbHRLNks1M3RJNWtSbUZrR0pjQ014WmhQV0pWNDdGQTdyME1zQkgxRGR3?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 28 Oct 2025 14:04:43 GMT",
-      "location": "Toronto",
+      "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:32.138073"
+      "fetched_at": "2025-10-28T22:18:13.553594"
     },
     {
       "id": "aac9bdfd409b",
@@ -2172,7 +2352,7 @@
       "published": "Tue, 28 Oct 2025 14:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288572"
+      "fetched_at": "2025-10-28T22:18:11.572782"
     },
     {
       "id": "0bc72b140078",
@@ -2184,7 +2364,7 @@
       "published": "Tue, 28 Oct 2025 13:57:30 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960547"
+      "fetched_at": "2025-10-28T22:18:14.271815"
     },
     {
       "id": "2e9622fd77e7",
@@ -2196,43 +2376,7 @@
       "published": "Tue, 28 Oct 2025 13:53:00 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.042006"
-    },
-    {
-      "id": "755f1f8c6770",
-      "title": "Strong confidence in Calgary Police: CityNews poll",
-      "description": "A new survey finds trust in Calgary’s police remains strong, as residents give high marks to both leadership and day-to-day policing across the city.",
-      "url": "https://calgary.citynews.ca/2025/10/28/calgary-police-approval/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 13:50:03 +0000",
-      "location": "Calgary",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.042044"
-    },
-    {
-      "id": "686ed339aa27",
-      "title": "Collision between city bus, police cruiser injures Calgary officer",
-      "description": "A Calgary police officer was left with minor injuries after a collision between a marked cruiser and a city transit bus Monday night.",
-      "url": "https://calgary.citynews.ca/2025/10/28/calgary-transit-police-collision/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 13:41:50 +0000",
-      "location": "Calgary",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.042073"
-    },
-    {
-      "id": "e8ca0336d694",
-      "title": "NFL Power Rankings - Week 9: Every team's best win so far - theScore.com",
-      "description": "NFL Power Rankings - Week 9: Every team's best win so far&nbsp;&nbsp;theScore.comNFL Week 9 Power Rankings: New 1-32 poll, plus the best offseason addition for every roster&nbsp;&nbsp;ESPNNFL Power Rankings, Week 9: Chargers, Texans and Ravens on the rise; Steelers, Falcons scuffling&nbsp;&nbsp;NFL.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hUDlwV25FOVJMakROc0Q3ZE1rSHo5MTZ4X1poZmVwckZETnl2elNJbWZlLXRMeV9aV0YwTGlwT1dEZFVpcUpIS3A1UnNvSlR5ZjBV?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 13:33:38 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2025-10-28T20:21:32.105710"
+      "fetched_at": "2025-10-28T22:18:13.959393"
     },
     {
       "id": "1674bc832b1c",
@@ -2244,7 +2388,7 @@
       "published": "Tue, 28 Oct 2025 13:33:03 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526314"
+      "fetched_at": "2025-10-28T22:18:13.856077"
     },
     {
       "id": "bfed26a72b59",
@@ -2256,7 +2400,7 @@
       "published": "Tue, 28 Oct 2025 13:22:56 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.635504"
+      "fetched_at": "2025-10-28T22:18:14.016854"
     },
     {
       "id": "b6f35e825d7f",
@@ -2268,7 +2412,7 @@
       "published": "Tue, 28 Oct 2025 13:07:57 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207250"
+      "fetched_at": "2025-10-28T22:18:12.182468"
     },
     {
       "id": "96dba732e0ac",
@@ -2280,7 +2424,7 @@
       "published": "Tue, 28 Oct 2025 13:00:53 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526358"
+      "fetched_at": "2025-10-28T22:18:13.856102"
     },
     {
       "id": "446c3d37d982",
@@ -2292,19 +2436,7 @@
       "published": "Tue, 28 Oct 2025 13:00:47 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526407"
-    },
-    {
-      "id": "dc046da43352",
-      "title": "B.C. wants to keep two Surrey properties linked to drug operation",
-      "description": "The B.C. director of civil forfeiture filed its lawsuit earlier this month alleging that the properties — jointly assessed at $5.3 million — have been used 'to engage in unlawful activities'",
-      "url": "https://vancouversun.com/news/crime/b-c-wants-to-keep-two-surrey-properties-linked-to-drug-operation",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 13:00:29 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.526459"
+      "fetched_at": "2025-10-28T22:18:13.856129"
     },
     {
       "id": "7c992231fb97",
@@ -2316,7 +2448,7 @@
       "published": "Tue, 28 Oct 2025 13:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288593"
+      "fetched_at": "2025-10-28T22:18:11.572804"
     },
     {
       "id": "45db543ea63d",
@@ -2328,7 +2460,7 @@
       "published": "Tue, 28 Oct 2025 12:42:02 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065854"
+      "fetched_at": "2025-10-28T22:18:14.215251"
     },
     {
       "id": "6f96a024a239",
@@ -2340,7 +2472,7 @@
       "published": "Tue, 28 Oct 2025 12:37:16 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207202"
+      "fetched_at": "2025-10-28T22:18:12.182421"
     },
     {
       "id": "db51bb52dbaf",
@@ -2352,7 +2484,7 @@
       "published": "Tue, 28 Oct 2025 12:34:26 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.081148"
+      "fetched_at": "2025-10-28T22:18:14.182305"
     },
     {
       "id": "b563183508fd",
@@ -2364,19 +2496,19 @@
       "published": "Tue, 28 Oct 2025 12:34:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:30.288617"
+      "fetched_at": "2025-10-28T22:18:11.572829"
     },
     {
-      "id": "cc7ba480930b",
-      "title": "Houseworks: Turn DIY skills into a handyman business",
-      "description": "If you’re handy around the house you may be sitting on a skill you could turn into satisfying work and good money. Handyman services are in high demand in many Canadian communities, and there are three reasons it’s a great time to turn your amateur home improvement skills into something professional",
-      "url": "https://ottawacitizen.com/life/houseworks-turn-diy-skills-into-a-handyman-business",
-      "source": "Ottawa Citizen",
+      "id": "d1924eb9a3d1",
+      "title": "‘Trump 2028’: Could the US president really go for a third term? - Al Jazeera",
+      "description": "‘Trump 2028’: Could the US president really go for a third term?&nbsp;&nbsp;Al JazeeraTrump does not rule out seeking third term - but says he will not use VP loophole&nbsp;&nbsp;BBCTrump’s third term? Don’t laugh. He’s never let the rules stop him before | Arwa Mahdawi&nbsp;&nbsp;The GuardianWhy Tr",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXRyR3dZeDFuMHNRdFUxaUFhcFRIRVJpemlzekRrbUJOaHFHRXdDa3pnbURGeE0wdkFoNnp4eTRkdHI3RWNfQTlHaVAzdDVFQXVsT3NFTktZajVXclVTaDdQa1Nra3FTVWtiUDFCQVRadEt6al9Fb3VhN3VyOENWanZjUVJjbnlWc1pPaVhLQ2dqdFk5RWdvd2hCNTlleXkxbWNoadIBqgFBVV95cUxQWWszY3ZMSXd0S2w5SHNuTllqTkJRWWFuOV81OVJLWEJveTFGb2tOU0t5ZGYxYkdhXzhhZ0JrTC1rbElESUlRSjlwMENHRDNZcFBYNERqdlc2ZXJxMnphZUNFODhZajZrWjJRM1JvcFJNMkUtaU9qNm4xRktCUzJFOHhWY2dFSk9ZRjJrZHZLT0pSZi01OHRnNTdhQnFXdHZzRmQ2SEk1VmFhZw?oc=5",
+      "source": "Google News Tech",
       "image": "",
-      "published": "Tue, 28 Oct 2025 12:18:37 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.081192"
+      "published": "Tue, 28 Oct 2025 12:22:30 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:13.553401"
     },
     {
       "id": "f63cbad3ecea",
@@ -2388,19 +2520,7 @@
       "published": "Tue, 28 Oct 2025 12:11:34 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-10-28T20:21:31.518319"
-    },
-    {
-      "id": "69cbf3322ae2",
-      "title": "Longueuil woman, 73, beaten during home invasion, police say",
-      "description": "The woman's son, who was also in the home, was unharmed, police say.",
-      "url": "https://montrealgazette.com/news/crime/longueuil-woman-73-beaten-during-home-invasion-police-say",
-      "source": "Montreal Gazette",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 12:03:16 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.739875"
+      "fetched_at": "2025-10-28T22:18:12.278138"
     },
     {
       "id": "db0fecad2f1a",
@@ -2412,7 +2532,7 @@
       "published": "Tue, 28 Oct 2025 12:00:00 +0000",
       "location": "Ottawa",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.290196"
+      "fetched_at": "2025-10-28T22:18:11.640880"
     },
     {
       "id": "0ae898f88ef6",
@@ -2424,7 +2544,7 @@
       "published": "Tue, 28 Oct 2025 12:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:31.889163"
+      "fetched_at": "2025-10-28T22:18:13.352577"
     },
     {
       "id": "78ca6f3ba685",
@@ -2436,7 +2556,7 @@
       "published": "Tue, 28 Oct 2025 11:59:52 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960579"
+      "fetched_at": "2025-10-28T22:18:14.271847"
     },
     {
       "id": "c9fd3b9953ea",
@@ -2448,7 +2568,7 @@
       "published": "Tue, 28 Oct 2025 11:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:31.889226"
+      "fetched_at": "2025-10-28T22:18:13.352628"
     },
     {
       "id": "36db70452f99",
@@ -2460,7 +2580,7 @@
       "published": "Tue, 28 Oct 2025 11:24:34 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065893"
+      "fetched_at": "2025-10-28T22:18:14.215310"
     },
     {
       "id": "81baddaf61f8",
@@ -2472,19 +2592,7 @@
       "published": "Tue, 28 Oct 2025 11:14:05 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207150"
-    },
-    {
-      "id": "7abbccd86a00",
-      "title": "Cameco shares soar after company and Brookfield sign $80-billion nuclear reactor deal with U.S.",
-      "description": "Under the deal, the U.S. government will arrange financing and approvals for at least $80-billion worth of new Westinghouse nuclear reactors",
-      "url": "https://www.theglobeandmail.com/business/international-business/us-business/article-westinghouse-cameco-and-brookfield-partner-with-us-government-on-80/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/KEZA6JDFMRBMZIEP7CUUXQYFW4.JPG?auth=8f2ca79540394c36b684df06797ba2b37c2d0e3773be694ae05bf1a51fc5631a&smart=true&width=2400&height=1600",
-      "published": "Tue, 28 Oct 2025 11:12:04 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.290329"
+      "fetched_at": "2025-10-28T22:18:12.182367"
     },
     {
       "id": "fe79ce9ca8b7",
@@ -2496,7 +2604,7 @@
       "published": "Tue, 28 Oct 2025 11:08:57 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207315"
+      "fetched_at": "2025-10-28T22:18:12.182534"
     },
     {
       "id": "7dcf52e38c87",
@@ -2508,7 +2616,7 @@
       "published": "Tue, 28 Oct 2025 11:01:41 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.290175"
+      "fetched_at": "2025-10-28T22:18:11.640979"
     },
     {
       "id": "44ba9112d3e4",
@@ -2520,7 +2628,19 @@
       "published": "Tue, 28 Oct 2025 11:00:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.662686"
+      "fetched_at": "2025-10-28T22:18:14.251126"
+    },
+    {
+      "id": "813baba3f0ed",
+      "title": "Excitement around Alzheimer’s treatment tempered by questions about efficacy, accessibility - The Globe and Mail",
+      "description": "Excitement around Alzheimer’s treatment tempered by questions about efficacy, accessibility&nbsp;&nbsp;The Globe and MailDrug to slow early-stage Alzheimer's disease approved by Health Canada&nbsp;&nbsp;CBC‘An important milestone:’ Canada approves expensive new drug that can slow Alzheimer’s disease",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2RxMGlteHBOaWU3bXFmNUxXSUN2OEdFQUZqNWQ3N1RfQTdkMHJRSjM0ak9iNnJsZUxSM2Vlb21wbU45RHJOTGx1X3pGS3Q3a3JzbDRSTW1mR1dVdl9hRXAtVWFudFFoSlptT1J5dXpfclpnOGZXOVZ0OGhKMzFsSzJlNFQxYmxkNkdEN1Y2Q1dhOXhfOWFRVWhNbkZmSGtoNmFCTzNxU0ExRUly?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 11:00:00 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2025-10-28T22:18:13.768770"
     },
     {
       "id": "c35382e72fed",
@@ -2532,31 +2652,43 @@
       "published": "Tue, 28 Oct 2025 11:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:31.889273"
+      "fetched_at": "2025-10-28T22:18:13.352673"
     },
     {
-      "id": "a603791f090b",
-      "title": "Record rainfall causes major flooding in Vietnam, submerging ancient sites",
-      "description": "HANOI, Vietnam (AP) — Heavy rains have caused major flooding in central Vietnam, with rivers swelling and inundating homes and farmland, and submerging tourist destinations including the historic cities of Hue and Hoi An. By late Monday, rainfall in the central city of Hue reached 1,085.8 millimeter",
-      "url": "https://edmonton.citynews.ca/2025/10/28/record-rainfall-causes-major-flooding-in-vietnam-submerging-ancient-sites/",
-      "source": "CityNews Edmonton",
+      "id": "6c74c3663c4e",
+      "title": "Man accused of assassinating Japan's ex-prime minister Shinzo Abe pleads guilty: \"Everything is true\" - CBS News",
+      "description": "Man accused of assassinating Japan's ex-prime minister Shinzo Abe pleads guilty: \"Everything is true\"&nbsp;&nbsp;CBS NewsMan pleads guilty to killing Japan's former PM Shinzo Abe&nbsp;&nbsp;BBCAbe shooting suspect Yamagami pleads guilty to murder&nbsp;&nbsp;The Japan TimesMan Pleads Guilty to Killin",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREFPYWoxb3dncXkwV3l4djdpVDhCNVZLVUt1WG5WN2hodDg4VjBqX1piUWV0Vk11Wnp1NjF3UHFMeG9ZaEdBelVZVnRVUHZ3SHlmaGk4cWxvaVBlSjFrTEZCZFJqMEZwNFlncnRSRkgySENKZ09UMTZVR3pkaUVJYtIBhgFBVV95cUxQYWxqUHdJV3NZWDBYbkFFMUVQc01mMUszeWIzWkE5MFhFR2NRdE54RExyTWNReVRzRzRkanFYUHRTeG1QTU5tS0otYXplbERlNGtJQUFrZjgwaV92elJMME85d0F4VEtjalFuRkZ6dm96UVgzTjZuckZyS3NfekxBUV9nVHBWdw?oc=5",
+      "source": "Google News Tech",
       "image": "",
-      "published": "Tue, 28 Oct 2025 10:31:59 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.065944"
+      "published": "Tue, 28 Oct 2025 10:44:00 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:13.553334"
+    },
+    {
+      "id": "cdf7008291e4",
+      "title": "Morning Update: Stuck between Trump’s tariffs and Xi’s terms - The Globe and Mail",
+      "description": "Morning Update: Stuck between Trump’s tariffs and Xi’s terms&nbsp;&nbsp;The Globe and MailCarney hoping for a relations reset in meeting with Chinese president&nbsp;&nbsp;CBCOnus is on Mark Carney to end impasse with Donald Trump, business and union leaders say&nbsp;&nbsp;Toronto StarPrime Minister ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQk1hMExmOGZ2MXByb0VSZlhjUWxBdkwwSzM0SlpEa2NMQnJtMXVyYksyQkhEU0plUnk5WlF3WWY2YkdrRHNWLU1SZTQ1VzFGRnp0dDZmVUlOeHFQajVQc01SZUdoUkNocjdIYWJPZm44UjFELThXMTc2MnF0OUZ5XzBaN01NOWJJdXl6M3lOUkZSY3I0ZnBreElETW13TFU5THlJYmExYzE?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 10:18:13 GMT",
+      "location": "Toronto",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:13.553229"
     },
     {
       "id": "d35dd32c993d",
       "title": "Province hoping to strengthen local electricity distribution - SooToday.com",
-      "description": "Province hoping to strengthen local electricity distribution&nbsp;&nbsp;SooToday.comOntario Launches Expert Panel to Strengthen Local Electricity Distribution&nbsp;&nbsp;ontario.caStephen Lecce: Ontario utilities are heading towards a financial cliff&nbsp;&nbsp;National PostPanel for Utility Leaders",
+      "description": "Province hoping to strengthen local electricity distribution&nbsp;&nbsp;SooToday.comOntario Launches Expert Panel to Strengthen Local Electricity Distribution&nbsp;&nbsp;Ontario NewsroomStephen Lecce: Ontario utilities are heading towards a financial cliff&nbsp;&nbsp;National PostPanel for Utility L",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHR4eVF4am55TUhiNkk3T2RQZ1dEb1o0LXg3MHJ1OWVMaUg1MUlLaFhpQ1g2akQxeWFhQzRKWXdQRDFkUXd4VFMxNGphY1FzSjdzbFl3WDhxMkhOalhydXc1bEtMcHRRakJNN3ZCLWJCdHFxUFF2UXhlUHRXWGxXbjRJWF9WTGllNFpTb3BIdmVJRFA3VGxYVG9pOF9PRThyeGg4RXRSZFg1eWgwWDJKeFdXZU8yNWhRdVE?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 28 Oct 2025 10:16:59 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:32.365136"
+      "fetched_at": "2025-10-28T22:18:13.768827"
     },
     {
       "id": "be09cf65918f",
@@ -2568,31 +2700,7 @@
       "published": "Tue, 28 Oct 2025 10:00:58 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960620"
-    },
-    {
-      "id": "97595ff5d6cf",
-      "title": "EXCLUSIVE: Alberta UCP members want to debate policies around Bitcoin, mRNA vaccines, separation and more",
-      "description": "The policies they want debated include a ban on pronouns in email signatures and unification of Alberta, Yukon and Northwest Territories",
-      "url": "https://nationalpost.com/news/exclusive-alberta-ucp-members-want-to-debate-policies-around-bitcoin-mrna-vaccines-separation-and-more",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/10/UCP-AGM.jpg",
-      "published": "Tue, 28 Oct 2025 10:00:41 +0000",
-      "location": "World",
-      "category": "politics",
-      "fetched_at": "2025-10-28T20:21:30.224343"
-    },
-    {
-      "id": "2c2d3a97aa80",
-      "title": "Majority of Canadians no longer see America as a friend, study finds - Toronto Star",
-      "description": "Majority of Canadians no longer see America as a friend, study finds&nbsp;&nbsp;Toronto StarCanada Needs a New Bestie&nbsp;&nbsp;The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQellpRXlralE1UHZ5T3lYaGJoWmJSY3VZcU5rTXdXTFJZdW5MWUJFLXZTcENXYkoyaHQ3ZHlyME5QM1QtS0xjMzlIY0ZUZkhTVmxyTlh6VUhFamtDamtDUGpaTFh1Y3ZwNHlha1hyd3VXTldCVHJ3N0ZFOFNtZ09NcURKc0d4anZ3M1I0cXhPcHBTcVYxWGJWcW9iTHFaREUxZXdKUEk2WV9sRjNuYUZiTUtnZnhzV0h1Vy11MGd0dTlwRnotUmcxWExTUWxSNmJMa1lBLUtBQWhhT0YwbnY2M1hYN1hoM3EtRk1EOG1OOA?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 10:00:00 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:32.138108"
+      "fetched_at": "2025-10-28T22:18:14.271888"
     },
     {
       "id": "549fab65e93f",
@@ -2604,19 +2712,7 @@
       "published": "Tue, 28 Oct 2025 09:47:26 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-10-28T20:21:31.518360"
-    },
-    {
-      "id": "0a2f2ddb2c15",
-      "title": "United States Government, Brookfield and Cameco announce transformational partnership - Cameco",
-      "description": "United States Government, Brookfield and Cameco announce transformational partnership&nbsp;&nbsp;CamecoCameco shares soar after company and Brookfield sign $80-billion nuclear reactor deal with U.S.&nbsp;&nbsp;The Globe and MailCameco shares soar after company and Brookfield sign nuclear reactor dea",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYm5Bbm9fUE1FMGUzdmdMUXA5Z21BdU16RGl1c0hhejY2cC1yQTQzOHhHd3FtRnExZTl0VlJmTGUtcnFfOUM0MWp2SXY0VC0zSk5KQ1FZMzRCNE5MdUZxT091eHNGN1hGa3lsTmtFRjZ1VWJkRDhlUG5GSkRTR1dfYk5PVlVCQkVFOFJhTXhtOW5CSnN1ZThuUUNtQ3JUbjdtbWtibVhSNkdLZFBRSDNFX25pZFZSb2trc3c?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 09:36:40 GMT",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:32.364804"
+      "fetched_at": "2025-10-28T22:18:12.278178"
     },
     {
       "id": "dc245a9c0645",
@@ -2628,7 +2724,7 @@
       "published": "Tue, 28 Oct 2025 08:18:13 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207293"
+      "fetched_at": "2025-10-28T22:18:12.182511"
     },
     {
       "id": "c0a82779402a",
@@ -2640,31 +2736,7 @@
       "published": "Tue, 28 Oct 2025 08:15:00 +0000",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.290238"
-    },
-    {
-      "id": "2e6872d80d12",
-      "title": "Prime Minister Carney’s visit to Singapore focuses on attracting investment in Canada - CityNews Toronto",
-      "description": "Prime Minister Carney’s visit to Singapore focuses on attracting investment in Canada&nbsp;&nbsp;CityNews TorontoView Full Coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0Rzb0xTaTNZbS1BT3FDMXdyaHFCWTBGNFNUU1kteVplMzg1ZnFrNFFwcC00NjlGN3BMdmxZWU5ZbjAzaWQxSExoWWphQlpyNmRjbVZFMmVaTjVpU2h3NTM4WXpQdURxWjZWR28wc3RHci1fSnIwbktJd19KaURsa2x0Qzg2UG93akcwX0loaVM1c0ktSW1MQmpOX2RZQkNpNnpNUUNFNWNvdVZldHdNV0N3TmRDWEktTzVvd2ItYUhOUQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 08:12:00 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:32.137787"
-    },
-    {
-      "id": "4b5412436ca1",
-      "title": "So much for supporting women's professional sport in Ottawa | Letters to the Editor",
-      "description": "Tuesday Oct. 28: Readers respond to Lansdowne 2.0",
-      "url": "https://ottawacitizen.com/opinion/letters/so-much-for-supporting-womens-professional-sport-in-ottawa-letters-to-the-editor",
-      "source": "Ottawa Citizen",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 08:00:55 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.081217"
+      "fetched_at": "2025-10-28T22:18:11.641021"
     },
     {
       "id": "e46d3a2593c4",
@@ -2676,7 +2748,7 @@
       "published": "Tue, 28 Oct 2025 08:00:46 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-10-28T20:21:30.224284"
+      "fetched_at": "2025-10-28T22:18:12.069847"
     },
     {
       "id": "ca1f8aa7d01a",
@@ -2688,19 +2760,7 @@
       "published": "Tue, 28 Oct 2025 08:00:28 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2025-10-28T20:21:30.224253"
-    },
-    {
-      "id": "872da8a22a9c",
-      "title": "Social programs could be 'sunset' along with jobs of public servants who administer them: analysis",
-      "description": "The Canadian Centre for Policy Alternatives estimates that 52 of 88 departments and agencies will let programs expire to help meet savings target.",
-      "url": "https://ottawacitizen.com/public-service/social-programs-budget-cuts",
-      "source": "Ottawa Citizen",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 08:00:26 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:33.081248"
+      "fetched_at": "2025-10-28T22:18:12.069823"
     },
     {
       "id": "f299a0abdd53",
@@ -2712,7 +2772,19 @@
       "published": "Tue, 28 Oct 2025 07:05:22 GMT",
       "location": "Toronto",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.207270"
+      "fetched_at": "2025-10-28T22:18:12.182488"
+    },
+    {
+      "id": "1e900232a4f9",
+      "title": "Gaza ceasefire tested as Israel and Hamas exchange fire and blame - CityNews Toronto",
+      "description": "Gaza ceasefire tested as Israel and Hamas exchange fire and blame&nbsp;&nbsp;CityNews TorontoView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXdRQ3J5NzdiV1AyNW5kbldDLV9jTGJLa2xHaU1wWVNkZXpSZUQxNjdBa2J4dzZkNUpQNUZhblU4WmFmQzU3cDhOWjlWTFBOUDN3c0VCUHJ1UE55bmo2eTlwZVQxM3k3bXQ3TlZxYm9memwybUJEVy0wN0RkaXkyNlh6SXhXM3licWJNTF9ac0tybnVuV29ndDc5VUY0THdLYXJXN2tzOV9MVWc?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 28 Oct 2025 05:16:00 GMT",
+      "location": "Toronto",
+      "category": "technology",
+      "fetched_at": "2025-10-28T22:18:13.553261"
     },
     {
       "id": "46bbaa43669d",
@@ -2724,55 +2796,43 @@
       "published": "Tue, 28 Oct 2025 05:00:20 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.597297"
-    },
-    {
-      "id": "bf62e1e25108",
-      "title": "One ugly stat best explains weirdness of the Edmonton Oilers this year",
-      "description": "This in from hockey stats analyst Brad McPherson, one stat he&#8217;s come up with that best explains the weirdness of the Edmonton Oilers after the first ten games of the 2025-26 season. Said McPherson on-line, &#8220;There are 106 forward lines (in the NHL) that have played 30 minutes together thi",
-      "url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/one-ugly-stat-best-explains-weirdness-of-the-edmonton-oilers-this-year",
-      "source": "Edmonton Journal",
-      "image": "",
-      "published": "Tue, 28 Oct 2025 04:03:42 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.960653"
+      "fetched_at": "2025-10-28T22:18:12.750936"
     },
     {
       "id": "a13ad6c29dc8",
-      "title": "George Springer removed from Game 3 of World Series with injury, status uncertain for Game 4 - The Globe and Mail",
-      "description": "George Springer removed from Game 3 of World Series with injury, status uncertain for Game 4&nbsp;&nbsp;The Globe and MailBlue Jays await MRI results on Springer after exiting Game 3&nbsp;&nbsp;TSNBlue Jays’ George Springer removed from World Series with injury — and some Dodgers fans cheer&nbsp;&nb",
+      "title": "George Springer’s status for Game 4 uncertain after injury - The Globe and Mail",
+      "description": "George Springer’s status for Game 4 uncertain after injury&nbsp;&nbsp;The Globe and MailBlue Jays' Springer 'hour-to-hour' ahead of Game 4&nbsp;&nbsp;Sportsnet.caGeorge Springer injury update: Blue Jays slugger likely to stay on World Series roster after tweaking side&nbsp;&nbsp;CBS SportsBlue Jays ",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnl2c09kOHVYYWlOemNpdFM0WDVJc3ozWWpXd1NKUl9Lamx3X2dyTXVzWlZJVVY0azNTQ1hsV2tkMHE4Nzd6X1pOMHA2Y1Q5UzluM3I3dlJLZU5JU1pmRmpQOWFhWnVEdDh4RnNHbjJTSG9LVWprZmV3UnpoSHZkZTZURUVKR2Jmc0d0bG9iWjVmNjZYREpyb3l1Z3B6TTE5UWxvSVNpS3BmQmE4VWxqMVpFYXZ2UWNy?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 28 Oct 2025 03:18:28 GMT",
-      "location": "Toronto",
+      "location": "World",
       "category": "sports",
-      "fetched_at": "2025-10-28T20:21:32.105471"
+      "fetched_at": "2025-10-28T22:18:13.620555"
     },
     {
       "id": "e7e20bf067b5",
       "title": "Japan PM to nominate Trump for Nobel Prize, White House says - DW",
-      "description": "Japan PM to nominate Trump for Nobel Prize, White House says&nbsp;&nbsp;DWTrump ends Japan leg of Asia tour after meeting Sanae Takaichi&nbsp;&nbsp;BBCFord's enormous F-150 becomes unlikely part of Japan's efforts to woo Trump&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosTrump, 79, Wan",
+      "description": "Japan PM to nominate Trump for Nobel Prize, White House says&nbsp;&nbsp;DWTrump ends Japan leg of Asia tour after meeting Sanae Takaichi&nbsp;&nbsp;BBCJapanese PM promises golden age in relations with US during Trump visit&nbsp;&nbsp;The GuardianFord's enormous F-150 becomes unlikely part of Japan's",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1Z3OV9EdG0zVU9xdkxtT0YxVUZqTjlxS0VJQklRMEJvamVpWGtkcmJ2Z0xBRDlmMHAzSUtGNE1qeGctODl5bFlKVGhfOUhOdUt6N0hyejRIdW9jaXlhajBwX1NLTEZzOVJHSnZ5YkpoMVlFVk14bXBrbkg5N0ZmOVBCbHV0bDVSMDJ1ZG45TWp2OE5oSEpmQ05wLWJXZ0HSAZ8BQVVfeXFMT3pzZ0tpdlVGUVhqUUItTnQzbW92N3FhbEZwUjlhV1l4MlFkb28zVndBWVVHS3BqSkZLR3hPQVNpbVZGSFUxTmQwOU1ZNFl5X2JlV2ZsTUZ0bHVwelo3Y2tyNHF4ckFLNEt0RXBwY1pyUGdpckhqNGFJM19PUVVFVjBPRW5qQU0wT0FFQy1HR0Y1ZEIyWldFWDcxZ3d0X3RR?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 28 Oct 2025 03:08:36 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-10-28T20:21:32.137922"
+      "fetched_at": "2025-10-28T22:18:13.553470"
     },
     {
       "id": "3d2c99dbca82",
       "title": "Crosby Becomes Ninth Player in NHL History to Reach 1,700 Points - NHL.com",
-      "description": "Crosby Becomes Ninth Player in NHL History to Reach 1,700 Points&nbsp;&nbsp;NHL.comCrosby gets 1,700th point in Penguins win against Blues&nbsp;&nbsp;NHL.comCan Sidney Crosby hit 2,000 points?&nbsp;&nbsp;Daily FaceoffCrosby has goal, two assists to reach 1,700 points as Penguins beat Blues&nbsp;&nbs",
+      "description": "Crosby Becomes Ninth Player in NHL History to Reach 1,700 Points&nbsp;&nbsp;NHL.comCrosby gets 1,700th point in Penguins win against Blues&nbsp;&nbsp;NHL.comCan Sidney Crosby hit 2,000 points?&nbsp;&nbsp;Daily FaceoffPenguins' Sidney Crosby is 9th player in NHL history to incredible points milestone",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjFqemRwUTQzVDNuVERnRlJuUmxqcW1xTGJMWHVORTR4ZWpURjNQbm80ZXVOSXo4LVZNekwtSFhHd1VYbG1FVWszbXhpR19OZUFfdzg2czhhbGlZSEtldGZHYnhjSDNTTVJBNjc5M0VOcXRBUWVtaktSZGRqRk15UWhQZzZpR1MxWHZXWXk3VXhGcjlSelNfZ2M2UkVqNk0?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 28 Oct 2025 02:45:01 GMT",
       "location": "World",
       "category": "sports",
-      "fetched_at": "2025-10-28T20:21:32.105287"
+      "fetched_at": "2025-10-28T22:18:13.620182"
     },
     {
       "id": "7c9b7f97fdd0",
@@ -2784,7 +2844,7 @@
       "published": "Tue, 28 Oct 2025 01:52:34 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-10-28T20:21:31.518406"
+      "fetched_at": "2025-10-28T22:18:12.278222"
     },
     {
       "id": "24949dbc32a6",
@@ -2796,7 +2856,7 @@
       "published": "Tue, 28 Oct 2025 00:23:18 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-10-28T20:21:30.412095"
+      "fetched_at": "2025-10-28T22:18:11.323330"
     },
     {
       "id": "61557506acea",
@@ -2808,7 +2868,7 @@
       "published": "Tue, 28 Oct 2025 00:01:12 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.597583"
+      "fetched_at": "2025-10-28T22:18:12.751302"
     },
     {
       "id": "fbf294399b79",
@@ -2820,7 +2880,7 @@
       "published": "Tue, 28 Oct 2025 00:00:49 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-10-28T20:21:31.518270"
+      "fetched_at": "2025-10-28T22:18:12.278091"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -2832,7 +2892,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.344228"
+      "fetched_at": "2025-10-28T22:18:12.524902"
     },
     {
       "id": "cf85b682f514",
@@ -2844,7 +2904,7 @@
       "published": "Tue, 21 Oct 2025 11:00:07 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.663071"
+      "fetched_at": "2025-10-28T22:18:14.251529"
     },
     {
       "id": "05ea19344a14",
@@ -2856,7 +2916,7 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.344289"
+      "fetched_at": "2025-10-28T22:18:12.524961"
     },
     {
       "id": "a2b7282df523",
@@ -2868,7 +2928,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.344314"
+      "fetched_at": "2025-10-28T22:18:12.524984"
     },
     {
       "id": "fac76d2d604c",
@@ -2880,7 +2940,7 @@
       "published": "Thu, 23 Oct 2025 11:00:21 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.662902"
+      "fetched_at": "2025-10-28T22:18:14.251371"
     },
     {
       "id": "a3777a8bac7b",
@@ -2892,7 +2952,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.344177"
+      "fetched_at": "2025-10-28T22:18:12.524857"
     },
     {
       "id": "5ba71119722f",
@@ -2904,7 +2964,7 @@
       "published": "Sun, 26 Oct 2025 11:00:19 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.662774"
+      "fetched_at": "2025-10-28T22:18:14.251221"
     },
     {
       "id": "c69d72286e3d",
@@ -2916,7 +2976,7 @@
       "published": "Sun, 26 Oct 2025 02:17:59 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-10-28T20:21:31.518652"
+      "fetched_at": "2025-10-28T22:18:12.278479"
     },
     {
       "id": "48332101e695",
@@ -2928,7 +2988,7 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.344253"
+      "fetched_at": "2025-10-28T22:18:12.524926"
     },
     {
       "id": "4c4c989c858d",
@@ -2940,122 +3000,61 @@
       "published": "Sat, 25 Oct 2025 11:00:10 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-10-28T20:21:32.662818"
-    },
-    {
-      "id": "6ea9fa9f64bd",
-      "title": "Canada needs to start thinking about an auto sector without U.S. automakers",
-      "description": "Stellantis’s decision to shift Jeep production south of the border highlights the challenge of keeping a thriving domestic industry",
-      "url": "https://www.theglobeandmail.com/business/article-canada-auto-sector-us-automakers/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/GN52RY6HZVGARIXBVHJGBWP6GM.jpg?auth=697534e97faf017a3a7146750bf907183781f5aebaa42198c5494fbd69df16cd&smart=true&width=3600&height=2498",
-      "published": "Sat, 18 Oct 2025 09:00:00 +0000",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2025-10-28T20:21:30.290306"
-    },
-    {
-      "id": "0c53dd4f3e91",
-      "title": "Massacres under way in Darfur after militia captures besieged city, reports say - The Globe and Mail",
-      "description": "Massacres under way in Darfur after militia captures besieged city, reports say&nbsp;&nbsp;The Globe and MailSudan conflict: El-Fasher's fall to RSF paramilitary force raises fear of mass killings&nbsp;&nbsp;BBCMass killings reported in Sudanese city seized by paramilitary group&nbsp;&nbsp;The Guard",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjVTeTl3LVdlSTdQWGF2d1BWeGlTWkxybEhiWWduS0xkRzdsdGYtZ3VpRmpsb25EZVRiNksxYkMxcFN3R2tlcDZBSDBoM3BLNG5MWUxnNDl4N0RkYVR4czFDSU1lR3VtODZYNjBuZTQtQ2YxOThBLTIxVnpPbFctc2tFb0Vac3VjTDN6NTN2LTZ4SzJhVUViTklyOUkxZUwtOXgxbkF2M01FMnJZQXZrOXE2VQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 27 Oct 2025 23:51:30 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2025-10-28T20:21:32.137617"
-    },
-    {
-      "id": "5109f2e2d30d",
-      "title": "Jamaicans take shelter as Hurricane Melissa bears down as category 5 storm",
-      "description": "Landfall expected in coming hours amid warnings of catastrophic flooding, and landslidesHurricane Melissa – follow latest updates liveJamaicans have started to take shelter from Hurricane Melissa as the category 5 storm neared the coast amid warnings of catastrophic flooding, landslides and extensiv",
-      "url": "https://www.theguardian.com/world/2025/oct/27/jamaicans-take-shelter-as-hurricane-melissa-bears-down-as-category-5-storm",
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/d8d403645563c039336961610b7db1fe9cc52f73/944_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c163259a3d328e851f28dbe759108fe9",
-      "published": "Mon, 27 Oct 2025 23:35:00 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-10-28T20:21:31.597629"
-    },
-    {
-      "id": "eaea5e1c5142",
-      "title": "Prison labour under scrutiny as inmates produce milk for public consumption",
-      "description": "Inmates at Joyceville Institution, a minimum-security prison outside Kingston, Ont., are producing milk that enters Canada’s commercial... The post Prison labour under scrutiny as inmates produce milk for public consumption appeared first on APTN News.",
-      "url": "https://www.aptnnews.ca/investigates/prison-labour-under-scrutiny-as-inmates-produce-milk-for-public-consumption/",
-      "source": "APTN News",
-      "image": "https://www.aptnnews.ca/wp-content/uploads/2025/10/Calvin-Neufeld-Evolve-our-Prisons.jpg",
-      "published": "Mon, 27 Oct 2025 23:18:12 +0000",
-      "location": "Canada",
-      "category": "indigenous",
-      "fetched_at": "2025-10-28T20:21:30.346690"
-    },
-    {
-      "id": "959beed65b88",
-      "title": "Search for remains of Ashley Shingoose in Winnipeg landfill to start in December",
-      "description": "Manitoba Premier Wab Kinew says the search for the remains of Ashley Shingoose in a... The post Search for remains of Ashley Shingoose in Winnipeg landfill to start in December appeared first on APTN News.",
-      "url": "https://www.aptnnews.ca/national-news/search-for-remains-of-ashley-shingoose-in-winnipeg-landfill-to-start-in-december/",
-      "source": "APTN News",
-      "image": "",
-      "published": "Mon, 27 Oct 2025 22:57:06 +0000",
-      "location": "Winnipeg",
-      "category": "indigenous",
-      "fetched_at": "2025-10-28T20:21:30.346734"
+      "fetched_at": "2025-10-28T22:18:14.251267"
     }
   ],
   "sources": [
-    "National Post",
-    "Ottawa Citizen",
-    "Global Politics",
-    "CityNews Montreal",
-    "CityNews Toronto",
-    "Google News Sports",
-    "CityNews Ottawa",
-    "Montreal Gazette",
-    "Google News Canada",
+    "The Guardian",
+    "BBC World",
+    "Vancouver Sun",
+    "BetaKit",
+    "Google News Business",
     "Google News Tech",
-    "TechCrunch",
-    "Globe Business",
-    "Financial Post",
+    "Ottawa Citizen",
+    "CityNews Vancouver",
+    "Al Jazeera",
+    "Montreal Gazette",
+    "Global Politics",
+    "CityNews Calgary",
+    "National Post",
+    "Google News Canada",
     "APTN News",
     "Global News",
-    "National Post Politics",
-    "Google News Business",
-    "Calgary Sun",
-    "Science Daily",
-    "Vancouver Sun",
     "CityNews Edmonton",
     "Wired",
+    "CityNews Ottawa",
+    "Globe Business",
+    "Science Daily",
+    "National Post Politics",
+    "Calgary Sun",
+    "TechCrunch",
+    "CityNews Montreal",
+    "Financial Post",
     "Edmonton Journal",
-    "CNN World",
-    "Al Jazeera",
-    "BetaKit",
-    "The Guardian",
-    "CityNews Calgary",
-    "BBC World",
-    "CityNews Vancouver"
+    "Google News Sports",
+    "CityNews Toronto",
+    "CNN World"
   ],
   "stats": {
     "by_location": {
-      "Calgary": 6,
-      "Ottawa": 15,
-      "World": 126,
-      "Canada": 28,
+      "Calgary": 7,
+      "Ottawa": 18,
+      "World": 125,
+      "Edmonton": 12,
       "Vancouver": 22,
-      "Edmonton": 11,
-      "Montreal": 20,
-      "Toronto": 21,
-      "Winnipeg": 1
+      "Canada": 25,
+      "Toronto": 23,
+      "Montreal": 18
     },
     "by_category": {
       "local": 108,
-      "canada": 30,
-      "business": 27,
-      "world": 31,
-      "sports": 6,
       "technology": 32,
-      "politics": 7,
-      "indigenous": 4,
+      "business": 27,
+      "canada": 28,
+      "politics": 9,
+      "world": 31,
+      "sports": 8,
+      "indigenous": 2,
       "science": 5
     },
     "source_count": 30
