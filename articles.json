@@ -1,7 +1,19 @@
 {
-  "last_updated": "2025-11-01T22:27:47.091387",
+  "last_updated": "2025-11-02T01:49:39.699275",
   "total_articles": 250,
   "articles": [
+    {
+      "id": "b71b4bc88840",
+      "title": "Did AI kill Canada’s greatest stock?",
+      "description": "The stock has been falling over the past five months or so, with its losses now sitting at 33%",
+      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-downfall-constellation-software-stock-freefall/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/35BRVUDHB5BAJOYWE3UIMCD7VQ.JPG?auth=be7192a2ef0805f9e8e6b953296826175526b2abfaf9f177e8ecb67865a3a003&smart=true&width=4500&height=3376",
+      "published": "Wed, 29 Oct 2025 22:17:48 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2025-11-02T01:37:53.407431"
+    },
     {
       "id": "896518a843aa",
       "title": "Letters, Oct. 29, 2025: ‘No fan of Toronto … or Canada’",
@@ -12,7 +24,7 @@
       "published": "Wed, 29 Oct 2025 11:00:56 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.781110"
+      "fetched_at": "2025-11-02T01:37:54.852941"
     },
     {
       "id": "e2f4770897ae",
@@ -24,7 +36,19 @@
       "published": "Wed, 29 Oct 2025 11:00:13 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.781151"
+      "fetched_at": "2025-11-02T01:37:54.852981"
+    },
+    {
+      "id": "dee90e6577bb",
+      "title": "NDP leadership hopefuls line up to condemn Alberta's use of notwithstanding clause to end teachers' strike",
+      "description": "One NDP strategist said the prospect of an extended Alberta-wide labour disruption raises the stakes",
+      "url": "https://nationalpost.com/news/canada/ndp-leadership-hopefuls-line-up-to-condemn-albertas-use-of-notwithstanding-clause-to-end-teachers-strike",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/10/cp175197427_299446568.jpg",
+      "published": "Tue, 28 Oct 2025 18:40:53 +0000",
+      "location": "World",
+      "category": "politics",
+      "fetched_at": "2025-11-02T01:37:53.155426"
     },
     {
       "id": "44ba9112d3e4",
@@ -36,7 +60,7 @@
       "published": "Tue, 28 Oct 2025 11:00:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.781187"
+      "fetched_at": "2025-11-02T01:37:54.853016"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -48,7 +72,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.354918"
+      "fetched_at": "2025-11-02T01:37:53.891765"
     },
     {
       "id": "05ea19344a14",
@@ -60,7 +84,7 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.354971"
+      "fetched_at": "2025-11-02T01:37:53.891851"
     },
     {
       "id": "126bf87c8f28",
@@ -72,7 +96,7 @@
       "published": "Thu, 30 Oct 2025 23:33:00 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-11-01T22:16:03.315958"
+      "fetched_at": "2025-11-02T01:37:52.534513"
     },
     {
       "id": "3501a149d024",
@@ -84,7 +108,7 @@
       "published": "Thu, 30 Oct 2025 21:59:17 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2025-11-01T22:16:03.316030"
+      "fetched_at": "2025-11-02T01:37:52.534550"
     },
     {
       "id": "8f5b97ed5764",
@@ -96,7 +120,7 @@
       "published": "Thu, 30 Oct 2025 21:24:51 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:04.792898"
+      "fetched_at": "2025-11-02T01:37:53.717334"
     },
     {
       "id": "79772fe94729",
@@ -108,7 +132,7 @@
       "published": "Thu, 30 Oct 2025 20:39:55 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:04.792942"
+      "fetched_at": "2025-11-02T01:37:53.717378"
     },
     {
       "id": "eb6a1f0fecde",
@@ -120,7 +144,7 @@
       "published": "Thu, 30 Oct 2025 18:47:59 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-11-01T22:16:03.316089"
+      "fetched_at": "2025-11-02T01:37:52.534590"
     },
     {
       "id": "09c8b17482c1",
@@ -132,7 +156,7 @@
       "published": "Thu, 30 Oct 2025 18:19:53 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:04.792987"
+      "fetched_at": "2025-11-02T01:37:53.717423"
     },
     {
       "id": "bc2130cab5d3",
@@ -144,7 +168,7 @@
       "published": "Thu, 30 Oct 2025 17:04:45 +0000",
       "location": "Ottawa",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:04.793023"
+      "fetched_at": "2025-11-02T01:37:53.717459"
     },
     {
       "id": "9a4b4cd2f6f7",
@@ -156,7 +180,7 @@
       "published": "Thu, 30 Oct 2025 14:10:05 +0000",
       "location": "Ottawa",
       "category": "indigenous",
-      "fetched_at": "2025-11-01T22:16:03.316141"
+      "fetched_at": "2025-11-02T01:37:52.534644"
     },
     {
       "id": "9c8565d5b988",
@@ -168,7 +192,7 @@
       "published": "Thu, 30 Oct 2025 11:00:25 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.781082"
+      "fetched_at": "2025-11-02T01:37:54.852914"
     },
     {
       "id": "30eb1bf38623",
@@ -180,7 +204,7 @@
       "published": "Thu, 30 Oct 2025 09:09:37 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-11-01T22:16:03.987165"
+      "fetched_at": "2025-11-02T01:37:53.546804"
     },
     {
       "id": "a2b7282df523",
@@ -192,7 +216,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.354992"
+      "fetched_at": "2025-11-02T01:37:53.891884"
     },
     {
       "id": "a3777a8bac7b",
@@ -204,7 +228,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.354878"
+      "fetched_at": "2025-11-02T01:37:53.891687"
     },
     {
       "id": "5ba71119722f",
@@ -216,7 +240,7 @@
       "published": "Sun, 26 Oct 2025 11:00:19 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.781259"
+      "fetched_at": "2025-11-02T01:37:54.853085"
     },
     {
       "id": "48332101e695",
@@ -228,7 +252,331 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.354939"
+      "fetched_at": "2025-11-02T01:37:53.891800"
+    },
+    {
+      "id": "0f1b82b9ce46",
+      "title": "Ernie Clement sets Blue Jays record for longest hit streak in single post-season",
+      "description": "With his single in the top of the second inning on Saturday night,&#160;Ernie Clement&#160;put his name in the&#160;Toronto Blue Jays&#160;playoff record book. The knock extended Clement&#8217;s post-season hit streak to 13 games, surpassing Pat Borders for the longest mark in a single playoff run i",
+      "url": "https://toronto.citynews.ca/2025/11/01/ernie-clement-sets-blue-jays-record-for-longest-hit-streak-in-single-post-season/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 01:32:37 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.291816"
+    },
+    {
+      "id": "1921826003a3",
+      "title": "UK police say 10 people hospitalized after train stabbing attack, 9 with life-threatening injuries",
+      "description": "LONDON (AP) — British police say 10 people have been taken to hospitals after a mass stabbing attack on a London-bound train, nine of them with life-threatening injuries. In a statement early Sunday, hours after the attack, British Transport Police also said the incident has been declared a “major i",
+      "url": "https://vancouver.citynews.ca/2025/11/01/uk-police-say-10-people-hospitalized-after-train-stabbing-attack-9-with-life-threatening-injuries/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 01:19:22 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.108920"
+    },
+    {
+      "id": "d40d7a7f7ec3",
+      "title": "UK police say 10 people hospitalized after train stabbing attack, 9 with life-threatening injuries",
+      "description": "LONDON (AP) — British police say 10 people have been taken to hospitals after a mass stabbing attack on a London-bound train, nine of them with life-threatening injuries. In a statement early Sunday, hours after the attack, British Transport Police also said the incident has been declared a “major i",
+      "url": "https://toronto.citynews.ca/2025/11/01/uk-police-say-10-people-hospitalized-after-train-stabbing-attack-9-with-life-threatening-injuries/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 01:19:22 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.291867"
+    },
+    {
+      "id": "c4c70304d0b0",
+      "title": "UK police say 10 people hospitalized after train stabbing attack, 9 with life-threatening injuries",
+      "description": "LONDON (AP) — British police say 10 people have been taken to hospitals after a mass stabbing attack on a London-bound train, nine of them with life-threatening injuries. In a statement early Sunday, hours after the attack, British Transport Police also said the incident has been declared a “major i",
+      "url": "https://montreal.citynews.ca/2025/11/01/uk-police-say-10-people-hospitalized-after-train-stabbing-attack-9-with-life-threatening-injuries/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 01:19:22 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.322953"
+    },
+    {
+      "id": "ef6c445acbb5",
+      "title": "UK police say 10 people hospitalized after train stabbing attack, 9 with life-threatening injuries",
+      "description": "LONDON (AP) — British police say 10 people have been taken to hospitals after a mass stabbing attack on a London-bound train, nine of them with life-threatening injuries. In a statement early Sunday, hours after the attack, British Transport Police also said the incident has been declared a “major i",
+      "url": "https://calgary.citynews.ca/2025/11/01/uk-police-say-10-people-hospitalized-after-train-stabbing-attack-9-with-life-threatening-injuries/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 01:19:22 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.673508"
+    },
+    {
+      "id": "746dab6fe32a",
+      "title": "UK police say 10 people hospitalized after train stabbing attack, 9 with life-threatening injuries",
+      "description": "LONDON (AP) — British police say 10 people have been taken to hospitals after a mass stabbing attack on a London-bound train, nine of them with life-threatening injuries. In a statement early Sunday, hours after the attack, British Transport Police also said the incident has been declared a “major i",
+      "url": "https://edmonton.citynews.ca/2025/11/01/uk-police-say-10-people-hospitalized-after-train-stabbing-attack-9-with-life-threatening-injuries/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 01:19:22 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.969023"
+    },
+    {
+      "id": "46815712ee84",
+      "title": "UK police say 10 people hospitalized after train stabbing attack, 9 with life-threatening injuries",
+      "description": "LONDON (AP) — British police say 10 people have been taken to hospitals after a mass stabbing attack on a London-bound train, nine of them with life-threatening injuries. In a statement early Sunday, hours after the attack, British Transport Police also said the incident has been declared a “major i",
+      "url": "https://ottawa.citynews.ca/2025/11/01/uk-police-say-10-people-hospitalized-after-train-stabbing-attack-9-with-life-threatening-injuries/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 01:19:22 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:55.215502"
+    },
+    {
+      "id": "8aac450f1cb5",
+      "title": "Police warn parents after morphine and needles found in Halloween candy",
+      "description": "Police in Ontario and Saskatchewan are warning parents to check Halloween candy after reports of tampered treats, including a suspected opioid in Mattawa and metal in Regina.",
+      "url": "https://globalnews.ca/news/11506671/police-morphine-needles/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/10/halloween-deals-1.png",
+      "published": "Sun, 02 Nov 2025 01:17:55 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:52.362385"
+    },
+    {
+      "id": "337e066c4bf7",
+      "title": "U.K. police say 10 people hospitalized after train stabbing attack, 9 with life-threatening injuries - CTV News",
+      "description": "U.K. police say 10 people hospitalized after train stabbing attack, 9 with life-threatening injuries&nbsp;&nbsp;CTV NewsU.K. police declare 'major incident' following train stabbing attack&nbsp;&nbsp;CBCTwo arrested after multiple people stabbed on train in Cambridgeshire&nbsp;&nbsp;The GuardianNine",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeGF4UlA5YlVacHUyT3NRbGp1OFZiZGgxbVVjLUJ0cWpid2JNbTlQUTJKRFBGZWdaX25TdFk3WFFWdS1QRzMxQUhfangydDJBWHVpMzh3UGZhNHlYeDBJRnNwb3Q5YnhIdkZjYTh5emFIdm16eC14V0E4ekdSOEQ1alBfdnowa0xGVnNGdHlyMGRSUEZfUGxDSU95Yi05ZVhiNUx1TW9GdGxXcVVqdkt2UDRhWmhzYVRnQzRfcDAxeE9SOUJMdktpUnBxX04zNUgt?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 01:14:00 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-11-02T01:37:54.838555"
+    },
+    {
+      "id": "253b2928f21e",
+      "title": "3-vehicle collision sends multiple people to hospital",
+      "description": "Toronto police say multiple people are in the hospital after a three-vehicle crash in Scarborough. Police were called to Birchmount Road and St. Clair Avenue East at 8 p.m., for reports of a collision. Officers say three vehicles were involved, and multiple people with varying injuries were transpor",
+      "url": "https://toronto.citynews.ca/2025/11/01/3-vehicle-collision-sends-multiple-people-to-hospital/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 01:02:18 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.291895"
+    },
+    {
+      "id": "8d87d5ff294a",
+      "title": "Blue Jays’ Guerrero Jr. dons Marie-Philip Poulin jersey ahead of Game 7",
+      "description": "Vladimir Guerrero Jr.&#160;is channelling one of Canada&#8217;s most decorated athletes as he gears up for a winner-take-all Game 7. The&#160;Toronto Blue Jays&#160;superstar donned a Marie-Philip Poulin Team Canada jersey in his walk-up ahead of the World Series finale against the Los Angeles Dodge",
+      "url": "https://toronto.citynews.ca/2025/11/01/blue-jays-guerrero-jr-dons-marie-philip-poulin-jersey-ahead-of-game-7/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:51:35 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.291925"
+    },
+    {
+      "id": "c68df0b4f1e5",
+      "title": "UK police say ‘multiple people’ stabbed on train, two suspects arrested",
+      "description": "Police say a number of people were taken to hospital after a series of stabbings on a train near Cambridgeshire.",
+      "url": "https://www.aljazeera.com/news/2025/11/2/uk-police-say-multiple-people-stabbed-on-train-two-suspects-arrested?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:45:20 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-11-02T01:37:53.753310"
+    },
+    {
+      "id": "fcd49bf6ba16",
+      "title": "Lions edge Stampeders 33-30 in West semifinal",
+      "description": "Sean Whyte kicked a 43-yard walk-off field goal and his B.C. Lions extended their season with a 33-30 victory over the Calgary Stampeders in the West Division semifinal on Saturday.",
+      "url": "https://globalnews.ca/news/11506717/lions-edge-stampeders-33-30-in-west-semifinal/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/11/99ed8b20bb0e6b2ca4275ff37eded2a43826bf233eb14502648538531f11d2c9.jpg?quality=65&strip=all",
+      "published": "Sun, 02 Nov 2025 00:36:53 +0000",
+      "location": "Calgary",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:52.362417"
+    },
+    {
+      "id": "0254961cbf61",
+      "title": "Chinese calligraphy album fetches more than $1 million at auction",
+      "description": "TORONTO &#8212; A centuries-old calligraphy album that was once part of the Chinese emperor&#8217;s royal collection and found in a Canadian basement has fetched more than $1 million at a Canadian auction, many times its projected sale price. Heffel Fine Art Auction House said the &#8220;extremely r",
+      "url": "https://financialpost.com/pmn/chinese-calligraphy-album-fetches-more-than-1-million-at-auction-2",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:35:36 +0000",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-11-02T01:37:53.593953"
+    },
+    {
+      "id": "0f9e52599225",
+      "title": "A look at Toronto’s history with Game 7s",
+      "description": "In sports, outcomes are decided in snapshots. One swing, one basket, one goal can tell a story years in the making, and moments can last a lifetime. Whatever the outcome, a team, a city and a country will remember exactly where they were the moment it all draws to a conclusion. Where we were the",
+      "url": "https://toronto.citynews.ca/2025/11/01/a-look-at-torontos-history-with-game-7s/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:34:33 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.291957"
+    },
+    {
+      "id": "cc2e6ea68447",
+      "title": "Dodgers players and manager appreciate Blue Jays’ tribute to L.A. reliever Alex Vesia",
+      "description": "Blue Jays relievers honored Dodgers pitcher Alex Vesia in Game 6 by writing his number “51” on their caps, a gesture that moved L.A. players amid his family’s personal hardship.",
+      "url": "https://globalnews.ca/news/11506689/bbo-world-series-blue-jays-tribute/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/11/fef4c7c097b1078e8471653187103dee49a2400279abf046cb7ccd1783b11e41.jpg?quality=65&strip=all",
+      "published": "Sun, 02 Nov 2025 00:29:47 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:52.362450"
+    },
+    {
+      "id": "7ffc65a6f641",
+      "title": "'Schitt's Creek' star delivers stirring 'O Canada' before World Series - Yahoo News Canada",
+      "description": "'Schitt's Creek' star delivers stirring 'O Canada' before World Series&nbsp;&nbsp;Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM3M5YVlVMGx3czFkd2U4Uk8yRjNES21nZkRpX0pKdnJWdWQwRVlCT0EzcFUyblBPUDZwQWlDNGxVMU1YdzFwbU9WLTlGNkN3dTNCOGpzckdFM3dNMW9ORzVWZ1pLb3RRdkdIdzhGSkZobjdjb2dYTEZrZlZ1N1ZPRjRwMA?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:29:00 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:54.611199"
+    },
+    {
+      "id": "1e17366f47cb",
+      "title": "Trump Plays Nice With Asian Allies Stung by Repeated Threats",
+      "description": "After months of tariff threats and brow-beating on defense spending, American allies in Asia had ample reason to be wary of President Donald Trump. But he ended up using a three-nation tour of the region to hammer home a clear message: The US still has your back.",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-plays-nice-with-asian-allies-stung-by-repeated-threats",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:28:05 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-11-02T01:37:53.593991"
+    },
+    {
+      "id": "1c0dafb2f2f7",
+      "title": "Dodgers players and manager appreciate Blue Jays’ tribute to L.A. reliever Alex Vesia",
+      "description": "When Kike Hernandez was struck out by Toronto&#160;Blue&#160;Jays&#160;reliever Chris Bassitt in the ninth inning of Game 6 of the World Series, he watched the Jumbotron at Rogers Centre to see the replay of the at bat. It was then that he noticed Bassitt had written a &#8220;51&#8221; on the side o",
+      "url": "https://vancouver.citynews.ca/2025/11/01/dodgers-players-and-manager-appreciate-blue-jays-tribute-to-l-a-reliever-alex-vesia/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:23:19 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.108958"
+    },
+    {
+      "id": "e57ab7fc083a",
+      "title": "Dodgers players and manager appreciate Blue Jays’ tribute to L.A. reliever Alex Vesia",
+      "description": "When Kike Hernandez was struck out by Toronto&#160;Blue&#160;Jays&#160;reliever Chris Bassitt in the ninth inning of Game 6 of the World Series, he watched the Jumbotron at Rogers Centre to see the replay of the at bat. It was then that he noticed Bassitt had written a &#8220;51&#8221; on the side o",
+      "url": "https://toronto.citynews.ca/2025/11/01/dodgers-players-and-manager-appreciate-blue-jays-tribute-to-l-a-reliever-alex-vesia/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:23:19 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.291986"
+    },
+    {
+      "id": "b981892ca7ac",
+      "title": "Dodgers players and manager appreciate Blue Jays’ tribute to L.A. reliever Alex Vesia",
+      "description": "When Kike Hernandez was struck out by Toronto&#160;Blue&#160;Jays&#160;reliever Chris Bassitt in the ninth inning of Game 6 of the World Series, he watched the Jumbotron at Rogers Centre to see the replay of the at bat. It was then that he noticed Bassitt had written a &#8220;51&#8221; on the side o",
+      "url": "https://montreal.citynews.ca/2025/11/01/dodgers-players-and-manager-appreciate-blue-jays-tribute-to-l-a-reliever-alex-vesia/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:23:19 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.323077"
+    },
+    {
+      "id": "a2394570440f",
+      "title": "Dodgers players and manager appreciate Blue Jays’ tribute to L.A. reliever Alex Vesia",
+      "description": "When Kike Hernandez was struck out by Toronto&#160;Blue&#160;Jays&#160;reliever Chris Bassitt in the ninth inning of Game 6 of the World Series, he watched the Jumbotron at Rogers Centre to see the replay of the at bat. It was then that he noticed Bassitt had written a &#8220;51&#8221; on the side o",
+      "url": "https://calgary.citynews.ca/2025/11/01/dodgers-players-and-manager-appreciate-blue-jays-tribute-to-l-a-reliever-alex-vesia/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:23:19 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.673547"
+    },
+    {
+      "id": "9186a6c9e4e4",
+      "title": "Dodgers players and manager appreciate Blue Jays’ tribute to L.A. reliever Alex Vesia",
+      "description": "When Kike Hernandez was struck out by Toronto&#160;Blue&#160;Jays&#160;reliever Chris Bassitt in the ninth inning of Game 6 of the World Series, he watched the Jumbotron at Rogers Centre to see the replay of the at bat. It was then that he noticed Bassitt had written a &#8220;51&#8221; on the side o",
+      "url": "https://edmonton.citynews.ca/2025/11/01/dodgers-players-and-manager-appreciate-blue-jays-tribute-to-l-a-reliever-alex-vesia/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:23:19 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.969071"
+    },
+    {
+      "id": "3f1856a4e116",
+      "title": "Dodgers players and manager appreciate Blue Jays’ tribute to L.A. reliever Alex Vesia",
+      "description": "When Kike Hernandez was struck out by Toronto&#160;Blue&#160;Jays&#160;reliever Chris Bassitt in the ninth inning of Game 6 of the World Series, he watched the Jumbotron at Rogers Centre to see the replay of the at bat. It was then that he noticed Bassitt had written a &#8220;51&#8221; on the side o",
+      "url": "https://ottawa.citynews.ca/2025/11/01/dodgers-players-and-manager-appreciate-blue-jays-tribute-to-l-a-reliever-alex-vesia/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:23:19 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:55.215539"
+    },
+    {
+      "id": "ce27fe28c94c",
+      "title": "Billions in cuts: What Carney’s budget means for Canada’s public services - Global News",
+      "description": "Billions in cuts: What Carney’s budget means for Canada’s public services&nbsp;&nbsp;Global News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2w1UV9aM0FoTnVNN3RGNm01THNFSjU2ODRwMHB1c28yeEpCOXhWOUFjQ1FKdjF6Rjk1Z3BTVjRPaU5DdFQ2aEtncHBEM0tnQ3N0TXpqODZNWFZXV29ScnlsMmRxM0tYaDlzQUdaN18wRUFMSFZvWjZ3Q2JSOS1PQ1lKVk9PcjNDbUhKOWNMRms4X3ZZdWpMaUFaZmNOZ2p4MEUzMXBKS3ZCLXJx0gGyAUFVX3lxTE5DWi16bU5wVUlyakVscy15SURSOFRXc1ZRZW83UFJLT080R0cxLU4xX2tYV3loSEdRNXd1dlFtUkgxU01nX19uSmpEbGRVYXpqNjliSmFHSWxSb3FkTkg0ZWpoS05IeWdQNmh6OVhIWmh1X2puNGxMYUFmbmJ3ZVNhV1A5SGZzUW5qd3JwcEY3Zl9yeHpqQU41TUZvdGIxbUg4TzB5bGd3ZzJwbllfcUxEVFE?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:14:11 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:54.611239"
+    },
+    {
+      "id": "bcccef2109b8",
+      "title": "Zurkowsky: Alouettes QB Davis Alexander dazzles in playoff win against Winnipeg",
+      "description": "In his first career post-season start, he completed 24 of 34 passes for 384 yards and a touchdown.",
+      "url": "https://montrealgazette.com/sports/football/montreal-alouettes/zurkowsky-alouettes-qb-davis-alexander-dazzles-in-playoff-win-against-winnipeg",
+      "source": "Montreal Gazette",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:03:12 +0000",
+      "location": "Winnipeg",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:55.014839"
+    },
+    {
+      "id": "1317deeb6b95",
+      "title": "B.C. city named as Canada’s first UNESCO Creative City of Gastronomy - CityNews Vancouver",
+      "description": "B.C. city named as Canada’s first UNESCO Creative City of Gastronomy&nbsp;&nbsp;CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmZfc3VPdjNXWnlkX0prMFZiNkdnLUtDenZOamJOYXZfZ2prYjJjazd3ZmF0QkctRVI5OXd6YzhzZE5jNUVxa2hQXzB2dWk4SFB5RWxFWlhqSjRHYmlOQ19MX216YXpvdlBwRVBtNkJBNE45b2k3NTFPdzdfeDVNYWt6alJyZTk3UFlLSA?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Sun, 02 Nov 2025 00:01:37 GMT",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:54.611426"
     },
     {
       "id": "4c4c989c858d",
@@ -240,7 +588,283 @@
       "published": "Sat, 25 Oct 2025 11:00:10 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.781296"
+      "fetched_at": "2025-11-02T01:37:54.853122"
+    },
+    {
+      "id": "9c19c0787ebd",
+      "title": "Don’t forget — clocks fall back this weekend!",
+      "description": "Canadians will \"fall back\" on Sunday as Daylight Saving Time ends, giving residents an extra hour of sleep but also ushering in darker evenings.",
+      "url": "https://vancouver.citynews.ca/2025/11/01/canada-daylight-savings-time-reminder/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 23:54:53 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.108992"
+    },
+    {
+      "id": "efc4919c897b",
+      "title": "The municipal election is on across Quebec on Sunday. Here are some questions answered",
+      "description": "Quebecers head to the polls Sunday to elect municipal leaders as key issues like housing, homelessness and affordability shape races across the province.",
+      "url": "https://globalnews.ca/news/11506447/municipal-election-montreal-quebec-sunday-vote/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/11/caaaaaaaa23.png",
+      "published": "Sat, 01 Nov 2025 23:53:38 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:52.362472"
+    },
+    {
+      "id": "145a7f0a46be",
+      "title": "B.C. city named as Canada’s first UNESCO Creative City of Gastronomy",
+      "description": "Kelowna has been designated a UNESCO Creative City of Gastronomy -- making it the only Canadian city with that distinction.",
+      "url": "https://vancouver.citynews.ca/2025/11/01/kelowna-bc-unesco-creative-city-gastronomy/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 23:48:03 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.109022"
+    },
+    {
+      "id": "476ddf64eb22",
+      "title": "Edmonton police investigating four infill construction fires in October",
+      "description": "Edmonton police are turning to the public for tips and video footage after a series of suspicious fires in four homes. The fires took place in South Central Edmonton between Oct. 18 and 29. Police believe they have been intentional. A fire on Oct. 18 at a construction site near his house in the King",
+      "url": "https://edmonton.citynews.ca/2025/11/01/edmonton-police-investigating-four-infill-construction-fires-in-october/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 23:46:23 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.969115"
+    },
+    {
+      "id": "0259439b7b66",
+      "title": "Blue Jays get ready to face Dodgers in winner-take-all Game 7. Live World Series updates here. - CTV News",
+      "description": "Blue Jays get ready to face Dodgers in winner-take-all Game 7. Live World Series updates here.&nbsp;&nbsp;CTV NewsBlue Jays lead 3-0 in winner-take-all World Series Game 7&nbsp;&nbsp;CBCBlue Jays lead 3-1 in winner-take-all World Series Game 7&nbsp;&nbsp;CBCJays' Barger: 'Bad read' led to game-endin",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3RDYTI0VHNjanl4Y1E2Y2FHTnBpQTY0WC1rRWRPTGVETXhmX0xLSG1zTlJpaURvZTMyZmN4UjBrS0ZMTjc4dS1sMHVTbHlQSlBDVVBVMWl5RnRLTXhORkhYekQwWjBBbmg1Ym82RFNIeUNXcnVneC1xY1pqZGx5SkJweHB5ZDBiekJqQ1VOdGRRLW5ESXl5UXVKQlkzdlRocmNLZ05zclpvbHlRUWJDYmxONmVPMG4zS3hLQ2lGNXB6WHNVeDBPYlVIalo?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 23:25:34 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2025-11-02T01:37:54.467377"
+    },
+    {
+      "id": "25876da1003a",
+      "title": "Canadian Red Cross sending hurricane relief to Jamaica after Melissa devastation",
+      "description": "The Canadian Red Cross has sent more than 18,000 relief items to Jamaica after Hurricane Melissa struck as a Category 5 storm, leaving at least 19 dead and widespread devastation.",
+      "url": "https://globalnews.ca/news/11506651/canadian-red-cross/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/11/a515bfb171f9cf3239938a0c4e1f4227925dd65d7504d20cac9f1ee668b64356.jpg?quality=65&strip=all",
+      "published": "Sat, 01 Nov 2025 23:23:36 +0000",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:52.362494"
+    },
+    {
+      "id": "39cd156e50b6",
+      "title": "Note to listeners: 1130 NewsRadio is experiencing AM frequency issues",
+      "description": "Please note: 1130 NewsRadio is having a technical issue with its AM radio frequency.",
+      "url": "https://vancouver.citynews.ca/2025/11/01/1130-newsradio-am-frequency-technical-issue/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 23:20:06 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.109047"
+    },
+    {
+      "id": "e244e8ad35a4",
+      "title": "Shein accused of selling childlike sex dolls in France",
+      "description": "The Asian fast fashion giant says it delisted the items \"immediately\" from its website and is investigating.",
+      "url": "https://www.bbc.com/news/articles/c4gjjyvg1nqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287b/live/ea5c6b20-b774-11f0-83d4-a74eeda7e8ab.jpg",
+      "published": "Sat, 01 Nov 2025 23:14:42 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-11-02T01:37:53.769297"
+    },
+    {
+      "id": "15d23ccdf7ae",
+      "title": "Shein accused of selling childlike sex dolls in France - BBC",
+      "description": "Shein accused of selling childlike sex dolls in France&nbsp;&nbsp;BBCView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IYUVFNWphdmNKVDdmNXRUU0NwdUZWRVQzX3dJQV8tV1JXc2xuLWVPVGlsaHBIWnZ5V2JnY1VINFd2LUhyUVpKLV83akEtbVRxMkFoVVZNY25RUdIBX0FVX3lxTFA1V29xUFh0ZHhidlRPMGtucGdFckI1LWR6ZTcxdTltMGZVdXk1bnVuR0pjT3NHampZS3U2bDhTQ0JtQnRSd09ONHYwOXBvcEI4b2hvVFgtSWxNbkd1dnRN?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 23:14:42 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2025-11-02T01:37:54.666002"
+    },
+    {
+      "id": "12e177d6d155",
+      "title": "Mayor Knack responds to Edmonton Chamber call for fiscal task force",
+      "description": "If we're creating the budget with only one group, then we're not hearing all Edmontonians' voices.”",
+      "url": "https://edmontonjournal.com/news/how-mayor-knack-responds-to-edmonton-chamber-call-for-fiscal-task-force",
+      "source": "Edmonton Journal",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 23:13:01 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:55.051290"
+    },
+    {
+      "id": "2cf8ab35e381",
+      "title": "Blue Jays manager Schneider moves Barger up two spots to bat fifth for Game 7",
+      "description": "Blue&#160;Jays&#160;manager John Schneider made a couple minor changes to his batting order for Game 7 of the World Series on Saturday night against the Los Angeles Dodgers. Addison Barger was set to move up two spots to bat fifth for the deciding game at Rogers Centre while Daulton Varsho dropped t",
+      "url": "https://vancouver.citynews.ca/2025/11/01/blue-jays-manager-schneider-moves-barger-up-two-spots-to-bat-fifth-for-game-7/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:53:29 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.109082"
+    },
+    {
+      "id": "87263fa02a82",
+      "title": "Blue Jays manager Schneider moves Barger up two spots to bat fifth for Game 7",
+      "description": "Blue Jays manager John Schneider made a couple minor changes to his batting order for Game 7 of the World Series on Saturday night against the Los Angeles Dodgers. Addison Barger was set to move up two spots to bat fifth for the deciding game at Rogers Centre while Daulton Varsho dropped two spots t",
+      "url": "https://toronto.citynews.ca/2025/11/01/blue-jays-manager-schneider-moves-barger-up-two-spots-to-bat-fifth-for-game-7/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:53:29 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.292022"
+    },
+    {
+      "id": "9587143114c4",
+      "title": "Blue Jays manager Schneider moves Barger up two spots to bat fifth for Game 7",
+      "description": "Blue&#160;Jays&#160;manager John Schneider made a couple minor changes to his batting order for Game 7 of the World Series on Saturday night against the Los Angeles Dodgers. Addison Barger was set to move up two spots to bat fifth for the deciding game at Rogers Centre while Daulton Varsho dropped t",
+      "url": "https://montreal.citynews.ca/2025/11/01/blue-jays-manager-schneider-moves-barger-up-two-spots-to-bat-fifth-for-game-7/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:53:29 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.323156"
+    },
+    {
+      "id": "ae2e5e61397f",
+      "title": "Blue Jays manager Schneider moves Barger up two spots to bat fifth for Game 7",
+      "description": "Blue&#160;Jays&#160;manager John Schneider made a couple minor changes to his batting order for Game 7 of the World Series on Saturday night against the Los Angeles Dodgers. Addison Barger was set to move up two spots to bat fifth for the deciding game at Rogers Centre while Daulton Varsho dropped t",
+      "url": "https://calgary.citynews.ca/2025/11/01/blue-jays-manager-schneider-moves-barger-up-two-spots-to-bat-fifth-for-game-7/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:53:29 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.673586"
+    },
+    {
+      "id": "da8f9386779b",
+      "title": "Blue Jays manager Schneider moves Barger up two spots to bat fifth for Game 7",
+      "description": "Blue&#160;Jays&#160;manager John Schneider made a couple minor changes to his batting order for Game 7 of the World Series on Saturday night against the Los Angeles Dodgers. Addison Barger was set to move up two spots to bat fifth for the deciding game at Rogers Centre while Daulton Varsho dropped t",
+      "url": "https://edmonton.citynews.ca/2025/11/01/blue-jays-manager-schneider-moves-barger-up-two-spots-to-bat-fifth-for-game-7/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:53:29 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.969160"
+    },
+    {
+      "id": "16386d494e13",
+      "title": "Blue Jays manager Schneider moves Barger up two spots to bat fifth for Game 7",
+      "description": "Blue&#160;Jays&#160;manager John Schneider made a couple minor changes to his batting order for Game 7 of the World Series on Saturday night against the Los Angeles Dodgers. Addison Barger was set to move up two spots to bat fifth for the deciding game at Rogers Centre while Daulton Varsho dropped t",
+      "url": "https://ottawa.citynews.ca/2025/11/01/blue-jays-manager-schneider-moves-barger-up-two-spots-to-bat-fifth-for-game-7/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:53:29 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:55.215577"
+    },
+    {
+      "id": "064d5fc2bbb9",
+      "title": "Shohei Ohtani to be Dodgers' starting pitcher in Game 7 vs. Blue Jays - Sportsnet.ca",
+      "description": "Shohei Ohtani to be Dodgers' starting pitcher in Game 7 vs. Blue Jays&nbsp;&nbsp;Sportsnet.caRoberts: Yamamoto available to pitch in Game 7&nbsp;&nbsp;TSNWorld Series Game 7 starting lineups: Dodgers and Blue Jays pitchers tonight&nbsp;&nbsp;YahooShohei Ohtani to start World Series Game 7 for Dodger",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWWxrUjAzRldSUmtMbEhfbFVHal9vQTg1WU5xU1VHTTd0UHdYUkNpNmFaMEM4dkwyZGwySkNQNTJ1VXhqMTljVWNYVG1SS3R2SWVJZnF6dk1ONXcxcnJlREFibkNVbEVYdEtycWdSNkU5bTBKLV9yQmVZYjlSQ0FSdmxhNUM1dGY1WG05TTIydnBUejZ3Y3lQWE1IRDE3eXBJOHFkMnlKUUQ?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:51:00 GMT",
+      "location": "Halifax",
+      "category": "sports",
+      "fetched_at": "2025-11-02T01:37:54.467624"
+    },
+    {
+      "id": "3be497553e89",
+      "title": "Letter to the Editor: An appeal for a healthy Canadian nationalism - thevarsity.ca",
+      "description": "Letter to the Editor: An appeal for a healthy Canadian nationalism&nbsp;&nbsp;thevarsity.ca",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajZLNXdPbmZaTTJqalByMnRHLVRMalJtQld5ZWdQMW13RG4ycUVTS2lrX1VzclpsYXQwR25KSTU0Wi12NDdnaXJ3YmM3WXJxTTdjNlpfNmNRcGJXYkJFU0xYeTlaZ3o0dXFJeUkxbzMzaHZaY0U4U0xPOFpGUGU1X2tSM1FRTnJ4UHk0bU5WTWFLeW1KUVdnbi1aNy1QQ3Vk?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:45:48 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:54.611374"
+    },
+    {
+      "id": "8a49a03e9114",
+      "title": "Trump threatens to launch attacks in Nigeria over ‘killing of Christians’",
+      "description": "Nigerian government denies US president&#039;s claim of not stemming &#039;horrible atrocities&#039; against Christians.",
+      "url": "https://www.aljazeera.com/news/2025/11/1/trump-threatens-to-launch-attacks-in-nigeria-over-killing-of-christians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:44:56 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-11-02T01:37:53.753345"
+    },
+    {
+      "id": "564fcb81a19d",
+      "title": "Liverpool beat Villa to end Premier League losing streak, Man Utd draw",
+      "description": "Mohamed Salah and Ryan Gravenberch net as holders Liverpool beat Villa to end their four-game Premier League losing run.",
+      "url": "https://www.aljazeera.com/sports/2025/11/1/liverpool-beat-villa-to-end-premier-league-losing-streak-man-utd-draw?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:31:05 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-11-02T01:37:53.753372"
+    },
+    {
+      "id": "e176d0f80bc0",
+      "title": "Trump vows 'guns-a-blazing' response to Nigeria over alleged anti-Christian persecution - CBC",
+      "description": "Trump vows 'guns-a-blazing' response to Nigeria over alleged anti-Christian persecution&nbsp;&nbsp;CBCTrump says he’s ordered Pentagon to ‘prepare for possible action’ in Nigeria&nbsp;&nbsp;CNNTrump threatens to launch attacks in Nigeria over ‘killing of Christians’&nbsp;&nbsp;Al JazeeraTrump threat",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPblVIOG1LbXRoSjN6d3JrUWpneDBtQmgwYkxoTnV4RE9YdjlvTVEwLXA1c0kyYm5QdEhqUmxPUEpsVFNfN2RTaWVkZDRCdkQ5TlFFcXF0ZGZNa0Uyelo1SUhvQkhLT2w5Y2Y2TWszTzY3N3Qwdy1sSy11dXFXd1k2UXBhMkVrU1NfTEpuSTRWS0lSZU9QSW5mQ3lR?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:26:12 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-11-02T01:37:54.838628"
+    },
+    {
+      "id": "3a4859b55288",
+      "title": "Blue Jays fans hopeful for a World Series win in historic Game 7",
+      "description": "Toronto braces for history as the Blue Jays face the Dodgers in World Series Game 7 at the Rogers Centre, their first shot at a title on home soil in 32 years.",
+      "url": "https://globalnews.ca/news/11506472/blue-jays-world-series/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/11/5791f94e51b7263d2e4c78d5b856490eb4c7d024fc6cfa6c3f5f6d3dbb0de3b3.jpg?quality=65&strip=all",
+      "published": "Sat, 01 Nov 2025 22:20:47 +0000",
+      "location": "Toronto",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:52.362509"
+    },
+    {
+      "id": "206661435373",
+      "title": "Alouettes beat Blue Bombers in wild CFL East semifinal",
+      "description": "MONTREAL — The Montreal Alouettes avoided an epic collapse to reach the CFL’s East Division final. Davis Alexander threw for one touchdown and rushed for another in a 42-33 win over the Winnipeg Blue Bombers in the East semifinal Saturday. Montreal pulled out the victory after squandering a 22-point",
+      "url": "https://montreal.citynews.ca/2025/11/01/alouettes-beat-blue-bombers-in-wild-cfl-east-semifinal/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 22:20:10 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.323228"
     },
     {
       "id": "bf04244f8494",
@@ -252,31 +876,31 @@
       "published": "Sat, 01 Nov 2025 22:11:21 +0000",
       "location": "Winnipeg",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203457"
+      "fetched_at": "2025-11-02T01:37:52.362528"
     },
     {
       "id": "72cf2204d352",
       "title": "Rash of infill construction arsons have communities on guard",
-      "description": "\"Investigators are asking residents in the affected neighborhoods to check their home security footage for any suspicious activity between the hours of 10 p.m. and 1 a.m. on the dates of the fires.\"",
+      "description": "\"Investigators are asking residents in the affected neighbourhoods to check their home security footage for any suspicious activity between the hours of 10 p.m. and 1 a.m. on the dates of the fires.\"",
       "url": "https://edmontonjournal.com/news/local-news/rash-of-infill-construction-arsons-have-communities-on-guard",
       "source": "Edmonton Journal",
       "image": "",
       "published": "Sat, 01 Nov 2025 22:10:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901265"
+      "fetched_at": "2025-11-02T01:37:55.051325"
     },
     {
-      "id": "678aafad2116",
-      "title": "Mariah Carey declares ‘it’s time’ to defrost the Christmas season",
-      "description": "‘It’s time’ to ring in the 2025 holiday season, according to music superstar Mariah Carey. Right as the clock struck twelve on Nov.1, the singer released her annual holiday announcement declaring the unofficial start of the Christmas season. The 1-minute video, which is a partnership with the beauty",
-      "url": "https://toronto.citynews.ca/2025/11/01/mariah-carey-declares-its-time-to-defrost-the-christmas-season/",
-      "source": "CityNews Toronto",
+      "id": "32a147e5038f",
+      "title": "What’s driving unrest in Tanzania after president’s landslide re-election?",
+      "description": "President Samia Suluhu Hassan has been re-elected in a landslide, as the government denies that hundreds were killed.",
+      "url": "https://www.aljazeera.com/video/inside-story/2025/11/1/whats-driving-unrest-in-tanzania-after-presidents-landslide-re-election?traffic_source=rss",
+      "source": "Al Jazeera",
       "image": "",
-      "published": "Sat, 01 Nov 2025 21:57:59 +0000",
+      "published": "Sat, 01 Nov 2025 21:59:59 +0000",
       "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435435"
+      "category": "world",
+      "fetched_at": "2025-11-02T01:37:53.753400"
     },
     {
       "id": "6af4f9b94d67",
@@ -288,7 +912,19 @@
       "published": "Sat, 01 Nov 2025 21:57:59 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619020"
+      "fetched_at": "2025-11-02T01:37:54.109122"
+    },
+    {
+      "id": "678aafad2116",
+      "title": "Mariah Carey declares ‘it’s time’ to defrost the Christmas season",
+      "description": "‘It’s time’ to ring in the 2025 holiday season, according to music superstar Mariah Carey. Right as the clock struck twelve on Nov.1, the singer released her annual holiday announcement declaring the unofficial start of the Christmas season. The 1-minute video, which is a partnership with the beauty",
+      "url": "https://toronto.citynews.ca/2025/11/01/mariah-carey-declares-its-time-to-defrost-the-christmas-season/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 21:57:59 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.292064"
     },
     {
       "id": "6350a704b461",
@@ -300,31 +936,7 @@
       "published": "Sat, 01 Nov 2025 21:57:59 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.946612"
-    },
-    {
-      "id": "da1eeceb3c54",
-      "title": "Mariah Carey declares ‘it’s time’ to defrost the Christmas season",
-      "description": "‘It’s time’ to ring in the 2025 holiday season, according to music superstar Mariah Carey. Right as the clock struck twelve on Nov.1, the singer released her annual holiday announcement declaring the unofficial start of the Christmas season. The 1-minute video, which is a partnership with the beauty",
-      "url": "https://ottawa.citynews.ca/2025/11/01/mariah-carey-declares-its-time-to-defrost-the-christmas-season/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 21:57:59 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162025"
-    },
-    {
-      "id": "16d674b712a2",
-      "title": "Mariah Carey declares ‘it’s time’ to defrost the Christmas season",
-      "description": "‘It’s time’ to ring in the 2025 holiday season, according to music superstar Mariah Carey. Right as the clock struck twelve on Nov.1, the singer released her annual holiday announcement declaring the unofficial start of the Christmas season. The 1-minute video, which is a partnership with the beauty",
-      "url": "https://edmonton.citynews.ca/2025/11/01/mariah-carey-declares-its-time-to-defrost-the-christmas-season/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 21:57:59 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386093"
+      "fetched_at": "2025-11-02T01:37:54.323284"
     },
     {
       "id": "6565d401d531",
@@ -336,19 +948,31 @@
       "published": "Sat, 01 Nov 2025 21:57:59 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604069"
+      "fetched_at": "2025-11-02T01:37:54.673629"
     },
     {
-      "id": "5da27becf493",
-      "title": "Toronto's Stephen Gogolev sits in 7th place at Skate Canada International - CBC",
-      "description": "Toronto's Stephen Gogolev sits in 7th place at Skate Canada International&nbsp;&nbsp;CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hSm95Y2tFQWJJMHU1QlExbldYLW9nLXE2SFhwTUl6bzFUTlpLaWVyYk1wM0gwQm9PSFRtcG9jcDJxREp3YWY0cGIwbUFhc0VEUHlPT3h0Tk1mdw?oc=5",
-      "source": "Google News Canada",
+      "id": "16d674b712a2",
+      "title": "Mariah Carey declares ‘it’s time’ to defrost the Christmas season",
+      "description": "‘It’s time’ to ring in the 2025 holiday season, according to music superstar Mariah Carey. Right as the clock struck twelve on Nov.1, the singer released her annual holiday announcement declaring the unofficial start of the Christmas season. The 1-minute video, which is a partnership with the beauty",
+      "url": "https://edmonton.citynews.ca/2025/11/01/mariah-carey-declares-its-time-to-defrost-the-christmas-season/",
+      "source": "CityNews Edmonton",
       "image": "",
-      "published": "Sat, 01 Nov 2025 21:55:00 GMT",
-      "location": "Toronto",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413753"
+      "published": "Sat, 01 Nov 2025 21:57:59 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.969210"
+    },
+    {
+      "id": "da1eeceb3c54",
+      "title": "Mariah Carey declares ‘it’s time’ to defrost the Christmas season",
+      "description": "‘It’s time’ to ring in the 2025 holiday season, according to music superstar Mariah Carey. Right as the clock struck twelve on Nov.1, the singer released her annual holiday announcement declaring the unofficial start of the Christmas season. The 1-minute video, which is a partnership with the beauty",
+      "url": "https://ottawa.citynews.ca/2025/11/01/mariah-carey-declares-its-time-to-defrost-the-christmas-season/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 21:57:59 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:55.215619"
     },
     {
       "id": "83e60dada210",
@@ -360,7 +984,7 @@
       "published": "Sat, 01 Nov 2025 21:53:14 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901303"
+      "fetched_at": "2025-11-02T01:37:55.051356"
     },
     {
       "id": "a126344a64a5",
@@ -372,7 +996,7 @@
       "published": "Sat, 01 Nov 2025 21:53:00 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435481"
+      "fetched_at": "2025-11-02T01:37:54.292087"
     },
     {
       "id": "23b387aa5bff",
@@ -384,7 +1008,7 @@
       "published": "Sat, 01 Nov 2025 21:51:28 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203504"
+      "fetched_at": "2025-11-02T01:37:52.362558"
     },
     {
       "id": "3ecdd98312cf",
@@ -396,7 +1020,7 @@
       "published": "Sat, 01 Nov 2025 21:48:02 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619058"
+      "fetched_at": "2025-11-02T01:37:54.109151"
     },
     {
       "id": "5c8abf57faeb",
@@ -408,7 +1032,7 @@
       "published": "Sat, 01 Nov 2025 21:37:59 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573496"
+      "fetched_at": "2025-11-02T01:37:54.514904"
     },
     {
       "id": "6bbf61132142",
@@ -420,7 +1044,7 @@
       "published": "Sat, 01 Nov 2025 21:35:40 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.946682"
+      "fetched_at": "2025-11-02T01:37:54.323330"
     },
     {
       "id": "7ead14ae34c2",
@@ -432,7 +1056,7 @@
       "published": "Sat, 01 Nov 2025 21:34:34 +0000",
       "location": "Winnipeg",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203531"
+      "fetched_at": "2025-11-02T01:37:52.362581"
     },
     {
       "id": "6460a1bb96b7",
@@ -444,7 +1068,7 @@
       "published": "Sat, 01 Nov 2025 21:34:01 +0000",
       "location": "Montreal",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601268"
+      "fetched_at": "2025-11-02T01:37:53.594022"
     },
     {
       "id": "ee41e0aacdf0",
@@ -456,7 +1080,7 @@
       "published": "Sat, 01 Nov 2025 21:33:23 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435549"
+      "fetched_at": "2025-11-02T01:37:54.292128"
     },
     {
       "id": "1912920cc3b6",
@@ -468,7 +1092,7 @@
       "published": "Sat, 01 Nov 2025 21:32:41 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390500"
+      "fetched_at": "2025-11-02T01:37:53.753426"
     },
     {
       "id": "7fa4e92e511a",
@@ -480,7 +1104,19 @@
       "published": "Sat, 01 Nov 2025 21:31:43 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901331"
+      "fetched_at": "2025-11-02T01:37:55.051381"
+    },
+    {
+      "id": "4df05f8e4f59",
+      "title": "Lucky jersey No. 2? Vladdy dons game-worn hockey hero's jersey ahead of Game 7 - MLB.com",
+      "description": "Lucky jersey No. 2? Vladdy dons game-worn hockey hero's jersey ahead of Game 7&nbsp;&nbsp;MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUdRZzVRaDRScnB4ampmV01OSEJZUHVYcklIbFp2eUp2Wk1ydFd0ZzB4WWhxU1l3a2FDdnBCdGlnNVpMNGxfSzUtUkdtX2RyUTc1RHhuWnNwcElETXBrSmQxb01reTE5VUFvRUdKd2ZhMEJ0WjF6UUpRLWxHS2tFdldLMUs5S283cDYyek1hU0tQTks2Z0QxYnN3eTRHUVNyaUJSUTgxbTltSkdzUmg5QVJGRdIBvwFBVV95cUxOR3JkRTlBOEFyS1kwajRYaDdMNEtLTEZtNVJNMHpramt4LVhaT18tMEctcHJCdXRCLWhubEYxTVVhdGl0V3h0TVM4dFlwTV83dlJCbzVPVmdBaXJSLXBnMTViUGQzQmpVVHpCb3QzaVF1bThQWFZwblk1cTZ2RGp4cF91c2ppX2NLTDBDaUt0eE56Rlc4amZndVltNlh3SF9MNmozTUwxWlU0TGoxdnRMMVRYTndBQ2lSTXk3ZEtjMA?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 21:25:48 GMT",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:54.611273"
     },
     {
       "id": "aa75b8e49e7a",
@@ -492,7 +1128,7 @@
       "published": "Sat, 01 Nov 2025 21:22:46 +0000",
       "location": "Montreal",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203550"
+      "fetched_at": "2025-11-02T01:37:52.362598"
     },
     {
       "id": "8f2340c85572",
@@ -504,7 +1140,7 @@
       "published": "Sat, 01 Nov 2025 21:19:02 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901370"
+      "fetched_at": "2025-11-02T01:37:55.051419"
     },
     {
       "id": "9374ad30cd2e",
@@ -516,7 +1152,7 @@
       "published": "Sat, 01 Nov 2025 21:17:57 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413538"
+      "fetched_at": "2025-11-02T01:37:54.611343"
     },
     {
       "id": "2e04041cf55a",
@@ -528,7 +1164,7 @@
       "published": "Sat, 01 Nov 2025 21:04:46 +0000",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601299"
+      "fetched_at": "2025-11-02T01:37:53.594047"
     },
     {
       "id": "2b3b07fdda02",
@@ -540,19 +1176,7 @@
       "published": "Sat, 01 Nov 2025 20:57:11 +0000",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601325"
-    },
-    {
-      "id": "a72f7b9964b7",
-      "title": "Two new suspects in Louvre jewels heist case given preliminary charges",
-      "description": "The Paris prosecutor said Saturday two new suspects were handed preliminary charges for their alleged involvement in the crown jewels heist at the Louvre Museum in October.",
-      "url": "https://globalnews.ca/news/11506515/louvre-heist-suspects-charges/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/187d4859e5b620986f058fe6e7c5ba4baff5bd570152b89bf090f96da4b1877d.jpg?quality=65&strip=all",
-      "published": "Sat, 01 Nov 2025 20:55:45 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203571"
+      "fetched_at": "2025-11-02T01:37:53.594069"
     },
     {
       "id": "14db3e7fa7d1",
@@ -564,7 +1188,7 @@
       "published": "Sat, 01 Nov 2025 20:53:17 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.098412"
+      "fetched_at": "2025-11-02T01:37:53.769378"
     },
     {
       "id": "740aad4144b2",
@@ -576,19 +1200,19 @@
       "published": "Sat, 01 Nov 2025 20:39:17 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601359"
+      "fetched_at": "2025-11-02T01:37:53.594103"
     },
     {
-      "id": "1c27157c35d6",
-      "title": "What U.S. media says on Blue Jays losing World Series Game 6 - Toronto Star",
-      "description": "What U.S. media says on Blue Jays losing World Series Game 6&nbsp;&nbsp;Toronto StarLos Angeles Dodgers and Toronto Blue Jays face off in a winner-take-all World Series Game 7&nbsp;&nbsp;CNNWorld Series 2025: Toronto Blue Jays duped by heartbreaking Halloween trick — ball gets stuck in Rogers Centre",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQXzdzQzJXSTd0dDZBTnRzZlpnX2VsQVZJODJyS0R3T0hBZlVjU0FCZzdMU3Vsbld1RzcwUi10N0xBS0NzSVZNd2dVaHN1eVY3UXBCcTRjR0tISW1WT0o5UWEwa2Vfc3dRQ2lIQlZsNXF5Z0VBSEZXdmtyOThTU0w4ekkxUVlxTDFwblZ6NzhPd2ZTSTIwZ1M4Tkp5bnFVNGJmQng4ejVlb0R5U0RjcUxjYk1MdTdPSlJGeDZIZDROemVLRmZvTnRVTFNLUHJ3dTZacUljTFdNMzV4WGdCeHFrZEItbVRnOVhvQ0t6b3dZM1FIM0VVVEE?oc=5",
+      "id": "368d06932d78",
+      "title": "Forget Amad, another Manchester United player was crucial in securing equaliser vs Forest - United In Focus",
+      "description": "Forget Amad, another Manchester United player was crucial in securing equaliser vs Forest&nbsp;&nbsp;United In Focus'A different feeling' - Have Man Utd shown mentality shift under Ruben Amorim?&nbsp;&nbsp;BBCDyche fumes at Man Utd goal, calls for VAR change&nbsp;&nbsp;ESPNNottingham Forest vs Manch",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd3FSb2c3bEpEQm9yb1BEZWdNN1RQRUJrM1NEZG1wN29ob0ZoZkJaWkJwM2FjUUJ4YkdNbGMyTF9vZ3N0aEVvVFRjOWs5b2lneUxQNVRsb3NIcVJpZDVpUjlnSE5CTXppWGdhMGFUeTN6TDRlZlFTcUVxMUQxOVU0VFFXTkhvWk1HX3hQZS1MOWlHTURoRkJmWGQxUWExcktqdUdBSzFsNXZpTWxnSEFqY2M5S2p6TnhmUGR5N3ZSbVUyYmNmOVE?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Sat, 01 Nov 2025 20:30:00 GMT",
-      "location": "Toronto",
+      "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2025-11-01T22:16:05.398466"
+      "fetched_at": "2025-11-02T01:37:54.467804"
     },
     {
       "id": "fd6a38cd532a",
@@ -600,7 +1224,7 @@
       "published": "Sat, 01 Nov 2025 20:27:57 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.098347"
+      "fetched_at": "2025-11-02T01:37:53.769276"
     },
     {
       "id": "812da70c2e44",
@@ -612,7 +1236,7 @@
       "published": "Sat, 01 Nov 2025 20:23:31 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601392"
+      "fetched_at": "2025-11-02T01:37:53.594135"
     },
     {
       "id": "b2c61f7081bc",
@@ -624,7 +1248,7 @@
       "published": "Sat, 01 Nov 2025 20:19:53 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604112"
+      "fetched_at": "2025-11-02T01:37:54.673683"
     },
     {
       "id": "67c659075447",
@@ -636,7 +1260,7 @@
       "published": "Sat, 01 Nov 2025 20:15:38 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601425"
+      "fetched_at": "2025-11-02T01:37:53.594167"
     },
     {
       "id": "0dd29f50245e",
@@ -648,7 +1272,7 @@
       "published": "Sat, 01 Nov 2025 20:13:10 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.946735"
+      "fetched_at": "2025-11-02T01:37:54.323375"
     },
     {
       "id": "943d767df395",
@@ -660,23 +1284,11 @@
       "published": "Sat, 01 Nov 2025 20:13:03 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.098281"
-    },
-    {
-      "id": "9094a119c1a5",
-      "title": "Ja Morant Suspended One Game Due To Conduct Detrimental To Team - RealGM",
-      "description": "Ja Morant Suspended One Game Due To Conduct Detrimental To Team&nbsp;&nbsp;RealGMGrizzlies suspend Morant for for game for conduct detrimental&nbsp;&nbsp;TSNJa Morant suspended 1 game by Memphis for conduct detrimental to the team&nbsp;&nbsp;Toronto StarNBA analyst Blake Griffin sends strong message",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWFGYlJ1NFFXTUFsb2dNRFc5OTJSUEotRnhPY3ptUFl6elNFZHdGWEdFNEJidHlEclBZalZnTEY0ckp3UVlfaGtsYU0xZTFoaV95dUkweHRWbFNveGtsaHQzcW1SaWpMc3BWRkI0UzZLbjVZUGhDSXZyQ0E4QlgwNlBobG9BTU0tSUI5SjhEY2NTckY1QU11cDdFaTFsTmx4NjZuaXp6WHp6WVdD0gGyAUFVX3lxTE03Vi10V3BYMGNuYlJHS2VlYWhocTAzR2huZHQ0cDU1eWppZ09fSnVPbUM3ejU2YmRCWlhvSHRueHVfeUY5ai1pSGZPekhKU3BTSUpGejROLVhmemNWNHlDNEtwT09HMjZJZWJfY0FfV0JVR2FSSUVRZmtPVllPLTB4bDRDbVNlVHBkZlhsQnlOWkJNMHBmZlFSaEg0X3o0SXJ1SUJXZVBVZzhSY3FwMF80Z0E?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 20:11:00 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2025-11-01T22:16:05.399000"
+      "fetched_at": "2025-11-02T01:37:53.769229"
     },
     {
       "id": "94e852d91179",
-      "title": "Patchwork of empty seats greets Alouettes as game day clashes with transit shutdown",
+      "title": "Getting to Habs game a 's**t show' as transit shutdown snarls downtown streets",
       "description": "The transit stoppage hit on a busy day of sports around Montreal and Laval.",
       "url": "https://montrealgazette.com/news/patchwork-of-empty-seats-greets-alouettes-as-game-day-clashes-with-transit-shutdown",
       "source": "Montreal Gazette",
@@ -684,7 +1296,7 @@
       "published": "Sat, 01 Nov 2025 20:08:50 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743353"
+      "fetched_at": "2025-11-02T01:37:55.014868"
     },
     {
       "id": "46ff5e31e4ab",
@@ -696,7 +1308,7 @@
       "published": "Sat, 01 Nov 2025 20:07:56 +0000",
       "location": "Montreal",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601452"
+      "fetched_at": "2025-11-02T01:37:53.594193"
     },
     {
       "id": "23fc81d7c277",
@@ -708,19 +1320,7 @@
       "published": "Sat, 01 Nov 2025 20:07:08 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.048339"
-    },
-    {
-      "id": "9960671b121c",
-      "title": "Woman in custody after slashing the tires on 3 police cruisers: TPS",
-      "description": "A woman in York is in hot water after slashing the tires of three police cruisers on Saturday afternoon, according to authorities. Police were called to a plaza in York, near Jane Street and Alliance Avenue at approximately 3:30 p.m. Officers say the woman was armed with two large knives and stabbed",
-      "url": "https://toronto.citynews.ca/2025/11/01/woman-in-custody-after-slashing-the-tires-on-3-police-cruisers-tps/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 20:07:06 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435600"
+      "fetched_at": "2025-11-02T01:37:54.982018"
     },
     {
       "id": "0c73d8f6f793",
@@ -732,7 +1332,7 @@
       "published": "Sat, 01 Nov 2025 20:01:10 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.256956"
+      "fetched_at": "2025-11-02T01:37:52.433413"
     },
     {
       "id": "99775298c0be",
@@ -744,7 +1344,7 @@
       "published": "Sat, 01 Nov 2025 20:00:23 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901395"
+      "fetched_at": "2025-11-02T01:37:55.051444"
     },
     {
       "id": "39074dd09161",
@@ -756,7 +1356,7 @@
       "published": "Sat, 01 Nov 2025 19:57:18 +0000",
       "location": "Montreal",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601479"
+      "fetched_at": "2025-11-02T01:37:53.594216"
     },
     {
       "id": "1ba3b6b8f03a",
@@ -768,43 +1368,31 @@
       "published": "Sat, 01 Nov 2025 19:44:34 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619088"
+      "fetched_at": "2025-11-02T01:37:54.109178"
     },
     {
-      "id": "7050a6afd418",
-      "title": "CFL suspends Alouettes’ Oakman ‘indefinitely’ for policy breach",
-      "description": "The Canadian Football League has suspended Shawn Oakman of the Montreal Alouettes 'indefinitely' for allegedly breaching its policy on gender-based violence and harassment.",
-      "url": "https://globalnews.ca/news/11506409/cfl-suspends-shawn-oakman/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/47735463ee70f295204d4e624081c322633ab53f0dbe9d1673eb987a372076f8.jpg?quality=65&strip=all",
-      "published": "Sat, 01 Nov 2025 19:38:32 +0000",
-      "location": "Montreal",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203592"
-    },
-    {
-      "id": "58f1a464a71b",
-      "title": "China to Suspend Some Rare Earth Curbs, Probes on US Chip Firms",
-      "description": "China will effectively suspend implementation of additional export controls on rare earth metals and terminate investigations targeting US companies in the semiconductor supply chain, the White House announced.",
-      "url": "https://financialpost.com/pmn/business-pmn/china-to-end-rare-earth-controls-probes-against-chip-companies",
-      "source": "Financial Post",
+      "id": "b82590ef1818",
+      "title": "Two more charged in connection with Louvre jewel heist - Reuters",
+      "description": "Two more charged in connection with Louvre jewel heist&nbsp;&nbsp;ReutersTwo more charged over Louvre jewellery heist&nbsp;&nbsp;BBC2 more suspects charged over Louvre jewels heist&nbsp;&nbsp;CBCTwo more suspects charged over Louvre heist taking total to four&nbsp;&nbsp;The GuardianTwo more suspects",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0pHYXRWUVV1R2hZbjBLdUlXQmxQT1p4LWp2WW4yVm55emNVLWRIRXNxaDNsTDZaZktETi1QZnAyb3VkaG5QbmdZWE55aWVSeE02ZjhEb0xwbG05ZG54c1ViTTNuRXl3YzdHLW9UNEwtaDRDUlRUclYyemM2Z0p2SldWaE9JN3VnSHkyZktTaS1lVlF0YkctbXpvdnZ5S2VvVFE?oc=5",
+      "source": "Google News Tech",
       "image": "",
-      "published": "Sat, 01 Nov 2025 19:37:30 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601506"
+      "published": "Sat, 01 Nov 2025 19:34:57 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-11-02T01:37:54.839139"
     },
     {
-      "id": "ae7c036289cb",
-      "title": "Alberta January 2026 diploma exams, PATs cancelled",
-      "description": "January 2026 diploma exams for Alberta high school students and provincial achievement tests (PTA) for Grade 9 students have been cancelled. The post Alberta January 2026 diploma exams, PATs cancelled appeared first on CityNews Edmonton.",
-      "url": "https://edmonton.citynews.ca/2025/11/01/alberta-diploma-exams-pats-cancelled/",
-      "source": "CityNews Edmonton",
+      "id": "042548412d33",
+      "title": "‘I’ll skip Halloween’: Toronto family captures moment 11-year-old son is surprised with World Series tickets - CP24",
+      "description": "‘I’ll skip Halloween’: Toronto family captures moment 11-year-old son is surprised with World Series tickets&nbsp;&nbsp;CP24Play ball: Game 6 underway with Blue Jays aiming to claim 3rd World Series crown&nbsp;&nbsp;CBCThese northerners travelled across Canada for a taste of the World Series&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSHZSa09fZ3ZEXzhSTzZITlUtajlzUjRSb2pURmRHQnhDOFMxdnJyWUxFQU00NHRMdHItXzBjeHZCV0QxSnNOektlSUx0ZzdIcXJVckFuR2hlM1Jzckh4dE0yYXVwaUJQZVFIZXpfWG9RWU50dUdwclJyd0U5ZEtFUGpOcFFBaTlSeWY5czBRY3dnTmtCQWV6VVBFbjNQaFRXcWNjZmhKSHlWa05iTGhJSkJoN0o4T2NEMjVuLUhtWDFEMl9MNnE2aWJzbGE0dWZPYzlienZwTW5uTXVWUU5ycWhpeF9Ydw?oc=5",
+      "source": "Google News Sports",
       "image": "",
-      "published": "Sat, 01 Nov 2025 19:28:57 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386135"
+      "published": "Sat, 01 Nov 2025 19:30:06 GMT",
+      "location": "Toronto",
+      "category": "sports",
+      "fetched_at": "2025-11-02T01:37:54.467562"
     },
     {
       "id": "28dd23dc9789",
@@ -816,31 +1404,19 @@
       "published": "Sat, 01 Nov 2025 19:28:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604144"
+      "fetched_at": "2025-11-02T01:37:54.673716"
     },
     {
-      "id": "0f2be965c3f5",
-      "title": "Man, 50, fatally struck in Ajax",
-      "description": "A 50-year-old man is dead after being struck by a vehicle in Ajax on Friday evening. Durham police were called to Taunton Road East near Warner Drive just before 6:40 p.m. for reports of a pedestrian struck by a vehicle. Police say a black 4-door Acura struck a pedestrian eastbound on Taunton Road E",
-      "url": "https://toronto.citynews.ca/2025/11/01/man-50-fatally-struck-in-ajax/",
-      "source": "CityNews Toronto",
+      "id": "ae7c036289cb",
+      "title": "Alberta January 2026 diploma exams, PATs cancelled",
+      "description": "January 2026 diploma exams for Alberta high school students and provincial achievement tests (PTA) for Grade 9 students have been cancelled. The post Alberta January 2026 diploma exams, PATs cancelled appeared first on CityNews Edmonton.",
+      "url": "https://edmonton.citynews.ca/2025/11/01/alberta-diploma-exams-pats-cancelled/",
+      "source": "CityNews Edmonton",
       "image": "",
-      "published": "Sat, 01 Nov 2025 19:27:32 +0000",
-      "location": "World",
+      "published": "Sat, 01 Nov 2025 19:28:57 +0000",
+      "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435656"
-    },
-    {
-      "id": "be4c5aa9ee03",
-      "title": "World Series 2025: How to watch Blue Jays vs. Dodgers Game 7 in Canada — Streaming, TV channels, schedule, rosters, odds and more - Yahoo News Canada",
-      "description": "World Series 2025: How to watch Blue Jays vs. Dodgers Game 7 in Canada — Streaming, TV channels, schedule, rosters, odds and more&nbsp;&nbsp;Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUlc5QlZ6d056cmFMaVpzRW5WY2hSb0RveG5jLWFtX19NWWZNdmo5dXFDRmNLYTJxWV91M0d0Yk5TVDNvLUxtV3NxLWxSU2FXLUZvU0dqWG00NS0zWWVxZ05UZlBiaHNDTXA2S0ZUNUdHMEVfN1BCazYwUlplbWxraXVnNVBFREtOMTN0X2R4b0JrSEZldWVRdzdQaUhaaHN4Q1JnV2NNM1ZDNnBVUmk5a1NsZXRTMV9Zdjh6U0ZfUUdtOG9udl9uN1NLaFkxck9welQxMlVkX2htRGl4QmxUY1lLSl9yT1pxUTRZU3JYSzZFVXJyekE?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 19:25:30 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413580"
+      "fetched_at": "2025-11-02T01:37:54.969243"
     },
     {
       "id": "c1fad3c41a15",
@@ -852,7 +1428,7 @@
       "published": "Sat, 01 Nov 2025 19:13:46 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.098391"
+      "fetched_at": "2025-11-02T01:37:53.769338"
     },
     {
       "id": "cc0cd9bc999a",
@@ -864,31 +1440,7 @@
       "published": "Sat, 01 Nov 2025 19:10:25 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162070"
-    },
-    {
-      "id": "cfb17be769c7",
-      "title": "London Knights unbeaten streak ends with 5-1 lost to Ottawa on Halloween",
-      "description": "The London Knights ended an eight-game streak Friday night with a 5-1 loss to the Ottawa 67s, chalking up a defeat for the first time in regulation play since Sept. 26.",
-      "url": "https://globalnews.ca/news/11505640/london-knights-unbeaten-streak-ends-ottawa-67s/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/IMG_8498.jpeg?quality=65&strip=all",
-      "published": "Sat, 01 Nov 2025 19:07:24 +0000",
-      "location": "Ottawa",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203612"
-    },
-    {
-      "id": "2055b1db9711",
-      "title": "Minister’s Statement on Supreme Court of Canada Decision - Government of Nova Scotia",
-      "description": "Minister’s Statement on Supreme Court of Canada Decision&nbsp;&nbsp;Government of Nova Scotia",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZXBvVkR6MmFpdXJTSlU4azJsc2o2alRyQVVMclNDeFQwbUd3eTBXVWtJdlRQYTZHbXhiclVOVXFZMmNiaHVYNGpZS3oyVXV6cVZEMkxIV2JoU0g4YkJRUzNNbi0wa05od25jWV90a1VUMDRVaE1xM1Z2ajV6VXhTclBCUW5MMlJTcnhwSkN1QkdocE5l?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 19:03:31 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413650"
+      "fetched_at": "2025-11-02T01:37:55.215669"
     },
     {
       "id": "10e2c2965e40",
@@ -900,7 +1452,19 @@
       "published": "Sat, 01 Nov 2025 19:02:17 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390532"
+      "fetched_at": "2025-11-02T01:37:53.753450"
+    },
+    {
+      "id": "6c877c3456e9",
+      "title": "Prime Minister Mark Carney says lesson for Canada in Toronto Blue Jays' World Series bid - TorontoToday.ca",
+      "description": "Prime Minister Mark Carney says lesson for Canada in Toronto Blue Jays' World Series bid&nbsp;&nbsp;TorontoToday.ca",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRmpOMTdmbVJReDQ0SlNQVThTR0hZSnFiTllQSXZId3ZuWlItN2lQLUFQa2YtWHVEMlQyUFg2REpMRU1pZ3JES28xS01FeGtyQTF1c0lBdUtzb3JmZDdkQi1ldnNNOVd4ZmNMT0ZzSW1tdzhjRUI3UlJRaEVUelplSV9ZWlFXWnFmVjhTM054WjlVWmQwcFg3bXg5b1FPaFExMmtJT0FVd2dSYTFwSDdIX01HcEhDbWxxaHdnSUpXUFJnT19KVG9rdFJkVWNzdXV5TXNCcQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 19:01:19 GMT",
+      "location": "Toronto",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:54.611399"
     },
     {
       "id": "f682e9e6e19a",
@@ -912,7 +1476,19 @@
       "published": "Sat, 01 Nov 2025 18:52:07 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619112"
+      "fetched_at": "2025-11-02T01:37:54.109201"
+    },
+    {
+      "id": "269142493c1d",
+      "title": "Officials investigate ‘intentional’ explosion at Harvard University medical building that left no injuries - CNN",
+      "description": "Officials investigate ‘intentional’ explosion at Harvard University medical building that left no injuries&nbsp;&nbsp;CNN'Intentional' explosion on Harvard medical school campus probed by FBI, 2 people seen fleeing building: police&nbsp;&nbsp;Fox NewsExplosion at Harvard Medical School building deem",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51alNGeUw1ZjZLM1pVMmphVG43UE1LU3hnLUNxbWw2NHpPWldmOG0wa0VabUlvSlJ3TWdtWUJvaUJLaHJsSHJnVFY0WDJlbllibWs3SWNqN1BpNFhOeXFzM2h6NTdGU0hzR3hkaGpuNEhPWkcwcEVFUlVoS3Q?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 18:45:40 GMT",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-11-02T01:37:54.838743"
     },
     {
       "id": "690213b1c0c0",
@@ -924,7 +1500,19 @@
       "published": "Sat, 01 Nov 2025 18:40:25 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390560"
+      "fetched_at": "2025-11-02T01:37:53.753475"
+    },
+    {
+      "id": "2dcaf8b3cb84",
+      "title": "Canada falls to Brazil in quarterfinal penalty shootout at women's U17 World Cup - CBC",
+      "description": "Canada falls to Brazil in quarterfinal penalty shootout at women's U17 World Cup&nbsp;&nbsp;CBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR21BNk5TWEcyMU1sM1RzSFdXVVc0QWtBS1Vwd1FIN19xNlB2Z3MzekJRRVIxc2Z5bHIySV9XbW02ZVhvSFFQS3pXX0hPMURWTXdWbmlmbmExSmZ5a00xZlRiU3VpZ1JsTTRTVC0wcFlZQjVHOXNLV09vYUR0dlFkdGN1Mzc4YS1sOC1VZ2hGS1I0NjJEdUNRZHJfN0UwN3BVVU9Ha3lsa3dyNGM?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 18:38:27 GMT",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:54.611129"
     },
     {
       "id": "0061835c7293",
@@ -936,19 +1524,7 @@
       "published": "Sat, 01 Nov 2025 18:33:52 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901419"
-    },
-    {
-      "id": "ff757bbb3bad",
-      "title": "Imperial Oil reports dip in profit as it takes charges on restructuring, office sale",
-      "description": "Imperial Oil Ltd. reported a drop in third-quarter profit as it took charges related to a major overhaul at its&#160;Calgary&#160;headquarters. The oil producer and refiner, majority owned by U.S. major ExxonMobil Corp., had said in September it plans to cut 20 per cent of its workforce by the end o",
-      "url": "https://edmonton.citynews.ca/2025/11/01/imperial-oil-reports-drop-major-calgary-overhaul/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 18:33:44 +0000",
-      "location": "Calgary",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386179"
+      "fetched_at": "2025-11-02T01:37:55.051469"
     },
     {
       "id": "ab7229892fe6",
@@ -960,43 +1536,19 @@
       "published": "Sat, 01 Nov 2025 18:33:44 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604180"
+      "fetched_at": "2025-11-02T01:37:54.673750"
     },
     {
-      "id": "c482086aba59",
-      "title": "Toronto's Max Scherzer, L.A.'s Shohei Ohtani to start winner-take-all World Series Game 7 - CBC",
-      "description": "Toronto's Max Scherzer, L.A.'s Shohei Ohtani to start winner-take-all World Series Game 7&nbsp;&nbsp;CBCBlue Jays vs. Dodgers Game 7: Max Scherzer to start with World Series title on the line; Shohei Ohtani will start for L.A.&nbsp;&nbsp;Toronto StarMax Scherzer set to start Saturday for Game 7&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdHYtYnRSSnQ5aGp5THp5SWVZNGJWNWhJcXZmUmR1bTJ5NXdOa0pRR1A4S0ZUZW82UzlUMEtaWlNtY3JnVzV2bEszajVDNTh0VnVoaVNjTEQ0TWZRQURVc1dwVERvVkxxOWxpbkdrazZOUmMtcDVVVUd3YVUtWkpXUFBR?oc=5",
-      "source": "Google News Sports",
+      "id": "ff757bbb3bad",
+      "title": "Imperial Oil reports dip in profit as it takes charges on restructuring, office sale",
+      "description": "Imperial Oil Ltd. reported a drop in third-quarter profit as it took charges related to a major overhaul at its&#160;Calgary&#160;headquarters. The oil producer and refiner, majority owned by U.S. major ExxonMobil Corp., had said in September it plans to cut 20 per cent of its workforce by the end o",
+      "url": "https://edmonton.citynews.ca/2025/11/01/imperial-oil-reports-drop-major-calgary-overhaul/",
+      "source": "CityNews Edmonton",
       "image": "",
-      "published": "Sat, 01 Nov 2025 18:26:13 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2025-11-01T22:16:05.398527"
-    },
-    {
-      "id": "8dc0161ce106",
-      "title": "Shohei Ohtani to start World Series Game 7 for Dodgers against Blue Jays, Max Scherzer",
-      "description": "TORONTO (AP) — Shohei Ohtani will start Game 7 of the World Series for the Los Angeles Dodgers against the Toronto Blue Jays, showcasing the two-way star on the mound in the sport&#8217;s biggest game. Starting Ohtani makes more sense for the Dodgers than using him in relief. Under a rule adopted fo",
-      "url": "https://toronto.citynews.ca/2025/11/01/shohei-ohtani-to-start-world-series-game-7-for-dodgers-against-blue-jays-max-scherzer/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 18:25:40 +0000",
-      "location": "Toronto",
+      "published": "Sat, 01 Nov 2025 18:33:44 +0000",
+      "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435737"
-    },
-    {
-      "id": "de91915c658d",
-      "title": "Shohei Ohtani to start World Series Game 7 for Dodgers against Blue Jays, Max Scherzer",
-      "description": "TORONTO (AP) — Shohei Ohtani will start Game 7 of the World Series for the Los Angeles Dodgers against the Toronto Blue Jays, showcasing the two-way star on the mound in the sport&#8217;s biggest game. Starting Ohtani makes more sense for the Dodgers than using him in relief. Under a rule adopted fo",
-      "url": "https://vancouver.citynews.ca/2025/11/01/shohei-ohtani-to-start-world-series-game-7-for-dodgers-against-blue-jays-max-scherzer/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 18:25:40 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619145"
+      "fetched_at": "2025-11-02T01:37:54.969284"
     },
     {
       "id": "19e19b4b88db",
@@ -1008,31 +1560,7 @@
       "published": "Sat, 01 Nov 2025 18:25:40 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.946778"
-    },
-    {
-      "id": "c3db51cffac6",
-      "title": "Shohei Ohtani to start World Series Game 7 for Dodgers against Blue Jays, Max Scherzer",
-      "description": "TORONTO (AP) — Shohei Ohtani will start Game 7 of the World Series for the Los Angeles Dodgers against the Toronto Blue Jays, showcasing the two-way star on the mound in the sport&#8217;s biggest game. Starting Ohtani makes more sense for the Dodgers than using him in relief. Under a rule adopted fo",
-      "url": "https://ottawa.citynews.ca/2025/11/01/shohei-ohtani-to-start-world-series-game-7-for-dodgers-against-blue-jays-max-scherzer/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 18:25:40 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162105"
-    },
-    {
-      "id": "92f0b9a50ca9",
-      "title": "Shohei Ohtani to start World Series Game 7 for Dodgers against Blue Jays, Max Scherzer",
-      "description": "TORONTO (AP) — Shohei Ohtani will start Game 7 of the World Series for the Los Angeles Dodgers against the Toronto Blue Jays, showcasing the two-way star on the mound in the sport&#8217;s biggest game. Starting Ohtani makes more sense for the Dodgers than using him in relief. Under a rule adopted fo",
-      "url": "https://edmonton.citynews.ca/2025/11/01/shohei-ohtani-to-start-world-series-game-7-for-dodgers-against-blue-jays-max-scherzer/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 18:25:40 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386222"
+      "fetched_at": "2025-11-02T01:37:54.323412"
     },
     {
       "id": "8b0b7500cd4c",
@@ -1044,7 +1572,31 @@
       "published": "Sat, 01 Nov 2025 18:25:40 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604214"
+      "fetched_at": "2025-11-02T01:37:54.673785"
+    },
+    {
+      "id": "92f0b9a50ca9",
+      "title": "Shohei Ohtani to start World Series Game 7 for Dodgers against Blue Jays, Max Scherzer",
+      "description": "TORONTO (AP) — Shohei Ohtani will start Game 7 of the World Series for the Los Angeles Dodgers against the Toronto Blue Jays, showcasing the two-way star on the mound in the sport&#8217;s biggest game. Starting Ohtani makes more sense for the Dodgers than using him in relief. Under a rule adopted fo",
+      "url": "https://edmonton.citynews.ca/2025/11/01/shohei-ohtani-to-start-world-series-game-7-for-dodgers-against-blue-jays-max-scherzer/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 18:25:40 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.969323"
+    },
+    {
+      "id": "c3db51cffac6",
+      "title": "Shohei Ohtani to start World Series Game 7 for Dodgers against Blue Jays, Max Scherzer",
+      "description": "TORONTO (AP) — Shohei Ohtani will start Game 7 of the World Series for the Los Angeles Dodgers against the Toronto Blue Jays, showcasing the two-way star on the mound in the sport&#8217;s biggest game. Starting Ohtani makes more sense for the Dodgers than using him in relief. Under a rule adopted fo",
+      "url": "https://ottawa.citynews.ca/2025/11/01/shohei-ohtani-to-start-world-series-game-7-for-dodgers-against-blue-jays-max-scherzer/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 18:25:40 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:55.215706"
     },
     {
       "id": "139a80baa23b",
@@ -1056,7 +1608,7 @@
       "published": "Sat, 01 Nov 2025 18:23:32 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743386"
+      "fetched_at": "2025-11-02T01:37:55.014895"
     },
     {
       "id": "8f3540ce488a",
@@ -1068,7 +1620,7 @@
       "published": "Sat, 01 Nov 2025 18:07:58 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604240"
+      "fetched_at": "2025-11-02T01:37:54.673810"
     },
     {
       "id": "4aa944369c14",
@@ -1080,7 +1632,7 @@
       "published": "Sat, 01 Nov 2025 18:00:56 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573529"
+      "fetched_at": "2025-11-02T01:37:54.514951"
     },
     {
       "id": "3001ebb66fbd",
@@ -1092,43 +1644,7 @@
       "published": "Sat, 01 Nov 2025 18:00:05 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573553"
-    },
-    {
-      "id": "fc36f7a3c9b0",
-      "title": "Nigeria’s Dangote Says Fuel Output Now Exceeds Local Demand",
-      "description": "Nigeria’s giant Dangote refinery says it now produces more gasoline and diesel than can be consumed locally, as it backed a proposal by the West African nation to impose a 15% import duty on refined products.",
-      "url": "https://financialpost.com/pmn/business-pmn/nigerias-dangote-says-fuel-output-now-exceeds-local-demand",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 17:55:49 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.601539"
-    },
-    {
-      "id": "c6507f3b15f6",
-      "title": "Canadian Red Cross sending hurricane relief to Jamaica after Melissa devastation",
-      "description": "TORONTO — The Canadian Red Cross is sending relief to Jamaica after Hurricane Melissa tore through the area earlier this week. Melissa made landfall in southwest Jamaica as a Category 5 hurricane on Tuesday with wind speeds reaching 295 kilometres per hour. The hurricane has been blamed for at least",
-      "url": "https://toronto.citynews.ca/2025/11/01/canadian-red-cross-sending-hurricane-relief-to-jamaica-after-melissa-devastation/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 17:43:00 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435789"
-    },
-    {
-      "id": "98279caa512c",
-      "title": "Canadian Red Cross sending hurricane relief to Jamaica after Melissa devastation",
-      "description": "TORONTO — The Canadian Red Cross is sending relief to Jamaica after Hurricane Melissa tore through the area earlier this week. Melissa made landfall in southwest Jamaica as a Category 5 hurricane on Tuesday with wind speeds reaching 295 kilometres per hour. The hurricane has been blamed for at least",
-      "url": "https://vancouver.citynews.ca/2025/11/01/canadian-red-cross-sending-hurricane-relief-to-jamaica-after-melissa-devastation/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 17:43:00 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619175"
+      "fetched_at": "2025-11-02T01:37:54.514986"
     },
     {
       "id": "22447166bd17",
@@ -1140,31 +1656,7 @@
       "published": "Sat, 01 Nov 2025 17:43:00 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.946816"
-    },
-    {
-      "id": "7dcd2e442e80",
-      "title": "Canadian Red Cross sending hurricane relief to Jamaica after Melissa devastation",
-      "description": "TORONTO — The Canadian Red Cross is sending relief to Jamaica after Hurricane Melissa tore through the area earlier this week. Melissa made landfall in southwest Jamaica as a Category 5 hurricane on Tuesday with wind speeds reaching 295 kilometres per hour. The hurricane has been blamed for at least",
-      "url": "https://ottawa.citynews.ca/2025/11/01/canadian-red-cross-sending-hurricane-relief-to-jamaica-after-melissa-devastation/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 17:43:00 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162137"
-    },
-    {
-      "id": "720a765c6151",
-      "title": "Canadian Red Cross sending hurricane relief to Jamaica after Melissa devastation",
-      "description": "TORONTO — The Canadian Red Cross is sending relief to Jamaica after Hurricane Melissa tore through the area earlier this week. Melissa made landfall in southwest Jamaica as a Category 5 hurricane on Tuesday with wind speeds reaching 295 kilometres per hour. The hurricane has been blamed for at least",
-      "url": "https://edmonton.citynews.ca/2025/11/01/canadian-red-cross-sending-hurricane-relief-to-jamaica-after-melissa-devastation/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 17:43:00 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386260"
+      "fetched_at": "2025-11-02T01:37:54.323447"
     },
     {
       "id": "4dcb5e0cb3d7",
@@ -1176,31 +1668,67 @@
       "published": "Sat, 01 Nov 2025 17:43:00 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604270"
+      "fetched_at": "2025-11-02T01:37:54.673839"
     },
     {
-      "id": "07ee2576410a",
-      "title": "Carney says China doesn’t share concerns about ‘foreign interference’",
+      "id": "720a765c6151",
+      "title": "Canadian Red Cross sending hurricane relief to Jamaica after Melissa devastation",
+      "description": "TORONTO — The Canadian Red Cross is sending relief to Jamaica after Hurricane Melissa tore through the area earlier this week. Melissa made landfall in southwest Jamaica as a Category 5 hurricane on Tuesday with wind speeds reaching 295 kilometres per hour. The hurricane has been blamed for at least",
+      "url": "https://edmonton.citynews.ca/2025/11/01/canadian-red-cross-sending-hurricane-relief-to-jamaica-after-melissa-devastation/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 17:43:00 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:54.969359"
+    },
+    {
+      "id": "7dcd2e442e80",
+      "title": "Canadian Red Cross sending hurricane relief to Jamaica after Melissa devastation",
+      "description": "TORONTO — The Canadian Red Cross is sending relief to Jamaica after Hurricane Melissa tore through the area earlier this week. Melissa made landfall in southwest Jamaica as a Category 5 hurricane on Tuesday with wind speeds reaching 295 kilometres per hour. The hurricane has been blamed for at least",
+      "url": "https://ottawa.citynews.ca/2025/11/01/canadian-red-cross-sending-hurricane-relief-to-jamaica-after-melissa-devastation/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 17:43:00 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-11-02T01:37:55.215736"
+    },
+    {
+      "id": "73a94c94376d",
+      "title": "From campfires to compass points: How this summer camp in Ontario inspired my wanderlust - Canada.com",
+      "description": "From campfires to compass points: How this summer camp in Ontario inspired my wanderlust&nbsp;&nbsp;Canada.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SN2JPQnFZZGxrVzlrQWNheUExTDVNVUVNcmRKaFhrYUoxNnViQUloZUk1U2Z2MVpUNG9wejVDOGJKdlg1blQwWkVVT01XSV82dnVhOUlmY0hfOV9OZGlpdXFEd3haZUNMU05kMzZXeXJQaXZ5Nmc?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 17:40:51 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-11-02T01:37:54.611166"
+    },
+    {
+      "id": "3af3dbd07d05",
+      "title": "Carney says China doesn’t grasp Canada’s concern over issues of foreign interference",
       "description": "Prime Minister Mark Carney said China does not grasp Canada's level of concern on \"foreign interference\" after meeting with Chinese President Xi Jinping.",
-      "url": "https://globalnews.ca/news/11506376/carney-china-president-xi-meeting-foreign-interference/",
-      "source": "Global News",
+      "url": "https://globalnews.ca/news/11506376/carney-china-president-xi-meeting/",
+      "source": "Global Politics",
       "image": "https://globalnews.ca/wp-content/uploads/2025/11/77b47f2d841ed2c61ec2fa92d24576363ef9bce7a86ca779bfdc08faf955553b.jpg?quality=65&strip=all",
       "published": "Sat, 01 Nov 2025 17:40:43 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203639"
+      "category": "politics",
+      "fetched_at": "2025-11-02T01:37:52.397883"
     },
     {
       "id": "8ecb8689aca0",
       "title": "Ontario woman named national Silver Cross Mother",
       "description": "When Nancy Payne lays a wreath on Remembrance Day at the National War Memorial, it won't be the first time she's represented mothers of Canadian soldiers who have died in combat.",
       "url": "https://globalnews.ca/news/11506389/ontario-woman-named-national-silver-cross-mother/",
-      "source": "Global News",
+      "source": "Global Politics",
       "image": "https://globalnews.ca/wp-content/uploads/2025/11/d7abf16cfe77b0517baedb6768b8344ebf0642086cde50328e430ab263d97887.jpg?quality=65&strip=all",
       "published": "Sat, 01 Nov 2025 17:38:51 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203660"
+      "category": "politics",
+      "fetched_at": "2025-11-02T01:37:52.397911"
     },
     {
       "id": "30475ad5c7f8",
@@ -1212,19 +1740,7 @@
       "published": "Sat, 01 Nov 2025 17:31:47 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.946856"
-    },
-    {
-      "id": "2902a0053978",
-      "title": "Bear attack prompts declaration of Calgary part of ‘bear country’: specialist",
-      "description": "A bear safety specialist says parts around Calgary should be considered \"bear country\" after a hunter was attacked by one Thursday.",
-      "url": "https://calgary.citynews.ca/2025/11/01/bear-attack-declaration-calgary-bear-country-specialist/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 17:30:18 +0000",
-      "location": "Calgary",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604299"
+      "fetched_at": "2025-11-02T01:37:54.323486"
     },
     {
       "id": "e04d63e66921",
@@ -1236,7 +1752,7 @@
       "published": "Sat, 01 Nov 2025 17:19:22 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743415"
+      "fetched_at": "2025-11-02T01:37:55.014922"
     },
     {
       "id": "db6cd4edab51",
@@ -1248,7 +1764,19 @@
       "published": "Sat, 01 Nov 2025 17:06:11 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.098433"
+      "fetched_at": "2025-11-02T01:37:53.769358"
+    },
+    {
+      "id": "c46fa38caedf",
+      "title": "Hurricane Melissa: Britons to be evacuated from Jamaica as UK sends aid - BBC",
+      "description": "Hurricane Melissa: Britons to be evacuated from Jamaica as UK sends aid&nbsp;&nbsp;BBCMy country has been 'ripped apart,' Jamaican farm worker says as people in Niagara call out for help&nbsp;&nbsp;CBCWind expected in Atlantic region as storm recedes&nbsp;&nbsp;Global NewsHurricane Melissa death tol",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NeFA1eUhqMWppeDQxTnBVS214VUdiYktNQm0yeTRPZTI0WE4xdjFESXRpaVBnTW56SmgtbWhNNHZOY2Vyeld2LTVLZU91V1ZXa2E0Sm8yTzF4d9IBX0FVX3lxTE9rS09FOF93LWhzTjR5WjlVQm9xeUJYbzA0U3c3VTI1bS1YZDdvV19MYmxoYVE2ekxESWpUdUJzbHJCNVpCWVVZeDMyRXo2VzVNeFRNOUFTbUN1aVZFVU1v?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 17:06:11 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-11-02T01:37:54.838801"
     },
     {
       "id": "ab65d5b4d322",
@@ -1260,31 +1788,19 @@
       "published": "Sat, 01 Nov 2025 17:02:17 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743442"
+      "fetched_at": "2025-11-02T01:37:55.014947"
     },
     {
       "id": "e0ce68d71f1b",
-      "title": "LIVE: Liverpool vs Aston Villa – Premier League",
-      "description": "Follow our live build-up, with full team news coverage, ahead of our comprehensive text commentary stream.",
+      "title": "Liverpool vs Aston Villa 2-0: Premier League – as it happened",
+      "description": "All our updates, including live commentary, coverage of post-match reactions and interviews.",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/11/1/live-liverpool-vs-aston-villa-premier-league?traffic_source=rss",
       "source": "Al Jazeera",
       "image": "",
       "published": "Sat, 01 Nov 2025 17:01:38 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390589"
-    },
-    {
-      "id": "4736785f7470",
-      "title": "Wind expected in Atlantic region as storm recedes",
-      "description": "A weakened Hurricane Melissa is making for a wet and windy weekend in much of Atlantic Canada, with some areas warned of possible flurries as the storm weakens.",
-      "url": "https://globalnews.ca/news/11506365/wind-expected-in-atlantic-region-as-storm-recedes/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/11/14a881e217f728b06c8538d7dc715eadd3d356fa7c5c6e14888ba1fc1b53dece.jpg?quality=65&strip=all",
-      "published": "Sat, 01 Nov 2025 17:01:33 +0000",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.203703"
+      "fetched_at": "2025-11-02T01:37:53.753501"
     },
     {
       "id": "4540a41c880b",
@@ -1296,7 +1812,7 @@
       "published": "Sat, 01 Nov 2025 16:59:08 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.256996"
+      "fetched_at": "2025-11-02T01:37:52.433452"
     },
     {
       "id": "3f10c6989cb6",
@@ -1308,7 +1824,7 @@
       "published": "Sat, 01 Nov 2025 16:51:20 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743469"
+      "fetched_at": "2025-11-02T01:37:55.014972"
     },
     {
       "id": "a07fce54ecc8",
@@ -1320,67 +1836,7 @@
       "published": "Sat, 01 Nov 2025 16:50:58 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:05.128735"
-    },
-    {
-      "id": "9ea7007224a7",
-      "title": "No GO train service on portion of Lakeshore West line on Sunday and Monday due to ‘critical work’",
-      "description": "Commuters on a portion of the Lakeshore West GO line will face some schedule adjustments due to &#8220;critical&#8221; track work, which will affect service on Sunday and Monday. The provincial transit agency says there will be no GO train service between Oakville GO and Union Station on November 2 ",
-      "url": "https://toronto.citynews.ca/2025/11/01/no-go-lakeshore-west-line-sunday-and-monday/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 16:45:24 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435846"
-    },
-    {
-      "id": "28f8253e8663",
-      "title": "Two new suspects handed preliminary charges in Louvre jewels heist case, Paris prosecutor says",
-      "description": "PARIS (AP) — The Paris prosecutor said Saturday two new suspects were handed preliminary charges for their alleged involvement in the crown jewels heist at the Louvre museum, three days after they were arrested by police as part of the sweeping investigation. Laure Beccuau, the prosecutor, said a 37",
-      "url": "https://toronto.citynews.ca/2025/11/01/two-new-suspects-handed-preliminary-charges-in-louvre-jewels-heist-case-paris-prosecutor-says/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 16:41:22 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435912"
-    },
-    {
-      "id": "f5f4c455b366",
-      "title": "Two new suspects handed preliminary charges in Louvre jewels heist case, Paris prosecutor says",
-      "description": "PARIS (AP) — The Paris prosecutor said Saturday two new suspects were handed preliminary charges for their alleged involvement in the crown jewels heist at the Louvre museum. Laure Beccuau, the prosecutor, said in a statement that a 37-year-old suspect was charged with theft by an organized gang and",
-      "url": "https://vancouver.citynews.ca/2025/11/01/two-new-suspects-handed-preliminary-charges-in-louvre-jewels-heist-case-paris-prosecutor-says/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 16:41:22 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619216"
-    },
-    {
-      "id": "7adccee04a9f",
-      "title": "Two new suspects handed preliminary charges in Louvre jewels heist case, Paris prosecutor says",
-      "description": "PARIS (AP) — The Paris prosecutor said Saturday two new suspects were handed preliminary charges for their alleged involvement in the crown jewels heist at the Louvre museum. Laure Beccuau, the prosecutor, said in a statement that a 37-year-old suspect was charged with theft by an organized gang and",
-      "url": "https://montreal.citynews.ca/2025/11/01/two-new-suspects-handed-preliminary-charges-in-louvre-jewels-heist-case-paris-prosecutor-says/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 16:41:22 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.946904"
-    },
-    {
-      "id": "bfb2c6db87b3",
-      "title": "Two new suspects handed preliminary charges in Louvre jewels heist case, Paris prosecutor says",
-      "description": "PARIS (AP) — The Paris prosecutor said Saturday two new suspects were handed preliminary charges for their alleged involvement in the crown jewels heist at the Louvre museum, three days after they were arrested by police as part of the sweeping investigation. Laure Beccuau, the prosecutor, said a 37",
-      "url": "https://ottawa.citynews.ca/2025/11/01/two-new-suspects-handed-preliminary-charges-in-louvre-jewels-heist-case-paris-prosecutor-says/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 16:41:22 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162179"
+      "fetched_at": "2025-11-02T01:37:54.665771"
     },
     {
       "id": "03c72f3a44e1",
@@ -1392,31 +1848,19 @@
       "published": "Sat, 01 Nov 2025 16:41:22 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386310"
+      "fetched_at": "2025-11-02T01:37:54.969414"
     },
     {
-      "id": "3fd75c0092e8",
+      "id": "bfb2c6db87b3",
       "title": "Two new suspects handed preliminary charges in Louvre jewels heist case, Paris prosecutor says",
-      "description": "PARIS (AP) — The Paris prosecutor said Saturday two new suspects were handed preliminary charges for their alleged involvement in the crown jewels heist at the Louvre museum. Laure Beccuau, the prosecutor, said in a statement that a 37-year-old suspect was charged with theft by an organized gang and",
-      "url": "https://calgary.citynews.ca/2025/11/01/two-new-suspects-handed-preliminary-charges-in-louvre-jewels-heist-case-paris-prosecutor-says/",
-      "source": "CityNews Calgary",
+      "description": "PARIS (AP) — The Paris prosecutor said Saturday two new suspects were handed preliminary charges for their alleged involvement in the crown jewels heist at the Louvre museum, three days after they were arrested by police as part of the sweeping investigation. Laure Beccuau, the prosecutor, said a 37",
+      "url": "https://ottawa.citynews.ca/2025/11/01/two-new-suspects-handed-preliminary-charges-in-louvre-jewels-heist-case-paris-prosecutor-says/",
+      "source": "CityNews Ottawa",
       "image": "",
       "published": "Sat, 01 Nov 2025 16:41:22 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604355"
-    },
-    {
-      "id": "d34c985cb750",
-      "title": "STM bus drivers and metro operators threaten to strike again on Nov. 15 and 16, after complete transit shutdown Saturday",
-      "description": "Bus drivers and metro operators are threatening to strike again on Nov. 15 and 16 if no progress is made at the negotiating table. “One thing is clear, and we want to get the message across: we are in solution mode, but now the solution will not come at no cost,” explained Frédéric Therrien, preside",
-      "url": "https://montreal.citynews.ca/2025/11/01/stm-bus-drivers-threaten-strike-nov-15-16/",
-      "source": "CityNews Montreal",
-      "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2025/11/MixCollage-01-Nov-2025-03-52-PM-7384-1024x576.jpg",
-      "published": "Sat, 01 Nov 2025 16:38:20 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.946951"
+      "fetched_at": "2025-11-02T01:37:55.215778"
     },
     {
       "id": "66fc82665cc3",
@@ -1428,7 +1872,7 @@
       "published": "Sat, 01 Nov 2025 16:36:56 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901451"
+      "fetched_at": "2025-11-02T01:37:55.051501"
     },
     {
       "id": "ab242366cf73",
@@ -1440,7 +1884,7 @@
       "published": "Sat, 01 Nov 2025 16:33:49 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162214"
+      "fetched_at": "2025-11-02T01:37:55.215811"
     },
     {
       "id": "84eabfdadb59",
@@ -1452,7 +1896,7 @@
       "published": "Sat, 01 Nov 2025 16:33:46 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573580"
+      "fetched_at": "2025-11-02T01:37:54.515028"
     },
     {
       "id": "62346b0dd541",
@@ -1464,19 +1908,7 @@
       "published": "Sat, 01 Nov 2025 16:27:17 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390618"
-    },
-    {
-      "id": "7c6772cca38b",
-      "title": "Egypt unveils Grand Egyptian Museum dedicated to its ancient civilisation - Al Jazeera",
-      "description": "Egypt unveils Grand Egyptian Museum dedicated to its ancient civilisation&nbsp;&nbsp;Al JazeeraEgypt's Grand Museum opens, displaying Tutankhamun tomb in full for first time&nbsp;&nbsp;BBCEgypt’s new museum displays Tutankhamun tomb in full&nbsp;&nbsp;CTV News7 priceless artifacts you won't find at ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFVYZTF3TUNqMk9vSm9CZDlyLXhIc1h4djJNNjNKQldfUHdEdFFJSTR0MlRkeW5OT3NycURPSnd2NnI0NDYwbmVFLWVkQW9lVEdNMjlUQlEwSEtIai1vM1VGRjNoZXV0VUt0ZDJBZ1J0RmFqS05tVGJQam9fSW0xemZ1TWJTRjBqNnp6OFB6eVRqQTlpczctQjIzZGVFNlB3THdmU1Y2MTE2S2NrUVg0MWxwMHTSAboBQVVfeXFMTlZOSEoxX2tqU0lQVlVjbERLN0loWFVIWUxwNTlZX201RTJHZ2FPSmpyRWRGdW41aEdCWWVISTBBZUxZenJXZlF0cmVXTDNJN19keC1kR18yUHdTLXc5RVMzU3ZKY0lLcGwybFk2QUVYRXFiZTI0RVA0Z2NVbWhkRUVlZFQ2YnAtbVMxaE15eEwyZjZUbk84dGRQMlNIYURIMzhQcjdtcFl0anhXb0ZZal9OYmNyYVFfdUZn?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 16:18:45 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-11-01T22:16:05.424248"
+      "fetched_at": "2025-11-02T01:37:53.753528"
     },
     {
       "id": "03eecb5ec40c",
@@ -1488,7 +1920,7 @@
       "published": "Sat, 01 Nov 2025 16:15:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.257032"
+      "fetched_at": "2025-11-02T01:37:52.433485"
     },
     {
       "id": "574fb8ea15fd",
@@ -1500,7 +1932,7 @@
       "published": "Sat, 01 Nov 2025 16:11:24 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390643"
+      "fetched_at": "2025-11-02T01:37:53.753554"
     },
     {
       "id": "eaecd76f550c",
@@ -1512,7 +1944,7 @@
       "published": "Sat, 01 Nov 2025 16:03:11 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573602"
+      "fetched_at": "2025-11-02T01:37:54.515065"
     },
     {
       "id": "860d747ba989",
@@ -1524,7 +1956,7 @@
       "published": "Sat, 01 Nov 2025 16:02:10 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901475"
+      "fetched_at": "2025-11-02T01:37:55.051525"
     },
     {
       "id": "0e1ba945aaf2",
@@ -1536,7 +1968,7 @@
       "published": "Sat, 01 Nov 2025 15:59:11 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162246"
+      "fetched_at": "2025-11-02T01:37:55.215842"
     },
     {
       "id": "161af75fbc2f",
@@ -1548,91 +1980,19 @@
       "published": "Sat, 01 Nov 2025 15:56:33 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-11-01T22:16:03.237857"
+      "fetched_at": "2025-11-02T01:37:52.397935"
     },
     {
-      "id": "eec3ad19c86b",
-      "title": "Six UCalgary researchers named Canada Research Chairs - University of Calgary",
-      "description": "Six UCalgary researchers named Canada Research Chairs&nbsp;&nbsp;University of Calgary",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQczlDcThWVVZCVzNHUmxnU0FocXVLdUt5RTdwWFNMTmxfeE5XdXI1azZMU0JTdkFyS1czNGt6cTg2SDNEWU1yZ1lUR3Y3RlZHeVU3a2dFTl9wdVdXUnliOWpVT3I3SWdTOXFDUmJWRnkyMVNHaHA5dS1CNWUtX2lkVnl2MGI?oc=5",
-      "source": "Google News Canada",
+      "id": "e5dae7a79ed7",
+      "title": "Projected Lineup: November 1 at Boston - NHL.com",
+      "description": "Projected Lineup: November 1 at Boston&nbsp;&nbsp;NHL.comSwayman, Bruins edge Hurricanes for 3rd straight win&nbsp;&nbsp;NHL.comBruins extend win streak to 3 with 2-1 victory over the Hurricanes&nbsp;&nbsp;YahooSwayman Starts, Bruins Lineup For Saturday Matinée Against Hurricanes&nbsp;&nbsp;The Hock",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wSE9YNmZGSGtqVWRwZWVmUTh6bThXRXltdENqSnlmOGZld1R2MkNJU2lmM3V6WnVzZE5GbHNGVEU1VmdvcHJyOFMzV2tvUDhtb1IyU1BjU0duUWlqdUpVYS0wUVJPdTdDSlBhUl9hTk55aEFzTzBPLVM5Vmo1QQ?oc=5",
+      "source": "Google News Sports",
       "image": "",
-      "published": "Sat, 01 Nov 2025 15:47:25 GMT",
-      "location": "Calgary",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413781"
-    },
-    {
-      "id": "382ca20c161a",
-      "title": "Two people charged over audacious jewel heist at Louvre - France 24",
-      "description": "Two people charged over audacious jewel heist at Louvre&nbsp;&nbsp;France 24Two more charged over Louvre jewellery heist&nbsp;&nbsp;BBC2 more suspects charged over Louvre jewels heist&nbsp;&nbsp;CBCTwo more suspects charged over Louvre heist taking total to four&nbsp;&nbsp;The Guardian2 more charged",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzhkUzUyYnZPdmpBZDlXbk9CTEk3T011MVNjVkFZb1E1X1E4Z1FyMHBQMURsRFRUbnFBdk5wNHd5MlpEd2JoWUtEclAtRWY3RVNPTHIwUXlscHlwOElTMzFtMmxJVlJrS0V5c0RINDQ0R0NsTHppdGxFUVpNUlFGdFJSQWZjQ2h5WWJ4OEZ1SkpISWpUSFJrOFpjQTdadw?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 15:33:48 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-11-01T22:16:05.424718"
-    },
-    {
-      "id": "060ebc86d53c",
-      "title": "OPINION: All of Canada may soon pay for Ford’s ad folly - OrilliaMatters.com",
-      "description": "OPINION: All of Canada may soon pay for Ford’s ad folly&nbsp;&nbsp;OrilliaMatters.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXBoU0o4OG10YW5DRjl6dDNfMWFHUHVnVTNWOWJUNjdRcm9QNWVmeVlLeTBSUGtjay15OEw5MmpaWUMtQlNCTk00ZXZBNXl6N1NUbHNHX0c3MnpaNnVvc2hxZUZzRGcwNFNJdkxyallyNFcyeWVPSzVYNXI4NGxoYTV5akphUlEySG5nR3MtZ1JJeDZJV3ZXTVVuaF9fS2lYVW43QWlhcw?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 15:32:26 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413616"
-    },
-    {
-      "id": "1a7a7ff48964",
-      "title": "How much of a role did climate change play with Hurricane Melissa? - CBC",
-      "description": "How much of a role did climate change play with Hurricane Melissa?&nbsp;&nbsp;CBCMy country has been 'ripped apart,' Jamaican farm worker says as people in Niagara call out for help&nbsp;&nbsp;CBCCaribbean travelers returning to South Florida detail riding out Hurricane Melissa, journey out of Jamai",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MaDg1bU5YZDhhUWp0OFJVcXhQYmxjNmVTYUg1VkNsNEp3TWVjd19zb3NCV0NoZDEzalI2T3M0cDE4XzU1eWdTanBWMm5aYV9MTElMTU9hMnNFY0E2V3NiYlZlZVdUR3JacjVBLU81OTJrWDVCcUdQUUNINjVScWs?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 15:23:33 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-11-01T22:16:05.423929"
-    },
-    {
-      "id": "7f72634c302a",
-      "title": "Man wanted in connection with alleged East York sexual assault",
-      "description": "Toronto police are searching for a man in connection with a sexual assault investigation in East York. Investigators allege that just before 1 p.m. on October 18, a man led someone into the basement of an establishment in the Sibley Avenue and Danforth Avenue area, where he then sexually assaulted t",
-      "url": "https://toronto.citynews.ca/2025/11/01/man-wanted-in-connection-with-alleged-east-york-sexual-assault/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 15:22:05 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.435949"
-    },
-    {
-      "id": "d0c1c0303df0",
-      "title": "India temple stampede kills 9 in Andhra Pradesh - Dawn",
-      "description": "India temple stampede kills 9 in Andhra Pradesh&nbsp;&nbsp;DawnView Full Coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BUzlERTNYdHBlMm5YVkJUdlo3OEdXNWJLN1JtZml3R3dWV3VFTXdSVkZ0MFhRX25mTktEeXRIWDJ5ZHRZWU5letIBTkFVX3lxTE1ORkEzb0ZONUJVR3M0d1VIdFBQcTc2ZkxCcFRhNURicGhCbjByOVUzcXpHZzhTQldiWHgyZ0ZkVmpWNWhSeGxpenA1clkyUQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 15:14:37 GMT",
+      "published": "Sat, 01 Nov 2025 15:15:30 GMT",
       "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-11-01T22:16:05.424620"
-    },
-    {
-      "id": "310a8708d831",
-      "title": "Polytechnique Montréal leads pilot project to help nonprofits strengthen their digital networks",
-      "description": "Faced with the threat of cyberattacks and limited budgets, Quebec nonprofits are benefiting from free cybersecurity consultations thanks to a pilot project led by Polytechnique Montréal. Many non-profit organizations often fall below the “cybersecurity poverty line,” explains Marc Gervais, executive",
-      "url": "https://montreal.citynews.ca/2025/11/01/polytechnique-montreal-help-nonprofits-cybersecurity/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 15:09:39 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.947000"
+      "category": "sports",
+      "fetched_at": "2025-11-02T01:37:54.467895"
     },
     {
       "id": "bcd09401fd1c",
@@ -1644,7 +2004,7 @@
       "published": "Sat, 01 Nov 2025 15:00:45 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573624"
+      "fetched_at": "2025-11-02T01:37:54.515106"
     },
     {
       "id": "024871adb8aa",
@@ -1656,7 +2016,7 @@
       "published": "Sat, 01 Nov 2025 15:00:38 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573650"
+      "fetched_at": "2025-11-02T01:37:54.515152"
     },
     {
       "id": "069d48d903f1",
@@ -1668,7 +2028,7 @@
       "published": "Sat, 01 Nov 2025 15:00:35 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573692"
+      "fetched_at": "2025-11-02T01:37:54.515194"
     },
     {
       "id": "44225039d48d",
@@ -1680,7 +2040,7 @@
       "published": "Sat, 01 Nov 2025 15:00:30 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573715"
+      "fetched_at": "2025-11-02T01:37:54.515227"
     },
     {
       "id": "297a90c50722",
@@ -1692,7 +2052,7 @@
       "published": "Sat, 01 Nov 2025 15:00:19 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.573738"
+      "fetched_at": "2025-11-02T01:37:54.515261"
     },
     {
       "id": "184d5c06187a",
@@ -1704,43 +2064,7 @@
       "published": "Sat, 01 Nov 2025 15:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.257063"
-    },
-    {
-      "id": "750b9f083893",
-      "title": "Construction on new Laurier Ave. cycling infrastructure begins Nov. 4",
-      "description": "Those travelling through Centretown can expect delays on Laurier Avenue starting Tuesday. Nov. 4 marks the beginning of construction of the Laurier Avenue cycling modifications that will continue until summer 2026. The project site runs along Laurier Avenue from Queen Elizabeth Drive to just west of",
-      "url": "https://ottawa.citynews.ca/2025/11/01/construction-on-new-laurier-ave-cycling-infrastructure-begins/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 14:56:16 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162280"
-    },
-    {
-      "id": "674ba878a84b",
-      "title": "Why has the Israeli army’s top lawyer resigned after leaking rape evidence?",
-      "description": "Video of alleged rape of Palestinian prisoner at Sde Teiman went viral last year. Now the lawyer who leaked it has quit.",
-      "url": "https://www.aljazeera.com/news/2025/11/1/why-has-the-israeli-armys-top-lawyer-resigned-after-leaking-rape-evidence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 14:49:46 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390696"
-    },
-    {
-      "id": "3cf8d57f155c",
-      "title": "A man was stabbed during an argument in Lachine",
-      "description": "A man was stabbed Friday night during an altercation that escalated in Montreal. However, it was not until around 1:15 a.m. Saturday morning that a 911 call reported the armed assault near the intersection of Remembrance St. and 32nd Ave. in the borough of Lachine. “When police arrived on the scene,",
-      "url": "https://montreal.citynews.ca/2025/11/01/a-man-was-stabbed-during-an-argument-in-lachine/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 14:47:28 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.947041"
+      "fetched_at": "2025-11-02T01:37:52.433516"
     },
     {
       "id": "eace68a4fbae",
@@ -1752,31 +2076,7 @@
       "published": "Sat, 01 Nov 2025 14:39:20 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413497"
-    },
-    {
-      "id": "2fe15ddff645",
-      "title": "Canada’s Carney says he apologised to Trump over Reagan anti-tariff ad",
-      "description": "Canadian PM says anti-tariff ad featuring Ronald Reagan &#039;offended&#039; Trump, who has since cut off trade talks with Canada.",
-      "url": "https://www.aljazeera.com/news/2025/11/1/canadas-carney-says-he-apologised-to-trump-over-reagan-anti-tariff-ad?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 14:39:03 +0000",
-      "location": "Canada",
-      "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390731"
-    },
-    {
-      "id": "080fb8345109",
-      "title": "Canada PM Carney apologises to Trump over tariff ad - BBC",
-      "description": "Canada PM Carney apologises to Trump over tariff ad&nbsp;&nbsp;BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WV0cxWlRtcEZrVFl2eEhPVGpSSWJPOU1LN3htNk42TjRKS3ZJUFJLNjZra0p6enYwZGhRQXg3djFsV0VPd0tWa1Q0M0hBNjZ5V0lJWU92S0ZWQdIBX0FVX3lxTE5wX2M1SG5tZ3NQVzN5U0RzV1JrN3hNcHNzek9TOTdpX2NRZ2ZwRDZBX2Npc21SMjhXWDRqUFpNQzlZTHVjWnNYVmRwLTNsZ2tPUXFuZWhadkFfUVhfZnBv?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 14:13:18 GMT",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413730"
+      "fetched_at": "2025-11-02T01:37:54.611311"
     },
     {
       "id": "b1f898d21573",
@@ -1788,19 +2088,19 @@
       "published": "Sat, 01 Nov 2025 14:11:26 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.098369"
+      "fetched_at": "2025-11-02T01:37:53.769317"
     },
     {
       "id": "2f0664d25b91",
       "title": "Daylight Saving Time Ends Sunday Morning - VOCM",
-      "description": "Daylight Saving Time Ends Sunday Morning&nbsp;&nbsp;VOCMDaylight Saving Time 2025: Clocks fall back this weekend&nbsp;&nbsp;CityNews KitchenerThe time to reset clocks is here, but critics of the practice raise the alarm&nbsp;&nbsp;CTV NewsDaylight saving time ends tonight: Why the clocks fall back o",
+      "description": "Daylight Saving Time Ends Sunday Morning&nbsp;&nbsp;VOCMDaylight saving ends tonight. Here's what to know about the 2025 fall time change.&nbsp;&nbsp;CBS NewsDaylight saving time ends Sunday. Here’s what to know&nbsp;&nbsp;NPRDoes daylight savings time change fall back today? When clocks turn back a",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rbTM1R2QwWGJjeUJ0RHUtUDFXb2FROFJrbWNGOC1vR3dwcHlxQ2RiaVlYUzdySjd6V19TN2hoRFFYaDRSVzlZSHpyZw?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Sat, 01 Nov 2025 14:03:00 GMT",
-      "location": "World",
+      "location": "Ottawa",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:05.424022"
+      "fetched_at": "2025-11-02T01:37:54.838865"
     },
     {
       "id": "7ee4351a2d40",
@@ -1812,7 +2112,7 @@
       "published": "Sat, 01 Nov 2025 14:00:35 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.649563"
+      "fetched_at": "2025-11-02T01:37:53.868461"
     },
     {
       "id": "57186a0eb815",
@@ -1824,7 +2124,7 @@
       "published": "Sat, 01 Nov 2025 14:00:23 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743500"
+      "fetched_at": "2025-11-02T01:37:55.015004"
     },
     {
       "id": "5935e80666c5",
@@ -1836,43 +2136,31 @@
       "published": "Sat, 01 Nov 2025 14:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479293"
+      "fetched_at": "2025-11-02T01:37:52.732624"
     },
     {
       "id": "c9a8ba00926e",
-      "title": "Carney wraps up Asia trip looking ahead to first federal budget next week - Canada News - Castanet",
-      "description": "Carney wraps up Asia trip looking ahead to first federal budget next week - Canada News&nbsp;&nbsp;CastanetCarney ends Asia trip pledging to ‘transform’ economy through budget, diversification&nbsp;&nbsp;Toronto StarXi invites Carney to visit China as leaders meet at APEC summit&nbsp;&nbsp;CTV NewsW",
+      "title": "Carney wraps up Asia trip looking ahead to first federal budget next week - Castanet",
+      "description": "Carney wraps up Asia trip looking ahead to first federal budget next week&nbsp;&nbsp;CastanetView Full Coverage on Google News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmFsa1pvenJQMEJVYldnb29XNDdVSjBPeG1YR2hVRFNERFo1TmhJRU5VNjJIRUFMZHNybk4takdHdDMxRWZNM01GVnhGVW5hcmlfWlRNWkR2QXNDMzdiaGZEbWdkVHhTZldrUDBZUkM2RkMxYzhVWGtlblZ4UjEzMGcwYThZTWNXaUU0UUJ5TS1zTnpGZDZQMFNaZklwYUl4UzhSYVI1eEl1cXlpQ1BKVGhYSDFjNXh0?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Sat, 01 Nov 2025 13:45:00 GMT",
-      "location": "Toronto",
+      "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:05.424569"
+      "fetched_at": "2025-11-02T01:37:54.839091"
     },
     {
-      "id": "009c44af77ee",
-      "title": "Video: Tanzania president declared winner amid deadly election unrest",
-      "description": "Tanzania&#039;s President has been declared the winner of the country’s presidential elections amid deadly unrest.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/1/video-tanzania-president-declared-winner-amid-deadly-election-unrest?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "7fb3be6cd253",
+      "title": "Egypt’s new museum displays Tutankhamun tomb in full - CTV News",
+      "description": "Egypt’s new museum displays Tutankhamun tomb in full&nbsp;&nbsp;CTV NewsEgypt's Grand Museum opens, displaying Tutankhamun tomb in full for first time&nbsp;&nbsp;BBCEgypt’s vast $1bn museum to open in Cairo after two-decade build&nbsp;&nbsp;The GuardianEgypt unveils Grand Egyptian Museum dedicated t",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSE1KQ2xlVFdlNUswZDZoM08yaXdRNFZJbmkyYTRkaDFsMWVqU1FZSGtkRi1kMWFBNUR2SnpjZ1gxM0MxQlp6aTdNRjZxUm95WllYYjFKZkx1WjhqNDBzNnRWdDNUVWcyUnIycDhXb1RYUFNtc3otYTRFOWJ0ejVqb0ducHpHTEd6RTJVYkhaYTJLUU1uMUJDSWZ0a2xsYnI3RndpODNvX0ZZblJFelpqeTNINExOcVFMWGc?oc=5",
+      "source": "Google News Tech",
       "image": "",
-      "published": "Sat, 01 Nov 2025 13:42:33 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390762"
-    },
-    {
-      "id": "382fd61ccc42",
-      "title": "Rebuilding Gaza begins in the classroom",
-      "description": "Restoring education must start now under Palestinian leadership and with solidarity from abroad.",
-      "url": "https://www.aljazeera.com/opinions/2025/11/1/rebuilding-gaza-begins-in-the-classroom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 13:41:05 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.390786"
+      "published": "Sat, 01 Nov 2025 13:41:03 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-11-02T01:37:54.838986"
     },
     {
       "id": "470b12042057",
@@ -1884,67 +2172,7 @@
       "published": "Sat, 01 Nov 2025 13:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479323"
-    },
-    {
-      "id": "5526f5117a8c",
-      "title": "How to spot November’s supermoon, the closest of the year",
-      "description": "NEW YORK (AP) — The moon will look slightly bigger and brighter Wednesday night during the closest supermoon of the year. The moon&#8217;s orbit around the Earth isn&#8217;t a perfect circle, so it gets nearer and farther as it swings around. A so-called supermoon happens when a full moon is closer ",
-      "url": "https://vancouver.citynews.ca/2025/11/01/how-to-spot-novembers-supermoon-the-closest-of-the-year/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 13:23:33 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619254"
-    },
-    {
-      "id": "1d86fe45f477",
-      "title": "How to spot November’s supermoon, the closest of the year",
-      "description": "NEW YORK (AP) — The moon will look slightly bigger and brighter Wednesday night during the closest supermoon of the year. The moon&#8217;s orbit around the Earth isn&#8217;t a perfect circle, so it gets nearer and farther as it swings around. A so-called supermoon happens when a full moon is closer ",
-      "url": "https://ottawa.citynews.ca/2025/11/01/how-to-spot-novembers-supermoon-the-closest-of-the-year/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 13:23:33 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162318"
-    },
-    {
-      "id": "ebad1c5289c7",
-      "title": "How to spot November’s supermoon, the closest of the year",
-      "description": "NEW YORK (AP) — The moon will look slightly bigger and brighter Wednesday night during the closest supermoon of the year. The moon&#8217;s orbit around the Earth isn&#8217;t a perfect circle, so it gets nearer and farther as it swings around. A so-called supermoon happens when a full moon is closer ",
-      "url": "https://edmonton.citynews.ca/2025/11/01/how-to-spot-novembers-supermoon-the-closest-of-the-year/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 13:23:33 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386356"
-    },
-    {
-      "id": "72b5490646a4",
-      "title": "How to spot November’s supermoon, the closest of the year",
-      "description": "NEW YORK (AP) — The moon will look slightly bigger and brighter Wednesday night during the closest supermoon of the year. The moon&#8217;s orbit around the Earth isn&#8217;t a perfect circle, so it gets nearer and farther as it swings around. A so-called supermoon happens when a full moon is closer ",
-      "url": "https://calgary.citynews.ca/2025/11/01/how-to-spot-novembers-supermoon-the-closest-of-the-year/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 13:23:33 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.604393"
-    },
-    {
-      "id": "8715956d46dd",
-      "title": "These northerners travelled across Canada for a taste of the World Series - Cabin Radio",
-      "description": "These northerners travelled across Canada for a taste of the World Series&nbsp;&nbsp;Cabin Radio",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1JfNmx3UjdyekxXTW5Sa01MQ3ZnTjFJWGVCUmF3VFhyMlBudXFwV0xFNGdfeXFmNHpuX1dOSFFKY2JQczZxems3bElxTWFKTGM1cVFRS2JuRWlzY09ncTJjYi1rdmh0V01XNmlDaGcyQ0V0cklkeC1PVUVWMDhnZkJxNmpnN3N5U3RRMVJUalR4bGFVWHlCcUJwNXAybzFZMEQ3MFp6aVRaU3hVSG1VZHY2N0swQQ?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 13:03:00 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413811"
+      "fetched_at": "2025-11-02T01:37:52.732653"
     },
     {
       "id": "0a82ea998853",
@@ -1956,7 +2184,7 @@
       "published": "Sat, 01 Nov 2025 13:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479347"
+      "fetched_at": "2025-11-02T01:37:52.732694"
     },
     {
       "id": "918e076ddb73",
@@ -1968,7 +2196,7 @@
       "published": "Sat, 01 Nov 2025 12:57:09 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.586483"
+      "fetched_at": "2025-11-02T01:37:53.407688"
     },
     {
       "id": "2dae10991d1e",
@@ -1980,7 +2208,7 @@
       "published": "Sat, 01 Nov 2025 12:00:55 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382074"
+      "fetched_at": "2025-11-02T01:37:52.597569"
     },
     {
       "id": "1bcca20fc3d6",
@@ -1992,7 +2220,7 @@
       "published": "Sat, 01 Nov 2025 12:00:14 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382108"
+      "fetched_at": "2025-11-02T01:37:52.597601"
     },
     {
       "id": "16aadca1549a",
@@ -2004,7 +2232,7 @@
       "published": "Sat, 01 Nov 2025 12:00:14 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382141"
+      "fetched_at": "2025-11-02T01:37:52.597632"
     },
     {
       "id": "2ecd78d6d107",
@@ -2016,7 +2244,7 @@
       "published": "Sat, 01 Nov 2025 12:00:11 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901514"
+      "fetched_at": "2025-11-02T01:37:55.051563"
     },
     {
       "id": "92d4f1184115",
@@ -2028,7 +2256,7 @@
       "published": "Sat, 01 Nov 2025 12:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479367"
+      "fetched_at": "2025-11-02T01:37:52.732712"
     },
     {
       "id": "17b0c653fc3e",
@@ -2040,19 +2268,7 @@
       "published": "Sat, 01 Nov 2025 12:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479392"
-    },
-    {
-      "id": "e37e7ddde7ce",
-      "title": "Israel says 3 bodies received from Gaza are not hostages - politico.eu",
-      "description": "Israel says 3 bodies received from Gaza are not hostages&nbsp;&nbsp;politico.euIsrael claims remains returned by Hamas are not of hostages&nbsp;&nbsp;CBCIsrael returns 30 bodies of slain Palestinians as new strikes hit Gaza&nbsp;&nbsp;Al JazeeraPartial remains handed over by Hamas are not of hostage",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObXRMUld6TkhDcGFGZ0QxR1BDd1IwZ05NT0tMVDNwU0hBNkdOQmdRUUN0ZnE1dm5uXzlNT0Z0c0YzbzF0c3Y2QTl6NUpqSEdWTG9CSGNJejM4QVBLS1pFQzh2aGRjdEowWGV3ZFJvLS1qUThqYnZaUjJJQXppY1lQVFVVVzNtemdjUjBTVlpZYTlBcmM?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 11:59:00 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-11-01T22:16:05.424471"
+      "fetched_at": "2025-11-02T01:37:52.732737"
     },
     {
       "id": "7daf9dc2ee50",
@@ -2064,7 +2280,7 @@
       "published": "Sat, 01 Nov 2025 11:31:02 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.649843"
+      "fetched_at": "2025-11-02T01:37:53.868713"
     },
     {
       "id": "e084de88e1ef",
@@ -2076,7 +2292,7 @@
       "published": "Sat, 01 Nov 2025 11:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479413"
+      "fetched_at": "2025-11-02T01:37:52.732756"
     },
     {
       "id": "cfcf3d1916d6",
@@ -2088,43 +2304,7 @@
       "published": "Sat, 01 Nov 2025 11:27:16 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.098477"
-    },
-    {
-      "id": "a7c0a882d381",
-      "title": "Andrew’s royal exit is the latest crisis for Britain’s monarchy",
-      "description": "LONDON (AP) — Holding prestige but not power, Britain’s monarchy is finely tuned to public sentiment. That&#8217;s been evident with the disgrace of Andrew Mountbatten Windsor, who was stripped of his princely title and his spacious home by his brother King Charles on Thursday, a banishment that has",
-      "url": "https://vancouver.citynews.ca/2025/11/01/andrews-royal-exit-is-the-latest-crisis-for-britains-monarchy/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 11:14:05 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619300"
-    },
-    {
-      "id": "d219d289db53",
-      "title": "Andrew’s royal exit is the latest crisis for Britain’s monarchy",
-      "description": "LONDON (AP) — Holding prestige but not power, Britain’s monarchy is finely tuned to public sentiment. That&#8217;s been evident with the disgrace of Andrew Mountbatten Windsor, who was stripped of his princely title and his spacious home by his brother King Charles on Thursday, a banishment that has",
-      "url": "https://ottawa.citynews.ca/2025/11/01/andrews-royal-exit-is-the-latest-crisis-for-britains-monarchy/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 11:14:05 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.162365"
-    },
-    {
-      "id": "851056349614",
-      "title": "Andrew’s royal exit is the latest crisis for Britain’s monarchy",
-      "description": "LONDON (AP) — Holding prestige but not power, Britain’s monarchy is finely tuned to public sentiment. That&#8217;s been evident with the disgrace of Andrew Mountbatten Windsor, who was stripped of his princely title and his spacious home by his brother King Charles on Thursday, a banishment that has",
-      "url": "https://edmonton.citynews.ca/2025/11/01/andrews-royal-exit-is-the-latest-crisis-for-britains-monarchy/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 11:14:05 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386409"
+      "fetched_at": "2025-11-02T01:37:53.769421"
     },
     {
       "id": "c9bc7427888c",
@@ -2136,7 +2316,7 @@
       "published": "Sat, 01 Nov 2025 11:08:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479432"
+      "fetched_at": "2025-11-02T01:37:52.732773"
     },
     {
       "id": "0e8fab8d8142",
@@ -2148,7 +2328,7 @@
       "published": "Sat, 01 Nov 2025 11:00:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.780972"
+      "fetched_at": "2025-11-02T01:37:54.852807"
     },
     {
       "id": "608b53666f84",
@@ -2160,7 +2340,7 @@
       "published": "Sat, 01 Nov 2025 11:00:35 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.781008"
+      "fetched_at": "2025-11-02T01:37:54.852842"
     },
     {
       "id": "1802ad4483aa",
@@ -2172,7 +2352,7 @@
       "published": "Sat, 01 Nov 2025 11:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479451"
+      "fetched_at": "2025-11-02T01:37:52.732791"
     },
     {
       "id": "6809c0c9bdff",
@@ -2184,7 +2364,7 @@
       "published": "Sat, 01 Nov 2025 11:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479475"
+      "fetched_at": "2025-11-02T01:37:52.732813"
     },
     {
       "id": "b9e65a1cb143",
@@ -2196,7 +2376,7 @@
       "published": "Sat, 01 Nov 2025 11:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.479494"
+      "fetched_at": "2025-11-02T01:37:52.732832"
     },
     {
       "id": "45f92c65f737",
@@ -2208,7 +2388,7 @@
       "published": "Sat, 01 Nov 2025 11:00:00 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.586366"
+      "fetched_at": "2025-11-02T01:37:53.407576"
     },
     {
       "id": "2220fd6e0c80",
@@ -2220,55 +2400,7 @@
       "published": "Sat, 01 Nov 2025 10:55:30 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743531"
-    },
-    {
-      "id": "8bc8de22275a",
-      "title": "Supercomputer at UW gets an upgrade, literally heating things up - CityNews Kitchener",
-      "description": "Supercomputer at UW gets an upgrade, literally heating things up&nbsp;&nbsp;CityNews Kitchener",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMEZHS2xhSUtocXlnUGJWOXNrVmhzMlpVTklNVEt4dVNkUmFNZW04ZE9aaUFmbi1mTXhyTTVNNGVoYUxhQ0dMQjRLRkk2ZVVieG9ad2lVbmg4NTJTVGFCMHF5RzFKNHAwVEJOTXRsa0VNNXd1a1IycUdrYXdkZ05nMG5FVnk0WHM3UE5Ha2FuUEo5UjluaVRYYWt0X0Z1MGZVYndCcjZ2RTY?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 10:47:00 GMT",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-11-01T22:16:05.129043"
-    },
-    {
-      "id": "fe46b299afc6",
-      "title": "Ukraine says it hit a key fuel pipeline near Moscow that supplies Russian forces",
-      "description": "KYIV, Ukraine (AP) — Ukrainian forces hit an important fuel pipeline in the Moscow region that supplies the Russian army, Ukraine&#8217;s military intelligence said Saturday, a claim that came amid a sustained Russian campaign of massive drone and missile attacks on Ukraine’s energy infrastructure. ",
-      "url": "https://vancouver.citynews.ca/2025/11/01/ukraine-says-it-hit-a-key-fuel-pipeline-near-moscow-that-supplies-russian-forces/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 10:24:28 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.619344"
-    },
-    {
-      "id": "fa1290f93b27",
-      "title": "Ukraine says it hit a key fuel pipeline near Moscow that supplies Russian forces",
-      "description": "KYIV, Ukraine (AP) — Ukrainian forces hit an important fuel pipeline in the Moscow region that supplies the Russian army, Ukraine&#8217;s military intelligence said Saturday, a claim that came amid a sustained Russian campaign of massive drone and missile attacks on Ukraine’s energy infrastructure. ",
-      "url": "https://edmonton.citynews.ca/2025/11/01/ukraine-says-it-hit-a-key-fuel-pipeline-near-moscow-that-supplies-russian-forces/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 10:24:28 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386462"
-    },
-    {
-      "id": "15ae80e207fd",
-      "title": "NP View: This 'reconciliation' is a disaster for Canada - National Post",
-      "description": "NP View: This 'reconciliation' is a disaster for Canada&nbsp;&nbsp;National Post",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3M5MHdwUk11UFd0bTZEZTJKRXBFZElhNXhDOThuVmpwazRYc2ZNNnBySERObUxpQ3VyXzhBa3Awa3JGZ1FmMTBtd1hTQ0lOQi1mQ01FSXg4SHVfc2JVaTBIMVFTazdkUXVYXzV2N3hwNFBieFExSnVCUTdYNGx3eEJjQWd6c240X0VUYVBB?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 10:05:51 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-01T22:16:05.413701"
+      "fetched_at": "2025-11-02T01:37:55.015033"
     },
     {
       "id": "3ef9dac7a3da",
@@ -2280,7 +2412,7 @@
       "published": "Sat, 01 Nov 2025 10:00:54 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382171"
+      "fetched_at": "2025-11-02T01:37:52.597676"
     },
     {
       "id": "3e1224d44473",
@@ -2292,7 +2424,7 @@
       "published": "Sat, 01 Nov 2025 10:00:54 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743554"
+      "fetched_at": "2025-11-02T01:37:55.015056"
     },
     {
       "id": "95de242e19c4",
@@ -2304,7 +2436,7 @@
       "published": "Sat, 01 Nov 2025 10:00:52 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382196"
+      "fetched_at": "2025-11-02T01:37:52.597703"
     },
     {
       "id": "6095be6b1ec8",
@@ -2316,7 +2448,7 @@
       "published": "Sat, 01 Nov 2025 10:00:48 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382221"
+      "fetched_at": "2025-11-02T01:37:52.597728"
     },
     {
       "id": "d8403f8b58ac",
@@ -2328,31 +2460,7 @@
       "published": "Sat, 01 Nov 2025 10:00:47 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743579"
-    },
-    {
-      "id": "fff4a1de6574",
-      "title": "Saturday's letters: New election rules slowed voting",
-      "description": "Re. &#8220;Election plagued by incompetence,&#8221; Letters, Oct. 30 The letter addressing the recent election as incompetent overlooks the basic direction that came from the provincial government. Prior to this election, identification and the presence on the election roll was all that was required",
-      "url": "https://edmontonjournal.com/opinion/letters/saturdays-letters-ucp-election-rules-hindered-voting",
-      "source": "Edmonton Journal",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 10:00:47 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.901546"
-    },
-    {
-      "id": "4380a96db272",
-      "title": "Freed: Charisma? Main contenders for Montreal mayor are as boring as porridge",
-      "description": "Neither Soraya Martinez Ferrada nor Luc Rabouin has the exciting force field most previous mayors had.",
-      "url": "https://montrealgazette.com/opinion/columnists/freed-montreal-mayor-contenders-boring",
-      "source": "Montreal Gazette",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 10:00:46 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.743601"
+      "fetched_at": "2025-11-02T01:37:55.015083"
     },
     {
       "id": "6429b98c393e",
@@ -2364,7 +2472,7 @@
       "published": "Sat, 01 Nov 2025 10:00:42 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382251"
+      "fetched_at": "2025-11-02T01:37:52.597757"
     },
     {
       "id": "d61a22f6b47c",
@@ -2376,7 +2484,7 @@
       "published": "Sat, 01 Nov 2025 10:00:27 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382275"
+      "fetched_at": "2025-11-02T01:37:52.597781"
     },
     {
       "id": "191a618365f2",
@@ -2388,19 +2496,7 @@
       "published": "Sat, 01 Nov 2025 10:00:23 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382300"
-    },
-    {
-      "id": "c2081956bb61",
-      "title": "Winner takes it all: Blue Jays fans still hopeful for World Series win in decisive Game 7",
-      "description": "TORONTO — Blue Jays fans are still looking for a World Series win in Toronto tonight after the team fell to the Los Angeles Dodgers on Friday, forcing Game 7. The visiting Dodgers defeated the Jays in Game 6 with a score of 3-1. The Fall Classic series is now tied at three games apiece, The post Win",
-      "url": "https://edmonton.citynews.ca/2025/11/01/blue-jays-fans-still-hopeful-for-world-series-win-in-decisive-game-7/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 10:00:20 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.386498"
+      "fetched_at": "2025-11-02T01:37:52.597805"
     },
     {
       "id": "b4889612c0f1",
@@ -2412,19 +2508,7 @@
       "published": "Sat, 01 Nov 2025 10:00:10 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.048371"
-    },
-    {
-      "id": "c08d46ca8b02",
-      "title": "Good morning, Sault Ste. Marie! Here's today's weather! - SooToday.com",
-      "description": "Good morning, Sault Ste. Marie! Here's today's weather!&nbsp;&nbsp;SooToday.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXo1MFZnMUFKV2h2NFYwMzQ1OXNEaDRNbW1OOFBOTUFUeXpNb3RWN3JLektMbzNycS1UZ21HLTJFWjl1NHFORjNidFdqYkhiNlM0VUdFaTFKZkQ5SjhVMFpnMm0yTW1UMXB4cFdWRnhpRHBxMGpyNFRQX0hTNThVZUthWm1ReGlSVnJLN1RZUnEyTFJqbWxFcThoZTM?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 10:00:00 GMT",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-11-01T22:16:05.129012"
+      "fetched_at": "2025-11-02T01:37:54.982050"
     },
     {
       "id": "aae1d8c963ca",
@@ -2436,19 +2520,31 @@
       "published": "Sat, 01 Nov 2025 10:00:00 GMT",
       "location": "Montreal",
       "category": "sports",
-      "fetched_at": "2025-11-01T22:16:05.398893"
+      "fetched_at": "2025-11-02T01:37:54.467750"
+    },
+    {
+      "id": "c08d46ca8b02",
+      "title": "Good morning, Sault Ste. Marie! Here's today's weather! - SooToday.com",
+      "description": "Good morning, Sault Ste. Marie! Here's today's weather!&nbsp;&nbsp;SooToday.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXo1MFZnMUFKV2h2NFYwMzQ1OXNEaDRNbW1OOFBOTUFUeXpNb3RWN3JLektMbzNycS1UZ21HLTJFWjl1NHFORjNidFdqYkhiNlM0VUdFaTFKZkQ5SjhVMFpnMm0yTW1UMXB4cFdWRnhpRHBxMGpyNFRQX0hTNThVZUthWm1ReGlSVnJLN1RZUnEyTFJqbWxFcThoZTM?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Sat, 01 Nov 2025 10:00:00 GMT",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-11-02T01:37:54.666105"
     },
     {
       "id": "3ec96a29bcdd",
       "title": "Tanzania’s Hassan declared landslide winner in election marred by violence - CNN",
-      "description": "Tanzania’s Hassan declared landslide winner in election marred by violence&nbsp;&nbsp;CNNTanzania election: Samia Suluhu Hassan wins vote as hundreds feared dead in unrest&nbsp;&nbsp;BBCTanzanian President Hassan declared winner of disputed vote with 98 percent&nbsp;&nbsp;Al JazeeraJoint statement b",
+      "description": "Tanzania’s Hassan declared landslide winner in election marred by violence&nbsp;&nbsp;CNNTanzania election: Samia Suluhu Hassan wins vote as hundreds feared dead in unrest&nbsp;&nbsp;BBCJoint statement by Foreign Ministers of Canada, Norway and the United Kingdom on situation in Tanzania&nbsp;&nbsp;",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWdLRzhjYzVkUlRXVnlacEFpUm5Jam5CYzNhaUxsMFBncU1ram5rM1czTHk2NWE1TnQxdTNldEU2YVVrRTFwN0lzd2UxZ0JhdldjT2pkdHY5VXdMWE5jVDBJcmdiNC1fRzdiS2lwSnAtVXZDNTd1TFZ6aTd3dFhaRlZUbw?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Sat, 01 Nov 2025 09:28:49 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:05.424143"
+      "fetched_at": "2025-11-02T01:37:54.838926"
     },
     {
       "id": "6cc1a5ad3198",
@@ -2460,7 +2556,7 @@
       "published": "Sat, 01 Nov 2025 09:20:45 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-11-01T22:16:03.986825"
+      "fetched_at": "2025-11-02T01:37:53.546442"
     },
     {
       "id": "5ed9abf54699",
@@ -2472,7 +2568,7 @@
       "published": "Sat, 01 Nov 2025 09:00:54 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.048404"
+      "fetched_at": "2025-11-02T01:37:54.982083"
     },
     {
       "id": "afb85e02e130",
@@ -2484,7 +2580,7 @@
       "published": "Sat, 01 Nov 2025 08:00:13 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-01T22:16:03.382328"
+      "fetched_at": "2025-11-02T01:37:52.597832"
     },
     {
       "id": "f500e3a6dcbe",
@@ -2496,7 +2592,7 @@
       "published": "Sat, 01 Nov 2025 08:00:05 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.048434"
+      "fetched_at": "2025-11-02T01:37:54.982113"
     },
     {
       "id": "83f1b818220c",
@@ -2508,7 +2604,7 @@
       "published": "Sat, 01 Nov 2025 08:00:00 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.586276"
+      "fetched_at": "2025-11-02T01:37:53.407467"
     },
     {
       "id": "35df4b24ce57",
@@ -2520,7 +2616,7 @@
       "published": "Sat, 01 Nov 2025 07:00:32 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.649628"
+      "fetched_at": "2025-11-02T01:37:53.868512"
     },
     {
       "id": "07aa7526e8cc",
@@ -2532,7 +2628,7 @@
       "published": "Sat, 01 Nov 2025 06:51:37 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.649701"
+      "fetched_at": "2025-11-02T01:37:53.868557"
     },
     {
       "id": "26e8affb1050",
@@ -2544,7 +2640,7 @@
       "published": "Sat, 01 Nov 2025 05:31:42 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.098453"
+      "fetched_at": "2025-11-02T01:37:53.769397"
     },
     {
       "id": "1ebf3247727f",
@@ -2556,19 +2652,7 @@
       "published": "Sat, 01 Nov 2025 05:21:59 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-11-01T22:16:03.986867"
-    },
-    {
-      "id": "3496c8abded8",
-      "title": "Dodgers manager Roberts says Ohtani a possibility to start Game 7 of World Series - TSN",
-      "description": "Dodgers manager Roberts says Ohtani a possibility to start Game 7 of World Series&nbsp;&nbsp;TSNWorld Series Game 7 starting lineups: Dodgers and Blue Jays pitchers tonight&nbsp;&nbsp;USA TodayShohei Ohtani will be the Dodgers’ starting pitcher for World Series Game 7&nbsp;&nbsp;Los Angeles TimesCan",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1R3VWY5U1M0aVNOSDdURi1xRXpxX20wLWQwNmJTa1dzN3NnMTRubVB5UFV6UXJ5RnZrbWVabHdaeC1saWI3VmhKUFIxN21vdjhXVi1yN210NHNGamxVYmFCaF9NZ2xQNUpmeUFWYzJGRHhiQ3AtSmdJblBMYXZiMnhYYllCNlhTZUdkREhPUktvZ2lFbkxPQjFuSTNRdndkcE9PXzRvb2p6cU9haVphSU1JYw?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 05:15:38 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2025-11-01T22:16:05.398600"
+      "fetched_at": "2025-11-02T01:37:53.546484"
     },
     {
       "id": "c382a8051178",
@@ -2580,7 +2664,7 @@
       "published": "Sat, 01 Nov 2025 04:30:38 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-11-01T22:16:03.986951"
+      "fetched_at": "2025-11-02T01:37:53.546566"
     },
     {
       "id": "164b58562393",
@@ -2592,7 +2676,7 @@
       "published": "Sat, 01 Nov 2025 02:10:54 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-11-01T22:16:03.986911"
+      "fetched_at": "2025-11-02T01:37:53.546528"
     },
     {
       "id": "6fd9cd0c9b97",
@@ -2604,19 +2688,19 @@
       "published": "Sat, 01 Nov 2025 02:10:13 GMT",
       "location": "Vancouver",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.098321"
+      "fetched_at": "2025-11-02T01:37:53.769253"
     },
     {
       "id": "90b8090b0d62",
       "title": "Felix Auger-Aliassime predicts what will happen to Valentin Vacherot in the future after beating him in Paris - The Tennis Gazette",
-      "description": "Felix Auger-Aliassime predicts what will happen to Valentin Vacherot in the future after beating him in Paris&nbsp;&nbsp;The Tennis GazetteAuger-Aliassime advances to Paris Masters final, on verge of qualifying for ATP Finals&nbsp;&nbsp;CBCAuger-Aliassime beats Bublik to set up Paris Masters final a",
+      "description": "Felix Auger-Aliassime predicts what will happen to Valentin Vacherot in the future after beating him in Paris&nbsp;&nbsp;The Tennis GazetteAuger-Aliassime blunts Bublik in Paris, charges into Turin qualifying spot&nbsp;&nbsp;ATP TourAuger-Aliassime beats Bublik to set up Paris Masters final against ",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY3FyUDNLS3RzY3R6R0pKQzhMUzZURXZkMkROWk40SHc1aTE2Uk1URkZSTi1ibVVBZThFZkJqeEs4NTdqV01xUXhkMkl6MjJsX3c2RU85Yi16cHZtSnZrdDhEOHdTZUxYSG03UlhHOXh5ZndpdlNlZkZFeVNJMjJ4N2FBRUtGV1BkbjNRMUNIcVQwdEc4X1dfT1llTzJYdGZKekhMQlg0VVdVNGFfMlBBaHlYSW1wUWlvS1BMTThmV3hNZG5mUUtGdlRfMEFRMmN0eHJlcnM3VTJJQmdCSU1tSVN3?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Sat, 01 Nov 2025 02:00:00 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2025-11-01T22:16:05.398741"
+      "fetched_at": "2025-11-02T01:37:54.467504"
     },
     {
       "id": "22c06a252a8d",
@@ -2628,19 +2712,7 @@
       "published": "Sat, 01 Nov 2025 01:34:23 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-11-01T22:16:03.986984"
-    },
-    {
-      "id": "40568f4e16ac",
-      "title": "Canada announces first investments under G7 pact, aims to stockpile critical minerals - BNN Bloomberg",
-      "description": "Canada announces first investments under G7 pact, aims to stockpile critical minerals&nbsp;&nbsp;BNN BloombergCanada announces first critical minerals projects under G7 partnership - National&nbsp;&nbsp;Global NewsIn boost to mining industry, Canada commits to stockpile critical minerals as a nation",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmpYRmd2ZW9SWmdaMHBNSnJTdGxkZHd1ZS1kUml2NWZpbm5oQ0xaMC0wNW1PSlZNbl9mQkppdHNsOW1Bd2FHdWJ5a3I5R2FLLWE5TXVmRU1QVnBIakVXY3NHZ29ZN0ZDU3hTN2o4Z0xYaVNWTjJ4dk40NldGSU40a1BlaTNqNnIxNV9PTm93dm5WUGdyV282UHhWVHdVUnJTWVp5X0UwNTdCVUFjejBFYllQYVhMRGJZNzI0bWs4MWxyckx0SFZXdjd1aXFLUQ?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Sat, 01 Nov 2025 01:23:00 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2025-11-01T22:16:05.128795"
+      "fetched_at": "2025-11-02T01:37:53.546598"
     },
     {
       "id": "062bc3758059",
@@ -2652,7 +2724,7 @@
       "published": "Sat, 01 Nov 2025 01:11:34 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.257092"
+      "fetched_at": "2025-11-02T01:37:52.433543"
     },
     {
       "id": "892cdf016f95",
@@ -2664,19 +2736,7 @@
       "published": "Sat, 01 Nov 2025 00:17:32 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.048459"
-    },
-    {
-      "id": "f5bac613d00d",
-      "title": "Wealthsimple hits $10-billion valuation milestone with $750-million financing",
-      "description": "Latest nine-figure deal in Canadian tech comes after digital bank challenger surpasses $100-billion asset mark",
-      "url": "https://www.theglobeandmail.com/business/technology/article-wealthsimple-raises-750-million-valuation-10-billion-dragoneer-gic/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/2ADE6RVOTFFFVGJ3YPVOWZGCMY.JPG?auth=127b0e046505af96995f609dc94f4c51463cd09d828c1952fc8829cb61cc86a1&smart=true&width=8192&height=5464",
-      "published": "Mon, 27 Oct 2025 21:14:07 +0000",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.586608"
+      "fetched_at": "2025-11-02T01:37:54.982137"
     },
     {
       "id": "885f53fc750a",
@@ -2688,7 +2748,7 @@
       "published": "Mon, 27 Oct 2025 11:00:14 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:05.781225"
+      "fetched_at": "2025-11-02T01:37:54.853051"
     },
     {
       "id": "b650d7229c46",
@@ -2700,19 +2760,7 @@
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.354899"
-    },
-    {
-      "id": "27345f84b035",
-      "title": "US lawmaker applauds Trump for designating Nigeria ‘country of particular concern’ - Punch Newspapers",
-      "description": "US lawmaker applauds Trump for designating Nigeria ‘country of particular concern’&nbsp;&nbsp;Punch NewspapersTrumps threatens Nigeria with military action, aid cuts over alleged anti-Christian persecution&nbsp;&nbsp;CBCTrump threatens to deploy the military 'guns-a-blazing' to Nigeria&nbsp;&nbsp;Po",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVhIRzM5bG13SG8wSWFJbS1Ta0dyWElTRTE0RlpNalU0aThsVHJtcERCSzdadjdGaWFuR1llWm5UN09LNUk3N0Via0tPeDJad0VXSWRGNkVQTm90VFVXaWRJbDBHSFVjaFByenRuaUhpR3RTTkxRYkFYSFhZNWQxWjM4bjJsd1NXUzRPNEhiX2NkeW9lWUVpM0lNaXBvbGdaU19N?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Fri, 31 Oct 2025 23:48:45 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-11-01T22:16:05.423835"
+      "fetched_at": "2025-11-02T01:37:53.891731"
     },
     {
       "id": "21960e03c324",
@@ -2724,7 +2772,7 @@
       "published": "Fri, 31 Oct 2025 23:39:55 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:05.129204"
+      "fetched_at": "2025-11-02T01:37:54.666312"
     },
     {
       "id": "9771002349a0",
@@ -2736,19 +2784,31 @@
       "published": "Fri, 31 Oct 2025 23:36:20 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.048481"
+      "fetched_at": "2025-11-02T01:37:54.982161"
+    },
+    {
+      "id": "5602edc8874e",
+      "title": "Jimmy Kimmel Live pulled yet again but not by ABC this time - Last Night On",
+      "description": "Jimmy Kimmel Live pulled yet again but not by ABC this time&nbsp;&nbsp;Last Night OnWhy is Tennessee-Oklahoma not on YouTube TV? Explaining Disney contract dispute and other options to watch&nbsp;&nbsp;YahooDisney pulls channels from YouTube TV over fee dispute&nbsp;&nbsp;BBCHow to watch ESPN amid D",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55YUhHT2FaVmRNN0d4OG1pb1dnRXZ4TmQwMVVmcHRMMDZhRjE1VmlYclhlTGxhbXRwU1ZGWmNHYVJlVFpCakN4QTFucG81bk1iSm9zTS03MEZreW80UjM5Sl9fV3V5elpvVWUzcDFPR1h5OXBVR1hsdnZB?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Fri, 31 Oct 2025 23:32:40 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2025-11-02T01:37:54.666249"
     },
     {
       "id": "a844d91917d0",
       "title": "Game Preview: 11.01.25 at Winnipeg Jets - NHL.com",
-      "description": "Game Preview: 11.01.25 at Winnipeg Jets&nbsp;&nbsp;NHL.comConnor’s 2 goals help Jets end Penguins point streak at 8&nbsp;&nbsp;NHL.comRookie Brad Lambert scores first NHL goal, Jets down Penguins&nbsp;&nbsp;Sportsnet.caJets Face Season’s Toughest Test As Crosby, Malkin Lead Penguins Into Winnipeg&nb",
+      "description": "Game Preview: 11.01.25 at Winnipeg Jets&nbsp;&nbsp;NHL.comRookie Brad Lambert scores 1st NHL goal as Jets take 5-2 win over Penguins&nbsp;&nbsp;CBCPittsburgh Penguins vs. Winnipeg Jets | November 1, 2025 | NHL | Hockey | Recap&nbsp;&nbsp;theScore.comJets Clip Red-Hot Penguins 5–2 Behind Lambert Firs",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YeTBBanB6QV9vLUNWWEgzZndRbGNKWXQ5Vnp6OG9uN0hyU3dRTEtaM3RGeFhmRnAwSXRGbkFXS2RjUUZvbWZNVjMxSFVsR1dmSFRJNXdFWFlVanpKWnpqU0VlYTFQZmNHX1g5eXMwb1NzbkJMZWpvSktveWE?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Fri, 31 Oct 2025 23:09:49 GMT",
-      "location": "Winnipeg",
+      "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2025-11-01T22:16:05.398951"
+      "fetched_at": "2025-11-02T01:37:54.467707"
     },
     {
       "id": "19dcb949cb73",
@@ -2760,7 +2820,7 @@
       "published": "Fri, 31 Oct 2025 23:00:34 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-11-01T22:16:03.315580"
+      "fetched_at": "2025-11-02T01:37:52.534247"
     },
     {
       "id": "806e969cb7c1",
@@ -2772,7 +2832,7 @@
       "published": "Fri, 31 Oct 2025 22:53:29 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.586442"
+      "fetched_at": "2025-11-02T01:37:53.407641"
     },
     {
       "id": "c74fd1f9ef31",
@@ -2784,19 +2844,31 @@
       "published": "Fri, 31 Oct 2025 22:50:34 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-11-01T22:16:03.315632"
+      "fetched_at": "2025-11-02T01:37:52.534297"
+    },
+    {
+      "id": "9f15b7f91903",
+      "title": "Canada announces first critical minerals projects under G7 partnership - National - Global News",
+      "description": "Canada announces first critical minerals projects under G7 partnership - National&nbsp;&nbsp;Global NewsIn boost to mining industry, Canada commits to stockpile critical minerals as a national security priority&nbsp;&nbsp;CBCRoadmap to promote standards-based markets for critical minerals&nbsp;&nbsp",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lMERncURkUjVnbl9BR0pEazNuampJQWExSXVSS00tNW1IbF9qSG5ieUcxeTRiSXpUbWhjVXlSMUU5T2RXN1VMX0tSSUlON2hfRXM5ZjU5emc0X1Z2Nk0yYWhSWkRBaW1JRERoX2k1NlZVdkNBV0xUSlpmQkUtUQ?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Fri, 31 Oct 2025 22:36:13 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2025-11-02T01:37:54.665845"
     },
     {
       "id": "584c5f899b36",
       "title": "‘Disgusting’: Plan to slash B.C. pipelines’ taxable value could hit local revenues - CTV News",
-      "description": "‘Disgusting’: Plan to slash B.C. pipelines’ taxable value could hit local revenues&nbsp;&nbsp;CTV NewsBC Confesses Concerns about a Pipeline Property Tax Cut&nbsp;&nbsp;The TyeeB.C. minister weighs in on plan to slash pipelines’ tax value, branded ‘disgusting’&nbsp;&nbsp;CityNews HalifaxMillions in ",
+      "description": "‘Disgusting’: Plan to slash B.C. pipelines’ taxable value could hit local revenues&nbsp;&nbsp;CTV NewsBC Confesses Concerns about a Pipeline Property Tax Cut&nbsp;&nbsp;The TyeeB.C. minister weighs in on plan to slash pipelines’ tax value, branded ‘disgusting’&nbsp;&nbsp;CityNews Halifax‘It has basi",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVA5d1FJTERFREdzYlNGUk51WlExRjZhMnd6Skoxb2ZBVjVTMlg3U3kyT2tNNlNJZE1HSVRJejVYRzNzMHgweDFvN002Rjg5dlI1a3E1TW4xUVlMRG5YNFhicUVZRUk3VmprRXVqYmtocktsSXcwVWxvRkZyZVd4dzRubEd2Mkg2anA4dmFQVDZOMmJNRU9RUmE4WENoeEpQX1hOc0dVYzAyYUtZQ0ZRX29QUW56azJCOVlF?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Fri, 31 Oct 2025 22:07:34 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:05.129147"
+      "fetched_at": "2025-11-02T01:37:54.666170"
     },
     {
       "id": "f4d27be3468f",
@@ -2808,19 +2880,7 @@
       "published": "Fri, 31 Oct 2025 22:03:48 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-11-01T22:16:03.315706"
-    },
-    {
-      "id": "423c7d12790b",
-      "title": "Game 6 could be Bo Bichette’s last as a Blue Jay - The Globe and Mail",
-      "description": "Game 6 could be Bo Bichette’s last as a Blue Jay&nbsp;&nbsp;The Globe and MailBo Bichette Doesn’t Expect To Require Offseason Knee Surgery&nbsp;&nbsp;MLB Trade RumorsBo Bichette ready to gamble with injury for World Series ring: 'I'll risk it all'&nbsp;&nbsp;Toronto SunBlue Jays All-Star Bichette no",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjZ0VHdHY3pKMXozRlB1ZTNRYU5mYThzTURQYkVuWklBNWdSYnpFR2ZQaEZiV0xwdFUyc3hEZ0pSUEctMVA3UHBERGZwV2lNRHM5Vi1uME5hWkpMZGhEUDFKRGc0VFNSM0FiVGw3enk2dEZGNmNNdy1JX3JidmVjSUo1OW9nSXU2c0NLc3VGZEVsZS1UVjRlaUtjeE5MazRZV005eHhWSjR5MUtoeF9SaGF1RQ?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Fri, 31 Oct 2025 22:02:32 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2025-11-01T22:16:05.398851"
+      "fetched_at": "2025-11-02T01:37:52.534342"
     },
     {
       "id": "cb8964182f43",
@@ -2832,7 +2892,7 @@
       "published": "Fri, 31 Oct 2025 22:01:38 +0000",
       "location": "Ottawa",
       "category": "politics",
-      "fetched_at": "2025-11-01T22:16:03.237878"
+      "fetched_at": "2025-11-02T01:37:52.397955"
     },
     {
       "id": "89af37326891",
@@ -2844,7 +2904,7 @@
       "published": "Fri, 31 Oct 2025 22:01:24 +0000",
       "location": "Ottawa",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:03.586320"
+      "fetched_at": "2025-11-02T01:37:53.407530"
     },
     {
       "id": "8dfc7d72f6a7",
@@ -2856,7 +2916,7 @@
       "published": "Fri, 31 Oct 2025 21:58:56 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2025-11-01T22:16:03.315754"
+      "fetched_at": "2025-11-02T01:37:52.534379"
     },
     {
       "id": "391a303a9826",
@@ -2868,7 +2928,7 @@
       "published": "Fri, 31 Oct 2025 21:51:34 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.048506"
+      "fetched_at": "2025-11-02T01:37:54.982186"
     },
     {
       "id": "d4848edd51c9",
@@ -2880,7 +2940,7 @@
       "published": "Fri, 31 Oct 2025 21:40:13 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.048529"
+      "fetched_at": "2025-11-02T01:37:54.982207"
     },
     {
       "id": "e401918d0ce6",
@@ -2892,19 +2952,19 @@
       "published": "Fri, 31 Oct 2025 21:26:07 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-01T22:16:04.649750"
+      "fetched_at": "2025-11-02T01:37:53.868599"
     },
     {
       "id": "3f7d3447ef26",
       "title": "‘Come on down to Montreal’: Davis Alexander responds to Willie Jefferson - 3DownNation",
-      "description": "‘Come on down to Montreal’: Davis Alexander responds to Willie Jefferson&nbsp;&nbsp;3DownNationEastern Semi-Final: Winnipeg Blue Bombers at Montreal Alouettes&nbsp;&nbsp;CFL.caThe Story Continues | Eastern Semi-Final Game Trailer&nbsp;&nbsp;Winnipeg Blue Bombers'Come on over to Montreal': Alexander ",
+      "description": "‘Come on down to Montreal’: Davis Alexander responds to Willie Jefferson&nbsp;&nbsp;3DownNationAlouettes defeat Bombers, punch ticket to Eastern Final&nbsp;&nbsp;CFL.caComeback falls short as Winnipeg Blue Bombers’ season ends with loss to Alouettes&nbsp;&nbsp;Global News3rd And 1: Best Bets for the",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd19ja0RMbEd6NTNnVkRlMmszSkVFN2ZEengzN3dfckQ1WnFmd3Q1ZTJRSHZ1Qkh6cjg1VW9paVVvVFh5ZEFHa0lnWS1ycWpHYW5JZXl1ZlFsX25UQXA1RjVqV3RmX2pROWI3eG5MOTFLTk9PNm9CbDU2QXpEX2hwVGJnV3BqTjJqTkJLNFhvMFNVUWlFdDkzSDl5ZUl4ZGRDTWdkU1R6V2s?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Fri, 31 Oct 2025 20:57:05 GMT",
       "location": "Montreal",
       "category": "sports",
-      "fetched_at": "2025-11-01T22:16:05.398664"
+      "fetched_at": "2025-11-02T01:37:54.467447"
     },
     {
       "id": "524826c819c8",
@@ -2916,7 +2976,7 @@
       "published": "Fri, 31 Oct 2025 20:30:00 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-01T22:16:05.128916"
+      "fetched_at": "2025-11-02T01:37:54.665971"
     },
     {
       "id": "745d57e05ae7",
@@ -2928,19 +2988,7 @@
       "published": "Fri, 31 Oct 2025 20:14:06 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.257122"
-    },
-    {
-      "id": "3ebbe9aad6ff",
-      "title": "Sarnia proposed as site for $500-million low-carbon hydrogen project - The Sarnia Observer",
-      "description": "Sarnia proposed as site for $500-million low-carbon hydrogen project&nbsp;&nbsp;The Sarnia ObserverProvincial government boosts funding for Hydrogen Innovation Fund&nbsp;&nbsp;CTV NewsOntario Launching New Round of Hydrogen Innovation Fund&nbsp;&nbsp;Ontario Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUxWMWhacWlUc1FNNF9seTR2Y0FrRmlMZW1XVGNhUHpDNU9mR1JuTjBJSFdUeWZtSzhrdDczZ2FzRU9uRlM4RDRwbklPc3FjNjl1cHNuUGxNUEdJYnRqeHhQR1ZZcnJwbDRoemZjbkdfWW9FRks4dl9nbnNEcmY2bWNTM1luYlFqRW1SekVTNVZ4aDFZN1loOGFVZlE4cTNHenA1ZUhsTXM1SnV3N0o4?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Fri, 31 Oct 2025 20:06:42 GMT",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-11-01T22:16:05.129085"
+      "fetched_at": "2025-11-02T01:37:52.433573"
     },
     {
       "id": "96ea788b767a",
@@ -2952,111 +3000,64 @@
       "published": "Fri, 31 Oct 2025 19:56:16 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-01T22:16:06.048551"
-    },
-    {
-      "id": "3826736615b7",
-      "title": "Trump says Carney 'apologized' for Ontario's anti-tariff ad during Asia trip",
-      "description": "'I like (Carney) a lot but what they did was wrong,' said Trump of Ontario’s commercial",
-      "url": "https://nationalpost.com/news/canada/trump-says-carney-apologized-for-ontarios-anti-tariff-ad-during-asia-trip",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/10/trump-carney-teaser_299576426.jpg",
-      "published": "Fri, 31 Oct 2025 19:40:01 +0000",
-      "location": "World",
-      "category": "politics",
-      "fetched_at": "2025-11-01T22:16:04.838876"
-    },
-    {
-      "id": "f58a363305f4",
-      "title": "Alberta premier calls on Ottawa to use notwithstanding clause over child porn",
-      "description": "Danielle Smith is calling on Ottawa to invoke the Charter's notwithstanding clause to overturn a Supreme Court ruling on child sexual abuse and exploitation materials.",
-      "url": "https://globalnews.ca/news/11505164/danielle-smith-notwithstanding-clause-child-porn/",
-      "source": "Global Politics",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/10/b589f6ceb696cf0ceaf821783260344b0bd671c1f1bce2f397b51bc49b702064.jpg?quality=65&strip=all",
-      "published": "Fri, 31 Oct 2025 19:34:36 +0000",
-      "location": "Ottawa",
-      "category": "politics",
-      "fetched_at": "2025-11-01T22:16:03.237897"
-    },
-    {
-      "id": "0779f46a66d5",
-      "title": "Meta bought 1 GW of solar this week",
-      "description": "The social media company inked three deals in the U.S. to power its data centers and offset its carbon footprint.",
-      "url": "https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Fri, 31 Oct 2025 19:26:30 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-11-01T22:16:03.257147"
-    },
-    {
-      "id": "95cad71b3822",
-      "title": "'He was very opposed to tariffs': Former Reagan adviser says Ontario anti-tariff ad was fair to the former president",
-      "description": "'As for Trump, I don’t think there is a one principle, one core belief, one basis around which trade policy is set, unlike Reagan'",
-      "url": "https://nationalpost.com/news/he-was-very-opposed-to-tariffs-former-reagan-adviser-says-ontario-anti-tariff-ad-was-fair-to-the-former-president",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/10/1101-na-reagan_299615626.jpg",
-      "published": "Fri, 31 Oct 2025 19:24:07 +0000",
-      "location": "World",
-      "category": "politics",
-      "fetched_at": "2025-11-01T22:16:04.838929"
+      "fetched_at": "2025-11-02T01:37:54.982229"
     }
   ],
   "sources": [
-    "Edmonton Journal",
-    "Vancouver Sun",
-    "Google News Sports",
-    "Global Politics",
-    "The Guardian",
-    "CityNews Edmonton",
-    "BBC World",
-    "Global News",
-    "Financial Post",
-    "Science Daily",
-    "Calgary Sun",
-    "APTN News",
-    "BetaKit",
-    "National Post",
-    "Wired",
     "National Post Politics",
-    "Google News Canada",
-    "CNN World",
-    "CityNews Toronto",
-    "Google News Tech",
-    "TechCrunch",
-    "CityNews Montreal",
     "Al Jazeera",
-    "CityNews Ottawa",
+    "CityNews Edmonton",
+    "CNN World",
     "Ottawa Citizen",
     "CityNews Calgary",
-    "Google News Business",
-    "Globe Business",
+    "BBC World",
+    "Financial Post",
+    "BetaKit",
+    "Global News",
+    "Edmonton Journal",
     "Montreal Gazette",
-    "CityNews Vancouver"
+    "APTN News",
+    "Calgary Sun",
+    "Global Politics",
+    "Google News Sports",
+    "Science Daily",
+    "TechCrunch",
+    "Google News Business",
+    "Vancouver Sun",
+    "CityNews Toronto",
+    "Globe Business",
+    "Google News Canada",
+    "Google News Tech",
+    "Wired",
+    "The Guardian",
+    "CityNews Vancouver",
+    "CityNews Montreal",
+    "National Post",
+    "CityNews Ottawa"
   ],
   "stats": {
     "by_location": {
-      "Toronto": 25,
-      "World": 126,
       "Canada": 26,
-      "Ottawa": 10,
-      "Calgary": 7,
+      "Toronto": 27,
+      "World": 121,
+      "Ottawa": 9,
+      "Calgary": 6,
+      "Montreal": 19,
+      "Edmonton": 12,
+      "Vancouver": 26,
       "Winnipeg": 3,
-      "Montreal": 22,
-      "Edmonton": 11,
-      "Vancouver": 20
+      "Halifax": 1
     },
     "by_category": {
+      "business": 24,
       "local": 108,
-      "world": 30,
+      "politics": 5,
+      "world": 31,
       "indigenous": 8,
-      "technology": 30,
+      "technology": 29,
       "science": 6,
       "canada": 30,
-      "business": 24,
-      "sports": 9,
-      "politics": 5
+      "sports": 9
     },
     "source_count": 30
   }
