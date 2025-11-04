@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-04T03:21:25.915589",
+  "last_updated": "2025-11-04T04:33:57.934130",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 29 Oct 2025 11:00:56 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.444485"
+      "fetched_at": "2025-11-04T04:22:01.280061"
     },
     {
       "id": "e2f4770897ae",
@@ -24,7 +24,7 @@
       "published": "Wed, 29 Oct 2025 11:00:13 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.444524"
+      "fetched_at": "2025-11-04T04:22:01.280100"
     },
     {
       "id": "44ba9112d3e4",
@@ -36,7 +36,7 @@
       "published": "Tue, 28 Oct 2025 11:00:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.444559"
+      "fetched_at": "2025-11-04T04:22:01.280135"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -48,7 +48,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.313327"
+      "fetched_at": "2025-11-04T04:21:59.815105"
     },
     {
       "id": "05ea19344a14",
@@ -60,7 +60,163 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.313386"
+      "fetched_at": "2025-11-04T04:21:59.815161"
+    },
+    {
+      "id": "eaa8d3dfd2a4",
+      "title": "Pedestrian hit in serious traffic collision in Surrey",
+      "description": "The BC Emergency Health Services (BCEHS) transported a woman in critical condition to the hospital after she was hit by a vehicle in Surrey.",
+      "url": "https://vancouver.citynews.ca/2025/11/03/pedestrian-hit-traffic-collision-surrey/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 04:17:21 +0000",
+      "location": "Vancouver",
+      "category": "local",
+      "fetched_at": "2025-11-04T04:22:01.402543"
+    },
+    {
+      "id": "2225ac07ea01",
+      "title": "Border agents seize massive shipment of cocaine and meth at Vancouver airport",
+      "description": "Drugs were found in car parts destined for Australia",
+      "url": "https://vancouversun.com/news/local-news/border-agents-seize-massive-shipment-of-cocaine-and-meth-at-vancouver-airport",
+      "source": "Vancouver Sun",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 04:10:52 +0000",
+      "location": "Vancouver",
+      "category": "local",
+      "fetched_at": "2025-11-04T04:22:00.963071"
+    },
+    {
+      "id": "7aad579d93c6",
+      "title": "Wait, people actually use Facebook Dating?",
+      "description": "Meta said that Facebook Dating has 1.77 million daily active users in the US between ages 18-29.",
+      "url": "https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 04:05:24 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-11-04T04:21:58.409570"
+    },
+    {
+      "id": "f23be970357f",
+      "title": "The 4 ‘red lines’ China warned U.S. not to cross after Trump-Xi trade truce",
+      "description": "Taiwan, democracy and human rights, China’s political system, and development rights are not to be discussed, China's ambassador to the U.S. said in a speech",
+      "url": "https://nationalpost.com/news/world/china-us-red-lines",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 03:55:22 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-11-04T04:21:58.605345"
+    },
+    {
+      "id": "3f8b0b90c87a",
+      "title": "Are British Columbians heading for two more elections this year?",
+      "description": "Voters in the province could line up at the polls yet again this year – potentially even two more times before the new year.",
+      "url": "https://vancouver.citynews.ca/2025/11/03/are-british-columbians-heading-two-more-elections-year/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 03:47:10 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-04T04:22:01.402588"
+    },
+    {
+      "id": "925d5f54d9b2",
+      "title": "South Korean president calls for aggressive AI spending in budget speech",
+      "description": "SEOUL, South Korea (AP) &#8212; South Korean President Lee Jae Myung on Tuesday called for tripling the government spending on projects for expanding artificial intelligence infrastructure and technology in a budget speech. Lee also called for lawmakers to approve a planned 8.2% increase in defense ",
+      "url": "https://financialpost.com/pmn/south-korean-president-calls-for-aggressive-ai-spending-in-budget-speech",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 03:45:42 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-11-04T04:21:58.847497"
+    },
+    {
+      "id": "68aa85795ae2",
+      "title": "Trump’s not going to the Supreme Court hearing on tariffs. But his treasury secretary will be there",
+      "description": "WASHINGTON (AP) &#8212; President Donald Trump won&#8217;t be going in person to the Supreme Court hearing Wednesday that will determine the fate of the tariffs at the heart of his economic and foreign policy &#8212; but his treasury secretary says he will be there. &#8220;I&#8217;m actually going t",
+      "url": "https://financialpost.com/pmn/trumps-not-going-to-the-supreme-court-hearing-on-tariffs-but-his-treasury-secretary-will-be-there",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 03:41:02 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-11-04T04:21:58.847542"
+    },
+    {
+      "id": "2916e1ba7f83",
+      "title": "Canada welcomes China’s decision to re-instate Chinese tour group travel into the country - canada.ca",
+      "description": "Canada welcomes China’s decision to re-instate Chinese tour group travel into the country&nbsp;&nbsp;canada.ca",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQXRlT2RWcnRBeF8ycmFGNl8yUjY4LV9wS2JINi1vUTZoenAxdWtnaHRSQTNWamR0UmVubE9KYjZCaWR6blpxWTg5My1NQ1dsN0ZKZ0tTYWprbVN6b2I2UkgtRUFXeVA2MUx2VGZtUTRyQ0NPenZ0QzBvaVhQcTg3LVFMTVRxd19mRDJRRmxKV2M4d2dLQkwzYW9Eclh0Nnp1REVXN3czYURZWDlfQm5UUlc3RmZ5RHVIM0U4TXNzSUVIMjkzbFF0Rk9PbU1UdmlZSnM0UDFZZ29PMTZ3N2Rv?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 03:22:48 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-11-04T04:22:00.566200"
+    },
+    {
+      "id": "9b1265c6a1b5",
+      "title": "Bloc candidate to appeal one-vote loss in Terrebonne to Supreme Court",
+      "description": "Nathalie Sinclair-Desgagné has hired Julius Grey to lead the appeal, and is fundraising from supporters.",
+      "url": "https://montrealgazette.com/news/canada_news/canadian_politics/bloc-candidate-to-appeal-one-vote-loss-in-terrebonne-to-supreme-court",
+      "source": "Montreal Gazette",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 03:21:35 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-04T04:22:00.982996"
+    },
+    {
+      "id": "5097fc650af2",
+      "title": "Maple Leafs roar back to stun Penguins 4-3",
+      "description": "Bobby McMann scored the winner as the Toronto Maple Leafs roared back from a three-goal deficit in the third period to top the Pittsburgh Penguins 4-3 on Monday.",
+      "url": "https://globalnews.ca/news/11509599/maple-leafs-roar-back-to-stun-penguins-4-3/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/11/27a21fcc139b87158bed90b50a21b69b7cd16f893ce7feabcd0a0c30378cb5ec.jpg?quality=65&strip=all",
+      "published": "Tue, 04 Nov 2025 03:20:51 +0000",
+      "location": "Toronto",
+      "category": "canada",
+      "fetched_at": "2025-11-04T04:21:58.325807"
+    },
+    {
+      "id": "2260e4413648",
+      "title": "‘Making history’: Mamdani to voters on election eve as Trump backs Cuomo",
+      "description": "Supporters say Mamdani on precipice of historic victory in New York City, but some voters say they are still undecided.",
+      "url": "https://www.aljazeera.com/news/2025/11/4/leave-everything-out-there-mamdani-tells-supporters-on-nyc-election-eve?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 03:18:13 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-11-04T04:21:59.709994"
+    },
+    {
+      "id": "51d46643f27b",
+      "title": "US airports hit by major delays from record-breaking government shutdown",
+      "description": "Absences surge among US air traffic controllers, who have been working for more than a month without pay.",
+      "url": "https://www.aljazeera.com/news/2025/11/4/us-airports-hit-by-major-delays-from-record-breaking-government-shutdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 03:13:20 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-11-04T04:21:59.710029"
+    },
+    {
+      "id": "999be14c0027",
+      "title": "Avalanche hits Nepal’s Mount Yalung Ri, killing seven climbers",
+      "description": "Victims include five foreigners and two Nepalis, while four others remain missing, media reports say.",
+      "url": "https://www.aljazeera.com/news/2025/11/4/avalanche-hits-nepals-mount-yalung-ri-killing-seven-climbers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 02:55:07 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-11-04T04:21:59.710060"
     },
     {
       "id": "f9259256f9bf",
@@ -72,7 +228,7 @@
       "published": "Tue, 04 Nov 2025 02:55:01 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085551"
+      "fetched_at": "2025-11-04T04:22:01.726575"
     },
     {
       "id": "8a5bec0d6044",
@@ -84,7 +240,7 @@
       "published": "Tue, 04 Nov 2025 02:55:01 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104078"
+      "fetched_at": "2025-11-04T04:22:02.221877"
     },
     {
       "id": "d0f50e75cfb7",
@@ -96,7 +252,7 @@
       "published": "Tue, 04 Nov 2025 02:48:45 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926618"
+      "fetched_at": "2025-11-04T04:22:00.734805"
     },
     {
       "id": "67e60b1fcf37",
@@ -108,7 +264,7 @@
       "published": "Tue, 04 Nov 2025 02:36:17 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303054"
+      "fetched_at": "2025-11-04T04:21:58.847579"
     },
     {
       "id": "cccdeff1bd0f",
@@ -120,7 +276,7 @@
       "published": "Tue, 04 Nov 2025 02:33:14 +0000",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303097"
+      "fetched_at": "2025-11-04T04:21:58.847616"
     },
     {
       "id": "d5b239226e77",
@@ -132,7 +288,7 @@
       "published": "Tue, 04 Nov 2025 02:22:56 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303129"
+      "fetched_at": "2025-11-04T04:21:58.847646"
     },
     {
       "id": "eba103ae9cc9",
@@ -144,19 +300,19 @@
       "published": "Tue, 04 Nov 2025 02:21:26 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049487"
+      "fetched_at": "2025-11-04T04:22:01.331913"
     },
     {
       "id": "12d6018e4faa",
       "title": "Peru severs diplomatic relations with Mexico after former prime minister claims asylum - The Guardian",
-      "description": "Peru severs diplomatic relations with Mexico after former prime minister claims asylum&nbsp;&nbsp;The GuardianPeru breaks off diplomatic relations with Mexico after ex-PM flees to Mexican embassy&nbsp;&nbsp;ReutersPeru cuts ties with Mexico over asylum for ex-prime minister&nbsp;&nbsp;Al JazeeraPeru",
+      "description": "Peru severs diplomatic relations with Mexico after former prime minister claims asylum&nbsp;&nbsp;The GuardianPeru-Mexico: Lima cuts off diplomatic ties with Mexico over ex-PM's asylum&nbsp;&nbsp;BBCPeru Severs Ties With Mexico as Political Standoff Deepens&nbsp;&nbsp;Bloomberg.comPeru cuts ties wit",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUNUc3pKRERkbm9sdmlxMmhTSnNJVG51d0VfamhuNU03NDczWExHaFpDR1JSQUtJUzRBM1ZVT1R3QUp4SkV4MjdsQkpPZ1o5UW83dlNhWjU0Z1duYldJWkQ0TE1KblVWSkxCYjhpaWJBcllRMk52YWpIdjNndktiVXFQWUNtaG5sZFBCS2RCSENaeXpQdWg5cGl2WUx5bVBDUF9LY1BsZS1HcE84Q2tqUFdnSTlpMXBXOHcxbUF3?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 04 Nov 2025 02:16:07 GMT",
-      "location": "Toronto",
+      "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:41.935080"
+      "fetched_at": "2025-11-04T04:22:00.361462"
     },
     {
       "id": "4c74835042c0",
@@ -168,7 +324,7 @@
       "published": "Tue, 04 Nov 2025 02:15:22 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988800"
+      "fetched_at": "2025-11-04T04:21:59.978178"
     },
     {
       "id": "54fc7783fc02",
@@ -180,7 +336,7 @@
       "published": "Tue, 04 Nov 2025 02:06:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313371"
+      "fetched_at": "2025-11-04T04:22:00.963107"
     },
     {
       "id": "3252cf4eb4af",
@@ -192,7 +348,19 @@
       "published": "Tue, 04 Nov 2025 02:05:48 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303166"
+      "fetched_at": "2025-11-04T04:21:58.847680"
+    },
+    {
+      "id": "9ae3661b5100",
+      "title": "G2 or not G2: Trump’s new favorite term for US-China relations carries a lot of history’s baggage",
+      "description": "WASHINGTON (AP) — In diplomacy, even short words matter. And with a brief Truth Social post, President Donald Trump may have revealed his approach to the U.S.-China relationship — to the delight of reputation-conscious Beijing but to the worries of U.S. allies concerned with China&#8217;s ascending ",
+      "url": "https://toronto.citynews.ca/2025/11/03/g2-or-not-g2-trumps-new-favorite-term-for-us-china-relations-carries-a-lot-of-historys-baggage/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 02:01:33 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-04T04:22:00.734868"
     },
     {
       "id": "3b3faa0e8b8e",
@@ -204,7 +372,7 @@
       "published": "Tue, 04 Nov 2025 01:59:28 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.035798"
+      "fetched_at": "2025-11-04T04:21:59.710091"
     },
     {
       "id": "681d2b128f78",
@@ -216,7 +384,7 @@
       "published": "Tue, 04 Nov 2025 01:52:43 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313406"
+      "fetched_at": "2025-11-04T04:22:00.963141"
     },
     {
       "id": "3f8e428bd5f8",
@@ -228,7 +396,7 @@
       "published": "Tue, 04 Nov 2025 01:50:49 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085594"
+      "fetched_at": "2025-11-04T04:22:01.726620"
     },
     {
       "id": "d3bf6a8cfd6e",
@@ -240,7 +408,7 @@
       "published": "Tue, 04 Nov 2025 01:50:19 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.026953"
+      "fetched_at": "2025-11-04T04:21:58.830924"
     },
     {
       "id": "35290ace5209",
@@ -252,7 +420,7 @@
       "published": "Tue, 04 Nov 2025 01:49:03 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926650"
+      "fetched_at": "2025-11-04T04:22:00.734897"
     },
     {
       "id": "737f967c3520",
@@ -264,7 +432,7 @@
       "published": "Tue, 04 Nov 2025 01:48:06 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.026974"
+      "fetched_at": "2025-11-04T04:21:58.830944"
     },
     {
       "id": "79e81a1b3fc3",
@@ -276,7 +444,7 @@
       "published": "Tue, 04 Nov 2025 01:37:25 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.035848"
+      "fetched_at": "2025-11-04T04:21:59.710122"
     },
     {
       "id": "edce848f8c0e",
@@ -288,7 +456,7 @@
       "published": "Tue, 04 Nov 2025 01:32:11 +0000",
       "location": "Calgary",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303203"
+      "fetched_at": "2025-11-04T04:21:58.847715"
     },
     {
       "id": "6d518bbc0a2a",
@@ -300,7 +468,7 @@
       "published": "Tue, 04 Nov 2025 01:26:45 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303236"
+      "fetched_at": "2025-11-04T04:21:58.847747"
     },
     {
       "id": "0bd54d62af63",
@@ -312,7 +480,7 @@
       "published": "Tue, 04 Nov 2025 01:16:51 GMT",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:41.935313"
+      "fetched_at": "2025-11-04T04:22:00.361668"
     },
     {
       "id": "e57aa27e2ed8",
@@ -324,7 +492,19 @@
       "published": "Tue, 04 Nov 2025 01:14:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.996966"
+      "fetched_at": "2025-11-04T04:21:59.764363"
+    },
+    {
+      "id": "7b5ca364cfc5",
+      "title": "Local business has ‘lost confidence’ in Canada Post amid rotating strikes, switching - CTV News",
+      "description": "Local business has ‘lost confidence’ in Canada Post amid rotating strikes, switching&nbsp;&nbsp;CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckNXN2hjZVFXOEV4MTNIdkY3eGtKZHFrcUcyYlJsUlNCOVp5ejI2dGV2STlxdURUYWRHUTA4ZDF4d3pQbV9kTU9fNnZKQ1oyZlNfd3l6eG1NQURtQWNFUlVyQmJReHFMSFFYMHNIeXpVRE9VeGRqbEU2Y05mQmlDMU5MZThXdmxyNDRfWlBBN0htUlNFUjRVOThHbWVUbUJDNWNlNWduNFhTNnZuS3JkaEthX0RLYXcxekVXNVEtQQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 01:12:00 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-11-04T04:22:00.566160"
     },
     {
       "id": "b5cce8668ee7",
@@ -336,7 +516,7 @@
       "published": "Tue, 04 Nov 2025 01:10:23 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104125"
+      "fetched_at": "2025-11-04T04:22:02.221927"
     },
     {
       "id": "dcec1ee2163b",
@@ -348,7 +528,7 @@
       "published": "Tue, 04 Nov 2025 01:09:38 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458602"
+      "fetched_at": "2025-11-04T04:22:00.983051"
     },
     {
       "id": "92ed8df7a58b",
@@ -360,7 +540,7 @@
       "published": "Tue, 04 Nov 2025 01:07:42 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085626"
+      "fetched_at": "2025-11-04T04:22:01.726652"
     },
     {
       "id": "bcdd4fb486aa",
@@ -372,7 +552,7 @@
       "published": "Tue, 04 Nov 2025 01:06:08 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.670840"
+      "fetched_at": "2025-11-04T04:22:01.402616"
     },
     {
       "id": "7aab05163631",
@@ -384,7 +564,7 @@
       "published": "Tue, 04 Nov 2025 01:05:40 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-11-04T03:09:40.999098"
+      "fetched_at": "2025-11-04T04:21:59.856741"
     },
     {
       "id": "d3699c27f738",
@@ -396,7 +576,7 @@
       "published": "Tue, 04 Nov 2025 01:04:52 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303294"
+      "fetched_at": "2025-11-04T04:21:58.847783"
     },
     {
       "id": "34f68ff6aac3",
@@ -408,7 +588,7 @@
       "published": "Tue, 04 Nov 2025 01:00:34 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.503750"
+      "fetched_at": "2025-11-04T04:22:01.222052"
     },
     {
       "id": "9fd7e62f5806",
@@ -420,7 +600,7 @@
       "published": "Tue, 04 Nov 2025 01:00:22 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920658"
+      "fetched_at": "2025-11-04T04:21:58.325844"
     },
     {
       "id": "b23c633def84",
@@ -432,7 +612,7 @@
       "published": "Tue, 04 Nov 2025 00:52:30 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313435"
+      "fetched_at": "2025-11-04T04:22:00.963170"
     },
     {
       "id": "1a222ce263cc",
@@ -444,7 +624,7 @@
       "published": "Tue, 04 Nov 2025 00:48:03 +0000",
       "location": "Calgary",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920681"
+      "fetched_at": "2025-11-04T04:21:58.325867"
     },
     {
       "id": "5ddcf275cabc",
@@ -456,7 +636,7 @@
       "published": "Tue, 04 Nov 2025 00:44:16 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920704"
+      "fetched_at": "2025-11-04T04:21:58.325891"
     },
     {
       "id": "88549ec46a82",
@@ -468,7 +648,7 @@
       "published": "Tue, 04 Nov 2025 00:37:47 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.670874"
+      "fetched_at": "2025-11-04T04:22:01.402645"
     },
     {
       "id": "a43cd400791c",
@@ -480,7 +660,7 @@
       "published": "Tue, 04 Nov 2025 00:36:37 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.670904"
+      "fetched_at": "2025-11-04T04:22:01.402675"
     },
     {
       "id": "d724570e9c37",
@@ -492,7 +672,7 @@
       "published": "Tue, 04 Nov 2025 00:36:18 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.035889"
+      "fetched_at": "2025-11-04T04:21:59.710149"
     },
     {
       "id": "83651c04d61e",
@@ -504,7 +684,7 @@
       "published": "Tue, 04 Nov 2025 00:30:19 +0000",
       "location": "Calgary",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920727"
+      "fetched_at": "2025-11-04T04:21:58.325917"
     },
     {
       "id": "34c97d38d167",
@@ -516,7 +696,19 @@
       "published": "Tue, 04 Nov 2025 00:29:17 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085663"
+      "fetched_at": "2025-11-04T04:22:01.726690"
+    },
+    {
+      "id": "92ed8fe86629",
+      "title": "Blue Jays Announce John Schneider News After World Series Loss Against Dodgers - Athlon Sports",
+      "description": "Blue Jays Announce John Schneider News After World Series Loss Against Dodgers&nbsp;&nbsp;Athlon SportsView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUVIc3lkV3dxYXcwdExFMkplYUZoLXpNU2hPM2lzNHllWnR5NmZaMzhvcUotTDRxQlhWSzZEcDR5RzI3eEV4VTljQXF6WUF6eVhpWm44WGk1RmE0VHlNVkJWT1BTbHpCVHkzMjVpdXpxZEpwSlpZSjhqanktQkptM0JlU0Y3UWFBWVR5SUxnVHlfbjFJYmIyZzE5aHQwSjBnRU1xNlB3T2htTGlpOWpHREFGS1k1bGVqWlN5c00yVzA?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 00:28:00 GMT",
+      "location": "World",
+      "category": "sports",
+      "fetched_at": "2025-11-04T04:22:00.675049"
     },
     {
       "id": "9c4c3fccf0f0",
@@ -528,7 +720,7 @@
       "published": "Tue, 04 Nov 2025 00:24:47 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303335"
+      "fetched_at": "2025-11-04T04:21:58.847822"
     },
     {
       "id": "04d5dbebaa4a",
@@ -540,19 +732,7 @@
       "published": "Tue, 04 Nov 2025 00:21:54 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104184"
-    },
-    {
-      "id": "e5aaa91c230a",
-      "title": "Reeves Faces Smaller-Than-Expected Fiscal Hole, Think Tank Says",
-      "description": "The budget hole UK Chancellor of the Exchequer Rachel Reeves has to fill will be smaller than widely feared because unexpectedly strong pay growth has offset an anticipated productivity downgrade, according to the Resolution Foundation.",
-      "url": "https://financialpost.com/pmn/business-pmn/reeves-faces-smaller-than-expected-fiscal-hole-think-tank-says",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 04 Nov 2025 00:21:04 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303364"
+      "fetched_at": "2025-11-04T04:22:02.221987"
     },
     {
       "id": "1305694b75ff",
@@ -564,7 +744,7 @@
       "published": "Tue, 04 Nov 2025 00:16:24 +0000",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920744"
+      "fetched_at": "2025-11-04T04:21:58.325935"
     },
     {
       "id": "2c6bd3702b23",
@@ -576,7 +756,7 @@
       "published": "Tue, 04 Nov 2025 00:16:14 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920767"
+      "fetched_at": "2025-11-04T04:21:58.325959"
     },
     {
       "id": "5983ffeeb339",
@@ -588,19 +768,19 @@
       "published": "Tue, 04 Nov 2025 00:11:00 GMT",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:41.259099"
+      "fetched_at": "2025-11-04T04:22:00.233019"
     },
     {
       "id": "d3fbea86506b",
       "title": "Almost half of Canada watches Game 7 of World Series - Sportsnet.ca",
-      "description": "Almost half of Canada watches Game 7 of World Series&nbsp;&nbsp;Sportsnet.caWorld Series Game 7 is Most-Watched Rogers Broadcast Ever&nbsp;&nbsp;About RogersWho watched World Series Game 7? Nearly half of Canada and more than 25 million in USA&nbsp;&nbsp;USA TodayDodgers-Blue Jays Game 7 draws highe",
+      "description": "Almost half of Canada watches Game 7 of World Series&nbsp;&nbsp;Sportsnet.caBlue Jays-Dodgers Game 7 was Rogers' most-watched broadcast ever&nbsp;&nbsp;CBCWorld Series Game 7 is Most-Watched Rogers Broadcast Ever&nbsp;&nbsp;About RogersDodgers-Blue Jays Game 7 draws highest World Series ratings sinc",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWk1mcUhKX1JxaW95a0xtZFRVcktwMGVZUkhZOTBNQ3FZU25yRy1OZmlEZmsyMHdnMVR1d0N0cms3UlV0VEhNVGpPVVFYSlZmOUJKWlZ6alczWU1hU0ttSWhCUkRGT1Z4d3hBejBzWjhYQjB6bVBNNGM3SloyYUVuWTBYTzFva3BRTmZPQS0weW1QOEh6R3VEYUgzbVY?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 04 Nov 2025 00:08:00 GMT",
       "location": "Toronto",
       "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584290"
+      "fetched_at": "2025-11-04T04:22:00.674553"
     },
     {
       "id": "786c69f436ce",
@@ -612,7 +792,7 @@
       "published": "Tue, 04 Nov 2025 00:07:31 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.583912"
+      "fetched_at": "2025-11-04T04:21:58.409610"
     },
     {
       "id": "2955f6eb45c6",
@@ -624,19 +804,43 @@
       "published": "Tue, 04 Nov 2025 00:07:16 +0000",
       "location": "Edmonton",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920787"
+      "fetched_at": "2025-11-04T04:21:58.325978"
+    },
+    {
+      "id": "4ab508a13e0a",
+      "title": "Buckingham Palace will stage the largest-ever display of Queen Elizabeth II’s fashion next year",
+      "description": "LONDON (AP) — The largest-ever exhibition of the late Queen Elizabeth II&#8217;s fashion, including the opulent gowns she wore for her wedding and coronation, will go on display at Buckingham Palace next year to mark the centenary of her birth, officials said Tuesday. The landmark royal exhibition w",
+      "url": "https://toronto.citynews.ca/2025/11/03/buckingham-palace-will-stage-the-largest-ever-display-of-queen-elizabeth-iis-fashion-next-year/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 04 Nov 2025 00:05:50 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-11-04T04:22:00.734943"
     },
     {
       "id": "550e02ec68cf",
       "title": "Trump threatens to cut funds if ‘communist’ Mamdani wins mayoral election - The Guardian",
-      "description": "Trump threatens to cut funds if ‘communist’ Mamdani wins mayoral election&nbsp;&nbsp;The GuardianTrump endorses Andrew Cuomo over Mamdani for New York City mayor&nbsp;&nbsp;BBCNYC Mayoral Race Live Updates: Trump Endorses Cuomo as Mamdani Leads Polls&nbsp;&nbsp;The New York TimesDonald Trump Insiste",
+      "description": "Trump threatens to cut funds if ‘communist’ Mamdani wins mayoral election&nbsp;&nbsp;The GuardianTrump endorses Andrew Cuomo over Mamdani for New York City mayor&nbsp;&nbsp;BBCThe Source with Kaitlan Collins&nbsp;&nbsp;CNNDonald Trump Insisted That He's \"Better-Looking\" Than Zohran Mamdani, And Mamd",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0FWS05tSGNTOWdvTUthZldGTTNKSXJsUS1wTkNnTW5vY1lfZTJjTWRYSW9hcWV0b1M4Ml9XVUdsTWdGQjZOX2lMd3ZTeTBiWFdWb0s2SWRzRXhnVEFHWDZCTzN3OHY5RTY5OTZtUkhQQmMwSFBjTGtmMWM3eWEwUC01X0FVRTVXemh6dzdlT1JFcHltcEE?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 04 Nov 2025 00:01:00 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:41.935471"
+      "fetched_at": "2025-11-04T04:22:00.361889"
+    },
+    {
+      "id": "813c727ae935",
+      "title": "WATCH: Global News Hour at 6 BC: Nov. 3",
+      "description": "Watch the online edition of Global News Hour at 6 BC.",
+      "url": "https://globalnews.ca/news/1149299/watch-news-hour/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/10/GLOBALNEWS_BC-show-thumbnail-NEW.jpg?quality=65&strip=all",
+      "published": "Tue, 04 Nov 2025 00:00:41 +0000",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2025-11-04T04:21:58.325992"
     },
     {
       "id": "3b0b70a9b2e0",
@@ -648,7 +852,7 @@
       "published": "Tue, 04 Nov 2025 00:00:25 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458637"
+      "fetched_at": "2025-11-04T04:22:00.983109"
     },
     {
       "id": "9c8565d5b988",
@@ -660,7 +864,7 @@
       "published": "Thu, 30 Oct 2025 11:00:25 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.444458"
+      "fetched_at": "2025-11-04T04:22:01.280034"
     },
     {
       "id": "a2b7282df523",
@@ -672,7 +876,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.313407"
+      "fetched_at": "2025-11-04T04:21:59.815183"
     },
     {
       "id": "a3777a8bac7b",
@@ -684,7 +888,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.313286"
+      "fetched_at": "2025-11-04T04:21:59.815064"
     },
     {
       "id": "48332101e695",
@@ -696,19 +900,7 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.313348"
-    },
-    {
-      "id": "9e1498e29d0f",
-      "title": "Jannik Sinner posts first message on social media since winning the Paris Masters title - Tennishead",
-      "description": "Jannik Sinner posts first message on social media since winning the Paris Masters title&nbsp;&nbsp;TennisheadAuger-Aliassime loses Paris Masters final to Sinner, who reclaims No. 1 ranking&nbsp;&nbsp;CBCSinner claws closer to Alcaraz in Big Titles chase with Paris triumph&nbsp;&nbsp;ATP TourMontreal",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNW1xbDgzQXlRUjc5bU1iZEY5T05TYml1eF9QcjFhQ3NjWllJMEo2N3M2bjR6Z1BFM1dPSFhSQldzV1hLTHR0MktjcThUUWhaNExoRTBpZXFrY0N5R1lKNUgwbVdvYTItRXpDVUI3UkZrcElOV2VYZGhLT19PcHRhc0s2ZWIweC1xNjlBWE1IVFZqdHd0OU9GdGJuX1ZWRjd6Y0Vjb2xZam04dkxveFY1Qw?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Sun, 02 Nov 2025 23:00:00 GMT",
-      "location": "Vancouver",
-      "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584357"
+      "fetched_at": "2025-11-04T04:21:59.815128"
     },
     {
       "id": "f70efb9e0a10",
@@ -720,19 +912,7 @@
       "published": "Sun, 02 Nov 2025 22:47:06 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988939"
-    },
-    {
-      "id": "f09a0c4eb95e",
-      "title": "Scientists stunned as island spider loses half its genome",
-      "description": "On the Canary Islands, scientists discovered that the spider Dysdera tilosensis has halved its genome size in just a few million years—defying traditional evolutionary theories that predict larger, more repetitive genomes in island species. This unexpected downsizing, revealed through advanced genom",
-      "url": "https://www.sciencedaily.com/releases/2025/11/251102205006.htm",
-      "source": "Science Daily",
-      "image": "",
-      "published": "Sun, 02 Nov 2025 21:48:10 EST",
-      "location": "World",
-      "category": "science",
-      "fetched_at": "2025-11-04T03:09:40.801501"
+      "fetched_at": "2025-11-04T04:21:59.978319"
     },
     {
       "id": "ea20fb5efe4d",
@@ -744,7 +924,7 @@
       "published": "Sun, 02 Nov 2025 16:49:50 GMT",
       "location": "Montreal",
       "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584664"
+      "fetched_at": "2025-11-04T04:22:00.674842"
     },
     {
       "id": "c489f9ba14e9",
@@ -756,7 +936,7 @@
       "published": "Sun, 02 Nov 2025 14:24:25 +0000",
       "location": "Ottawa",
       "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.415228"
+      "fetched_at": "2025-11-04T04:21:58.720811"
     },
     {
       "id": "6f3f331aca66",
@@ -768,7 +948,7 @@
       "published": "Sun, 02 Nov 2025 12:00:03 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988662"
+      "fetched_at": "2025-11-04T04:21:59.978042"
     },
     {
       "id": "f6e79fd9bfb1",
@@ -780,7 +960,7 @@
       "published": "Sun, 02 Nov 2025 12:00:01 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.444318"
+      "fetched_at": "2025-11-04T04:22:01.279893"
     },
     {
       "id": "e0a36630d637",
@@ -792,7 +972,7 @@
       "published": "Sun, 02 Nov 2025 12:00:00 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584726"
+      "fetched_at": "2025-11-04T04:22:00.674899"
     },
     {
       "id": "7ee4351a2d40",
@@ -804,7 +984,7 @@
       "published": "Sat, 01 Nov 2025 14:00:35 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988705"
+      "fetched_at": "2025-11-04T04:21:59.978085"
     },
     {
       "id": "16aadca1549a",
@@ -816,7 +996,7 @@
       "published": "Sat, 01 Nov 2025 12:00:14 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.415207"
+      "fetched_at": "2025-11-04T04:21:58.720790"
     },
     {
       "id": "7daf9dc2ee50",
@@ -828,7 +1008,7 @@
       "published": "Sat, 01 Nov 2025 11:31:02 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988988"
+      "fetched_at": "2025-11-04T04:21:59.978368"
     },
     {
       "id": "0e8fab8d8142",
@@ -840,7 +1020,7 @@
       "published": "Sat, 01 Nov 2025 11:00:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.444358"
+      "fetched_at": "2025-11-04T04:22:01.279934"
     },
     {
       "id": "608b53666f84",
@@ -852,7 +1032,7 @@
       "published": "Sat, 01 Nov 2025 11:00:35 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.444388"
+      "fetched_at": "2025-11-04T04:22:01.279964"
     },
     {
       "id": "35df4b24ce57",
@@ -864,7 +1044,7 @@
       "published": "Sat, 01 Nov 2025 07:00:32 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988749"
+      "fetched_at": "2025-11-04T04:21:59.978128"
     },
     {
       "id": "885f53fc750a",
@@ -876,7 +1056,7 @@
       "published": "Mon, 27 Oct 2025 11:00:14 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.444596"
+      "fetched_at": "2025-11-04T04:22:01.280171"
     },
     {
       "id": "b650d7229c46",
@@ -888,7 +1068,7 @@
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.313308"
+      "fetched_at": "2025-11-04T04:21:59.815086"
     },
     {
       "id": "0e213209eb89",
@@ -900,7 +1080,7 @@
       "published": "Mon, 03 Nov 2025 23:47:20 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:41.779297"
+      "fetched_at": "2025-11-04T04:22:00.566303"
     },
     {
       "id": "f9f327c46f00",
@@ -912,7 +1092,7 @@
       "published": "Mon, 03 Nov 2025 23:46:47 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.746058"
+      "fetched_at": "2025-11-04T04:22:01.521657"
     },
     {
       "id": "b27915b3f37f",
@@ -924,7 +1104,7 @@
       "published": "Mon, 03 Nov 2025 23:43:36 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.026996"
+      "fetched_at": "2025-11-04T04:21:58.830968"
     },
     {
       "id": "2977d797fe3b",
@@ -936,19 +1116,7 @@
       "published": "Mon, 03 Nov 2025 23:43:18 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926683"
-    },
-    {
-      "id": "ba44181c75b2",
-      "title": "South Korea’s Price Spike May Prompt BOK to Extend Easing Pause",
-      "description": "South Korea’s consumer inflation quickened in October as a weaker won lifted energy and food costs, reinforcing the case for the central bank to extend the pause in its monetary easing cycle as it seeks to cool a housing market rally.",
-      "url": "https://financialpost.com/pmn/business-pmn/south-koreas-inflation-picks-up-backing-case-for-bok-rate-hold",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 23:40:22 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.303397"
+      "fetched_at": "2025-11-04T04:22:00.734975"
     },
     {
       "id": "b8efa72be056",
@@ -960,7 +1128,7 @@
       "published": "Mon, 03 Nov 2025 23:40:05 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.670931"
+      "fetched_at": "2025-11-04T04:22:01.402702"
     },
     {
       "id": "452f8fe4ae8f",
@@ -972,7 +1140,7 @@
       "published": "Mon, 03 Nov 2025 23:37:54 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085692"
+      "fetched_at": "2025-11-04T04:22:01.726721"
     },
     {
       "id": "8710ac8984d7",
@@ -984,7 +1152,7 @@
       "published": "Mon, 03 Nov 2025 23:37:49 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.746098"
+      "fetched_at": "2025-11-04T04:22:01.521699"
     },
     {
       "id": "e19afabb47c0",
@@ -996,7 +1164,7 @@
       "published": "Mon, 03 Nov 2025 23:37:17 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-11-04T03:09:40.999138"
+      "fetched_at": "2025-11-04T04:21:59.856782"
     },
     {
       "id": "b1e818b52ed3",
@@ -1008,7 +1176,19 @@
       "published": "Mon, 03 Nov 2025 23:34:21 +0000",
       "location": "Ottawa",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920806"
+      "fetched_at": "2025-11-04T04:21:58.326011"
+    },
+    {
+      "id": "44b9cdd9967d",
+      "title": "Questrade gets approval to launch new bank in Canada - The Globe and Mail",
+      "description": "Questrade gets approval to launch new bank in Canada&nbsp;&nbsp;The Globe and MailView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1FIa0pmemIweVZzUnVHVnh0a3g5ME4xZmdqSl8xci1rUi1vVllHek00djRZVTdfYmxkbUttZTA0TTNJRXEzamt0eWxrTkg4aE5Gb283dlJQOUJaMzNtNWE0T1FQU0RKTWlvblJxVzRma2d6Nk9TaTVJOGJZRXpZZTROX2hYS0UzTFpUR2Nta3cwN01pc09IajV2QUxRNFpvam5EbVVzSWhJOTA?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 03 Nov 2025 23:31:52 GMT",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2025-11-04T04:22:00.232981"
     },
     {
       "id": "e71f0a9581e1",
@@ -1020,7 +1200,7 @@
       "published": "Mon, 03 Nov 2025 23:31:52 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.027015"
+      "fetched_at": "2025-11-04T04:21:58.830987"
     },
     {
       "id": "1c11a832660b",
@@ -1032,7 +1212,7 @@
       "published": "Mon, 03 Nov 2025 23:26:04 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.027037"
+      "fetched_at": "2025-11-04T04:21:58.831010"
     },
     {
       "id": "02bf924b6c5e",
@@ -1044,7 +1224,7 @@
       "published": "Mon, 03 Nov 2025 23:25:19 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.035928"
+      "fetched_at": "2025-11-04T04:21:59.710176"
     },
     {
       "id": "b127ea9126e2",
@@ -1056,7 +1236,7 @@
       "published": "Mon, 03 Nov 2025 23:23:32 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313462"
+      "fetched_at": "2025-11-04T04:22:00.963197"
     },
     {
       "id": "56b3e9b41401",
@@ -1068,19 +1248,19 @@
       "published": "Mon, 03 Nov 2025 23:19:55 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313485"
+      "fetched_at": "2025-11-04T04:22:00.963223"
     },
     {
       "id": "3f0bdc961e23",
       "title": "Questrade secures approval to launch a bank in Canada - CBC",
-      "description": "Questrade secures approval to launch a bank in Canada&nbsp;&nbsp;CBCView Full Coverage on Google News",
+      "description": "Questrade secures approval to launch a bank in Canada&nbsp;&nbsp;CBC",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HSXo5V0xFTkdMOHNnakRxRVVmLUlwd1h3QVZCWnktNjdIR3FDYy1fWHdGcTM0Y1A3a0swWkZheWx0dVN1aldyN1pUeU00SnFOVXpQZGo4MmRfSFNMSzJuVnFma0dKZVFZNTV3YjZ4VDV3eThL?oc=5",
-      "source": "Google News Business",
+      "source": "Google News Canada",
       "image": "",
       "published": "Mon, 03 Nov 2025 23:19:17 GMT",
       "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2025-11-04T03:09:41.258836"
+      "category": "canada",
+      "fetched_at": "2025-11-04T04:22:00.566112"
     },
     {
       "id": "d9635b626ec1",
@@ -1092,7 +1272,7 @@
       "published": "Mon, 03 Nov 2025 23:13:50 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.583964"
+      "fetched_at": "2025-11-04T04:21:58.409650"
     },
     {
       "id": "d17c559402a7",
@@ -1104,7 +1284,7 @@
       "published": "Mon, 03 Nov 2025 23:12:56 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926709"
+      "fetched_at": "2025-11-04T04:22:00.735001"
     },
     {
       "id": "202b8fd5afbd",
@@ -1116,19 +1296,7 @@
       "published": "Mon, 03 Nov 2025 22:53:50 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.583999"
-    },
-    {
-      "id": "cadeba97202c",
-      "title": "Police in 2 B.C. communities warn of sewing needles in Halloween candy",
-      "description": "Police agencies in Delta and Prince George are warning about possible Halloween candy tampering after receiving multiple reports from concerned parents.",
-      "url": "https://globalnews.ca/news/11509161/police-bc-warn-possible-halloween-candy-sewing-needles/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/11/Delta-candy.jpg?quality=65&strip=all",
-      "published": "Mon, 03 Nov 2025 22:49:39 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920825"
+      "fetched_at": "2025-11-04T04:21:58.409682"
     },
     {
       "id": "b4fe25846511",
@@ -1140,7 +1308,19 @@
       "published": "Mon, 03 Nov 2025 22:49:38 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049544"
+      "fetched_at": "2025-11-04T04:22:01.331970"
+    },
+    {
+      "id": "5406ced26ec0",
+      "title": "Scientists find mind trick that unlocks lost memories",
+      "description": "Researchers found that embodying a digital, childlike version of one’s own face helps unlock vivid childhood memories. This illusion strengthens the connection between bodily self-perception and autobiographical recall. The findings suggest that memory retrieval is not purely mental but deeply linke",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251103093016.htm",
+      "source": "Science Daily",
+      "image": "",
+      "published": "Mon, 03 Nov 2025 22:44:15 EST",
+      "location": "World",
+      "category": "science",
+      "fetched_at": "2025-11-04T04:21:59.071143"
     },
     {
       "id": "53a5f217dc48",
@@ -1152,7 +1332,7 @@
       "published": "Mon, 03 Nov 2025 22:43:03 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.584026"
+      "fetched_at": "2025-11-04T04:21:58.409709"
     },
     {
       "id": "abde7fb7dd3d",
@@ -1164,7 +1344,7 @@
       "published": "Mon, 03 Nov 2025 22:39:22 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.035967"
+      "fetched_at": "2025-11-04T04:21:59.710203"
     },
     {
       "id": "ea3bd2ecb223",
@@ -1176,7 +1356,7 @@
       "published": "Mon, 03 Nov 2025 22:37:51 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.584054"
+      "fetched_at": "2025-11-04T04:21:58.409737"
     },
     {
       "id": "ce5955fa9f2b",
@@ -1188,7 +1368,7 @@
       "published": "Mon, 03 Nov 2025 22:36:09 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.584084"
+      "fetched_at": "2025-11-04T04:21:58.409769"
     },
     {
       "id": "4bfb2cd7a88e",
@@ -1200,7 +1380,7 @@
       "published": "Mon, 03 Nov 2025 22:35:50 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.670959"
+      "fetched_at": "2025-11-04T04:22:01.402730"
     },
     {
       "id": "59e876500db7",
@@ -1212,19 +1392,7 @@
       "published": "Mon, 03 Nov 2025 22:34:07 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926734"
-    },
-    {
-      "id": "d39581c1ae7d",
-      "title": "Toronto woman who took dangerous dog to playground where it mauled child facing prison",
-      "description": "Patrycja Siarek pleaded guilty in March to criminal negligence causing bodily harm and two provincial offences act violations and could face a three-year prison sentence.",
-      "url": "https://globalnews.ca/news/11509030/toronto-woman-who-took-dangerous-dog-to-playground-where-it-mauled-child-facing-prison/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/11/SIAREK2.jpg?quality=65&strip=all",
-      "published": "Mon, 03 Nov 2025 22:33:13 +0000",
-      "location": "Toronto",
-      "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.920839"
+      "fetched_at": "2025-11-04T04:22:00.735025"
     },
     {
       "id": "eb645786b05a",
@@ -1236,7 +1404,7 @@
       "published": "Mon, 03 Nov 2025 22:29:14 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.996879"
+      "fetched_at": "2025-11-04T04:21:59.764269"
     },
     {
       "id": "8dc256573069",
@@ -1248,7 +1416,19 @@
       "published": "Mon, 03 Nov 2025 22:26:28 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:40.705015"
+      "fetched_at": "2025-11-04T04:21:59.936188"
+    },
+    {
+      "id": "6ab8c17f1afe",
+      "title": "Scientists in Japan create a new wine grape with a wild twist",
+      "description": "Okayama scientists have crafted a new wine grape, Muscat Shiragai, merging the wild Shiraga and Muscat of Alexandria. The variety is part of a larger collaboration between academia, industry, and local government to boost regional identity through wine. Early tastings revealed a sweet, smooth flavor",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251103093014.htm",
+      "source": "Science Daily",
+      "image": "",
+      "published": "Mon, 03 Nov 2025 22:25:06 EST",
+      "location": "World",
+      "category": "science",
+      "fetched_at": "2025-11-04T04:21:59.071184"
     },
     {
       "id": "87ab753d136a",
@@ -1260,19 +1440,7 @@
       "published": "Mon, 03 Nov 2025 22:21:17 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:41.935209"
-    },
-    {
-      "id": "32cea2d7ff56",
-      "title": "Leases for 25 former Hudson’s Bay stores will be handed back to landlords - The Globe and Mail",
-      "description": "Leases for 25 former Hudson’s Bay stores will be handed back to landlords&nbsp;&nbsp;The Globe and MailHudson's Bay will give properties back to landlords after B.C. billionaire Ruby Liu lost bid&nbsp;&nbsp;CBCHudson’s Bay landlords to get back properties B.C. billionaire wanted: retailer&nbsp;&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHZWMnozTlZlWmtyQWIzRlZCYWFtZzNnb2dacmVRTWljaWRvUzZjNkI5VUUxU1NUY043enE3RTcydnUtMTZsdVNVV3FQWGdCaVpmWXh1RzFTbnZoN1JCWWpnWUlJZldBVkhYV080Q0p4TGxVWXlfU0owbTRNdDJrTVBVV0VOQ3E3OUlVemQyRjhtNUF4UTV2NjdZMTd3Zmd2bUNiNXln?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 22:14:00 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2025-11-04T03:09:41.259300"
+      "fetched_at": "2025-11-04T04:22:00.361599"
     },
     {
       "id": "a72df4d52b50",
@@ -1284,7 +1452,7 @@
       "published": "Mon, 03 Nov 2025 22:11:35 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.997006"
+      "fetched_at": "2025-11-04T04:21:59.764428"
     },
     {
       "id": "9b80ad592555",
@@ -1296,7 +1464,7 @@
       "published": "Mon, 03 Nov 2025 22:09:30 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.036007"
+      "fetched_at": "2025-11-04T04:21:59.710228"
     },
     {
       "id": "c8c7387a8811",
@@ -1308,7 +1476,7 @@
       "published": "Mon, 03 Nov 2025 22:09:15 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458663"
+      "fetched_at": "2025-11-04T04:22:00.983154"
     },
     {
       "id": "170f4d474593",
@@ -1320,7 +1488,19 @@
       "published": "Mon, 03 Nov 2025 22:08:47 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.958825"
+      "fetched_at": "2025-11-04T04:21:58.605398"
+    },
+    {
+      "id": "9a9c6192dde1",
+      "title": "Carney government’s first budget should signal end to crippling ‘climate’ policies - Fraser Institute",
+      "description": "Carney government’s first budget should signal end to crippling ‘climate’ policies&nbsp;&nbsp;Fraser Institute",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFZwQkI3S3ExNWRtQmMzcFAtUDhrTkxYcklBdDZBWXAwUVg1UThGc1J6SWhGa0w0blY2c0lESGFsckR3V0YwbHBiY1FLT1hsQ1NEcVNPWnFhRnVTRWhNUjJzd2hQNzMzTUxBNDVKQi1iejNWTkQxc0FodnRHT00yVG93MEhfTl9IcURPVUJwakF1QXhTb29OUzZPUUpqVE9sU01CRF9UUUgxX2dzLUhudE9TWGZSWGl1YmdZ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Mon, 03 Nov 2025 22:08:01 GMT",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-11-04T04:22:00.566269"
     },
     {
       "id": "46f41cb7c869",
@@ -1332,7 +1512,7 @@
       "published": "Mon, 03 Nov 2025 22:07:32 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085735"
+      "fetched_at": "2025-11-04T04:22:01.726763"
     },
     {
       "id": "bc3c48fb3f45",
@@ -1344,7 +1524,7 @@
       "published": "Mon, 03 Nov 2025 22:06:50 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.036055"
+      "fetched_at": "2025-11-04T04:21:59.710253"
     },
     {
       "id": "91189c6e4414",
@@ -1356,7 +1536,7 @@
       "published": "Mon, 03 Nov 2025 22:05:00 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-11-04T03:09:40.999180"
+      "fetched_at": "2025-11-04T04:21:59.856824"
     },
     {
       "id": "cfe3c3aba7f3",
@@ -1368,7 +1548,7 @@
       "published": "Mon, 03 Nov 2025 22:03:34 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.503779"
+      "fetched_at": "2025-11-04T04:22:01.222082"
     },
     {
       "id": "accb71c4f060",
@@ -1380,7 +1560,7 @@
       "published": "Mon, 03 Nov 2025 22:02:48 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.170898"
+      "fetched_at": "2025-11-04T04:21:58.334319"
     },
     {
       "id": "6529ec3d1a0d",
@@ -1392,7 +1572,19 @@
       "published": "Mon, 03 Nov 2025 21:59:18 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:41.779475"
+      "fetched_at": "2025-11-04T04:22:00.566475"
+    },
+    {
+      "id": "d36ea867b125",
+      "title": "25 players to represent Canada at key Olympic women's hockey tune-up games - CBC",
+      "description": "25 players to represent Canada at key Olympic women's hockey tune-up games&nbsp;&nbsp;CBCThree players set to debut as Canada reveals roster for Rivalry Series&nbsp;&nbsp;Sportsnet.caCanada Names 25 Player Roster For First Leg Of The Rivalry Series&nbsp;&nbsp;YahooDiscussion: Canada's Roster Choices",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ0NmV0plbzdsZndTSmV6TWh0WmpNQlR3UDl4YW9HLVQyTzcxMVFGQksxMkR1RDdaSms0aXlsc2k5S0JGV0NFMThGbnhSWG0wVFN6R2lLRGVxUVptQ19mc3dJQk5uaE5oVFMtSlZPb0pCN0RLUjhQcjdQWWg3WERYMW5xR0xnbXVsaHhuLXVpTktUZGdka01NUGhnVVBCZlk3M0F0bXZIUFhVdHNZSHlXcHRSV1NuMHkwMDlz?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Mon, 03 Nov 2025 21:56:09 GMT",
+      "location": "Toronto",
+      "category": "sports",
+      "fetched_at": "2025-11-04T04:22:00.674671"
     },
     {
       "id": "9cd7064737bf",
@@ -1404,7 +1596,7 @@
       "published": "Mon, 03 Nov 2025 21:51:48 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.584112"
+      "fetched_at": "2025-11-04T04:21:58.409797"
     },
     {
       "id": "8398a7676d36",
@@ -1416,7 +1608,7 @@
       "published": "Mon, 03 Nov 2025 21:51:25 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.746126"
+      "fetched_at": "2025-11-04T04:22:01.521728"
     },
     {
       "id": "de187ca30b12",
@@ -1428,7 +1620,7 @@
       "published": "Mon, 03 Nov 2025 21:48:58 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926772"
+      "fetched_at": "2025-11-04T04:22:00.735063"
     },
     {
       "id": "7e09ab1bb580",
@@ -1440,7 +1632,7 @@
       "published": "Mon, 03 Nov 2025 21:47:21 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049594"
+      "fetched_at": "2025-11-04T04:22:01.332021"
     },
     {
       "id": "9fbd0dd136a6",
@@ -1452,7 +1644,7 @@
       "published": "Mon, 03 Nov 2025 21:44:35 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313511"
+      "fetched_at": "2025-11-04T04:22:00.963249"
     },
     {
       "id": "5334024fc9a7",
@@ -1464,7 +1656,7 @@
       "published": "Mon, 03 Nov 2025 21:44:28 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.584148"
+      "fetched_at": "2025-11-04T04:21:58.409833"
     },
     {
       "id": "6ee191df53b9",
@@ -1476,7 +1668,7 @@
       "published": "Mon, 03 Nov 2025 21:39:06 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.746152"
+      "fetched_at": "2025-11-04T04:22:01.521756"
     },
     {
       "id": "d440cc166ec4",
@@ -1488,7 +1680,7 @@
       "published": "Mon, 03 Nov 2025 21:35:05 +0000",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.958857"
+      "fetched_at": "2025-11-04T04:21:58.605430"
     },
     {
       "id": "1dc55fb0639a",
@@ -1500,7 +1692,7 @@
       "published": "Mon, 03 Nov 2025 21:24:20 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926817"
+      "fetched_at": "2025-11-04T04:22:00.735106"
     },
     {
       "id": "b83c75c4b61c",
@@ -1512,7 +1704,7 @@
       "published": "Mon, 03 Nov 2025 21:24:17 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458689"
+      "fetched_at": "2025-11-04T04:22:00.983197"
     },
     {
       "id": "c3c379d9086f",
@@ -1524,7 +1716,19 @@
       "published": "Mon, 03 Nov 2025 21:21:24 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.584175"
+      "fetched_at": "2025-11-04T04:21:58.409861"
+    },
+    {
+      "id": "d743867ad061",
+      "title": "Entangled atoms found to supercharge light emission",
+      "description": "Physicists have uncovered how direct atom-atom interactions can amplify superradiance, the collective burst of light from atoms working in sync. By incorporating quantum entanglement into their models, they reveal that these interactions can enhance energy transfer efficiency, offering new design pr",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251103093009.htm",
+      "source": "Science Daily",
+      "image": "",
+      "published": "Mon, 03 Nov 2025 21:20:27 EST",
+      "location": "World",
+      "category": "science",
+      "fetched_at": "2025-11-04T04:21:59.071220"
     },
     {
       "id": "589362b11e48",
@@ -1536,7 +1740,7 @@
       "published": "Mon, 03 Nov 2025 21:17:32 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:41.259000"
+      "fetched_at": "2025-11-04T04:22:00.232948"
     },
     {
       "id": "f3c798f1ce19",
@@ -1548,7 +1752,7 @@
       "published": "Mon, 03 Nov 2025 21:15:21 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.958887"
+      "fetched_at": "2025-11-04T04:21:58.605459"
     },
     {
       "id": "4fb3fbaf2b8d",
@@ -1560,7 +1764,7 @@
       "published": "Mon, 03 Nov 2025 21:08:34 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049642"
+      "fetched_at": "2025-11-04T04:22:01.332068"
     },
     {
       "id": "224eca872fd4",
@@ -1572,7 +1776,7 @@
       "published": "Mon, 03 Nov 2025 20:59:15 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.958919"
+      "fetched_at": "2025-11-04T04:21:58.605490"
     },
     {
       "id": "f977d14cc336",
@@ -1584,7 +1788,7 @@
       "published": "Mon, 03 Nov 2025 20:57:59 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.503804"
+      "fetched_at": "2025-11-04T04:22:01.222106"
     },
     {
       "id": "5b20a6f645f4",
@@ -1596,7 +1800,7 @@
       "published": "Mon, 03 Nov 2025 20:57:07 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085765"
+      "fetched_at": "2025-11-04T04:22:01.726792"
     },
     {
       "id": "da4c2fe082e7",
@@ -1608,7 +1812,7 @@
       "published": "Mon, 03 Nov 2025 20:55:26 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049692"
+      "fetched_at": "2025-11-04T04:22:01.332119"
     },
     {
       "id": "d284d83477e9",
@@ -1620,7 +1824,7 @@
       "published": "Mon, 03 Nov 2025 20:54:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313536"
+      "fetched_at": "2025-11-04T04:22:00.963274"
     },
     {
       "id": "5a3abff46b96",
@@ -1632,43 +1836,7 @@
       "published": "Mon, 03 Nov 2025 20:50:31 +0000",
       "location": "Ottawa",
       "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.170925"
-    },
-    {
-      "id": "eedc94e2f433",
-      "title": "Hopes dashed as man extracted from partially collapsed medieval tower in Rome dies soon after - CTV News",
-      "description": "Hopes dashed as man extracted from partially collapsed medieval tower in Rome dies soon after&nbsp;&nbsp;CTV NewsView Full Coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTZVeU9SZnBsek9kU3FHTHdta0JUVHFJU0g0Z1cwSEdsYVZCLTRINzEwMU5UQzBJTVMyRjE0QTlVNGhFM2tWZGVFRTlOdUdhdURJbDh4OHdPRTVwYkVvcGU4OXE3X1g1SkhwbkJxeWNiXzRWaXVqaUxWOHlpR2g2T0dxYUstNDV5OWVNa3FkTl90b1BWaWhCaWtpcTVqamFKMUF5aTNXQlBHaGs5SGhIZ2hkM25kNnJ6?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 20:46:17 GMT",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-11-04T03:09:41.935352"
-    },
-    {
-      "id": "c095693fc702",
-      "title": "Turkiye: Hamas will transfer Gaza’s governance to committee of Palestinians",
-      "description": "Turkish Foreign Minister Hakan Fidan says Hamas is ready to transfer the governance of Gaza to a new committee.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/3/turkiye-hamas-will-transfer-gazas-governance-to-committee-of-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 20:45:04 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.036106"
-    },
-    {
-      "id": "cc142be1c2d1",
-      "title": "Rock and roll legends AC/DC coming to 4 Canadian cities in summer of 2026 - Global News",
-      "description": "Rock and roll legends AC/DC coming to 4 Canadian cities in summer of 2026&nbsp;&nbsp;Global News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcEVpM05hR1VjcTY2NXNLNmRIRXhxWkh0d2ZOdC1rQzdJenNEbHBfUGNtWW9TdTZOWFB0Y0dHVm00RVlRNUdJSW5lRU56Zi04UXhtLXlvanRTTkYxaEFRMUtIOEd5bTA2bVQ1Mm9XT0xxazZZeEZUbUJGenVKWUtBUFdn0gGHAUFVX3lxTE9yZnFvaXBOdkI5Um5yWGl0a3NFS1l1Y0JoVUJPYm53RkRGUjE4ZlZpY2hmd29EdldSQ3RKSXhaV3A3S2pucHdMVlpIQU5IRnU5RUdoeGI4Q3FSZXFrVUFyb0hpWGxGakNJZmZCanQzazlFdl80b3pscUw5MnByY2ZqMXRHNjdRNA?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 20:44:09 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-04T03:09:41.779407"
+      "fetched_at": "2025-11-04T04:21:58.334348"
     },
     {
       "id": "b9aa8ea94f62",
@@ -1680,19 +1848,7 @@
       "published": "Mon, 03 Nov 2025 20:29:25 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458712"
-    },
-    {
-      "id": "8d31d3ada89a",
-      "title": "Six years later, Questrade can finally launch Canada’s newest bank - BetaKit",
-      "description": "Six years later, Questrade can finally launch Canada’s newest bank&nbsp;&nbsp;BetaKit",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXU1Nzh5czdPZEc4R0VmNHlxOFJyd1hsTC12Zld3dURhTV9nTE9xaFVLYnJPZUlwY3AteFRzdW9vODEzenpfdmIzZVpfQUpJZjVvZi1UVTZIMDR2bkdfZnVYV1RMY1VKR1RZTU8zUVUyT285SVA0OVhuc2Z5amxrNXhHbXc3LVNJdWVjWWpB?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 20:25:15 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-04T03:09:41.779509"
+      "fetched_at": "2025-11-04T04:22:00.983234"
     },
     {
       "id": "bf66e028c050",
@@ -1704,19 +1860,19 @@
       "published": "Mon, 03 Nov 2025 20:23:15 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:40.705068"
+      "fetched_at": "2025-11-04T04:21:59.936243"
     },
     {
       "id": "0656a61a5c53",
       "title": "New York mayoral candidates prepare for heated election as Democrat Mamdani leads polls - The Globe and Mail",
-      "description": "New York mayoral candidates prepare for heated election as Democrat Mamdani leads polls&nbsp;&nbsp;The Globe and MailMamdani, Cuomo or Sliwa? New Yorkers on their choice for mayor&nbsp;&nbsp;BBCPhotos From NYC Mayoral Race Capture Campaigns of Mamdani, Cuomo and Sliwa&nbsp;&nbsp;The New York TimesLi",
+      "description": "New York mayoral candidates prepare for heated election as Democrat Mamdani leads polls&nbsp;&nbsp;The Globe and MailLive Results: New York City 2025 mayoral election&nbsp;&nbsp;PBSMamdani, Cuomo or Sliwa? New Yorkers on their choice for mayor&nbsp;&nbsp;BBCWhat the latest polls are showing in the M",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVXJnT2o1OWNxbzY3MERZRFFKRVBiQTBjRUpHVXlMQkJhX3g1akFEX2NJZlNhU2hRSEgwTEpFWFRUbjJaZVNqY3pqcWdHYzl5WnhLSlBZanhEY3ZPU0Z3S3BfOHpjWUdiWHlieExhbWxZYkwwNjNZT185X3puaXV5NlFqUG12UWpRWlgzZFdaVWI2ay00aEZxeTZDaFExUQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 03 Nov 2025 20:22:14 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:41.935017"
+      "fetched_at": "2025-11-04T04:22:00.361396"
     },
     {
       "id": "477a81df7046",
@@ -1728,7 +1884,7 @@
       "published": "Mon, 03 Nov 2025 20:20:19 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.170952"
+      "fetched_at": "2025-11-04T04:21:58.334375"
     },
     {
       "id": "ad003ec7cbc8",
@@ -1740,19 +1896,19 @@
       "published": "Mon, 03 Nov 2025 20:14:42 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.670984"
+      "fetched_at": "2025-11-04T04:22:01.402754"
     },
     {
       "id": "a68a9f9283b2",
       "title": "‘It’s heartbreaking:’ Crosby, Leafs react to Blue Jays’ crushing World Series loss - CTV News",
-      "description": "‘It’s heartbreaking:’ Crosby, Leafs react to Blue Jays’ crushing World Series loss&nbsp;&nbsp;CTV NewsWives and girlfriends of Toronto Blue Jays players react following ‘special’ season&nbsp;&nbsp;CTV NewsVladimir Guerrero Jr Gave Personal Message to Teammates After World Series&nbsp;&nbsp;NewsweekY",
+      "description": "‘It’s heartbreaking:’ Crosby, Leafs react to Blue Jays’ crushing World Series loss&nbsp;&nbsp;CTV NewsWives and girlfriends of Toronto Blue Jays players react following ‘special’ season&nbsp;&nbsp;CTV NewsYes, the Jays came up short — but what a ride&nbsp;&nbsp;CBCWhere does the ‘Blue Jays World Ser",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUVJqelNDdGxRclpvZlloMUhYY3M5a3A4X29aOHd3R0pQSC1wS2JaYmQ3NU4xQUZCT1dJRTR6SFNuaXFRYm5WMnZlWE5BeEhEbzhfYnUyeU9NQXE2MkpURDN1WWd0YUJuOF9tZmhmTldPcGpvQ04xbWV1TlFDY0ltZGtUYmJjZGhXM0RuVHE1VnBZSnMxcDl6TjRLazBwbS1Nb3FyTjJXbHU2dmk1TWF4eEFId3Y0RWZEU3gtWkhqSmE?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 03 Nov 2025 20:14:40 GMT",
       "location": "Toronto",
       "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584447"
+      "fetched_at": "2025-11-04T04:22:00.674730"
     },
     {
       "id": "f183e5c1a1c0",
@@ -1764,19 +1920,7 @@
       "published": "Mon, 03 Nov 2025 20:13:07 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104225"
-    },
-    {
-      "id": "8225cfd81dc1",
-      "title": "Israel releases five Palestinian prisoners as killings continue in Gaza",
-      "description": "Gaza’s Health Ministry says it also received the remains of 45 Palestinians from Israel through the Red Cross.",
-      "url": "https://www.aljazeera.com/news/2025/11/3/israel-releases-five-palestinian-prisoners-as-killings-continue-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 20:12:21 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.036154"
+      "fetched_at": "2025-11-04T04:22:02.222028"
     },
     {
       "id": "319ec496b6b4",
@@ -1788,7 +1932,7 @@
       "published": "Mon, 03 Nov 2025 20:04:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.671017"
+      "fetched_at": "2025-11-04T04:22:01.402787"
     },
     {
       "id": "1df5239bc2f8",
@@ -1800,7 +1944,7 @@
       "published": "Mon, 03 Nov 2025 20:02:31 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.170978"
+      "fetched_at": "2025-11-04T04:21:58.334436"
     },
     {
       "id": "9e6ac8c0f904",
@@ -1812,31 +1956,7 @@
       "published": "Mon, 03 Nov 2025 20:00:42 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.958948"
-    },
-    {
-      "id": "c7386c49a304",
-      "title": "Worker trapped after medieval Rome tower partially collapses",
-      "description": "Video shows part of Rome’s medieval Torre dei Conti collapse for a second time during restoration near the Colosseum",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/3/worker-trapped-after-medieval-rome-tower-partially-collapses?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 19:49:04 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-11-04T03:09:41.036199"
-    },
-    {
-      "id": "6f8830d563c6",
-      "title": "DOJ accuses US ransomware negotiators of launching their own ransomware attacks",
-      "description": "Three people, including two U.S. ransomware negotiators, are accused of working on behalf of the ALPHV/BlackCat ransomware gang.",
-      "url": "https://techcrunch.com/2025/11/03/doj-accuses-us-ransomware-negotiators-of-launching-their-own-ransomware-attacks/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 19:46:12 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.584201"
+      "fetched_at": "2025-11-04T04:21:58.605519"
     },
     {
       "id": "1a585d00d7fe",
@@ -1848,7 +1968,7 @@
       "published": "Mon, 03 Nov 2025 19:39:47 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313566"
+      "fetched_at": "2025-11-04T04:22:00.963304"
     },
     {
       "id": "ff0072ab7760",
@@ -1860,7 +1980,19 @@
       "published": "Mon, 03 Nov 2025 19:38:52 +0000",
       "location": "Ottawa",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.958978"
+      "fetched_at": "2025-11-04T04:21:58.605547"
+    },
+    {
+      "id": "6ae3f4372d47",
+      "title": "Sunoco completes $9.1B US deal to buy Parkland - CBC",
+      "description": "Sunoco completes $9.1B US deal to buy Parkland&nbsp;&nbsp;CBCView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ma0FwWXFMQnR1d1E0UWR6TzlOSzl4YkFkcEtJVm1LWmU4YkxSSF8xTHZVSXptWUpYel83MlNpUkJ0cjl6bnhIMlV3dTJsQWNoQXFzNURCVFFMUVFGSzBCTUZSOWpRODh2T3lZRUowREpOUW9nOFNoaw?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 03 Nov 2025 19:32:35 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2025-11-04T04:22:00.232911"
     },
     {
       "id": "4b3af0114eb9",
@@ -1872,7 +2004,19 @@
       "published": "Mon, 03 Nov 2025 19:29:08 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-11-04T03:09:40.999276"
+      "fetched_at": "2025-11-04T04:21:59.856869"
+    },
+    {
+      "id": "4fa6b178236d",
+      "title": "Hudson's Bay landlords to get back properties B.C. billionaire wanted: retailer - Castanet",
+      "description": "Hudson's Bay landlords to get back properties B.C. billionaire wanted: retailer&nbsp;&nbsp;CastanetView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHJGdmVFdk9Vcy1oVzJVUHEwZ1pfY2p4YlY5bDlUckZBc2JQV1puWHRuQmsyRlJ2SngwY2FRb1cwS3N0c3RaaFIwN253cW54ZGl6VWlJeW56US15dXRZOVFYTkUtS05TMmlCTjNRTnFfNUhzMGN4V09UNlh3N3NURjRpZFRkVUFNVEpVcWNlMXVEYjBqNVVmcUNjeDFNZndQMm5RblIteEJfZDNTc0hIaXVFdGJ3bFl1QzZtUk5xaVE?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 03 Nov 2025 19:29:00 GMT",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-11-04T04:22:00.233118"
     },
     {
       "id": "d292e8bbaa0b",
@@ -1884,7 +2028,7 @@
       "published": "Mon, 03 Nov 2025 19:27:46 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104299"
+      "fetched_at": "2025-11-04T04:22:02.222082"
     },
     {
       "id": "bb8c6919db6b",
@@ -1896,7 +2040,7 @@
       "published": "Mon, 03 Nov 2025 19:25:59 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085793"
+      "fetched_at": "2025-11-04T04:22:01.726818"
     },
     {
       "id": "4b33ffb70852",
@@ -1908,7 +2052,7 @@
       "published": "Mon, 03 Nov 2025 19:24:16 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926853"
+      "fetched_at": "2025-11-04T04:22:00.735140"
     },
     {
       "id": "6112b04b780f",
@@ -1920,7 +2064,7 @@
       "published": "Mon, 03 Nov 2025 19:24:16 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.671045"
+      "fetched_at": "2025-11-04T04:22:01.402816"
     },
     {
       "id": "355eefea9814",
@@ -1932,7 +2076,7 @@
       "published": "Mon, 03 Nov 2025 19:23:07 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988842"
+      "fetched_at": "2025-11-04T04:21:59.978220"
     },
     {
       "id": "11e5ec7d6dca",
@@ -1944,7 +2088,7 @@
       "published": "Mon, 03 Nov 2025 19:21:17 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.880924"
+      "fetched_at": "2025-11-04T04:21:58.514631"
     },
     {
       "id": "0a45dfc95937",
@@ -1956,7 +2100,7 @@
       "published": "Mon, 03 Nov 2025 19:16:59 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:41.779201"
+      "fetched_at": "2025-11-04T04:22:00.566233"
     },
     {
       "id": "61a48f988213",
@@ -1968,7 +2112,7 @@
       "published": "Mon, 03 Nov 2025 19:12:31 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049739"
+      "fetched_at": "2025-11-04T04:22:01.332168"
     },
     {
       "id": "d96d8310aea2",
@@ -1980,7 +2124,7 @@
       "published": "Mon, 03 Nov 2025 19:11:42 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.880950"
+      "fetched_at": "2025-11-04T04:21:58.514657"
     },
     {
       "id": "b2c3fabf3d8b",
@@ -1992,7 +2136,7 @@
       "published": "Mon, 03 Nov 2025 19:05:16 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.746179"
+      "fetched_at": "2025-11-04T04:22:01.521785"
     },
     {
       "id": "2f6aae5fc5b9",
@@ -2004,7 +2148,7 @@
       "published": "Mon, 03 Nov 2025 19:04:05 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.880976"
+      "fetched_at": "2025-11-04T04:21:58.514682"
     },
     {
       "id": "873cc5b185a6",
@@ -2016,7 +2160,7 @@
       "published": "Mon, 03 Nov 2025 19:03:46 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.880999"
+      "fetched_at": "2025-11-04T04:21:58.514704"
     },
     {
       "id": "c40dd3ad66e6",
@@ -2028,7 +2172,7 @@
       "published": "Mon, 03 Nov 2025 19:03:13 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.170999"
+      "fetched_at": "2025-11-04T04:21:58.334460"
     },
     {
       "id": "24ff508aaaf4",
@@ -2040,7 +2184,7 @@
       "published": "Mon, 03 Nov 2025 18:59:59 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.959006"
+      "fetched_at": "2025-11-04T04:21:58.605571"
     },
     {
       "id": "9ae477d568cd",
@@ -2052,7 +2196,7 @@
       "published": "Mon, 03 Nov 2025 18:58:48 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.746209"
+      "fetched_at": "2025-11-04T04:22:01.521816"
     },
     {
       "id": "adb08629f6fa",
@@ -2064,7 +2208,7 @@
       "published": "Mon, 03 Nov 2025 18:57:57 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.996902"
+      "fetched_at": "2025-11-04T04:21:59.764293"
     },
     {
       "id": "41341e61160b",
@@ -2076,31 +2220,19 @@
       "published": "Mon, 03 Nov 2025 18:56:35 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.996852"
+      "fetched_at": "2025-11-04T04:21:59.764239"
     },
     {
       "id": "713168ac6417",
       "title": "Trump administration will tap emergency fund to pay partial food stamp benefits - BBC",
-      "description": "Trump administration will tap emergency fund to pay partial food stamp benefits&nbsp;&nbsp;BBCAmericans ‘dumbfounded by cruelty’ of Trump officials slashing Snap benefits&nbsp;&nbsp;The GuardianSNAP benefits cut off during shutdown, driving long lines at food pantries&nbsp;&nbsp;Global NewsBarrasso ",
+      "description": "Trump administration will tap emergency fund to pay partial food stamp benefits&nbsp;&nbsp;BBCAmericans ‘dumbfounded by cruelty’ of Trump officials slashing Snap benefits&nbsp;&nbsp;The GuardianSNAP benefits cut off during shutdown, driving long lines at food pantries&nbsp;&nbsp;Global NewsTrump Adm",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TM3MyRzJ3RkpaRFQwYmdYaWdRMVprWm4tY2JHdmlWZWxOVV9pN0tSQUFydGFfSTVEeGNBSjFoam5tekVUTU1Yb2FXYlFjOC1WQ3pFVDJFRUhmQdIBX0FVX3lxTFBfVk1ZNHFQWC1OTVdZbGloWWZGSWhuaUtpdUN3Z1pxaGVJaEdpYnVGTlZiUWFOWGFyZGZzMzVFSW95RVg2UVpjQWw3S1VxMnFnSzBWV1h1ZFUtNDhUWVNz?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 03 Nov 2025 18:56:35 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:41.935578"
-    },
-    {
-      "id": "85bf6f3caa6d",
-      "title": "Blue Jays 50/50 jackpot winner worth $25M from World Series run from Oshawa, Ont. - Global News",
-      "description": "Blue Jays 50/50 jackpot winner worth $25M from World Series run from Oshawa, Ont.&nbsp;&nbsp;Global NewsDid you just win $25 million? Jays Care Foundation announces 50/50 winner in ‘the biggest jackpot in baseball history’&nbsp;&nbsp;Toronto StarSomeone is about to get filthy rich on record-breaking",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTZ4NmtiRE9qWXB6YzJZT2ZQUEF1OUc3U3l3N3RqYVZCX1VJakJzb2F6a25aQ1Z4V3FFRmoyQVpwWDNBZ1MtNzVERzVCc1R6b2pnQTNYMkZDVzhqNWlxbWFfWTZlR3JGMFA1RVpIY3RyUW03NkNOODV5QThNelN5ZERQRlBWbk0?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 18:54:48 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584901"
+      "fetched_at": "2025-11-04T04:22:00.361952"
     },
     {
       "id": "1423e005b781",
@@ -2112,19 +2244,7 @@
       "published": "Mon, 03 Nov 2025 18:54:17 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:41.779337"
-    },
-    {
-      "id": "dc370c06eb8e",
-      "title": "Feds will unveil proposed changes to EV sales mandate this winter, officials say",
-      "description": "OTTAWA — The federal government will unveil proposed changes to its electric vehicles sales mandate this winter, federal officials said Monday. Mark Cauchi, director general of energy and transportation at Environment and Climate Change Canada, told MPs on the House of Commons environment committee ",
-      "url": "https://toronto.citynews.ca/2025/11/03/feds-will-unveil-proposed-changes-to-ev-sales-mandate-this-winter-officials-say/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 18:53:56 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926894"
+      "fetched_at": "2025-11-04T04:22:00.566363"
     },
     {
       "id": "ca6e36b92223",
@@ -2136,7 +2256,7 @@
       "published": "Mon, 03 Nov 2025 18:53:56 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049785"
+      "fetched_at": "2025-11-04T04:22:01.332216"
     },
     {
       "id": "53b4887276e8",
@@ -2148,19 +2268,7 @@
       "published": "Mon, 03 Nov 2025 18:53:56 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085832"
-    },
-    {
-      "id": "b5eda0c5bdd1",
-      "title": "Feds will unveil proposed changes to EV sales mandate this winter, officials say",
-      "description": "The federal government will unveil proposed changes to its electric vehicles sales mandate this winter, federal officials say. Mark Cauchi, director general of energy and transportation at Environment and Climate Change Canada, told MPs on the House of Commons environment committee today his departm",
-      "url": "https://vancouver.citynews.ca/2025/11/03/feds-will-unveil-proposed-changes-to-ev-sales-mandate-this-winter-officials-say/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 18:53:56 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.671080"
+      "fetched_at": "2025-11-04T04:22:01.726856"
     },
     {
       "id": "5a793a36dcda",
@@ -2172,7 +2280,7 @@
       "published": "Mon, 03 Nov 2025 18:53:56 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.953927"
+      "fetched_at": "2025-11-04T04:22:02.048030"
     },
     {
       "id": "a0d340954afd",
@@ -2184,7 +2292,7 @@
       "published": "Mon, 03 Nov 2025 18:53:56 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104350"
+      "fetched_at": "2025-11-04T04:22:02.222131"
     },
     {
       "id": "1cf660a40a6a",
@@ -2196,7 +2304,7 @@
       "published": "Mon, 03 Nov 2025 18:50:48 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.997025"
+      "fetched_at": "2025-11-04T04:21:59.764449"
     },
     {
       "id": "75087b910d37",
@@ -2208,7 +2316,7 @@
       "published": "Mon, 03 Nov 2025 18:50:21 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.959035"
+      "fetched_at": "2025-11-04T04:21:58.605598"
     },
     {
       "id": "34208533b6e7",
@@ -2220,7 +2328,7 @@
       "published": "Mon, 03 Nov 2025 18:41:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.085862"
+      "fetched_at": "2025-11-04T04:22:01.726887"
     },
     {
       "id": "8b928d1247bf",
@@ -2232,7 +2340,7 @@
       "published": "Mon, 03 Nov 2025 18:41:15 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104391"
+      "fetched_at": "2025-11-04T04:22:02.222170"
     },
     {
       "id": "ca7038dd4903",
@@ -2244,7 +2352,7 @@
       "published": "Mon, 03 Nov 2025 18:40:44 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:41.258891"
+      "fetched_at": "2025-11-04T04:22:00.232835"
     },
     {
       "id": "7fa5b44410f6",
@@ -2256,7 +2364,7 @@
       "published": "Mon, 03 Nov 2025 18:40:44 +0000",
       "location": "Toronto",
       "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.171015"
+      "fetched_at": "2025-11-04T04:21:58.334476"
     },
     {
       "id": "47790cf58ac3",
@@ -2268,31 +2376,31 @@
       "published": "Mon, 03 Nov 2025 18:40:43 GMT",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:41.258964"
+      "fetched_at": "2025-11-04T04:22:00.232879"
     },
     {
       "id": "ce2597ebe2d9",
       "title": "Questions Loom Over Dodgers White House Visit After World Series Win - Forbes",
-      "description": "Questions Loom Over Dodgers White House Visit After World Series Win&nbsp;&nbsp;ForbesAfter Dodgers beat Blue Jays to repeat as champions, what's next for MLB?&nbsp;&nbsp;Sportsnet.caToronto Blue Jays feel sting of defeat as Game 7 of World Series slips away&nbsp;&nbsp;TSNGame 7 of the World Series ",
+      "description": "Questions Loom Over Dodgers White House Visit After World Series Win&nbsp;&nbsp;ForbesAfter Dodgers beat Blue Jays to repeat as champions, what's next for MLB?&nbsp;&nbsp;Sportsnet.caBlue Jays lose heartbreaker in Game 7 of World Series as Dodgers complete epic comeback&nbsp;&nbsp;CBCCOMMENTARY: One",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlNSU1g0OFpYa2N6SmNyeVZYLUkwVUxSWURaOVNlU2EwdHVTSk1heTdGNFJCQ2tTcU1aUnlyVXpSMlFCSWMzSEJpbUtJejZMTVJmZFUyVl9vVEFsb1ZQWGFoTnVobk0wcnlkUy1NN1JabUM4OEQ2VHc1Z0pCQVNSdmNDTmNwWEpqQ3NQUHRsMF9tdklsUHZLekFsbXo4cW9ZMmlWcWc0OExiYW9yd19nZDc4bmk5ZU5FdnVKSGYwRQ?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 03 Nov 2025 18:39:42 GMT",
       "location": "Toronto",
       "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584511"
+      "fetched_at": "2025-11-04T04:22:00.674787"
     },
     {
       "id": "253dbfbd452e",
       "title": "Congress has been dodging responsibility for tariffs for decades – now the Supreme Court will decide how far presidents can go alone - The Conversation",
-      "description": "Congress has been dodging responsibility for tariffs for decades – now the Supreme Court will decide how far presidents can go alone&nbsp;&nbsp;The ConversationTrump's tariffs face biggest test yet in U.S. Supreme Court&nbsp;&nbsp;CBCTrump tariffs head to Supreme Court in case eagerly awaited around",
+      "description": "Congress has been dodging responsibility for tariffs for decades – now the Supreme Court will decide how far presidents can go alone&nbsp;&nbsp;The ConversationTrump's tariffs face biggest test yet in U.S. Supreme Court&nbsp;&nbsp;CBCWhat if Trump’s tariffs are illegal? It’s everybody’s problem.&nbs",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc1Y3UnJFQzBBT3huU050RllaenF0Tkd2dVA0T05vR3RTOEtoZkJLZDZBUDVqcWxialhDdnA5YlZOT0Y3Q2RTMlJiMklVbUpSbElDMW5KZlNvV0tybEpLenF1MXBjNnNEUFl0aWpKblNiSUsxWGNTQmFzbzlnbG5VZ2o1eFhiZWhrbTdRZzBobkVFNVI5RzhJSm5qWDNlblhOcnlKekpBeXpkNUZUZVhObExJcjZiQUlDb05sY2wyZk5FYUt5U0xMak16eVR4eGVMOGpua0pCd0JqX0haUGZ2OWR4SWducTRwcGk0WVB2Q0xGYXFNMEhDWQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 03 Nov 2025 18:38:13 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:41.935147"
+      "fetched_at": "2025-11-04T04:22:00.361534"
     },
     {
       "id": "50dcddd62fff",
@@ -2304,7 +2412,7 @@
       "published": "Mon, 03 Nov 2025 18:37:45 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.171036"
+      "fetched_at": "2025-11-04T04:21:58.334497"
     },
     {
       "id": "4d76b44b992a",
@@ -2316,19 +2424,19 @@
       "published": "Mon, 03 Nov 2025 18:35:41 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:40.705113"
+      "fetched_at": "2025-11-04T04:21:59.936289"
     },
     {
-      "id": "71648f50214d",
-      "title": "Prescription painkillers shortage in Canada expected to continue into new year",
-      "description": "TORONTO — Pharmacists say a shortage of medications that contain oxycodone is expected to continue into the new year, while supply of another type of painkiller has increased since a nationwide disruption in the summer. In July, Health Canada sent out a notice about a shortage of drugs that contain ",
-      "url": "https://toronto.citynews.ca/2025/11/03/prescription-painkillers-shortage-in-canada-expected-to-continue-into-new-year/",
-      "source": "CityNews Toronto",
+      "id": "21740589bef2",
+      "title": "Canadian quantum computing firm Xanadu to list on Nasdaq via $3.6 billion SPAC deal - Reuters",
+      "description": "Canadian quantum computing firm Xanadu to list on Nasdaq via $3.6 billion SPAC deal&nbsp;&nbsp;ReutersCanadian quantum company Xanadu Quantum Technologies going public&nbsp;&nbsp;Yahoo! Finance CanadaQuantum Computing Stocks: Third Quarter Earnings Preview. Xanadu To Go Public.&nbsp;&nbsp;Investor's",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVBuSXFVUk5udEhRenFGem02V0lndnBVZ1VGNEZiMHpNWkJrZnFwZ0d2S2YyMUhnUHZFWWRrMzNqRzVDV2pLZjBaZU9fc0M5VnhvRWxTRjdia2d5OGctS1dSbFFpQ0g5eDlpX1pCYktvVjVSa2VscDNCRGlyNWM4aHdFVXJzWUFqYnpGc3J6VEMtNnJCRnZ1OVVkNl8?oc=5",
+      "source": "Google News Business",
       "image": "",
-      "published": "Mon, 03 Nov 2025 18:30:27 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-11-04T03:09:41.926927"
+      "published": "Mon, 03 Nov 2025 18:32:38 GMT",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2025-11-04T04:22:00.233238"
     },
     {
       "id": "b3fe0af12b37",
@@ -2340,19 +2448,7 @@
       "published": "Mon, 03 Nov 2025 18:30:27 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049825"
-    },
-    {
-      "id": "f7581b11dfc2",
-      "title": "Prescription painkillers shortage in Canada expected to continue into new year",
-      "description": "Pharmacists say a shortage of medications that contain oxycodone is expected to continue into the new year, while supply of another type of painkiller has increased since a nationwide disruption in the summer. In July, Health Canada sent out a notice about a shortage of drugs that contain acetaminop",
-      "url": "https://vancouver.citynews.ca/2025/11/03/prescription-painkillers-shortage-in-canada-expected-to-continue-into-new-year/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 18:30:27 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.671114"
+      "fetched_at": "2025-11-04T04:22:01.332255"
     },
     {
       "id": "6b9893251a08",
@@ -2364,7 +2460,7 @@
       "published": "Mon, 03 Nov 2025 18:30:27 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.953967"
+      "fetched_at": "2025-11-04T04:22:02.048070"
     },
     {
       "id": "97563815045a",
@@ -2376,7 +2472,7 @@
       "published": "Mon, 03 Nov 2025 18:30:27 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104431"
+      "fetched_at": "2025-11-04T04:22:02.222210"
     },
     {
       "id": "275951ecfb20",
@@ -2388,7 +2484,7 @@
       "published": "Mon, 03 Nov 2025 18:26:02 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458739"
+      "fetched_at": "2025-11-04T04:22:00.983274"
     },
     {
       "id": "8c0c1fa74c65",
@@ -2400,7 +2496,7 @@
       "published": "Mon, 03 Nov 2025 18:24:14 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.954007"
+      "fetched_at": "2025-11-04T04:22:02.048111"
     },
     {
       "id": "f627b29800ca",
@@ -2412,7 +2508,7 @@
       "published": "Mon, 03 Nov 2025 18:24:12 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.959061"
+      "fetched_at": "2025-11-04T04:21:58.605624"
     },
     {
       "id": "f70e9d918f7d",
@@ -2424,7 +2520,7 @@
       "published": "Mon, 03 Nov 2025 18:18:47 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458765"
+      "fetched_at": "2025-11-04T04:22:00.983316"
     },
     {
       "id": "f072b1225a6e",
@@ -2436,7 +2532,7 @@
       "published": "Mon, 03 Nov 2025 18:16:39 GMT",
       "location": "Canada",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988897"
+      "fetched_at": "2025-11-04T04:21:59.978277"
     },
     {
       "id": "55a1eee5a26a",
@@ -2448,7 +2544,7 @@
       "published": "Mon, 03 Nov 2025 18:16:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-11-04T03:09:41.779373"
+      "fetched_at": "2025-11-04T04:22:00.566433"
     },
     {
       "id": "16a0dc02b469",
@@ -2460,7 +2556,7 @@
       "published": "Mon, 03 Nov 2025 18:09:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313592"
+      "fetched_at": "2025-11-04T04:22:00.963330"
     },
     {
       "id": "b1fa5b36a69e",
@@ -2472,7 +2568,7 @@
       "published": "Mon, 03 Nov 2025 18:09:46 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049866"
+      "fetched_at": "2025-11-04T04:22:01.332295"
     },
     {
       "id": "a3887f52b3b6",
@@ -2484,7 +2580,7 @@
       "published": "Mon, 03 Nov 2025 18:05:13 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458789"
+      "fetched_at": "2025-11-04T04:22:00.983363"
     },
     {
       "id": "2df89706d198",
@@ -2496,7 +2592,7 @@
       "published": "Mon, 03 Nov 2025 18:01:01 +0000",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:40.026933"
+      "fetched_at": "2025-11-04T04:21:58.830904"
     },
     {
       "id": "ac3e06b352ac",
@@ -2508,7 +2604,7 @@
       "published": "Mon, 03 Nov 2025 17:57:52 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.881020"
+      "fetched_at": "2025-11-04T04:21:58.514724"
     },
     {
       "id": "d8b44ff99091",
@@ -2520,7 +2616,7 @@
       "published": "Mon, 03 Nov 2025 17:56:48 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.049905"
+      "fetched_at": "2025-11-04T04:22:01.332335"
     },
     {
       "id": "1a3a212e8b3d",
@@ -2532,7 +2628,7 @@
       "published": "Mon, 03 Nov 2025 17:55:59 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.954041"
+      "fetched_at": "2025-11-04T04:22:02.048144"
     },
     {
       "id": "8decee24044b",
@@ -2544,31 +2640,7 @@
       "published": "Mon, 03 Nov 2025 17:55:59 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104469"
-    },
-    {
-      "id": "69cd8cbc507a",
-      "title": "Trump says he feels ‘very badly’ for the U.K. royal family over Andrew-Epstein saga",
-      "description": "'I mean, it's a terrible thing that's happened to the family,' Trump said when asked by an AFP reporter aboard Air Force One about the recent saga",
-      "url": "https://nationalpost.com/news/world/trump-uk-royal-family-andrew-epstein",
-      "source": "National Post",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 17:48:19 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-11-04T03:09:39.959091"
-    },
-    {
-      "id": "911b0551f0e5",
-      "title": "Delgado, Kent, Sheffield and Valenzuela join Hall of Fame ballot with Bonds, Clemens, Mattingly and Murphy - CNN",
-      "description": "Delgado, Kent, Sheffield and Valenzuela join Hall of Fame ballot with Bonds, Clemens, Mattingly and Murphy&nbsp;&nbsp;CNNBonds, Clemens, Delgado headline contemporary Hall of Fame ballot&nbsp;&nbsp;Sportsnet.caHall of Fame unveils 8-player Contemporary Baseball Era Committee ballot&nbsp;&nbsp;MLB.co",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbEVtU3VtTDJOUWgtZ2cwcFZWd1pmcC04WXpOT3Brcm1wd3VIcnBiQ3cyb0F2eDF2dzVsMWFka2c3bDZCVkNIem9qanlrdFZBODJOSVMyUDFzOG9FeWpYemdUazMxM2p4ZFdLT0t1WmVxOTNZN1RkZGFlejlTUFV1SnRzUVlkOWVvcHd3?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 17:47:44 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584564"
+      "fetched_at": "2025-11-04T04:22:02.222248"
     },
     {
       "id": "8d7e52e4fb5e",
@@ -2580,19 +2652,7 @@
       "published": "Mon, 03 Nov 2025 17:46:40 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.746232"
-    },
-    {
-      "id": "7eacb46dbcc9",
-      "title": "Canada-Pakistan Joint Statement: Reaffirming strong and enduring ties - canada.ca",
-      "description": "Canada-Pakistan Joint Statement: Reaffirming strong and enduring ties&nbsp;&nbsp;canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHpvZUVPRVY5SkNXOGxCSW5MSGt2SjNJWmlVeTZ3MnJTcnB5MEFBZ3dNOTkwOUNPX1RGY0pmUGxQY216Vkx0cVBOb3NrS1VUWW02b3A2c1luVnZVWFRnb0htazh0alVSMS1GY01rZERIdTBqTTZLbUdRal9IOUNPb0dVT1FPUE8xRUdlSURIWFQwaXdUTURncnBfaHNRXzBYTGxOU2R5MzZuOTlQZG5lNl95N1N1cE5aRU5wekRsY2FNdDM0?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 17:40:52 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-11-04T03:09:41.779438"
+      "fetched_at": "2025-11-04T04:22:01.521840"
     },
     {
       "id": "5923aed8a45c",
@@ -2604,7 +2664,7 @@
       "published": "Mon, 03 Nov 2025 17:35:07 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.954074"
+      "fetched_at": "2025-11-04T04:22:02.048178"
     },
     {
       "id": "1f830a3d8d4e",
@@ -2616,7 +2676,7 @@
       "published": "Mon, 03 Nov 2025 17:35:07 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:43.104506"
+      "fetched_at": "2025-11-04T04:22:02.222285"
     },
     {
       "id": "74a9c9d4f4a9",
@@ -2628,7 +2688,7 @@
       "published": "Mon, 03 Nov 2025 17:22:42 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.881047"
+      "fetched_at": "2025-11-04T04:21:58.514750"
     },
     {
       "id": "5d48204cf6ae",
@@ -2640,7 +2700,7 @@
       "published": "Mon, 03 Nov 2025 17:18:10 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.997045"
+      "fetched_at": "2025-11-04T04:21:59.764470"
     },
     {
       "id": "66a82a7c28b2",
@@ -2652,7 +2712,7 @@
       "published": "Mon, 03 Nov 2025 17:05:55 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:41.935412"
+      "fetched_at": "2025-11-04T04:22:00.361767"
     },
     {
       "id": "e2f0d28890b0",
@@ -2664,7 +2724,7 @@
       "published": "Mon, 03 Nov 2025 16:59:01 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458819"
+      "fetched_at": "2025-11-04T04:22:00.983442"
     },
     {
       "id": "298e1a934ac8",
@@ -2676,19 +2736,7 @@
       "published": "Mon, 03 Nov 2025 16:56:44 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.746273"
-    },
-    {
-      "id": "f92cdea2193a",
-      "title": "AC/DC is coming to Vancouver in 2026: Everything you need to know about the concert",
-      "description": "Legendary rockers AC/DC are bringing the Power Up Tour to Vancouver",
-      "url": "https://vancouversun.com/entertainment/ac-dc-vancouver-2026-everything-you-need-to-know-about-the-concert",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 16:52:32 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.313612"
+      "fetched_at": "2025-11-04T04:22:01.521863"
     },
     {
       "id": "422271c8a774",
@@ -2700,7 +2748,7 @@
       "published": "Mon, 03 Nov 2025 16:49:33 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.954108"
+      "fetched_at": "2025-11-04T04:22:02.048212"
     },
     {
       "id": "253a37927589",
@@ -2712,7 +2760,7 @@
       "published": "Mon, 03 Nov 2025 16:46:00 +0000",
       "location": "Ottawa",
       "category": "indigenous",
-      "fetched_at": "2025-11-04T03:09:40.999326"
+      "fetched_at": "2025-11-04T04:21:59.856910"
     },
     {
       "id": "c9e0ab2eb290",
@@ -2724,7 +2772,7 @@
       "published": "Mon, 03 Nov 2025 16:40:26 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.996985"
+      "fetched_at": "2025-11-04T04:21:59.764402"
     },
     {
       "id": "9ec8a8ef63e7",
@@ -2736,19 +2784,7 @@
       "published": "Mon, 03 Nov 2025 16:36:56 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988518"
-    },
-    {
-      "id": "98d9f54dd812",
-      "title": "Mayoral election results in Côte-St-Luc, Montreal West, Westmount and Town of Mount Royal",
-      "description": "The winners are Mitchell Brownstein, Jonathan Cha, Michael Stern and Peter Malouf.",
-      "url": "https://montrealgazette.com/news/local_politics/mtl-mayor-race/mayoral-election-results-cote-st-luc-westmount-montreal-west-town-of-mount-royal",
-      "source": "Montreal Gazette",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 16:35:53 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.458842"
+      "fetched_at": "2025-11-04T04:21:59.977895"
     },
     {
       "id": "f8e8a91717fd",
@@ -2760,7 +2796,7 @@
       "published": "Mon, 03 Nov 2025 16:14:53 GMT",
       "location": "Canada",
       "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584843"
+      "fetched_at": "2025-11-04T04:22:00.674960"
     },
     {
       "id": "4ff178a99db2",
@@ -2772,7 +2808,7 @@
       "published": "Mon, 03 Nov 2025 16:08:14 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.503831"
+      "fetched_at": "2025-11-04T04:22:01.222132"
     },
     {
       "id": "3506fccd4a6a",
@@ -2784,7 +2820,7 @@
       "published": "Mon, 03 Nov 2025 16:00:09 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.503860"
+      "fetched_at": "2025-11-04T04:22:01.222159"
     },
     {
       "id": "ab67c570af57",
@@ -2796,7 +2832,7 @@
       "published": "Mon, 03 Nov 2025 16:00:06 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.996923"
+      "fetched_at": "2025-11-04T04:21:59.764317"
     },
     {
       "id": "80203a2f7671",
@@ -2808,7 +2844,7 @@
       "published": "Mon, 03 Nov 2025 15:58:57 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.503890"
+      "fetched_at": "2025-11-04T04:22:01.222189"
     },
     {
       "id": "2a8df6fba5d0",
@@ -2820,7 +2856,7 @@
       "published": "Mon, 03 Nov 2025 15:56:38 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.503913"
+      "fetched_at": "2025-11-04T04:22:01.222213"
     },
     {
       "id": "4a213c3a67ff",
@@ -2832,7 +2868,7 @@
       "published": "Mon, 03 Nov 2025 15:56:04 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.503942"
+      "fetched_at": "2025-11-04T04:22:01.222241"
     },
     {
       "id": "f2e41f275600",
@@ -2844,19 +2880,19 @@
       "published": "Mon, 03 Nov 2025 15:48:00 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.954149"
+      "fetched_at": "2025-11-04T04:22:02.048253"
     },
     {
-      "id": "0d6ba8865ce1",
-      "title": "TTC Chair defends World Series transit service as ‘strong’ but says communication was a problem - CP24",
-      "description": "TTC Chair defends World Series transit service as ‘strong’ but says communication was a problem&nbsp;&nbsp;CP24Metrolinx, City of Toronto slammed for not extending transit service after World Series finale&nbsp;&nbsp;CityNews TorontoTTC defends service levels after backlash following World Series Ga",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYjFCMG5CVnBUV0JGbDlidTRIamRwOFlvZ3FHRVB6RzcyZ0VDajIxOEdpcUtraVJBcG5IRjV1MERBQ1hWeXFEZVFWX3NxVUY2VUZ2QkcxNmRtbW5rY2ZzczRzMHFtY2JyNFRqanpXNHFKNTBXblNpQi1tSWdvREFyQWVCbzFtMFhSWjB4ZThYNlVtODJtUUZvV05sZ1ExeHdlSHNKWWJxTHNBOHBaN1k1dURUcGZTeFhjYjBiZkNIX2VNeDBTd0hfM2lnQUdHY19YMG1tRUlXQjE3YmtHQUZ0VnozOF9IVnNT?oc=5",
+      "id": "d908d59356e9",
+      "title": "TTC and Metrolinx promise to do better after World Series Game 7 transit options fall short - CP24",
+      "description": "TTC and Metrolinx promise to do better after World Series Game 7 transit options fall short&nbsp;&nbsp;CP24Metrolinx, City of Toronto slammed for not extending transit service after World Series finale&nbsp;&nbsp;CityNews TorontoTTC defends service levels after backlash following World Series Game 7",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcm53bjd4WGhHN20yVmJqNWJIZjRzZXphR282VTRJU1pDUmE5VHUwbFQyTXYyemozQkV3VWJrNm1QdlpKcEhGVlBZZ2gzSUJfLVJTVURRRVZ1ekI4T1MtaGc4RHRGMkRWa3loLUJod0dnZUl4NGlPSUg4aUNERGJiM3YtQU5aOUN5eDVHVGhHMEVxMld3bmFBZ09tdlhvNVpCRDFQUktzSEF4RTF0QzhIbjdWWXZDYUV5RkhVaFE3aHAzSWw5LVF2ejBHbzVYc085WjJoU0tQaXFKMVIwQS1HZDRNbTQ4Zw?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 03 Nov 2025 15:19:27 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2025-11-04T03:09:41.259064"
+      "fetched_at": "2025-11-04T04:22:00.233083"
     },
     {
       "id": "222574479599",
@@ -2868,7 +2904,7 @@
       "published": "Mon, 03 Nov 2025 15:09:25 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.996945"
+      "fetched_at": "2025-11-04T04:21:59.764340"
     },
     {
       "id": "9b2d8db07e52",
@@ -2880,7 +2916,7 @@
       "published": "Mon, 03 Nov 2025 15:04:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.881067"
+      "fetched_at": "2025-11-04T04:21:58.514770"
     },
     {
       "id": "b1f9e35664d9",
@@ -2892,7 +2928,7 @@
       "published": "Mon, 03 Nov 2025 14:46:28 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.746297"
+      "fetched_at": "2025-11-04T04:22:01.521886"
     },
     {
       "id": "3ef20b175e46",
@@ -2904,7 +2940,7 @@
       "published": "Mon, 03 Nov 2025 14:34:02 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-11-04T03:09:40.988594"
+      "fetched_at": "2025-11-04T04:21:59.977972"
     },
     {
       "id": "56cba3451bd8",
@@ -2916,7 +2952,7 @@
       "published": "Mon, 03 Nov 2025 14:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.881086"
+      "fetched_at": "2025-11-04T04:21:58.514788"
     },
     {
       "id": "9f41f6196a62",
@@ -2928,7 +2964,7 @@
       "published": "Mon, 03 Nov 2025 14:22:18 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:40.705153"
+      "fetched_at": "2025-11-04T04:21:59.936330"
     },
     {
       "id": "79451db1b614",
@@ -2940,19 +2976,19 @@
       "published": "Mon, 03 Nov 2025 14:22:11 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.954181"
+      "fetched_at": "2025-11-04T04:22:02.048284"
     },
     {
       "id": "ba6cb3167c81",
       "title": "MMQB: What comes next in Winnipeg, Calgary? - CFL.ca",
-      "description": "MMQB: What comes next in Winnipeg, Calgary?&nbsp;&nbsp;CFL.caWinnipeg Blue Bombers’ roller-coaster season crashes to an end&nbsp;&nbsp;Winnipeg Free Press'Definitely unsettling': Blue Bombers clean out lockers after falling short of making Grey Cup game as hosts&nbsp;&nbsp;CBCCollaros wants to conti",
+      "description": "MMQB: What comes next in Winnipeg, Calgary?&nbsp;&nbsp;CFL.caBlue Bombers not chintzy, bound by cap: O'Shea&nbsp;&nbsp;Winnipeg SunWinnipeg Blue Bombers’ roller-coaster season crashes to an end&nbsp;&nbsp;Winnipeg Free PressUpon Further Review | Exit Day&nbsp;&nbsp;Winnipeg Blue Bombers“Definitely u",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nQ3NZajk2clNFdUE4Q0JlenRLcDM4WjBHWTBwcDhsVmFrQmhFc3NXS2tNd1pTRWYycVM3UzNHUm9Pa1VkUm9RdXdjbWNmVGtISksyQmI2Y0F4XzlRZHI3ZFNQVmF6R19IQXRQNXI2UTZxdWN0UGZaQ3VzMA?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 03 Nov 2025 14:19:47 GMT",
-      "location": "Vancouver",
+      "location": "Toronto",
       "category": "sports",
-      "fetched_at": "2025-11-04T03:09:41.584784"
+      "fetched_at": "2025-11-04T04:22:00.675013"
     },
     {
       "id": "ecec8e31568c",
@@ -2964,98 +3000,62 @@
       "published": "Mon, 03 Nov 2025 14:06:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-11-04T03:09:39.881104"
-    },
-    {
-      "id": "afd5368d5896",
-      "title": "Federal government rejects $28,000 raise proposal for judges",
-      "description": "In July, the commission recommended the government increase the 'inadequate' salaries by $28,000 for most federally-appointed judges",
-      "url": "https://nationalpost.com/news/politics/federal-government-rejects-28000-raise-proposal-for-judges",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/10/Sean-Fraser-3.jpg",
-      "published": "Mon, 03 Nov 2025 14:04:05 +0000",
-      "location": "World",
-      "category": "politics",
-      "fetched_at": "2025-11-04T03:09:40.415119"
-    },
-    {
-      "id": "34db4fc14385",
-      "title": "How science in space is helping rehab patients on Earth",
-      "description": "The research led by Ottawa's Dr. Guy Trudel is one of four new Canadian studies to be conducted aboard the International Space Station.",
-      "url": "https://ottawacitizen.com/news/science-space-helping-rehab-patients",
-      "source": "Ottawa Citizen",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 14:00:46 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2025-11-04T03:09:42.503966"
-    },
-    {
-      "id": "318f8abeb2ad",
-      "title": "B.C. forestry summit called as industry being hammered by U.S. fees - Business News - Castanet",
-      "description": "B.C. forestry summit called as industry being hammered by U.S. fees - Business News&nbsp;&nbsp;CastanetDavid Eby seeks commitment on $1.2B aid package, EI reform at forestry meeting&nbsp;&nbsp;Vancouver SunB.C. won’t run ads targeting U.S. homeowners after Ontario backlash&nbsp;&nbsp;The Globe and M",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2xvVnRqb3N6Vjc0SUFqZDl0NWt5RlVEUDd6M2JkYVNYbTM1MlVMQ05iWmZxMXJkejVKZlVEV0xUVFZmcHdITDQyZklKWmFrbGdMMWo3eENTTEVuekpOeEl6UWhua0JHZGQtUDNyRjdueGxZaUlMeXY0aU5SbHRjcnVmTWxrMUMzQWNBSWJ4b1ZKZnpISDNfQWxPS0NXRm5qcFhCbVZGcHBfeE1pcGxtbA?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 03 Nov 2025 13:59:00 GMT",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-11-04T03:09:41.259157"
+      "fetched_at": "2025-11-04T04:21:58.514806"
     }
   ],
   "sources": [
-    "Google News Canada",
-    "Montreal Gazette",
-    "Science Daily",
-    "Google News Business",
-    "Vancouver Sun",
-    "BBC World",
-    "National Post Politics",
-    "CNN World",
-    "Global Politics",
-    "Al Jazeera",
-    "Calgary Sun",
-    "CityNews Calgary",
-    "Global News",
-    "Wired",
-    "CityNews Montreal",
-    "CityNews Vancouver",
-    "Edmonton Journal",
-    "CityNews Toronto",
-    "CityNews Edmonton",
-    "Ottawa Citizen",
     "CityNews Ottawa",
-    "Financial Post",
-    "APTN News",
-    "National Post",
-    "Google News Sports",
-    "Globe Business",
+    "Global Politics",
     "Google News Tech",
     "TechCrunch",
+    "Globe Business",
+    "APTN News",
+    "CityNews Montreal",
+    "Google News Sports",
+    "National Post Politics",
     "The Guardian",
-    "BetaKit"
+    "BetaKit",
+    "BBC World",
+    "National Post",
+    "CNN World",
+    "Calgary Sun",
+    "Vancouver Sun",
+    "Science Daily",
+    "CityNews Calgary",
+    "CityNews Edmonton",
+    "Global News",
+    "Google News Business",
+    "CityNews Toronto",
+    "CityNews Vancouver",
+    "Edmonton Journal",
+    "Wired",
+    "Montreal Gazette",
+    "Ottawa Citizen",
+    "Al Jazeera",
+    "Google News Canada",
+    "Financial Post"
   ],
   "stats": {
     "by_location": {
-      "Toronto": 26,
-      "World": 117,
+      "Toronto": 23,
+      "World": 123,
+      "Vancouver": 20,
+      "Canada": 32,
       "Edmonton": 14,
-      "Vancouver": 19,
-      "Montreal": 16,
-      "Canada": 33,
+      "Montreal": 15,
       "Calgary": 9,
-      "Ottawa": 16
+      "Ottawa": 14
     },
     "by_category": {
-      "local": 104,
+      "local": 103,
       "world": 36,
-      "business": 24,
-      "technology": 32,
+      "technology": 31,
+      "canada": 29,
+      "business": 25,
       "indigenous": 5,
-      "canada": 28,
-      "sports": 10,
-      "science": 1,
-      "politics": 10
+      "sports": 9,
+      "politics": 9,
+      "science": 3
     },
     "source_count": 30
   }
