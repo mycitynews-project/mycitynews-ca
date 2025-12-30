@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-30T12:54:09.941839",
+  "last_updated": "2025-12-30T14:32:09.824906",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 24 Dec 2025 18:47:59 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-12-30T12:42:25.157184"
+      "fetched_at": "2025-12-30T14:20:25.555242"
     },
     {
       "id": "8b17a650eb12",
@@ -24,7 +24,7 @@
       "published": "Wed, 24 Dec 2025 18:44:47 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2025-12-30T12:42:25.157228"
+      "fetched_at": "2025-12-30T14:20:25.566086"
     },
     {
       "id": "48690255ef88",
@@ -36,7 +36,7 @@
       "published": "Wed, 24 Dec 2025 16:29:03 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-12-30T12:42:25.157288"
+      "fetched_at": "2025-12-30T14:20:25.566150"
     },
     {
       "id": "729c8220ef49",
@@ -48,7 +48,7 @@
       "published": "Wed, 24 Dec 2025 12:00:43 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.733565"
+      "fetched_at": "2025-12-30T14:20:27.941728"
     },
     {
       "id": "f311d57f0b17",
@@ -60,7 +60,7 @@
       "published": "Wed, 24 Dec 2025 12:00:21 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.733601"
+      "fetched_at": "2025-12-30T14:20:27.941765"
     },
     {
       "id": "f23ffc117cd0",
@@ -72,19 +72,463 @@
       "published": "Wed, 24 Dec 2025 00:05:58 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-12-30T12:42:25.157337"
+      "fetched_at": "2025-12-30T14:20:25.566206"
     },
     {
-      "id": "91d5692ca930",
-      "title": "7 things you may not know about dividends",
-      "description": "I recently dug into the pros and cons of dividend reinvestment. Readers of the article sent me questions about other dividend-related topics. Here are some of the most common questions I got: What should I know about reinvested dividends and wash sales? Reinvesting dividends means purchasing additio",
-      "url": "https://financialpost.com/pmn/7-things-you-may-not-know-about-dividends",
+      "id": "c2deb550f443",
+      "title": "Record label sues NewJeans K-pop star for $30m after bitter feud",
+      "description": "Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain.",
+      "url": "https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7403/live/aaf57e70-e499-11f0-9890-3187c4f9b06f.jpg",
+      "published": "Tue, 30 Dec 2025 14:14:18 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.887762"
+    },
+    {
+      "id": "322767c10032",
+      "title": "Icy sidewalks and flu surge strain Montreal emergency rooms",
+      "description": "Freezing rain and icy sidewalks sent several Montrealers to already overcrowded emergency rooms Monday morning, worsening pressure on a health-care system grappling with a severe flu season. At least seven people with fractures and concussions were treated at the Centre hospitalier de l’Université d",
+      "url": "https://montreal.citynews.ca/2025/12/30/icy-sidewalks-and-flu-surge-strain-montreal-emergency-rooms/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:10:27 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.620340"
+    },
+    {
+      "id": "95779c5820f0",
+      "title": "With a rising threat of separatism in Quebec, Carney’s Liberals don’t have a strategy yet",
+      "description": "Former Quebec lieutenant Steven Guilbeault had started to map out a federal strategy to respond to the PQ, but it was very early stages, Liberal sources said",
+      "url": "https://nationalpost.com/news/politics/mark-carney-quebec-separatism",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:10:07 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-12-30T14:20:25.691137"
+    },
+    {
+      "id": "1a9345a6a0fd",
+      "title": "China conducts military drills with live rounds around Taiwan for second day",
+      "description": "China's People's Liberation Army staged a second day of large-scale military drills around Taiwan on Tuesday, unleashing a live-fire show of force.",
+      "url": "https://globalnews.ca/news/11594044/china-taiwan-military-drills-2/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/12/CP218355167.jpg?quality=65&strip=all",
+      "published": "Tue, 30 Dec 2025 14:09:40 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-12-30T14:20:25.458981"
+    },
+    {
+      "id": "fdf76986e02c",
+      "title": "Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port",
+      "description": "The UAE denies Saudi claims it sent a shipment of weapons to separatists and pushed them to launch offensives against the Yemeni government.",
+      "url": "https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5556/live/82d26b70-e583-11f0-a8dc-93c15fe68710.jpg",
+      "published": "Tue, 30 Dec 2025 14:08:40 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.887677"
+    },
+    {
+      "id": "456ee628ce0e",
+      "title": "TruePath Vision Expands AI Platform with Weapon Detection to Enhance Safety in Hotels, Schools, and Public Venues",
+      "description": "CHARLOTTESVILLE, Va. &#8212; TruePath Vision, an AI computer-vision company originally founded to combat human trafficking, today announced the launch of its weapon detection capability—expanding the platform to support real-time threat awareness and active shooter risk mitigation in hotels, resorts",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/truepath-vision-expands-ai-platform-with-weapon-detection-to-enhance-safety-in-hotels-schools-and-public-venues",
       "source": "Financial Post",
       "image": "",
-      "published": "Tue, 30 Dec 2025 12:40:23 +0000",
+      "published": "Tue, 30 Dec 2025 14:08:30 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.782612"
+      "fetched_at": "2025-12-30T14:20:25.683310"
+    },
+    {
+      "id": "8b51dbdfd3a3",
+      "title": "Three Key Trends CoStar Says Are Likely to Shape Canada’s Real Estate Market in 2026",
+      "description": "ARLINGTON, Va. &#8212; CoStar, the leading global provider of online real estate marketplaces, information and analytics in the property markets, today released the three key trends that will likely shape Canada’s real estate market outlook in 2026. An economy in structural transition In 2025, Canad",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/three-key-trends-costar-says-are-likely-to-shape-canadas-real-estate-market-in-2026",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:08:24 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:25.683363"
+    },
+    {
+      "id": "26e4a36f936a",
+      "title": "Hannover Life Reassurance Company of America Announces Leadership Transition Changes",
+      "description": "ORLANDO, Fla. &#8212; Hannover Life Reassurance Company of America (Hannover Re US) announces an update to key leadership appointment, effective January 1, 2026. Tiffany Norman will become President and CEO of Hannover Re US, succeeding Pete Schaefer, who will retire on December 31, 2025. The appoin",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hannover-life-reassurance-company-of-america-announces-leadership-transition-changes",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:08:19 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:25.683406"
+    },
+    {
+      "id": "40fa7c92310c",
+      "title": "This town hit -55.7 C — Canada’s coldest temperature in 50 years",
+      "description": "Braeburn experienced a depth of cold that has never been known in most of the world’s countries",
+      "url": "https://nationalpost.com/opinion/canadas-coldest-temperature-in-50-years",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:06:47 +0000",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-12-30T14:20:25.691173"
+    },
+    {
+      "id": "0393a0ee68d0",
+      "title": "TerrAscend Increases Retail Footprint in New Jersey with Closing of Union Chill Dispensary Transaction",
+      "description": "Expands New Jersey retail footprint to four dispensaries Dispensary generates over $11 million in annualized revenue and is expected to be immediately accretive to EBITDA and cashflow Transaction further solidifies TerrAscend’s leadership position in state TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8",
+      "url": "https://financialpost.com/globe-newswire/terrascend-increases-retail-footprint-in-new-jersey-with-closing-of-union-chill-dispensary-transaction",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:04:52 +0000",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:25.683441"
+    },
+    {
+      "id": "4fed0410987d",
+      "title": "TRC Capital Investment Corporation Announces Cash Tender Offer for 4.350% Debentures, Series M-39, Due 2045 of Bell Canada",
+      "description": "TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; TRC Capital Investment Corporation (TRC or the Company) today announced that it has commenced a cash tender offer (the Tender Offer) to purchase up to $95,000,000 in principal amount of 4.350% Debentures, Series M-39, Due 2045 of Bell Canada (the Deben",
+      "url": "https://financialpost.com/globe-newswire/trc-capital-investment-corporation-announces-cash-tender-offer-for-4-350-debentures-series-m-39-due-2045-of-bell-canada",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:04:47 +0000",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:25.683470"
+    },
+    {
+      "id": "0e9f1d7848e3",
+      "title": "Goldman Helps Lead Financing for 5-Gigawatt Texas AI Power Sites",
+      "description": "Goldman Sachs Group Inc. is co-leading financing for a Texas project to build private power campuses for artificial intelligence.",
+      "url": "https://financialpost.com/pmn/business-pmn/goldman-helps-lead-financing-for-5-gigawatt-texas-ai-power-sites",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:01:20 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:25.683499"
+    },
+    {
+      "id": "d9e0fa526866",
+      "title": "Meet the young Vancouver magician making a name for herself on the international stage",
+      "description": "Vancouver magician is part of an international group for new live tour",
+      "url": "https://vancouversun.com/entertainment/meet-the-young-vancouver-magician-international-stage",
+      "source": "Vancouver Sun",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:00:46 +0000",
+      "location": "Vancouver",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.927124"
+    },
+    {
+      "id": "172d7e89f4af",
+      "title": "U.S. removal of panels on Black WWII soldiers in Netherlands draws backlash",
+      "description": "The removal, carried out without public explanation, has angered Dutch officials, families of U.S. soldiers and the local residents who care for the graves.",
+      "url": "https://globalnews.ca/news/11594042/us-panels-black-wwii-soldiers-netherlands/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/12/WW2-Black-soldiers.jpg?quality=65&strip=all",
+      "published": "Tue, 30 Dec 2025 14:00:45 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-12-30T14:20:25.459015"
+    },
+    {
+      "id": "1764ea6c66f1",
+      "title": "Iconic Driediger Farms property in Langley sells for over $23 million",
+      "description": "The property on 240th Street in the heart of Langley's ALR is one of three sold by owner-operator Rhonda Driediger in 2025",
+      "url": "https://vancouversun.com/news/iconic-driediger-farms-property-langley-sells-for-over-23-million",
+      "source": "Vancouver Sun",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:00:14 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.927158"
+    },
+    {
+      "id": "8ecf316220c7",
+      "title": "Donations fade, costs rise: Lapu Lapu Day attack survivors and their families still fighting to survive",
+      "description": "Many survivors of the Vancouver attack are facing mounting costs for rent, food and specialized therapy, while community donations that initially sustained them are running out",
+      "url": "https://vancouversun.com/news/lapu-lapu-day-vancouver-attack-survivors-families-fighting-survive-donations-fade-costs-rise",
+      "source": "Vancouver Sun",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:00:14 +0000",
+      "location": "Vancouver",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.927183"
+    },
+    {
+      "id": "320f19e131e4",
+      "title": "Here’s what you should know about the US TikTok deal",
+      "description": "A number of investors are competing for the opportunity to purchase the app, and if a deal were to go through, the platform's U.S. business could have its valuation soar to upward of $60 billion.",
+      "url": "https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2025-12-30T14:20:25.568544"
+    },
+    {
+      "id": "313402e156f2",
+      "title": "I’m worried it will be challenging to report to someone who is much younger than me",
+      "description": "Reach out early and share what you’re good at, what you know about the department and genuinely ask how you can support their goals, suggests one expert",
+      "url": "https://www.theglobeandmail.com/business/careers/talent/article-im-worried-it-will-be-challenging-to-report-to-someone-who-is-much/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/44QQKYAVMJAC5HL3TC2O4ONUVU.jpg?auth=3833f8a14eccdc71f6a2394b4ac1e1de79a5ddbd3bf4ca96dd8605bfbf0dc4ef&smart=true&width=2120&height=1414",
+      "published": "Tue, 30 Dec 2025 14:00:00 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:26.318513"
+    },
+    {
+      "id": "ac57d2dba09d",
+      "title": "These executives got extra rich off gold and silver’s astronomical gains this year",
+      "description": "Investors of all stripes have benefited from the soaring prices of these precious metals – but executives may be the biggest winners",
+      "url": "https://www.theglobeandmail.com/business/article-gold-silver-prices-gains-investors-executives/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/CN6NDH6TVNBUTD736VAHD3NFO4.JPG?auth=99a8a90fb1e8a9345861088be0db3abeb9714b73770daf641f64563b6af3774f&smart=true&width=5776&height=3985",
+      "published": "Tue, 30 Dec 2025 14:00:00 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:26.318539"
+    },
+    {
+      "id": "98fd85632708",
+      "title": "Ottawa braces for cold snap",
+      "description": "The mild temperatures of late have officially ended as residents of Ottawa woke up to temperatures hovering around -13 C. Temperatures are expected to be in the negative double digits until Saturday, with the exception of Friday which has a high of -9 C. With the windchill, it could feel closer to -",
+      "url": "https://ottawa.citynews.ca/2025/12/30/ottawa-braces-for-cold-snap/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 14:00:00 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.868876"
+    },
+    {
+      "id": "3c6227a54439",
+      "title": "Eurostar cancels all trains out of London as power outage hits Channel Tunnel",
+      "description": "Le Shuttle has also had to suspend services between Folkestone and Calais over a \"power supply issue\".",
+      "url": "https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3633/live/b2d702f0-e582-11f0-aae2-2191c0e48a3b.png",
+      "published": "Tue, 30 Dec 2025 13:49:57 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.887629"
+    },
+    {
+      "id": "63577f9d189a",
+      "title": "Cycurion Closes Transformative 2025 with $80 Million Contracted Backlog and Book Value of $2.00 Per Share – Accelerating into 2026",
+      "description": "Review of Accomplishment Rich 2025 Year with High Value Projections for 2026 as Cybersecurity Protection Becomes Increasingly Vital to Everyone MCLEAN, Va., Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; Cycurion, Inc. (NASDAQ: CYCU) (“Cycurion” or the “Company”), a leading AI driven, tech-enabled cybersecu",
+      "url": "https://financialpost.com/globe-newswire/cycurion-closes-transformative-2025-with-80-million-contracted-backlog-and-book-value-of-2-00-per-share-accelerating-into-2026",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:49:32 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:25.683541"
+    },
+    {
+      "id": "fecd0edee71b",
+      "title": "Saudi Arabia bombs Yemen port over weapons shipment from UAE",
+      "description": "Saudi Arabia bombed Yemen's port city of Mukalla on Tuesday after a weapons shipment from the United Arab Emirates arrived for separatist forces in the war-torn country.",
+      "url": "https://globalnews.ca/news/11594022/saudi-arabia-bombs-yemen-united-arab-emirates/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/12/5d6025bb99115b186d170813ada4613bb16cabf7a9fcb0ebcc78d7810ab32783.jpg?quality=65&strip=all",
+      "published": "Tue, 30 Dec 2025 13:48:04 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-12-30T14:20:25.459039"
+    },
+    {
+      "id": "bce9002c7105",
+      "title": "Have Russian claims of Ukraine attack on Putin home ended hopes for peace?",
+      "description": "Ukrainian President Zelenskyy denies that Kyiv attacked the Novgorod residence of Russian President Putin.",
+      "url": "https://www.aljazeera.com/news/2025/12/30/have-russian-claims-of-ukraine-attack-on-putin-home-ended-hopes-for-peace?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:45:22 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.584713"
+    },
+    {
+      "id": "dc259336b185",
+      "title": "Vanguard Investments Canada Announces Final 2025 Annual Capital Gains Distributions for the Vanguard ETFs®",
+      "description": "VRE, VDY, VCE, VCN, VFV, VSP, VUN, VUS, VGG, VGH, VE, VDU, VEF, VIU, VI, VEE, VA, VXC, VVO, VMO, VVL, VCNS, VBAL, VGRO, VCIP, VEQT, VIDY, VRIF, VAB, VSB, VSC, VCB, VGV, VLB and VVSG TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; Vanguard Investments Canada Inc. today announced the final annual capi",
+      "url": "https://financialpost.com/globe-newswire/vanguard-investments-canada-announces-final-2025-annual-capital-gains-distributions-for-the-vanguard-etfs",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:44:27 +0000",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:25.683571"
+    },
+    {
+      "id": "4903165b04ec",
+      "title": "Trump threatens Hamas while praising Israel on Gaza ceasefire",
+      "description": "Trump says Israel has complied with the Gaza ceasefire as he urges Netanyahu to move to phase two.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/trump-threatens-hamas-while-praising-israel-on-gaza-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:42:25 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.584747"
+    },
+    {
+      "id": "b0cda3c8342e",
+      "title": "Safe & Green Holdings Adjourns 2025 Annual Meeting Due to Lack of Quorum; Sets Virtual Reconvening for Jan. 14",
+      "description": "Company to Continue Proxy Solicitation; No Changes to Proposals or Record Date CONROE, Texas, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; via IBN &#8212; Safe &#38; Green Holdings Corp. (NASDAQ: SGBX) (“Safe &#38; Green” or the “Company”) today announced that its 2025 Annual Meeting of Stockholders, orig",
+      "url": "https://financialpost.com/globe-newswire/safe-sets-virtual-reconvening-for-jan-14",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:34:22 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:25.683610"
+    },
+    {
+      "id": "b5935723eecf",
+      "title": "Global Water Resources Declares Monthly Dividend",
+      "description": "PHOENIX, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; Global Water Resources, Inc. (NASDAQ: GWRS), a pure-play water resource management company, has declared under its dividend policy a monthly cash dividend in the amount of $0.02533 per common share (an annual dividend rate of $0.30396 per share). The d",
+      "url": "https://financialpost.com/globe-newswire/global-water-resources-declares-monthly-dividend-62",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:34:17 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:25.683642"
+    },
+    {
+      "id": "3beeccf078de",
+      "title": "New Syrian banknotes unveiled amid push to rebuild economy",
+      "description": "President Ahmed al-Sharaa has unveiled Syria’s revamped currency in Damascus.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/new-syrian-banknotes-unveiled-amid-push-to-rebuild-economy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:33:45 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.584781"
+    },
+    {
+      "id": "bcab0020131a",
+      "title": "Carney discusses U.S.-led Russia-Ukraine peace efforts with EU leaders",
+      "description": "Prime Minister Mark Carney met with leaders from Europe on U.S.-led peace efforts to end the nearly four-year war between Russia and Ukraine.",
+      "url": "https://globalnews.ca/news/11594015/mark-carney-european-union-meeting-russia-ukraine/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/12/453535c4834db729d491f0e0558faa75c5ea4d310fc65acd2c017b23b6efd1bb.jpg?quality=65&strip=all",
+      "published": "Tue, 30 Dec 2025 13:19:16 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-12-30T14:20:25.459061"
+    },
+    {
+      "id": "eebcdc47231b",
+      "title": "‘It’s going to be a bloodbath’: What will 2026 bring for Montreal’s Rizzuto clan after year of reckoning?",
+      "description": "From historic arrests to a shooting outside a provincial jail, 2025 marked one of the most turbulent periods in decades for Montreal’s alleged Rizzuto crime family, with experts warning the fallout is far from over. “No matter how many arrests you make, no matter how many jailings or convictions, th",
+      "url": "https://montreal.citynews.ca/2025/12/30/2025-reckoning-rizzuto-clan/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:08:05 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.620398"
+    },
+    {
+      "id": "cefd8b7a5eb0",
+      "title": "Watermain break closes section of road in Mississauga",
+      "description": "Crews are working to repair a watermain break that has resulted in the closure of a portion of Hurontario Street in Mississauga. Peel police say northbound Hurontario from Dundas Street is closed, and drivers are asked to avoid the area. Peel Region tells CityNews that operations staff are investiga",
+      "url": "https://toronto.citynews.ca/2025/12/30/watermain-break-closes-busy-mississauga-road/",
+      "source": "CityNews Toronto",
+      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2025/12/30/watermain-break-1024x478.png",
+      "published": "Tue, 30 Dec 2025 13:04:43 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.314741"
+    },
+    {
+      "id": "fc21c232e5e5",
+      "title": "What is Lebanon’s ‘gap law’ that attempts to end the financial crisis?",
+      "description": "Lebanon&#039;s cabinet has passed a draft law aimed at repaying depositors up to $100,000 of their own money.",
+      "url": "https://www.aljazeera.com/news/2025/12/30/what-is-lebanons-gap-law-that-attempts-to-end-the-financial-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:02:51 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.584812"
+    },
+    {
+      "id": "78b2aca2087e",
+      "title": "Here are the new laws and rules for Ontario starting in the new year",
+      "description": "From increased impaired driving fines to more Vitamin D in your dairy, here's a look at some of the most significant changes taking effect in 2026.",
+      "url": "https://globalnews.ca/news/11590187/new-laws-and-rules-ontario-2026/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/12/37489f87230a09e8699af0714fda20d6d25f9116dff25ea89e721cab9330baca.jpg?quality=65&strip=all",
+      "published": "Tue, 30 Dec 2025 13:00:26 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2025-12-30T14:20:25.459083"
+    },
+    {
+      "id": "bc9a7c01ae7f",
+      "title": "LIVE: Uganda vs Nigeria – AFCON 2025",
+      "description": "Follow the build-up, analysis and live text commentary of the game as Uganda seek to upset Nigeria to reach last 16.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2025/12/30/live-uganda-vs-nigeria-afcon-2025?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 13:00:00 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.584841"
+    },
+    {
+      "id": "31599594eb79",
+      "title": "Displaced Palestinians lose shelters as heavy rain floods camp",
+      "description": "Heavy rain has flooded displacement camps in Gaza, submerging tents and the belongings of families in mud and water.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/displaced-palestinians-lose-shelters-as-heavy-rain-floods-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 12:57:35 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.584870"
+    },
+    {
+      "id": "f959b73cffa5",
+      "title": "Channel tunnel operator announces ‘gradual’ train traffic resumption - CTV News",
+      "description": "Channel tunnel operator announces ‘gradual’ train traffic resumption&nbsp;&nbsp;CTV NewsChannel Tunnel says services will 'gradually resume' after Eurostar suspends trains&nbsp;&nbsp;BBCEurostar suspends 'all trains' between London and Europe&nbsp;&nbsp;DWEurostar latest: Queues building as all serv",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2JvZzFsOVRLN0NwQVJMMHh2Zm8ySmYybUU0U3I3TWxfVnpSdEZfNUZ2VU1iMUNTdEtBdVNnM2VCWjRSZVN1UXhQV1ZtbUtXN0JFSWd4QkIzejRpUzRxdVZqMmNEVUhWb09aTko1ZWRhNkdKRVV4c015RVgxSGFEelNCRW1tdFh3WjlFMlNB?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 12:50:58 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-12-30T14:20:27.245950"
+    },
+    {
+      "id": "42fcb6eef50f",
+      "title": "Thousands still without power after winter storm in Ontario, utility says",
+      "description": "Ontario&#8217;s largest electric utility says high winds in parts of the province could cause more outages today as crews work to restore power to thousands still in the dark after a storm that pelted some regions with snow and freezing rain. Hydro One says challenging road conditions are slowing do",
+      "url": "https://toronto.citynews.ca/2025/12/30/thousands-still-without-power-after-winter-storm-in-ontario-utility-says/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 12:48:21 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.314781"
     },
     {
       "id": "4b79d3989806",
@@ -96,79 +540,7 @@
       "published": "Tue, 30 Dec 2025 12:36:22 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.106850"
-    },
-    {
-      "id": "f9bddc526e57",
-      "title": "ZenaTech Completes Three Acquisitions Accelerating North American Drone-as-a-Service Expansion and Service Capabilities",
-      "description": "VANCOUVER, British Columbia, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (&#8220;ZenaTech&#8221;), a technology company specializing in AI (Artificial Intelligence) drone, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, ann",
-      "url": "https://financialpost.com/globe-newswire/zenatech-completes-three-acquisitions-accelerating-north-american-drone-as-a-service-expansion-and-service-capabilities",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 12:33:41 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.782672"
-    },
-    {
-      "id": "4d6ea18ac087",
-      "title": "AMAYA BIG SKY CAPITAL ANNOUNCES TSXV CONDITIONAL ACCEPTANCE AND FILING OF FILING STATEMENT FOR QUALIFYING TRANSACTION",
-      "description": "Vancouver, B.C., Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; Amaya Big Sky Capital Corp. (“Amaya” or the “Company”) (TSX-V: AMYA.P), a capital pool company pursuant to Policy 2.4 of the TSX Venture Exchange (the “TSX-V”), is pleased to provide an update with respect to its proposed Qualifying Transaction",
-      "url": "https://financialpost.com/globe-newswire/amaya-big-sky-capital-announces-tsxv-conditional-acceptance-and-filing-of-filing-statement-for-qualifying-transaction",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 12:33:36 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.782740"
-    },
-    {
-      "id": "c4491b2aaa88",
-      "title": "Pasinex Completes Horzum A.Ş. Share Transfer and Provides Operational Update at Pinargözü Mine",
-      "description": "TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; Pasinex Resources Limited (CSE: PSE; FSE: PNX) (“Pasinex” or the “Company”) is pleased to provide an update further to its news release dated December 12, 2025, regarding the acquisition of full ownership of Horzum A.Ş., which operates the high grade P",
-      "url": "https://financialpost.com/globe-newswire/pasinex-completes-horzum-a-s-share-transfer-and-provides-operational-update-at-pinargozu-mine",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 12:33:31 +0000",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.782801"
-    },
-    {
-      "id": "1105b90b47a5",
-      "title": "Purpose Investments Inc. Announces Final December 2025 Distribution Rate for Purpose High Interest Savings Fund, Purpose US Cash Fund, Purpose Cash Management Fund, and Purpose USD Cash Management Fun",
-      "description": "TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; Purpose Investments Inc. announced today the final December 2025 distribution rates for Purpose High Interest Savings Fund, Purpose US Cash Fund, Purpose Cash Management Fund, and Purpose USD Cash Management Fund. The following table reflects the final",
-      "url": "https://financialpost.com/globe-newswire/purpose-investments-inc-announces-final-december-2025-distribution-rate-for-purpose-high-interest-savings-fund-purpose-us-cash-fund-purpose-cash-management-fund-and-purpose-usd-cash-management-fun",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 12:33:26 +0000",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.782851"
-    },
-    {
-      "id": "44ec8bd1692f",
-      "title": "AGF Investments Announces Final Distributions for AGF Investments ETFs for 2025",
-      "description": "TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; AGF Investments Inc. (AGF Investments) today announced the final December 2025 cash distributions and annual 2025 reinvested capital gains distributions for the AGF Investments ETFs listed on the Toronto Stock Exchange or Cboe Canada Inc. Unitholders o",
-      "url": "https://financialpost.com/globe-newswire/agf-investments-announces-final-distributions-for-agf-investments-etfs-for-2025",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 12:33:21 +0000",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.782902"
-    },
-    {
-      "id": "b946c0ccc9c8",
-      "title": "Revival Gold 2025 Year in Review",
-      "description": "TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; Revival Gold Inc. (TSXV: RVG, OTCQX: RVLGF) (“Revival Gold” or the “Company”) is pleased to provide a review of the Company’s key accomplishments in 2025, delivering value for our owners and advancing Revival Gold’s portfolio of gold development projec",
-      "url": "https://financialpost.com/globe-newswire/revival-gold-2025-year-in-review",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 12:33:17 +0000",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.782953"
+      "fetched_at": "2025-12-30T14:20:26.318605"
     },
     {
       "id": "88ad06207f1f",
@@ -180,7 +552,7 @@
       "published": "Tue, 30 Dec 2025 12:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.227094"
+      "fetched_at": "2025-12-30T14:20:25.654656"
     },
     {
       "id": "4b4ebd1047bc",
@@ -188,11 +560,35 @@
       "description": "Move is part of China’s push to build a self-sufficient semiconductor supply chain",
       "url": "https://www.theglobeandmail.com/world/article-china-50-domestic-equipment-rule-chipmakers/",
       "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/A6URU3HNSNEMTB5YSV7ZUXK7F4.JPG?auth=b9c2793fd2a9e98989e4809bef2be52f282ab659466a0b940ac3e0a5842880b2&smart=true&width=720&height=540",
+      "image": "https://www.theglobeandmail.com/resizer/v2/RWRRKCNZHFHJ3HJCSCAEJMG2OQ.JPG?auth=e6a169decd76fde8a62d769bd8819e5d4e311a250ae8850bbde118fbde2a362d&smart=true&width=6960&height=4640",
       "published": "Tue, 30 Dec 2025 12:22:57 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.106879"
+      "fetched_at": "2025-12-30T14:20:26.318561"
+    },
+    {
+      "id": "8de7c19d651f",
+      "title": "Thailand delays release ‍of Cambodian troops over alleged truce breaches",
+      "description": "While the ceasefire has held since Saturday, Thailand says Cambodia violated deal with drone flights over the border.",
+      "url": "https://www.aljazeera.com/news/2025/12/30/thailand-delays-release-of-cambodian-troops-over-alleged-truce-breaches?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 12:22:02 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.584901"
+    },
+    {
+      "id": "e556079aa515",
+      "title": "China’s drill around Taiwan shows it will “always respond forcefully”",
+      "description": "&quot;China would not be happy with anyone trying to help Taiwan strengthen its defences.&quot;",
+      "url": "https://www.aljazeera.com/video/quotable/2025/12/30/chinas-drill-around-taiwan-shows-it-will-always-respond?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 12:18:28 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2025-12-30T14:20:26.584929"
     },
     {
       "id": "d2b12b8330cd",
@@ -204,43 +600,7 @@
       "published": "Tue, 30 Dec 2025 12:13:05 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208193"
-    },
-    {
-      "id": "19919805744a",
-      "title": "Datavault AI Announces it will Exhibit at CES 2026 and Update Investors on Acoustics Division",
-      "description": "WiSA™, Data Vault™, Digital Twins, ADIO®, Events Citadel™, VerifyU™, and DVHolo™ on Exhibit January 6 to 9, 2026 in Las Vegas, Nevada PHILADELPHIA, Dec. 30, 2025 (GLOBE NEWSWIRE) &#8212; via IBN &#8212; Datavault AI Inc. (“Datavault AI” or the “Company”) (NASDAQ: DVLT), a leader in data monetization",
-      "url": "https://financialpost.com/globe-newswire/datavault-ai-announces-it-will-exhibit-at-ces-2026-and-update-investors-on-acoustics-division",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 12:07:51 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.783020"
-    },
-    {
-      "id": "f9758fb0f1ea",
-      "title": "CI Global Asset Management Announces Confirmed Annual Reinvested Capital Gains Distributions for the CI ETFs",
-      "description": "NOT FOR DISSEMINATION TO U.S. NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES OF AMERICA TORONTO &#8212; CI Global Asset Management (“CI GAM”) announces the confirmed annual reinvested capital gains distributions (the “Reinvested Distributions”) for the 2025 tax year for the CI ETFs list",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ci-global-asset-management-announces-confirmed-annual-reinvested-capital-gains-distributions-for-the-ci-etfs",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 12:06:20 +0000",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.783075"
-    },
-    {
-      "id": "fc8622ae5118",
-      "title": "German prosecutors will drop investigation of Russian magnate Usmanov upon payment of $11M fine",
-      "description": "BERLIN (AP) &#8212; German prosecutors say they will drop an investigation of Russian oligarch Alisher Usmanov, a close ally of President Vladimir Putin, over possible breaches of sanctions and money laundering rules after he agreed to pay a 10 million euro (about $11.8 million) fine. The Uzbekistan",
-      "url": "https://financialpost.com/pmn/german-prosecutors-will-drop-investigation-of-russian-magnate-usmanov-upon-payment-of-11m-fine",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 12:03:20 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.783130"
+      "fetched_at": "2025-12-30T14:20:27.620444"
     },
     {
       "id": "4822c0395b1f",
@@ -252,7 +612,7 @@
       "published": "Tue, 30 Dec 2025 12:01:44 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.829860"
+      "fetched_at": "2025-12-30T14:20:28.038758"
     },
     {
       "id": "98e7bf5e7273",
@@ -264,7 +624,7 @@
       "published": "Tue, 30 Dec 2025 12:00:46 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.624799"
+      "fetched_at": "2025-12-30T14:20:25.691204"
     },
     {
       "id": "ab123bb9df6e",
@@ -276,7 +636,7 @@
       "published": "Tue, 30 Dec 2025 12:00:21 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:24.953146"
+      "fetched_at": "2025-12-30T14:20:25.459103"
     },
     {
       "id": "9d1fe5a2a615",
@@ -288,7 +648,7 @@
       "published": "Tue, 30 Dec 2025 12:00:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.733443"
+      "fetched_at": "2025-12-30T14:20:27.941606"
     },
     {
       "id": "bfc2f57cfec6",
@@ -300,7 +660,7 @@
       "published": "Tue, 30 Dec 2025 12:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.227124"
+      "fetched_at": "2025-12-30T14:20:25.654692"
     },
     {
       "id": "d5a72400d768",
@@ -312,7 +672,7 @@
       "published": "Tue, 30 Dec 2025 11:48:54 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119326"
+      "fetched_at": "2025-12-30T14:20:26.584956"
     },
     {
       "id": "d3f8ed24a66e",
@@ -324,7 +684,7 @@
       "published": "Tue, 30 Dec 2025 11:45:05 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243436"
+      "fetched_at": "2025-12-30T14:20:27.314816"
     },
     {
       "id": "05c3cef6afae",
@@ -336,7 +696,7 @@
       "published": "Tue, 30 Dec 2025 11:43:26 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263908"
+      "fetched_at": "2025-12-30T14:20:26.887783"
     },
     {
       "id": "7be296b1a5d9",
@@ -348,7 +708,7 @@
       "published": "Tue, 30 Dec 2025 11:39:35 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119361"
+      "fetched_at": "2025-12-30T14:20:26.584981"
     },
     {
       "id": "e0f71290d2ee",
@@ -360,7 +720,7 @@
       "published": "Tue, 30 Dec 2025 11:38:44 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.106900"
+      "fetched_at": "2025-12-30T14:20:26.318625"
     },
     {
       "id": "0ebb0151fff6",
@@ -372,19 +732,7 @@
       "published": "Tue, 30 Dec 2025 11:38:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.227145"
-    },
-    {
-      "id": "2452a4d6bad9",
-      "title": "The Front Page 2025 Part Two: AI, data centres changing construction; Canada’s continued housing crisis - constructconnect.com",
-      "description": "The Front Page 2025 Part Two: AI, data centres changing construction; Canada’s continued housing crisis&nbsp;&nbsp;constructconnect.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT3VYMHg5RVk3RWh2UTNsOExuYVBwRmRNQVVJOTM4YkY3VUI3QXB2VWt0REU3bHZIWlhUM0t3VzJQX3NQVTl0cV8wZ3c0VFRsVHRJMkxKa2JGdDd3Z2lzaGcxSVJBR0N5RHR1c3dNdzB2SE80cVc3Y2xMM3NDUTRFVnNCNlJRNWhoVFdMTzViRnJ3MFoyRzNza2tQbzdZQTlfOUI2dlEzeU1iNFpseTZZVGtzVzEwZ1R2b3BLRWRTWXZSbXNNRjc1RjdXNWRaZDhTVTFjY0w5LUxSSmdvV2tMVFF2T3lSSVh3a3E1ODBWSERnTWZTTnc?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 11:36:08 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.068002"
+      "fetched_at": "2025-12-30T14:20:25.654715"
     },
     {
       "id": "c7d4cc412d1b",
@@ -396,19 +744,7 @@
       "published": "Tue, 30 Dec 2025 11:31:05 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.829889"
-    },
-    {
-      "id": "c5dc609ef356",
-      "title": "Bangladesh’s first female prime minister Khaleda Zia dies aged 79",
-      "description": "Bangladesh’s former prime minister Khaleda Zia has died at the age of 79 after a prolonged illness.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/bangladeshs-first-female-prime-minister-khaleda-zia-dies-aged-79?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 11:30:44 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119394"
+      "fetched_at": "2025-12-30T14:20:28.038789"
     },
     {
       "id": "93ad089f17a0",
@@ -420,31 +756,43 @@
       "published": "Tue, 30 Dec 2025 11:23:47 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.106919"
-    },
-    {
-      "id": "0bb71bf7cf0b",
-      "title": "Somalis rally against Israel’s world-first recognition of Somaliland",
-      "description": "Demonstrations sweep Somalia as the government seeks global diplomatic support.",
-      "url": "https://www.aljazeera.com/news/2025/12/30/somalis-rally-against-israels-world-first-recognition-of-somaliland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 11:21:40 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119423"
+      "fetched_at": "2025-12-30T14:20:26.318643"
     },
     {
       "id": "07cf473dc8bc",
-      "title": "European leaders to discuss US-led peace efforts as Russia-Ukraine tensions spike",
-      "description": "KYIV, Ukraine (AP) — European leaders were due to hold talks Tuesday on U.S.-led peace efforts to end the nearly four-year war between Russia and Ukraine, amid a flare-up in tensions between Moscow and Kyiv over Russian claims, denied by Ukraine, of a mass drone attack on a lakeside residence used b",
+      "title": "Leaders from Europe and Canada discuss US-led peace efforts as Russia-Ukraine tensions spike",
+      "description": "KYIV, Ukraine (AP) — Leaders from Europe and Canada held talks Tuesday on U.S.-led peace efforts to end the nearly four-year war between Russia and Ukraine, as Moscow and Kyiv sparred over Russian claims, denied by Ukraine, of a mass drone attack on a lakeside residence used by President Vladimir Pu",
       "url": "https://toronto.citynews.ca/2025/12/30/european-leaders-to-discuss-us-led-peace-efforts-as-russia-ukraine-tensions-spike/",
       "source": "CityNews Toronto",
       "image": "",
       "published": "Tue, 30 Dec 2025 11:20:41 +0000",
-      "location": "World",
+      "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243488"
+      "fetched_at": "2025-12-30T14:20:27.314863"
+    },
+    {
+      "id": "005099c5e417",
+      "title": "European leaders to discuss US-led peace efforts as Russia-Ukraine tensions spike",
+      "description": "KYIV, Ukraine (AP) — European leaders were due to hold talks Tuesday on U.S.-led peace efforts to end the nearly four-year war between Russia and Ukraine, amid a flare-up in tensions between Moscow and Kyiv over Russian claims, denied by Ukraine, of a mass drone attack on a lakeside residence used b",
+      "url": "https://montreal.citynews.ca/2025/12/30/european-leaders-to-discuss-us-led-peace-efforts-as-russia-ukraine-tensions-spike/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 11:20:41 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.620494"
+    },
+    {
+      "id": "c4c97326a4df",
+      "title": "European leaders to discuss US-led peace efforts as Russia-Ukraine tensions spike",
+      "description": "KYIV, Ukraine (AP) — European leaders were due to hold talks Tuesday on U.S.-led peace efforts to end the nearly four-year war between Russia and Ukraine, amid a flare-up in tensions between Moscow and Kyiv over Russian claims, denied by Ukraine, of a mass drone attack on a lakeside residence used b",
+      "url": "https://edmonton.citynews.ca/2025/12/30/european-leaders-to-discuss-us-led-peace-efforts-as-russia-ukraine-tensions-spike/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 11:20:41 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.984842"
     },
     {
       "id": "23000f951ae8",
@@ -456,7 +804,19 @@
       "published": "Tue, 30 Dec 2025 11:20:27 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263782"
+      "fetched_at": "2025-12-30T14:20:26.887604"
+    },
+    {
+      "id": "ca46872128fe",
+      "title": "Trump says U.S. struck dock on shore where he says alleged drug boats 'load up' - CBC",
+      "description": "Trump says U.S. struck dock on shore where he says alleged drug boats 'load up'&nbsp;&nbsp;CBCExclusive: CIA carried out drone strike on port facility on Venezuelan coast&nbsp;&nbsp;CNNTrump says US hit 'big facility' linked to alleged Venezuelan drug boats&nbsp;&nbsp;BBCTrump Says the U.S. Struck a",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42ZGpsRkU0ME93cWxBTTdJSFM2ZUZxcE1VUHoxdFJvSEtZbjZLejAwSDNWRXBjRjhJS250MXB1YlFwbTFXWEJVTTR2TDZ5YnVGNG1KajlrZnFidkVlNW9HWERXbjNsUl9xQkl3TC1oVGpQSEk5TU5J?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 11:04:30 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-12-30T14:20:27.246071"
     },
     {
       "id": "b3a69c063b4c",
@@ -468,7 +828,7 @@
       "published": "Tue, 30 Dec 2025 11:00:54 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.624838"
+      "fetched_at": "2025-12-30T14:20:25.691235"
     },
     {
       "id": "79a0f0f8a8f5",
@@ -480,7 +840,7 @@
       "published": "Tue, 30 Dec 2025 11:00:41 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.829915"
+      "fetched_at": "2025-12-30T14:20:28.038815"
     },
     {
       "id": "ff2df5b62bb4",
@@ -492,7 +852,7 @@
       "published": "Tue, 30 Dec 2025 11:00:39 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.624867"
+      "fetched_at": "2025-12-30T14:20:25.691279"
     },
     {
       "id": "d8b128c7df16",
@@ -504,7 +864,7 @@
       "published": "Tue, 30 Dec 2025 11:00:39 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.624897"
+      "fetched_at": "2025-12-30T14:20:25.691313"
     },
     {
       "id": "41dd84815b4a",
@@ -516,7 +876,7 @@
       "published": "Tue, 30 Dec 2025 11:00:32 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.624926"
+      "fetched_at": "2025-12-30T14:20:25.691343"
     },
     {
       "id": "83e5fe09eddd",
@@ -528,7 +888,7 @@
       "published": "Tue, 30 Dec 2025 11:00:25 +0000",
       "location": "Edmonton",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.624957"
+      "fetched_at": "2025-12-30T14:20:25.691374"
     },
     {
       "id": "9ce75e562135",
@@ -540,7 +900,7 @@
       "published": "Tue, 30 Dec 2025 11:00:17 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.624987"
+      "fetched_at": "2025-12-30T14:20:25.691406"
     },
     {
       "id": "69ec2ed3f3f6",
@@ -552,7 +912,7 @@
       "published": "Tue, 30 Dec 2025 11:00:17 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.829941"
+      "fetched_at": "2025-12-30T14:20:28.038843"
     },
     {
       "id": "7594a7fea10f",
@@ -564,7 +924,7 @@
       "published": "Tue, 30 Dec 2025 11:00:10 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:24.953177"
+      "fetched_at": "2025-12-30T14:20:25.459131"
     },
     {
       "id": "34a42da14245",
@@ -576,7 +936,7 @@
       "published": "Tue, 30 Dec 2025 11:00:06 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.829966"
+      "fetched_at": "2025-12-30T14:20:28.038869"
     },
     {
       "id": "1e4474b920cf",
@@ -588,7 +948,7 @@
       "published": "Tue, 30 Dec 2025 11:00:05 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.829998"
+      "fetched_at": "2025-12-30T14:20:28.038901"
     },
     {
       "id": "9c2d0dfa71d7",
@@ -600,7 +960,7 @@
       "published": "Tue, 30 Dec 2025 11:00:01 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009240"
+      "fetched_at": "2025-12-30T14:20:28.096061"
     },
     {
       "id": "7ea601eddc2a",
@@ -612,7 +972,7 @@
       "published": "Tue, 30 Dec 2025 11:00:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.067963"
+      "fetched_at": "2025-12-30T14:20:27.604068"
     },
     {
       "id": "de885ce9b971",
@@ -624,7 +984,7 @@
       "published": "Tue, 30 Dec 2025 11:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.227167"
+      "fetched_at": "2025-12-30T14:20:25.654738"
     },
     {
       "id": "93bc28b14c80",
@@ -636,7 +996,7 @@
       "published": "Tue, 30 Dec 2025 11:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.227186"
+      "fetched_at": "2025-12-30T14:20:25.654758"
     },
     {
       "id": "a020cafd11bc",
@@ -648,7 +1008,7 @@
       "published": "Tue, 30 Dec 2025 10:43:59 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243520"
+      "fetched_at": "2025-12-30T14:20:27.314894"
     },
     {
       "id": "bfbd7cb18c78",
@@ -660,31 +1020,43 @@
       "published": "Tue, 30 Dec 2025 10:38:53 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263848"
+      "fetched_at": "2025-12-30T14:20:26.887721"
     },
     {
       "id": "4c9105ce9b27",
       "title": "Turkey detains 357 suspected IS members in nationwide raids - BBC",
-      "description": "Turkey detains 357 suspected IS members in nationwide raids&nbsp;&nbsp;BBCTurkish police detain 357 suspects in raids against the Islamic State group&nbsp;&nbsp;CTV NewsThree Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays&nbsp;&nbsp;CNNIslamic Stat",
+      "description": "Turkey detains 357 suspected IS members in nationwide raids&nbsp;&nbsp;BBCTurkish police detain 357 suspects in raids against the Islamic State group&nbsp;&nbsp;CTV NewsThree Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays&nbsp;&nbsp;CNNOfficial say",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RU3FjSDJSY3hZQkRRdDVFcVB4LUk0eWZMYjRxUjhfZmZsOVkwSTF4VVg3U1BTVGFKcFY2Y3M5RzZyaE5LcTNWRUhYV0pBZWRJOWgwazItaFRNZ9IBX0FVX3lxTE9laGN1Q1RqUnBrM05FSTNiWFRBVjhwWmZuTFZkbUY4SERQR2tyeWZuVkFBeVpKZ2tRSHNfNDRwSUZKTHltM0k1Z2FuZUh4OFIyLTJEVy16dmFWLXJib0dJ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 30 Dec 2025 10:38:53 GMT",
-      "location": "Vancouver",
+      "location": "Toronto",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.699275"
+      "fetched_at": "2025-12-30T14:20:27.245880"
     },
     {
-      "id": "f9f2abc42b3f",
-      "title": "Israeli strikes on Gaza are relentless as displaced endure flooded camps",
-      "description": "Israeli attacks, violating a ceasefire agreement, are reported across Gaza, as Palestinian misery compounded by rains.",
-      "url": "https://www.aljazeera.com/news/2025/12/30/israeli-strikes-on-gaza-are-relentless-as-displaced-endure-flooded-camps?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "051137073daa",
+      "title": "China threatens ‘chokehold’ on Taiwan, fires rockets into surrounding waters - The Globe and Mail",
+      "description": "China threatens ‘chokehold’ on Taiwan, fires rockets into surrounding waters&nbsp;&nbsp;The Globe and Mail'No worries': Trump downplays Chinese military drills around Taiwan&nbsp;&nbsp;BBCKey dates in Taiwan’s history: A contested island’s evolution&nbsp;&nbsp;CityNews HalifaxChina's top diplomat bl",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmtCZFhZalhyVlBpZTJTM1hHLUhpWkFXRzd1cjdmOU1NUlVfTGlCQ0hEUktIcVJ4VzFWZVJ6WDdlVkN4MVpTNnY0ZUZtUmFtcTZpaTl5QkRfY3VReV9lOHY1WXBEWnh6Y09IS0tkdVlvNFJsaUwwRHJFQ3pUZzNnMUR4MVA0VVZ1TDFDV25vMGIzbkNOSWd0LW5PODgxNkdOT1ZQTHo0XzZ2Y3dlczJDOXM4dllCdzNl?oc=5",
+      "source": "Google News Tech",
       "image": "",
-      "published": "Tue, 30 Dec 2025 10:34:42 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119450"
+      "published": "Tue, 30 Dec 2025 10:37:13 GMT",
+      "location": "Toronto",
+      "category": "technology",
+      "fetched_at": "2025-12-30T14:20:27.246010"
+    },
+    {
+      "id": "82ac3806ea41",
+      "title": "Valdai Residents Report No Signs of Claimed Ukrainian Drone Attack on Putin Residence - The Moscow Times",
+      "description": "Valdai Residents Report No Signs of Claimed Ukrainian Drone Attack on Putin Residence&nbsp;&nbsp;The Moscow TimesRussia says its negotiating stance on Ukraine will toughen after accusing Kyiv of attack&nbsp;&nbsp;CBCHave Russian claims of Ukraine attack on Putin home ended hopes for peace?&nbsp;&nbs",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeGdWOWVSUVFkbjRfdE9NbUJ6TVVyUV94VjFMZFZpV1lPTHBJZ3dBNFpvUmM3NUNXSEw5TUphS1d0X3ZuMkdlMEJuY2RNaEVGT3Vyd2FtYjIzVFZtTC1BYVllSTROR3NIR1JVRVU5cG9wWTVPNW95a182cDJxSGtoemhmVVpydDlsNENkenpURnhpdFA5RGI5SlF2clBremtVSlVrczU5U3paZkpoalpHb2dFdkY0NFo3ZG1jTWFNQmx3VHVpUlJwVGtwLS1lbG8?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 10:32:00 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-12-30T14:20:27.246184"
     },
     {
       "id": "467f09d591d7",
@@ -696,7 +1068,19 @@
       "published": "Tue, 30 Dec 2025 10:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.227206"
+      "fetched_at": "2025-12-30T14:20:25.654779"
+    },
+    {
+      "id": "356a4d4c438b",
+      "title": "Iran labels Canada’s navy as ‘terrorist’ in retaliation for IRGC listing - ایران اینترنشنال",
+      "description": "Iran labels Canada’s navy as ‘terrorist’ in retaliation for IRGC listing&nbsp;&nbsp;ایران اینترنشنال",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNdG5Cb2xBQWFlS0h5dkxzR01ZVGd0MkpZT2RSRmhSOEVmVWtYWEFfZmZhNzVQTXJ1c19hRmFabFFTbXFaclRQcWxTMVBWUjVmcGc?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 10:25:44 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2025-12-30T14:20:27.603975"
     },
     {
       "id": "e5ba49fedaa4",
@@ -708,7 +1092,7 @@
       "published": "Tue, 30 Dec 2025 10:08:00 +0000",
       "location": "Edmonton",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:24.953199"
+      "fetched_at": "2025-12-30T14:20:25.459152"
     },
     {
       "id": "a0ea25592b28",
@@ -720,19 +1104,7 @@
       "published": "Tue, 30 Dec 2025 10:07:38 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:24.953215"
-    },
-    {
-      "id": "2fcb350816df",
-      "title": "How are China’s new war games around Taiwan different from earlier drills?",
-      "description": "China&#039;s military exercises cover more area than ever before and simulate a blockade of key Taiwanese ports.",
-      "url": "https://www.aljazeera.com/news/2025/12/30/how-are-chinas-new-war-games-around-taiwan-different-from-earlier-drills?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 10:03:57 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119478"
+      "fetched_at": "2025-12-30T14:20:25.459166"
     },
     {
       "id": "480701d94a7d",
@@ -744,7 +1116,7 @@
       "published": "Tue, 30 Dec 2025 10:00:08 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208241"
+      "fetched_at": "2025-12-30T14:20:27.620535"
     },
     {
       "id": "349f8ecd00f7",
@@ -756,7 +1128,31 @@
       "published": "Tue, 30 Dec 2025 10:00:00 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:26.957649"
+      "fetched_at": "2025-12-30T14:20:27.129027"
+    },
+    {
+      "id": "0c0d246f9386",
+      "title": "Scotiabank shed almost 15,000 full-time employees in six years. Here’s why - Toronto Star",
+      "description": "Scotiabank shed almost 15,000 full-time employees in six years. Here’s why&nbsp;&nbsp;Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeEFPZno3UTc2YVpmTVp6UVNURVdOTm1hZkZocWlyVzBNc01CaGJDUl9VYktKWXR0Qldkek5QeWpBT3Y0Z2VrbEEyQTlEOE1xRTFOYUhiUmoxYmZCQXRQVnI1aE1Vd3hVNmltZXdwMDk4anRzS3NtUEZibEZveHRuLXVYajN2bGxscDNMUTU1QWxxVDhXNWx0M0tYSmRrTzNCOWN5WVlSX1R3b05ZOFA1YkxZamRBTk1aT2tOM05ITEZHN0lvRTBVRjF6aDU1ZkNTLU5SZXJKVjlWajBLbmRMazRlRW1NNkM2WWFz?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 10:00:00 GMT",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:27.129172"
+    },
+    {
+      "id": "f24fe080f89a",
+      "title": "Craig’s Cookies workers unionize, citing concerns over pay and shift in workplace culture - Toronto Star",
+      "description": "Craig’s Cookies workers unionize, citing concerns over pay and shift in workplace culture&nbsp;&nbsp;Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVDF1bzRiWTdzNDhQd2xmVGlaelJnSUhEUmdGVlloT3hRM21INVAxam45bUZLV294UFN4U1pwdEl6TzVjQTBnbllyaGRkTFJJdUdDZTV5QVktTHZtSkVORjMwMGc4eXFmR052U0dxT1BFck53VFlaM1FGTmk0Qk1wY0ZqVTV2cnY1QXpydUJ1ODFtUU9UUk9MTVI0VERMVnEzNmpIaGxQS09rYTY1T0RKVGZHX19vMGM0enF6ZFF4TXV1aWFaVXVfVGs4eHdnRHV4RUUyUk05aTYtYS1RTnFUNXhtSHVsZ3JUa3hROGlGYkt5Vy1yTkVBZTYxVVNXUzA?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 10:00:00 GMT",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:27.129281"
     },
     {
       "id": "24d63c4781e4",
@@ -768,7 +1164,7 @@
       "published": "Tue, 30 Dec 2025 10:00:00 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:24.953230"
+      "fetched_at": "2025-12-30T14:20:25.459179"
     },
     {
       "id": "f5dc920aeab9",
@@ -780,43 +1176,7 @@
       "published": "Tue, 30 Dec 2025 10:00:00 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.106941"
-    },
-    {
-      "id": "269bd55aabcd",
-      "title": "The Ukrainian man fighting Russian ‘lies’ with his front-line newspaper",
-      "description": "Once a week, Myroshnyk Vassyl Savych delivers much-needed news to remote, exposed villages on the Russian border.",
-      "url": "https://www.aljazeera.com/features/longform/2025/12/30/the-ukrainian-man-fighting-russian-lies-with-his-front-line-newspaper?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 09:46:32 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119506"
-    },
-    {
-      "id": "c2deb550f443",
-      "title": "K-pop band NewJeans breaks up after bitter feud with record label",
-      "description": "Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain.",
-      "url": "https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7403/live/aaf57e70-e499-11f0-9890-3187c4f9b06f.jpg",
-      "published": "Tue, 30 Dec 2025 09:40:58 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263868"
-    },
-    {
-      "id": "6cc06627ea85",
-      "title": "China holds second day of live-fire drills around Taiwan",
-      "description": "China is engaged in a second day of live-fire military exercises encircling Taiwan.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/china-holds-second-day-of-live-fire-drills-around-taiwan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 09:38:54 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119531"
+      "fetched_at": "2025-12-30T14:20:26.318666"
     },
     {
       "id": "57f37a0e15fb",
@@ -828,19 +1188,7 @@
       "published": "Tue, 30 Dec 2025 09:30:00 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.106967"
-    },
-    {
-      "id": "3937a68f5db5",
-      "title": "Yemen’s presidential council cancels UAE defence deal",
-      "description": "Yemen’s presidential council, backed by Saudi Arabia, says Emirati-backed forces must leave Yemen within 24 hours.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 09:27:01 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119560"
+      "fetched_at": "2025-12-30T14:20:26.318585"
     },
     {
       "id": "9f6c854534c0",
@@ -852,19 +1200,7 @@
       "published": "Tue, 30 Dec 2025 09:14:47 GMT",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.067779"
-    },
-    {
-      "id": "42862912845b",
-      "title": "“No withdrawal of the Israeli army” from Gaza unless Hamas disarms",
-      "description": "Thomas Warrick talks about Trump’s plan for rebuilding Gaza and why reconstruction may only take place in certain areas.",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/30/aje-onl-qt_thomas_warrick-301225?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 09:02:49 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.119589"
+      "fetched_at": "2025-12-30T14:20:27.603779"
     },
     {
       "id": "517605a91b70",
@@ -876,7 +1212,7 @@
       "published": "Tue, 30 Dec 2025 09:00:36 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976313"
+      "fetched_at": "2025-12-30T14:20:28.121605"
     },
     {
       "id": "ee9f7f2e5a09",
@@ -888,7 +1224,7 @@
       "published": "Tue, 30 Dec 2025 09:00:35 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976350"
+      "fetched_at": "2025-12-30T14:20:28.121643"
     },
     {
       "id": "5eec2a0edfad",
@@ -900,7 +1236,7 @@
       "published": "Tue, 30 Dec 2025 09:00:31 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976378"
+      "fetched_at": "2025-12-30T14:20:28.121671"
     },
     {
       "id": "671480ecead7",
@@ -912,7 +1248,7 @@
       "published": "Tue, 30 Dec 2025 09:00:30 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976405"
+      "fetched_at": "2025-12-30T14:20:28.121698"
     },
     {
       "id": "3c82e1e1c894",
@@ -924,7 +1260,7 @@
       "published": "Tue, 30 Dec 2025 09:00:05 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243567"
+      "fetched_at": "2025-12-30T14:20:27.314940"
     },
     {
       "id": "50de1cf7eb6e",
@@ -936,31 +1272,7 @@
       "published": "Tue, 30 Dec 2025 09:00:05 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.657735"
-    },
-    {
-      "id": "0cc90e0b4d41",
-      "title": "Minister not promising source water protection in new First Nations clean water bill",
-      "description": "OTTAWA — With her government under pressure to finally eliminate boil-water advisories in First Nations communities, the federal minister responsible for Indigenous services isn&#8217;t committing to bringing back a defunct clean water bill in the new year as written — after two provinces objected t",
-      "url": "https://calgary.citynews.ca/2025/12/30/minister-not-promising-source-water-protection-in-new-first-nations-clean-water-bill/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 09:00:05 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930483"
-    },
-    {
-      "id": "61bd10e5b13f",
-      "title": "Minister not promising source water protection in new First Nations clean water bill",
-      "description": "OTTAWA — With her government under pressure to finally eliminate boil-water advisories in First Nations communities, the federal minister responsible for Indigenous services isn&#8217;t committing to bringing back a defunct clean water bill in the new year as written — after two provinces objected t",
-      "url": "https://edmonton.citynews.ca/2025/12/30/minister-not-promising-source-water-protection-in-new-first-nations-clean-water-bill/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 09:00:05 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.149979"
+      "fetched_at": "2025-12-30T14:20:27.461463"
     },
     {
       "id": "d67020e48fd8",
@@ -972,7 +1284,19 @@
       "published": "Tue, 30 Dec 2025 09:00:05 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208319"
+      "fetched_at": "2025-12-30T14:20:27.620588"
+    },
+    {
+      "id": "0cc90e0b4d41",
+      "title": "Minister not promising source water protection in new First Nations clean water bill",
+      "description": "OTTAWA — With her government under pressure to finally eliminate boil-water advisories in First Nations communities, the federal minister responsible for Indigenous services isn&#8217;t committing to bringing back a defunct clean water bill in the new year as written — after two provinces objected t",
+      "url": "https://calgary.citynews.ca/2025/12/30/minister-not-promising-source-water-protection-in-new-first-nations-clean-water-bill/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 09:00:05 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.759673"
     },
     {
       "id": "cf8c14e42f6c",
@@ -984,7 +1308,19 @@
       "published": "Tue, 30 Dec 2025 09:00:05 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.589548"
+      "fetched_at": "2025-12-30T14:20:27.868931"
+    },
+    {
+      "id": "61bd10e5b13f",
+      "title": "Minister not promising source water protection in new First Nations clean water bill",
+      "description": "OTTAWA — With her government under pressure to finally eliminate boil-water advisories in First Nations communities, the federal minister responsible for Indigenous services isn&#8217;t committing to bringing back a defunct clean water bill in the new year as written — after two provinces objected t",
+      "url": "https://edmonton.citynews.ca/2025/12/30/minister-not-promising-source-water-protection-in-new-first-nations-clean-water-bill/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 09:00:05 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.984905"
     },
     {
       "id": "f4f7df3863a1",
@@ -996,31 +1332,7 @@
       "published": "Tue, 30 Dec 2025 09:00:00 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:26.957501"
-    },
-    {
-      "id": "a68f78509619",
-      "title": "Many Canadians are spending less time with friends. How can we build deeper connections? - CBC",
-      "description": "Many Canadians are spending less time with friends. How can we build deeper connections?&nbsp;&nbsp;CBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdnRwejJ6aHpzZlFzdXEyR0dqTlFTWGNFdHdoWmZPWXVHWllUOG51b0xyVEVHWmF0YlF5bGpuLXlrR2RCZjFPaG5sSnkwN2h3X3ZvTnoyaDY0ODlOYjgyVWt2NFpNZ2dnVWExU1puUnoyd1YtdENIREc2VWhBREk5Q3dn?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 09:00:00 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:26.957806"
-    },
-    {
-      "id": "8f0d59c3a38c",
-      "title": "Advisers who recommend ‘safe’ investments are really just safeguarding their fees",
-      "description": "Only those collecting fees will be protected until regulators replace risk questionnaires with genuine financial planning",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-financial-advisers-safe-investments-fees-stock-market-financial/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/OCBQDC4WENCIBBZUHC27IM7CZ4.JPG?auth=9c5785fd4c6ad5ed23c62357591c36a213d2ae826180e707d65fe47de6931861&smart=true&width=2300&height=1425",
-      "published": "Tue, 30 Dec 2025 09:00:00 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.106989"
+      "fetched_at": "2025-12-30T14:20:27.128924"
     },
     {
       "id": "d5037d234f09",
@@ -1032,7 +1344,19 @@
       "published": "Tue, 30 Dec 2025 09:00:00 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.107008"
+      "fetched_at": "2025-12-30T14:20:26.318480"
+    },
+    {
+      "id": "8f0d59c3a38c",
+      "title": "Advisers who recommend ‘safe’ investments are really just safeguarding their fees",
+      "description": "Only those collecting fees will be protected until regulators replace risk questionnaires with genuine financial planning",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-financial-advisers-safe-investments-fees-stock-market-financial/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/OCBQDC4WENCIBBZUHC27IM7CZ4.JPG?auth=9c5785fd4c6ad5ed23c62357591c36a213d2ae826180e707d65fe47de6931861&smart=true&width=2300&height=1425",
+      "published": "Tue, 30 Dec 2025 09:00:00 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2025-12-30T14:20:26.318689"
     },
     {
       "id": "bab8261969fc",
@@ -1044,7 +1368,19 @@
       "published": "Tue, 30 Dec 2025 07:45:55 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263888"
+      "fetched_at": "2025-12-30T14:20:26.887742"
+    },
+    {
+      "id": "72a249b90628",
+      "title": "Iran's president urges government to listen to protesters 'legitimate demands' - France 24",
+      "description": "Iran's president urges government to listen to protesters 'legitimate demands'&nbsp;&nbsp;France 24Protests erupt in Iran over currency’s plunge to record low&nbsp;&nbsp;CNNProtests erupt in Iran as currency hits record low&nbsp;&nbsp;NBC NewsIran’s president calls on gov’t to hear ‘legitimate deman",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0lVR05TV2ZXbFkyOG5rbUJ6X1JxdHBqalJBZFlUQ1REMm8wV0FWNHo3aFFTU2ZYakxzUVRjczlYTEV6MG54U2Q4OFJBemVGOTBNaGJ0U2pEelcwTWdfX1ZUY2tLc1FIWWdJLTBIc2twWWhVa3VJWEgtYTFIQ3NnVEFKRUdJbUlTOUY5US1aelV4a1o2YWpGS0F4UkFRQlBadTFQUkdUXzJtb2Z6NjN3MDJ5ZDhnX1FtdWZOSmx5aUJRZGM?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 06:56:15 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2025-12-30T14:20:27.246402"
     },
     {
       "id": "e08db55e87e6",
@@ -1056,7 +1392,7 @@
       "published": "Tue, 30 Dec 2025 06:42:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.067873"
+      "fetched_at": "2025-12-30T14:20:27.603937"
     },
     {
       "id": "b54f6ab18911",
@@ -1068,19 +1404,19 @@
       "published": "Tue, 30 Dec 2025 06:39:51 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.067742"
+      "fetched_at": "2025-12-30T14:20:27.603816"
     },
     {
       "id": "6b6f6aa9f1c6",
       "title": "Instant Reaction: Ohgren scores the winner as Canucks beat Kraken 3-2 in shootout - Canucks Army",
-      "description": "Instant Reaction: Ohgren scores the winner as Canucks beat Kraken 3-2 in shootout&nbsp;&nbsp;Canucks ArmyGame Notes: Canucks at Kraken&nbsp;&nbsp;NHL.comThe Stats Behind Game #38: Canucks 3, Kraken 2 (SO)&nbsp;&nbsp;Yahoo Sports CanadaCanucks Takeaways: Lankinen still unbeaten in shootout this seaso",
+      "description": "Instant Reaction: Ohgren scores the winner as Canucks beat Kraken 3-2 in shootout&nbsp;&nbsp;Canucks ArmyCanucks Takeaways: Lankinen still unbeaten in shootout this season&nbsp;&nbsp;Sportsnet.caGame Notes: Canucks at Kraken&nbsp;&nbsp;NHL.comLiam Ohgren scores lone shootout goal to lift Canucks pas",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON1p5WEo1aHlZQXlxMkgtM0ZVZXdBZ2Zid3R3SDVRa1RpSEVjSTJUeGNraTNpbmN4U1FiWnU3YVNfbjkwTk4taVVmWHByNWh0UjVqY3RQWGl3c1hzUy1JM3pDSERTd2JmWE5nU0hxa1BEaG5vSjhnelNTVi03ckwydDNYYndtN2cxZkwwUlA5R21yX1RYLWg1WUFjanh3ZjN5R29DYklHSktzdk1EbGxvaFBzbTUwOHVT?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 30 Dec 2025 05:56:00 GMT",
       "location": "Canada",
       "category": "sports",
-      "fetched_at": "2025-12-30T12:42:26.867012"
+      "fetched_at": "2025-12-30T14:20:27.324418"
     },
     {
       "id": "ffc2aa2f5baa",
@@ -1092,7 +1428,7 @@
       "published": "Tue, 30 Dec 2025 05:39:08 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.037389"
+      "fetched_at": "2025-12-30T14:20:25.568603"
     },
     {
       "id": "62e48f64a00e",
@@ -1104,19 +1440,19 @@
       "published": "Tue, 30 Dec 2025 05:30:18 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.067813"
+      "fetched_at": "2025-12-30T14:20:27.603905"
     },
     {
       "id": "d2f9446a16fa",
       "title": "More artists pull out of Kennedy Center shows following name change - CNN",
-      "description": "More artists pull out of Kennedy Center shows following name change&nbsp;&nbsp;CNNNew Year’s Eve Concerts at Kennedy Center Are Canceled&nbsp;&nbsp;The New York TimesKennedy Center leader rebukes musician who canceled Christmas concert&nbsp;&nbsp;The Washington PostOpinion | Trump desecrates the Ken",
+      "description": "More artists pull out of Kennedy Center shows following name change&nbsp;&nbsp;CNNNew Year’s Eve Concerts at Kennedy Center Are Canceled&nbsp;&nbsp;The New York TimesKennedy Center leader rebukes musician who canceled Christmas concert&nbsp;&nbsp;The Washington PostMore musicians cancel Kennedy Cent",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNME1jWTQ0bGlhalFILTRoem9HWUtuRnZIcnhXeFcwU1N4dEF0SkVkcE1QUmp0NGxGV0FBU0RValV2Z1hvQU9SaHBFRS1Ua000b3F6bjBKV3o3Qk53SFZscGEwMVpfMG1ISnVHczVSV2ZXUXZVZldhUnB6ZW9kTFkzNU42NEQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 30 Dec 2025 05:16:19 GMT",
-      "location": "Toronto",
+      "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.699852"
+      "fetched_at": "2025-12-30T14:20:27.246467"
     },
     {
       "id": "dfe0c7077163",
@@ -1128,7 +1464,7 @@
       "published": "Tue, 30 Dec 2025 05:14:28 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263827"
+      "fetched_at": "2025-12-30T14:20:26.887699"
     },
     {
       "id": "0c0247688c41",
@@ -1140,19 +1476,31 @@
       "published": "Tue, 30 Dec 2025 05:04:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263805"
+      "fetched_at": "2025-12-30T14:20:26.887653"
+    },
+    {
+      "id": "4e54e4252839",
+      "title": "Pickard shines as Edmonton Oilers slip past Winnipeg Jets - Edmonton Journal",
+      "description": "Pickard shines as Edmonton Oilers slip past Winnipeg Jets&nbsp;&nbsp;Edmonton JournalPickard anchors Oilers in well-earned win against Jets: 'Our best player'&nbsp;&nbsp;Sportsnet.caPickard shines as Oilers net remains in state of flux: ‘Calvin was our best player’&nbsp;&nbsp;TSNTHREE THINGS: Jets d",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFQxWDdwcjNnRl8xSF8zdVR6UXhiR012M2hFenA5VW9Ba1p2eDN3b2lJV294dWJxSzJ3S1NmanlKb2xEa2E2WkZzZkpDS1ctUlZidU1tMmJ4R3Q0UmQ3ZkVkcG5jVGlMbkVJejhUZmdnMnBNVmYxQWRNeDE3aUtKTV8ySzVpLWZia2h3TA?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 04:39:46 GMT",
+      "location": "Edmonton",
+      "category": "sports",
+      "fetched_at": "2025-12-30T14:20:27.324326"
     },
     {
       "id": "354af8d946af",
       "title": "McKenna hat trick helps Canada complete demolition of Denmark at men's world junior hockey championship - CBC",
-      "description": "McKenna hat trick helps Canada complete demolition of Denmark at men's world junior hockey championship&nbsp;&nbsp;CBCWorld Juniors Preview: Canada vs. Denmark&nbsp;&nbsp;Hockey CanadaWorld Junior Championship roundup: McKenna has hat trick, Canada cruises&nbsp;&nbsp;NHL.comCanada stays undefeated&n",
+      "description": "McKenna hat trick helps Canada complete demolition of Denmark at men's world junior hockey championship&nbsp;&nbsp;CBCCanada's Gavin McKenna hat trick shows world why he's next No. 1 NHL Draft pick&nbsp;&nbsp;Yahoo Sports CanadaWorld Juniors Preview: Canada vs. Denmark&nbsp;&nbsp;Hockey CanadaGavin ",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXg5S0hYbFZIMC1sRlhtZnJhRWNlSGZXMHdiSUFnY0EzekwwcHZ1MVk5Q25SRHlNQWxNYWg0c0pTS0g5ZXVGNklqSWRNVkUtallIS1JWNW9kSTJTRmFuOFJsYVIwMGc3UXhLY0ZtOE84SGFpU254d1Z5cXNuVklWQ01LdXBZNnhDTUNVQ2cyUC1ia2MyNmxnQzZVYjJ1X0JEamhOMg?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 30 Dec 2025 04:36:00 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2025-12-30T12:42:26.866827"
+      "fetched_at": "2025-12-30T14:20:27.324237"
     },
     {
       "id": "2f90ebbddecf",
@@ -1164,7 +1512,7 @@
       "published": "Tue, 30 Dec 2025 04:23:07 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976447"
+      "fetched_at": "2025-12-30T14:20:28.121739"
     },
     {
       "id": "1574977babe7",
@@ -1176,55 +1524,19 @@
       "published": "Tue, 30 Dec 2025 04:13:30 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.067902"
-    },
-    {
-      "id": "dddf764027b1",
-      "title": "Pickard’s 41 saves lifts Oilers to win over Jets - TSN",
-      "description": "Pickard’s 41 saves lifts Oilers to win over Jets&nbsp;&nbsp;TSNPickard makes 41 saves, Oilers hand Jets 6th straight loss&nbsp;&nbsp;NHL.comJets' Streak Hits Six Games With 3-1 Home Loss to Edmonton&nbsp;&nbsp;The Hockey NewsCalvin Pickard Proves He Was Never The Problem&nbsp;&nbsp;Yahoo Sports Cana",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWk9PLWR2Wk9PYmVteFAtNjVTR1YzakdpTWV1UU1hTy04MnlEWFlQMDIzRmpEU2N0eVhoeGdIemJiX3pab2h5d2VIWTdEZE92eHl5QndySFA5Q1o4X1hGekhqMEl0ZWlqZVNSNlhCZnFYNHRPbWhRakEwZDlTc2lSNHo1N0J2QQ?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 03:51:00 GMT",
-      "location": "Edmonton",
-      "category": "sports",
-      "fetched_at": "2025-12-30T12:42:26.866898"
-    },
-    {
-      "id": "18355bc91202",
-      "title": "Pickard steals the show as Winnipeg Jets lose again, falling to Oilers 3-1",
-      "description": "Adam Lowry scored the lone goal for Winnipeg while Calvin Pickard stopped 41 of 42 shots as the Jets fall to 0-3-3 since their last victory.",
-      "url": "https://globalnews.ca/news/11593697/pickard-steals-the-show-as-winnipeg-jets-lose-again-falling-to-oilers-3-1/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/12/CP175546404.jpg?quality=65&strip=all",
-      "published": "Tue, 30 Dec 2025 03:44:43 +0000",
-      "location": "Winnipeg",
-      "category": "canada",
-      "fetched_at": "2025-12-30T12:42:24.953278"
+      "fetched_at": "2025-12-30T14:20:27.604005"
     },
     {
       "id": "d4ddadf1a7f9",
       "title": "Man injured in North York shooting, police say",
-      "description": "Toronto police are investigating a shooting that took place in North York on Monday evening. According to authorities, officers were called to the area of Four Winds Drive and Sentinel Road, near York University at approximately 10:16 p.m. for reports of a shooting. Police located a man with a gunsh",
+      "description": "Toronto police are investigating a shooting that took place in North York on Monday evening. According to authorities, officers were called to the area of Four Winds Drive and Sentinel Road, near York University at approximately 10:16 p.m. for reports of a shooting. Police located a man in his 20s w",
       "url": "https://toronto.citynews.ca/2025/12/29/man-injured-in-north-york-shooting-police-say/",
       "source": "CityNews Toronto",
       "image": "",
       "published": "Tue, 30 Dec 2025 03:37:46 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243593"
-    },
-    {
-      "id": "a7fb32758026",
-      "title": "Pickard stops 41 shots, Oilers down Jets 3-1",
-      "description": "Calvin Pickard's 41 saves helped the Edmonton Oilers to a 3-1 victory over the Winnipeg Jets on Monday.",
-      "url": "https://globalnews.ca/news/11593811/pickard-stops-41-shots-oilers-down-jets-3-1/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/12/da90a3a2e0d53be97556ab423df6171c4b92ae0d534d395f184b84dcf805412d.jpg?quality=65&strip=all",
-      "published": "Tue, 30 Dec 2025 03:37:24 +0000",
-      "location": "Edmonton",
-      "category": "canada",
-      "fetched_at": "2025-12-30T12:42:24.953303"
+      "fetched_at": "2025-12-30T14:20:27.314965"
     },
     {
       "id": "840d79a94cf6",
@@ -1236,7 +1548,7 @@
       "published": "Tue, 30 Dec 2025 03:34:39 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976472"
+      "fetched_at": "2025-12-30T14:20:28.121763"
     },
     {
       "id": "3e0e43917473",
@@ -1248,19 +1560,7 @@
       "published": "Tue, 30 Dec 2025 03:30:47 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.657769"
-    },
-    {
-      "id": "8ca28598d597",
-      "title": "Spanish woman who found fame for botching fresco restoration dies",
-      "description": "Cecilia Giménez's effort to restore the painting Ecce Homo earned the artwork the nickname \"Monkey Christ\".",
-      "url": "https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d8c/live/c6799500-e570-11f0-b67b-690eb873de1b.jpg",
-      "published": "Tue, 30 Dec 2025 03:26:06 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263952"
+      "fetched_at": "2025-12-30T14:20:27.461496"
     },
     {
       "id": "743ce6eb9984",
@@ -1272,7 +1572,7 @@
       "published": "Tue, 30 Dec 2025 03:20:24 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009298"
+      "fetched_at": "2025-12-30T14:20:28.096100"
     },
     {
       "id": "74281b692f71",
@@ -1284,7 +1584,7 @@
       "published": "Tue, 30 Dec 2025 03:18:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243638"
+      "fetched_at": "2025-12-30T14:20:27.315002"
     },
     {
       "id": "1fc176cbe6a5",
@@ -1296,31 +1596,7 @@
       "published": "Tue, 30 Dec 2025 03:18:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.657809"
-    },
-    {
-      "id": "91274666c668",
-      "title": "Quebec couple found dead in Dominican Republic",
-      "description": "A Quebec couple has been found dead while on a vacation in the Dominican Republic, their family says. Gilles Sauve Jr. posted to Facebook saying his sister Christine Sauvé and her husband Alain Noël had died during their sleep the night of Dec. 25 into 26. &#8220;Out of respect for our family and in",
-      "url": "https://calgary.citynews.ca/2025/12/29/quebec-couple-found-dead-in-dominican-republic/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 03:18:15 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930528"
-    },
-    {
-      "id": "2636722fd36b",
-      "title": "Quebec couple found dead in Dominican Republic",
-      "description": "A Quebec couple has been found dead while on a vacation in the Dominican Republic, their family says. Gilles Sauve Jr. posted to Facebook saying his sister Christine Sauvé and her husband Alain Noël had died during their sleep the night of Dec. 25 into 26. &#8220;Out of respect for our family and in",
-      "url": "https://edmonton.citynews.ca/2025/12/29/quebec-couple-found-dead-in-dominican-republic/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 03:18:15 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.150031"
+      "fetched_at": "2025-12-30T14:20:27.461535"
     },
     {
       "id": "b8de3465de91",
@@ -1332,7 +1608,19 @@
       "published": "Tue, 30 Dec 2025 03:18:15 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208362"
+      "fetched_at": "2025-12-30T14:20:27.620627"
+    },
+    {
+      "id": "91274666c668",
+      "title": "Quebec couple found dead in Dominican Republic",
+      "description": "A Quebec couple has been found dead while on a vacation in the Dominican Republic, their family says. Gilles Sauve Jr. posted to Facebook saying his sister Christine Sauvé and her husband Alain Noël had died during their sleep the night of Dec. 25 into 26. &#8220;Out of respect for our family and in",
+      "url": "https://calgary.citynews.ca/2025/12/29/quebec-couple-found-dead-in-dominican-republic/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 03:18:15 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.759719"
     },
     {
       "id": "7d8c0c0887e3",
@@ -1344,19 +1632,19 @@
       "published": "Tue, 30 Dec 2025 03:18:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.589593"
+      "fetched_at": "2025-12-30T14:20:27.868973"
     },
     {
-      "id": "195570026d97",
-      "title": "Shead’s career-best game lifts Raptors to win",
-      "description": "Jamal Shead scored a career-high 19 points off the bench as the Toronto Raptors rallied past the Orlando Magic 107-106 on Monday.",
-      "url": "https://globalnews.ca/news/11593799/sheads-career-best-game-lifts-raptors-to-win/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/12/5c6e153a6c2a19b74ad657408db1ab6adf30f58b929a98cefe753149b620bff6.jpg?quality=65&strip=all",
-      "published": "Tue, 30 Dec 2025 03:16:05 +0000",
-      "location": "Toronto",
-      "category": "canada",
-      "fetched_at": "2025-12-30T12:42:24.953320"
+      "id": "2636722fd36b",
+      "title": "Quebec couple found dead in Dominican Republic",
+      "description": "A Quebec couple has been found dead while on a vacation in the Dominican Republic, their family says. Gilles Sauve Jr. posted to Facebook saying his sister Christine Sauvé and her husband Alain Noël had died during their sleep the night of Dec. 25 into 26. &#8220;Out of respect for our family and in",
+      "url": "https://edmonton.citynews.ca/2025/12/29/quebec-couple-found-dead-in-dominican-republic/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 03:18:15 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.984953"
     },
     {
       "id": "087b4ca1ccbf",
@@ -1368,7 +1656,7 @@
       "published": "Tue, 30 Dec 2025 03:15:46 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.150080"
+      "fetched_at": "2025-12-30T14:20:27.985002"
     },
     {
       "id": "ad005fd2ccd8",
@@ -1380,7 +1668,7 @@
       "published": "Tue, 30 Dec 2025 03:14:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.067932"
+      "fetched_at": "2025-12-30T14:20:27.604036"
     },
     {
       "id": "4ee32973868c",
@@ -1392,7 +1680,7 @@
       "published": "Tue, 30 Dec 2025 03:10:30 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009331"
+      "fetched_at": "2025-12-30T14:20:28.096133"
     },
     {
       "id": "c68d1c392446",
@@ -1404,19 +1692,7 @@
       "published": "Tue, 30 Dec 2025 02:42:00 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:26.957688"
-    },
-    {
-      "id": "5c5af09152a5",
-      "title": "China launches live-firing drills around Taiwan in 2nd day of exercises aimed at further isolating the island - CBC",
-      "description": "China launches live-firing drills around Taiwan in 2nd day of exercises aimed at further isolating the island&nbsp;&nbsp;CBCChina fires rockets into waters around Taiwan, threatens to block ships&nbsp;&nbsp;The Globe and MailKey dates in Taiwan’s history: A contested island’s evolution&nbsp;&nbsp;Ci",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDdxaV9SeG1jbzZ5My1oRXZrTzZaQ1FJMmpGYndZSDJfRUNzdTJNd19rbnlNRWdLZ3VOcFhxZllrQjdidF9qODFoVzRiQVdCQ2phNnJiNTVtaERNZmJDZHRRU3k5UjNkSV9FQXQ1YWR0MzF2ZThNcFNvN0pXR1NicVk3cDk4amVa?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 02:37:00 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.699348"
+      "fetched_at": "2025-12-30T14:20:27.129358"
     },
     {
       "id": "c5739c04d104",
@@ -1428,11 +1704,11 @@
       "published": "Tue, 30 Dec 2025 02:24:28 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.657839"
+      "fetched_at": "2025-12-30T14:20:27.461563"
     },
     {
       "id": "80fa24882135",
-      "title": "Saudi Arabia bombs Yemen port over weapons shipment from UAE, issues warning to Abu Dhabi",
+      "title": "Saudi Arabia bombs Yemen port city over weapons shipment from UAE for separatists",
       "description": "DUBAI, United Arab Emirates (AP) — Saudi Arabia bombed Yemen&#8217;s port city of Mukalla on Tuesday after a weapons shipment from the United Arab Emirates arrived for separatist forces in the war-torn country, and warned that it viewed Emirati actions as “extremely dangerous.” The bombing followed ",
       "url": "https://toronto.citynews.ca/2025/12/29/saudi-arabia-bombs-yemen-over-shipment-of-weapons-for-separatists-that-arrived-from-uae/",
       "source": "CityNews Toronto",
@@ -1440,7 +1716,7 @@
       "published": "Tue, 30 Dec 2025 02:19:58 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243688"
+      "fetched_at": "2025-12-30T14:20:27.315049"
     },
     {
       "id": "fa73e2f7347e",
@@ -1452,31 +1728,7 @@
       "published": "Tue, 30 Dec 2025 02:19:58 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.657877"
-    },
-    {
-      "id": "3dcbd5e121ef",
-      "title": "Saudi Arabia bombs Yemen over shipment of weapons for separatists that arrived from UAE",
-      "description": "DUBAI, United Arab Emirates (AP) — Saudi Arabia bombed the port city of Mukalla in Yemen on Tuesday over what it described as a shipment of weapons for a separatist force there that arrived from the United Arab Emirates. The attack signals a new escalation in tensions between the kingdom and the Sou",
-      "url": "https://calgary.citynews.ca/2025/12/29/saudi-arabia-bombs-yemen-over-shipment-of-weapons-for-separatists-that-arrived-from-uae/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 02:19:58 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930573"
-    },
-    {
-      "id": "e5e7fabd26a1",
-      "title": "Saudi Arabia bombs Yemen over shipment of weapons for separatists that arrived from UAE",
-      "description": "DUBAI, United Arab Emirates (AP) — Saudi Arabia bombed the port city of Mukalla in Yemen on Tuesday over what it described as a shipment of weapons for a separatist force there that arrived from the United Arab Emirates. The attack signals a new escalation in tensions between the kingdom and the Sou",
-      "url": "https://edmonton.citynews.ca/2025/12/29/saudi-arabia-bombs-yemen-over-shipment-of-weapons-for-separatists-that-arrived-from-uae/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 02:19:58 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.150135"
+      "fetched_at": "2025-12-30T14:20:27.461600"
     },
     {
       "id": "407d4fba2067",
@@ -1488,11 +1740,23 @@
       "published": "Tue, 30 Dec 2025 02:19:58 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208411"
+      "fetched_at": "2025-12-30T14:20:27.620672"
+    },
+    {
+      "id": "3dcbd5e121ef",
+      "title": "Saudi Arabia bombs Yemen over shipment of weapons for separatists that arrived from UAE",
+      "description": "DUBAI, United Arab Emirates (AP) — Saudi Arabia bombed the port city of Mukalla in Yemen on Tuesday over what it described as a shipment of weapons for a separatist force there that arrived from the United Arab Emirates. The attack signals a new escalation in tensions between the kingdom and the Sou",
+      "url": "https://calgary.citynews.ca/2025/12/29/saudi-arabia-bombs-yemen-over-shipment-of-weapons-for-separatists-that-arrived-from-uae/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 02:19:58 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.759765"
     },
     {
       "id": "5425df5410e1",
-      "title": "Saudi Arabia bombs Yemen port over weapons shipment from UAE, issues warning to Abu Dhabi",
+      "title": "Saudi Arabia bombs Yemen port city over weapons shipment from UAE for separatists",
       "description": "DUBAI, United Arab Emirates (AP) — Saudi Arabia bombed Yemen&#8217;s port city of Mukalla on Tuesday after a weapons shipment from the United Arab Emirates arrived for separatist forces in the war-torn country, and warned that it viewed Emirati actions as “extremely dangerous.” The bombing followed ",
       "url": "https://ottawa.citynews.ca/2025/12/29/saudi-arabia-bombs-yemen-over-shipment-of-weapons-for-separatists-that-arrived-from-uae/",
       "source": "CityNews Ottawa",
@@ -1500,7 +1764,19 @@
       "published": "Tue, 30 Dec 2025 02:19:58 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.589646"
+      "fetched_at": "2025-12-30T14:20:27.869026"
+    },
+    {
+      "id": "e5e7fabd26a1",
+      "title": "Saudi Arabia bombs Yemen over shipment of weapons for separatists that arrived from UAE",
+      "description": "DUBAI, United Arab Emirates (AP) — Saudi Arabia bombed the port city of Mukalla in Yemen on Tuesday over what it described as a shipment of weapons for a separatist force there that arrived from the United Arab Emirates. The attack signals a new escalation in tensions between the kingdom and the Sou",
+      "url": "https://edmonton.citynews.ca/2025/12/29/saudi-arabia-bombs-yemen-over-shipment-of-weapons-for-separatists-that-arrived-from-uae/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Tue, 30 Dec 2025 02:19:58 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.985053"
     },
     {
       "id": "795d12206e0c",
@@ -1512,19 +1788,7 @@
       "published": "Tue, 30 Dec 2025 02:05:36 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-12-30T12:42:24.951765"
-    },
-    {
-      "id": "388c599b667d",
-      "title": "Saskatchewan reacts to Alberta’s proposed referendum on independence",
-      "description": "The seperatist group, Alberta Prosperity Project, only has a few months to collect 178,000 signatures for the petition. If successful, it would put the province in referendum.",
-      "url": "https://globalnews.ca/news/11593495/sask-reacts-alberta-proposed-referendum-independence/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/12/7c90051d2564ddddca7d3690362dd915175320a63423cd08dbf1ee44e06e9ec7_a1c9cf.jpg?quality=65&strip=all",
-      "published": "Tue, 30 Dec 2025 02:04:29 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-12-30T12:42:24.953369"
+      "fetched_at": "2025-12-30T14:20:25.464665"
     },
     {
       "id": "c86815a57cb8",
@@ -1536,7 +1800,7 @@
       "published": "Tue, 30 Dec 2025 01:30:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.067843"
+      "fetched_at": "2025-12-30T14:20:27.603847"
     },
     {
       "id": "3d6bfebb8849",
@@ -1548,19 +1812,7 @@
       "published": "Tue, 30 Dec 2025 01:19:20 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.657907"
-    },
-    {
-      "id": "e3798fb48ade",
-      "title": "Great white sharks face extinction in Mediterranean, say researchers",
-      "description": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites.",
-      "url": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e3a/live/2d959090-df36-11f0-b67b-690eb873de1b.jpg",
-      "published": "Tue, 30 Dec 2025 01:15:19 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263928"
+      "fetched_at": "2025-12-30T14:20:27.461629"
     },
     {
       "id": "beea330d3495",
@@ -1572,7 +1824,7 @@
       "published": "Tue, 30 Dec 2025 00:53:45 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.531843"
+      "fetched_at": "2025-12-30T14:20:27.927208"
     },
     {
       "id": "e4b4b3b39eee",
@@ -1584,7 +1836,7 @@
       "published": "Tue, 30 Dec 2025 00:34:25 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.150188"
+      "fetched_at": "2025-12-30T14:20:27.985106"
     },
     {
       "id": "76ca318b8e44",
@@ -1596,7 +1848,7 @@
       "published": "Tue, 30 Dec 2025 00:31:37 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009370"
+      "fetched_at": "2025-12-30T14:20:28.096175"
     },
     {
       "id": "8530773aaeea",
@@ -1608,7 +1860,7 @@
       "published": "Tue, 30 Dec 2025 00:31:36 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.531872"
+      "fetched_at": "2025-12-30T14:20:27.927229"
     },
     {
       "id": "0c7e54ff065f",
@@ -1620,7 +1872,7 @@
       "published": "Tue, 30 Dec 2025 00:25:14 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.150237"
+      "fetched_at": "2025-12-30T14:20:27.985152"
     },
     {
       "id": "9e3902b25f4c",
@@ -1632,7 +1884,7 @@
       "published": "Tue, 30 Dec 2025 00:24:43 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.150300"
+      "fetched_at": "2025-12-30T14:20:27.985196"
     },
     {
       "id": "994dc14171cf",
@@ -1644,7 +1896,7 @@
       "published": "Tue, 30 Dec 2025 00:19:30 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.531895"
+      "fetched_at": "2025-12-30T14:20:27.927250"
     },
     {
       "id": "6b75d8248dbc",
@@ -1656,7 +1908,7 @@
       "published": "Tue, 30 Dec 2025 00:17:59 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.358236"
+      "fetched_at": "2025-12-30T14:20:26.982205"
     },
     {
       "id": "fc8aed634402",
@@ -1668,7 +1920,7 @@
       "published": "Tue, 30 Dec 2025 00:12:41 GMT",
       "location": "Vancouver",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.263755"
+      "fetched_at": "2025-12-30T14:20:26.887575"
     },
     {
       "id": "aedaa12c0c92",
@@ -1680,7 +1932,7 @@
       "published": "Tue, 30 Dec 2025 00:11:45 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930619"
+      "fetched_at": "2025-12-30T14:20:27.759813"
     },
     {
       "id": "a130759914ee",
@@ -1692,7 +1944,7 @@
       "published": "Tue, 30 Dec 2025 00:11:45 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.150360"
+      "fetched_at": "2025-12-30T14:20:27.985249"
     },
     {
       "id": "19952564a71f",
@@ -1704,19 +1956,19 @@
       "published": "Tue, 30 Dec 2025 00:05:49 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009407"
+      "fetched_at": "2025-12-30T14:20:28.096213"
     },
     {
       "id": "316699e3bdb8",
       "title": "Former Canucks head coach Rick Tocchet embracing return to Vancouver - Sportsnet.ca",
-      "description": "Former Canucks head coach Rick Tocchet embracing return to Vancouver&nbsp;&nbsp;Sportsnet.caTocchet all business ahead of return to Vancouver as Flyers coach&nbsp;&nbsp;NHL.comFormer Canucks head coach Tocchet embracing return to Vancouver&nbsp;&nbsp;TSNWhen Rick Tocchet announced he was leaving: To",
+      "description": "Former Canucks head coach Rick Tocchet embracing return to Vancouver&nbsp;&nbsp;Sportsnet.caView Full Coverage on Google News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2R0Z1JvWm5ySE5Ed2pGRC05dUFLWkhqNlgxVU1xTEpLZFhlX2YxYy1IRlpLN0ViQmYwLXRlWjRZSDdUd0oyZVBHVkk2d0ZESndQd0swMW1BNmVwelJxcmRJUEtkRFRwamFkUjlvRHJsYXVRTURkSXJzcU1mOUtGV0xRZWxOdVI0WXhKdHhqdU5XNzlqMWhFeGhVcVV0Y0NXVU51cWc2a19vdw?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 30 Dec 2025 00:04:00 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2025-12-30T12:42:26.866954"
+      "fetched_at": "2025-12-30T14:20:27.324361"
     },
     {
       "id": "279e2fd097e1",
@@ -1728,7 +1980,7 @@
       "published": "Tue, 30 Dec 2025 00:01:36 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208451"
+      "fetched_at": "2025-12-30T14:20:27.620711"
     },
     {
       "id": "9d762e986870",
@@ -1740,7 +1992,7 @@
       "published": "Tue, 23 Dec 2025 23:06:57 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-12-30T12:42:25.157375"
+      "fetched_at": "2025-12-30T14:20:25.566249"
     },
     {
       "id": "85da2898b05b",
@@ -1752,7 +2004,7 @@
       "published": "Tue, 23 Dec 2025 23:00:39 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.733637"
+      "fetched_at": "2025-12-30T14:20:27.941801"
     },
     {
       "id": "95ad01148116",
@@ -1764,7 +2016,7 @@
       "published": "Tue, 23 Dec 2025 21:02:10 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2025-12-30T12:42:25.157411"
+      "fetched_at": "2025-12-30T14:20:25.566302"
     },
     {
       "id": "f5d3b1813c1f",
@@ -1776,7 +2028,7 @@
       "published": "Tue, 23 Dec 2025 19:05:24 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.292984"
+      "fetched_at": "2025-12-30T14:20:26.937235"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -1788,7 +2040,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.533141"
+      "fetched_at": "2025-12-30T14:20:26.722238"
     },
     {
       "id": "05ea19344a14",
@@ -1800,7 +2052,7 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.533195"
+      "fetched_at": "2025-12-30T14:20:26.722312"
     },
     {
       "id": "a2b7282df523",
@@ -1812,7 +2064,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.533216"
+      "fetched_at": "2025-12-30T14:20:26.722335"
     },
     {
       "id": "295551ee6daf",
@@ -1824,7 +2076,7 @@
       "published": "Thu, 25 Dec 2025 09:00:47 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2025-12-30T12:42:24.951802"
+      "fetched_at": "2025-12-30T14:20:25.464723"
     },
     {
       "id": "6f269538a286",
@@ -1836,7 +2088,7 @@
       "published": "Thu, 18 Dec 2025 19:29:41 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2025-12-30T12:42:24.951987"
+      "fetched_at": "2025-12-30T14:20:25.465921"
     },
     {
       "id": "a3777a8bac7b",
@@ -1848,31 +2100,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.533099"
-    },
-    {
-      "id": "e1d640e3903f",
-      "title": "These 5 makeup tips had the biggest impact in 2025",
-      "description": "Each tutorial and makeover tells a story, from the subtle shifts that spark confidence to the bold changes that can redefine your personal style",
-      "url": "https://vancouversun.com/life/fashion-beauty/five-best-beauty-tutorials-2025",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Sun, 28 Dec 2025 16:00:09 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.532055"
-    },
-    {
-      "id": "8b1bc9970a79",
-      "title": "Hundreds of Surrey teens benefit from basketball camps run by former Team Canada player",
-      "description": "'We try to target those kids that are deserving, that are just great kids, but they lack opportunity,' says Emerson Murray, retired player",
-      "url": "https://vancouversun.com/news/surrey-teens-benefit-from-basketball-camps-run-by-former-team-canada-player",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Sun, 28 Dec 2025 16:00:05 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.532076"
+      "fetched_at": "2025-12-30T14:20:26.722196"
     },
     {
       "id": "5a543b741fb9",
@@ -1884,7 +2112,7 @@
       "published": "Sun, 28 Dec 2025 12:00:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.733487"
+      "fetched_at": "2025-12-30T14:20:27.941650"
     },
     {
       "id": "7d0fa82b95ae",
@@ -1896,7 +2124,7 @@
       "published": "Sun, 28 Dec 2025 11:27:21 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.719761"
+      "fetched_at": "2025-12-30T14:20:26.343757"
     },
     {
       "id": "246824e2ce79",
@@ -1908,7 +2136,7 @@
       "published": "Sun, 28 Dec 2025 08:41:45 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.719719"
+      "fetched_at": "2025-12-30T14:20:26.343714"
     },
     {
       "id": "ff3befafa5fc",
@@ -1920,7 +2148,7 @@
       "published": "Sun, 28 Dec 2025 07:44:51 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.719798"
+      "fetched_at": "2025-12-30T14:20:26.343794"
     },
     {
       "id": "0c7e3156ffea",
@@ -1932,7 +2160,7 @@
       "published": "Sun, 28 Dec 2025 06:46:35 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.719851"
+      "fetched_at": "2025-12-30T14:20:26.343839"
     },
     {
       "id": "4d75fa14a903",
@@ -1944,7 +2172,7 @@
       "published": "Sun, 28 Dec 2025 05:00:00 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.358331"
+      "fetched_at": "2025-12-30T14:20:26.982317"
     },
     {
       "id": "d700240656de",
@@ -1956,7 +2184,7 @@
       "published": "Sun, 28 Dec 2025 03:39:12 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.719887"
+      "fetched_at": "2025-12-30T14:20:26.343875"
     },
     {
       "id": "ae1724961c85",
@@ -1968,7 +2196,7 @@
       "published": "Sun, 28 Dec 2025 01:32:17 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.720044"
+      "fetched_at": "2025-12-30T14:20:26.344025"
     },
     {
       "id": "efebffa34e66",
@@ -1980,7 +2208,7 @@
       "published": "Sun, 28 Dec 2025 01:12:45 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.719927"
+      "fetched_at": "2025-12-30T14:20:26.343915"
     },
     {
       "id": "5901a4afefc3",
@@ -1992,7 +2220,7 @@
       "published": "Sun, 21 Dec 2025 23:41:12 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.293146"
+      "fetched_at": "2025-12-30T14:20:26.937424"
     },
     {
       "id": "3f8058605d43",
@@ -2004,7 +2232,7 @@
       "published": "Sun, 21 Dec 2025 19:29:49 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-12-30T12:42:24.951875"
+      "fetched_at": "2025-12-30T14:20:25.465696"
     },
     {
       "id": "5494a6fc91d8",
@@ -2016,7 +2244,7 @@
       "published": "Sun, 21 Dec 2025 13:28:23 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-12-30T12:42:24.951896"
+      "fetched_at": "2025-12-30T14:20:25.465737"
     },
     {
       "id": "609a38978053",
@@ -2028,7 +2256,7 @@
       "published": "Sun, 21 Dec 2025 12:00:28 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.733708"
+      "fetched_at": "2025-12-30T14:20:27.941872"
     },
     {
       "id": "48332101e695",
@@ -2040,7 +2268,7 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.533163"
+      "fetched_at": "2025-12-30T14:20:26.722274"
     },
     {
       "id": "02b1fed4ae3c",
@@ -2052,19 +2280,7 @@
       "published": "Sat, 27 Dec 2025 15:51:10 +0000",
       "location": "Halifax",
       "category": "politics",
-      "fetched_at": "2025-12-30T12:42:25.881698"
-    },
-    {
-      "id": "a6d7b160c65e",
-      "title": "Top federal department blasted as 'hypocritical' for refusing to share layoff numbers",
-      "description": "'They have a responsibility to share the impacts of their decisions with workers and the millions of people in Canada who depend on public services': PSAC president Sharon DeSousa",
-      "url": "https://nationalpost.com/news/politics/privy-council-office-publice-service-layoff-unions",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/12/cp174055487_291754702.jpg",
-      "published": "Sat, 27 Dec 2025 13:00:20 +0000",
-      "location": "Canada",
-      "category": "politics",
-      "fetched_at": "2025-12-30T12:42:25.881721"
+      "fetched_at": "2025-12-30T14:20:26.853687"
     },
     {
       "id": "708500308cd4",
@@ -2076,7 +2292,7 @@
       "published": "Sat, 27 Dec 2025 12:00:07 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.733527"
+      "fetched_at": "2025-12-30T14:20:27.941691"
     },
     {
       "id": "93588832e972",
@@ -2088,7 +2304,7 @@
       "published": "Sat, 27 Dec 2025 11:48:18 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.720001"
+      "fetched_at": "2025-12-30T14:20:26.343983"
     },
     {
       "id": "4c8a780d2c08",
@@ -2100,7 +2316,7 @@
       "published": "Sat, 27 Dec 2025 10:05:08 EST",
       "location": "Vancouver",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.719956"
+      "fetched_at": "2025-12-30T14:20:26.343944"
     },
     {
       "id": "6b19edd13c25",
@@ -2112,7 +2328,7 @@
       "published": "Sat, 27 Dec 2025 08:00:33 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.358375"
+      "fetched_at": "2025-12-30T14:20:26.982366"
     },
     {
       "id": "2aaf7be6d4c9",
@@ -2124,7 +2340,7 @@
       "published": "Sat, 27 Dec 2025 02:14:22 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.358421"
+      "fetched_at": "2025-12-30T14:20:26.982412"
     },
     {
       "id": "19d3d85abd29",
@@ -2136,7 +2352,7 @@
       "published": "Sat, 20 Dec 2025 12:00:43 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.733742"
+      "fetched_at": "2025-12-30T14:20:27.941908"
     },
     {
       "id": "582138dd5a83",
@@ -2148,7 +2364,7 @@
       "published": "Mon, 29 Dec 2025 23:44:32 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.657940"
+      "fetched_at": "2025-12-30T14:20:27.461661"
     },
     {
       "id": "987a5e896fc7",
@@ -2160,7 +2376,7 @@
       "published": "Mon, 29 Dec 2025 23:25:16 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976499"
+      "fetched_at": "2025-12-30T14:20:28.121790"
     },
     {
       "id": "0b7d1c5a4311",
@@ -2172,7 +2388,7 @@
       "published": "Mon, 29 Dec 2025 23:18:31 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243729"
+      "fetched_at": "2025-12-30T14:20:27.315091"
     },
     {
       "id": "41d58da42ce0",
@@ -2184,31 +2400,7 @@
       "published": "Mon, 29 Dec 2025 23:18:31 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.657978"
-    },
-    {
-      "id": "42d459421cce",
-      "title": "U.S. military carries out 30th strike on alleged drug boat",
-      "description": "WASHINGTON (AP) — The U.S. military said Monday that it had conducted another strike against a boat accused of smuggling drugs in the eastern Pacific Ocean, killing two people. The strike, which was announced by U.S. Southern Command on social media, has brought the total number of known boat strike",
-      "url": "https://calgary.citynews.ca/2025/12/29/u-s-military-carries-out-30th-strike-on-alleged-drug-boat/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 23:18:31 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930661"
-    },
-    {
-      "id": "11c6bb2f7fa2",
-      "title": "U.S. military carries out 30th strike on alleged drug boat",
-      "description": "WASHINGTON (AP) — The U.S. military said Monday that it had conducted another strike against a boat accused of smuggling drugs in the eastern Pacific Ocean, killing two people. The strike, which was announced by U.S. Southern Command on social media, has brought the total number of known boat strike",
-      "url": "https://edmonton.citynews.ca/2025/12/29/u-s-military-carries-out-30th-strike-on-alleged-drug-boat/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 23:18:31 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.150451"
+      "fetched_at": "2025-12-30T14:20:27.461699"
     },
     {
       "id": "c2aa0ef2ceb1",
@@ -2220,7 +2412,19 @@
       "published": "Mon, 29 Dec 2025 23:18:31 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208498"
+      "fetched_at": "2025-12-30T14:20:27.620759"
+    },
+    {
+      "id": "42d459421cce",
+      "title": "U.S. military carries out 30th strike on alleged drug boat",
+      "description": "WASHINGTON (AP) — The U.S. military said Monday that it had conducted another strike against a boat accused of smuggling drugs in the eastern Pacific Ocean, killing two people. The strike, which was announced by U.S. Southern Command on social media, has brought the total number of known boat strike",
+      "url": "https://calgary.citynews.ca/2025/12/29/u-s-military-carries-out-30th-strike-on-alleged-drug-boat/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 29 Dec 2025 23:18:31 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2025-12-30T14:20:27.759856"
     },
     {
       "id": "7e5a4b3a1ba2",
@@ -2232,19 +2436,19 @@
       "published": "Mon, 29 Dec 2025 23:18:31 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.589690"
+      "fetched_at": "2025-12-30T14:20:27.869069"
     },
     {
-      "id": "b02c34cf436a",
-      "title": "2025 was one of three hottest years on record, scientists say",
-      "description": "Climate change worsened by human behavior made 2025 one of the three hottest years on record, scientists said. It was also the first time that the three-year temperature average broke through the threshold set in the 2015 Paris Agreement of limiting warming to no more than 1.5 degrees Celsius (2.7 F",
-      "url": "https://toronto.citynews.ca/2025/12/29/2025-was-one-of-three-hottest-years-on-record-scientists-say/",
-      "source": "CityNews Toronto",
-      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2024/05/be02946b-2740-4fb4-ac52-674d4ee64417-1024x700.jpg",
-      "published": "Mon, 29 Dec 2025 23:09:30 +0000",
-      "location": "World",
+      "id": "11c6bb2f7fa2",
+      "title": "U.S. military carries out 30th strike on alleged drug boat",
+      "description": "WASHINGTON (AP) — The U.S. military said Monday that it had conducted another strike against a boat accused of smuggling drugs in the eastern Pacific Ocean, killing two people. The strike, which was announced by U.S. Southern Command on social media, has brought the total number of known boat strike",
+      "url": "https://edmonton.citynews.ca/2025/12/29/u-s-military-carries-out-30th-strike-on-alleged-drug-boat/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Mon, 29 Dec 2025 23:18:31 +0000",
+      "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243765"
+      "fetched_at": "2025-12-30T14:20:27.985318"
     },
     {
       "id": "48d49f503f9e",
@@ -2256,7 +2460,7 @@
       "published": "Mon, 29 Dec 2025 23:09:30 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.658012"
+      "fetched_at": "2025-12-30T14:20:27.461733"
     },
     {
       "id": "a77159a0331a",
@@ -2268,31 +2472,7 @@
       "published": "Mon, 29 Dec 2025 23:09:30 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930699"
-    },
-    {
-      "id": "2f85139c344e",
-      "title": "2025 was one of three hottest years on record, scientists say",
-      "description": "Climate change worsened by human behavior made 2025 one of the three hottest years on record, scientists said. It was also the first time that the three-year temperature average broke through the threshold set in the 2015 Paris Agreement of limiting warming to no more than 1.5 degrees Celsius (2.7 F",
-      "url": "https://edmonton.citynews.ca/2025/12/29/2025-was-one-of-three-hottest-years-on-record-scientists-say/",
-      "source": "CityNews Edmonton",
-      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2024/05/be02946b-2740-4fb4-ac52-674d4ee64417-1024x700.jpg",
-      "published": "Mon, 29 Dec 2025 23:09:30 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.150508"
-    },
-    {
-      "id": "ed863782d28f",
-      "title": "2025 was one of three hottest years on record, scientists say",
-      "description": "Climate change worsened by human behavior made 2025 one of the three hottest years on record, scientists said. It was also the first time that the three-year temperature average broke through the threshold set in the 2015 Paris Agreement of limiting warming to no more than 1.5 degrees Celsius (2.7 F",
-      "url": "https://montreal.citynews.ca/2025/12/29/2025-was-one-of-three-hottest-years-on-record-scientists-say/",
-      "source": "CityNews Montreal",
-      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2024/05/be02946b-2740-4fb4-ac52-674d4ee64417-1024x700.jpg",
-      "published": "Mon, 29 Dec 2025 23:09:30 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208535"
+      "fetched_at": "2025-12-30T14:20:27.759894"
     },
     {
       "id": "206a4209f524",
@@ -2304,7 +2484,7 @@
       "published": "Mon, 29 Dec 2025 23:09:30 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.589728"
+      "fetched_at": "2025-12-30T14:20:27.869107"
     },
     {
       "id": "d52370e29df7",
@@ -2316,43 +2496,7 @@
       "published": "Mon, 29 Dec 2025 22:54:00 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.625017"
-    },
-    {
-      "id": "2c953ca68fd1",
-      "title": "Snow on the beach: NHL teases plans for Miami - ESPN",
-      "description": "Snow on the beach: NHL teases plans for Miami&nbsp;&nbsp;ESPNMarchand recalls outdoor memories ahead of Winter Classic with Panthers&nbsp;&nbsp;NHL.com10 NHL Outdoor Game Records: Warmest Game, Highest Attendance, Most Losses And More&nbsp;&nbsp;The Hockey NewsNHL Adds Second Entertainer for Miami W",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeTY3Vjc0U2xnTHhwb0ZKUTVZX0xzYm1NTy1VcVB1WDNmM3EybFltU1hyVm90bnpHMWdUemxiTzhrc0cyUVNrdnJ6UTJPUm1xSTVVVjVfdHJFS3h6M2NPT0REWW84bk5hMlJ3NVdXRWVrRFh2di1GMGM5ek5ULXVrVnhXZzN1akVRemgya3RKRHBUM3l2?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 22:48:00 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2025-12-30T12:42:26.867347"
-    },
-    {
-      "id": "607e68d10117",
-      "title": "Video shows glass window falling from high-rise Toronto hotel",
-      "description": "A large glass window fell off the ledge of a high-rise hotel in Toronto’s downtown core on Monday. Footage submitted to CityNews shows the moment a window fell off the Pantages Hotel on Victoria Street as strong winds whipped across the city. Pedestrians were seen walking by as the window hit the gr",
-      "url": "https://toronto.citynews.ca/2025/12/29/video-shows-glass-window-falling-from-high-rise-toronto-hotel/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 22:45:37 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.243794"
-    },
-    {
-      "id": "7f9ba0e03824",
-      "title": "Arise Sir Idris Elba - King Charles gives knighthood to star for youth work - Royal Central",
-      "description": "Arise Sir Idris Elba - King Charles gives knighthood to star for youth work&nbsp;&nbsp;Royal CentralNew Year Honours 2026: Jayne Torvill, Christopher Dean & Sarina Wiegman recognised&nbsp;&nbsp;BBCIdris Elba Knighted in UK’s Annual New Year Honors&nbsp;&nbsp;Rolling StoneHollywood stars Idris Elba, ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSHluUFZvMHpRX2U0MmlFQ2M4Vmx5ZE5uU0QyUl9zZmQ5Tkp0RHJQWkxQNXYwUE0zbWN0RThrOThaUW1SaEF5Tk1LZnBRS1k1NFJyNEkzMVVEMU1TbWN1MnJpNWVrc0pfZVpmbQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 22:31:59 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.699797"
+      "fetched_at": "2025-12-30T14:20:25.691437"
     },
     {
       "id": "d4fd486a59ef",
@@ -2364,7 +2508,7 @@
       "published": "Mon, 29 Dec 2025 22:25:39 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.292806"
+      "fetched_at": "2025-12-30T14:20:26.937054"
     },
     {
       "id": "d1a92de6f529",
@@ -2376,7 +2520,7 @@
       "published": "Mon, 29 Dec 2025 22:07:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.358456"
+      "fetched_at": "2025-12-30T14:20:26.982449"
     },
     {
       "id": "478d030e8e61",
@@ -2388,19 +2532,7 @@
       "published": "Mon, 29 Dec 2025 22:05:17 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009433"
-    },
-    {
-      "id": "5900ef42c00f",
-      "title": "John Ivison: Canada and the EU can win an arms race with Russia, even without Trump",
-      "description": "Russia is not going to collapse any time soon but the pressures of war are beginning to take a toll",
-      "url": "https://nationalpost.com/opinion/john-ivison-canada-and-the-eu-can-win-an-arms-race-with-russia-even-without-trump",
-      "source": "National Post",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 21:59:05 +0000",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.625044"
+      "fetched_at": "2025-12-30T14:20:28.096239"
     },
     {
       "id": "643254ada734",
@@ -2412,19 +2544,19 @@
       "published": "Mon, 29 Dec 2025 21:52:52 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976534"
+      "fetched_at": "2025-12-30T14:20:28.121820"
     },
     {
       "id": "a5952fc8f856",
       "title": "Trump says 'there'll be hell to pay' if Hamas does not disarm - Euronews.com",
-      "description": "Trump says 'there'll be hell to pay' if Hamas does not disarm&nbsp;&nbsp;Euronews.comTrump hopes to reach phase two of Gaza ceasefire 'very quickly'&nbsp;&nbsp;BBCTrump and Netanyahu meet to discuss next phase of Gaza ceasefire plan&nbsp;&nbsp;NPRVideo: Trump warns Iran of possible major strike, urg",
+      "description": "Trump says 'there'll be hell to pay' if Hamas does not disarm&nbsp;&nbsp;Euronews.comTrump says he supports strikes on Iran in meeting with Netanyahu&nbsp;&nbsp;The Globe and MailTrump hopes to reach phase two of Gaza ceasefire 'very quickly'&nbsp;&nbsp;BBCTrump threatens Hamas, warns Iran of more s",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3cxSmhxaFltQnFSaVpYUWVXai10VG1WSUNLLUdvQlE3YUNxTVNYSVkxUmJuTlV5aVFuT1NyWlFmZjhyaE1BejdEMzNKSndEY1VaaEJoUGVCT1RLUnVYSlhTTzIyelkyOFdDZ0JqaEpQamlWdFdFUGVOSFl0STR5UU43NUVmX0tIZmNyTzJsQ2JiNzcwdzAtTXdxc3lObzdvVWVVX2hmbHZ2eVFRWU9WcjhrQi1PV2hJeTNJaFhwcENEVlBC?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 29 Dec 2025 21:51:40 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.699542"
+      "fetched_at": "2025-12-30T14:20:27.246235"
     },
     {
       "id": "1dae7069a772",
@@ -2436,7 +2568,7 @@
       "published": "Mon, 29 Dec 2025 21:48:45 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009458"
+      "fetched_at": "2025-12-30T14:20:28.096281"
     },
     {
       "id": "65bb46dc2e99",
@@ -2448,19 +2580,7 @@
       "published": "Mon, 29 Dec 2025 21:48:25 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.830021"
-    },
-    {
-      "id": "99e73bca4246",
-      "title": "Massive protests rock Iran after currency sinks; Tehran shopkeepers shutter stores - The Times of Israel",
-      "description": "Massive protests rock Iran after currency sinks; Tehran shopkeepers shutter stores&nbsp;&nbsp;The Times of IsraelProtests erupt in Iran over currency’s plunge to record low&nbsp;&nbsp;CNNIran’s President Masoud Pezeshkian Moves to Calm Protests With Vow to Fix Budget&nbsp;&nbsp;Bloomberg.comIran’s p",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX1h4RTFfdXN1VFdSRkpwd2lWYUhOYVFSUHUyWGdCcjFMLXhnRkJQWGcxZ1pfeTM2ZnFORkpPTnRDNzF2eXp2d3YtdHRrMjlmQjdjMy02X1ZzeG1saHBYLW95TmxlWGFYYjYwYm9OU2pJMXhtWUlWU1BqN0VodEJZdzJfS0k4ZTE2aThLVW42RTVXdFFJQ25RT0xwYXJjajE4TmJkOEZVUXJjejJ0ZkpoS2dB0gG3AUFVX3lxTFBrbFpObmZmRnMxQVBDMEtHbFhOVnd6RlhyNmhZRzFWalJoZllwajNnMmJOai1VeFlZTmFlUWpDbXAxaEJ5dWlVaDZkci1paFhRcXVEcWdLRWpGQXlhU2xqM0RZQ21tSWthR1RXUGZ0YnVBOWJqZDRhZkRfck1pUXJiMlNSZUhfMGtuSWRjZjZTaWJyX1dMNTdEMUhlSXEydTd1ZGRGR2hhaXlfNXB2Y1FGc0VZSml6OA?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 21:44:00 GMT",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.699735"
+      "fetched_at": "2025-12-30T14:20:28.038924"
     },
     {
       "id": "904dc22b81df",
@@ -2472,7 +2592,7 @@
       "published": "Mon, 29 Dec 2025 21:43:52 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930722"
+      "fetched_at": "2025-12-30T14:20:27.759916"
     },
     {
       "id": "bc3ae3933af5",
@@ -2484,7 +2604,7 @@
       "published": "Mon, 29 Dec 2025 21:35:19 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.658041"
+      "fetched_at": "2025-12-30T14:20:27.461762"
     },
     {
       "id": "9aa1627cdd5b",
@@ -2496,7 +2616,7 @@
       "published": "Mon, 29 Dec 2025 21:24:20 GMT",
       "location": "Ottawa",
       "category": "canada",
-      "fetched_at": "2025-12-30T12:42:27.068032"
+      "fetched_at": "2025-12-30T14:20:27.604098"
     },
     {
       "id": "085348f03079",
@@ -2508,7 +2628,7 @@
       "published": "Mon, 29 Dec 2025 21:21:08 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976576"
+      "fetched_at": "2025-12-30T14:20:28.121859"
     },
     {
       "id": "3e7736e73753",
@@ -2520,7 +2640,7 @@
       "published": "Mon, 29 Dec 2025 21:19:24 GMT",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:26.957594"
+      "fetched_at": "2025-12-30T14:20:27.128967"
     },
     {
       "id": "a2bcc0f879e2",
@@ -2532,7 +2652,7 @@
       "published": "Mon, 29 Dec 2025 21:16:22 GMT",
       "location": "Canada",
       "category": "sports",
-      "fetched_at": "2025-12-30T12:42:26.867293"
+      "fetched_at": "2025-12-30T14:20:27.324688"
     },
     {
       "id": "d2ba714ff847",
@@ -2544,19 +2664,19 @@
       "published": "Mon, 29 Dec 2025 21:13:09 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930750"
+      "fetched_at": "2025-12-30T14:20:27.759944"
     },
     {
       "id": "6b3ab507a64d",
       "title": "Flight delays in Columbus push back start of Sens-Blue Jackets game in Ottawa - CTV News",
-      "description": "Flight delays in Columbus push back start of Sens-Blue Jackets game in Ottawa&nbsp;&nbsp;CTV NewsColumbus Blue Jackets down Senators after late arrival in Ottawa&nbsp;&nbsp;TSNOttawa Senators seek winning streak to start 2026, and climb up NHL standings&nbsp;&nbsp;CTV NewsGreaves shines again, lifts",
+      "description": "Flight delays in Columbus push back start of Sens-Blue Jackets game in Ottawa&nbsp;&nbsp;CTV NewsStruggling Sens eye January turnaround after hearing boos at home to end 2025&nbsp;&nbsp;TSNVisiting Blue Jackets beat Senators after late arrival&nbsp;&nbsp;Sportsnet.caTravis Green On Senators 4-1 Loss",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlBuNmtpSDNjMEJiZ1ozbG1qZm1qN09wNFZyd0pNV2FSR0pzNkx2MTR1cjNYZ21vYzQ4Zi1JQ3pTd1BGdmthS25HdHVRSEJhV1Y3Tk14THBZZFUtNFlfR203Zm1JbnhMTmFWMjBMS3B0aUpEZ1hmVi1qeXRxVGQya1hwZWRVd1RNYkdsV0N0cUc4MjJQUUFMazZJVlQyWS12Zkc3aDFQaVU4UVU?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 29 Dec 2025 21:13:03 GMT",
       "location": "Ottawa",
       "category": "sports",
-      "fetched_at": "2025-12-30T12:42:26.867065"
+      "fetched_at": "2025-12-30T14:20:27.324472"
     },
     {
       "id": "3551878d7750",
@@ -2568,19 +2688,7 @@
       "published": "Mon, 29 Dec 2025 21:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.037428"
-    },
-    {
-      "id": "2665071fccbf",
-      "title": "British-Egyptian activist faces deportation calls over anti-Israel posts just days after return to U.K.",
-      "description": "Alaa Abdel Fattah's apologized for his earlier posts, while the U.K. foreign ministry has condemned them as ‘abhorrent’ for calling for the murder of Israelis and police",
-      "url": "https://nationalpost.com/news/world/israel-middle-east/alaa-abdel-fattah-social-media-posts",
-      "source": "National Post",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 20:51:32 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2025-12-30T12:42:26.625074"
+      "fetched_at": "2025-12-30T14:20:25.568661"
     },
     {
       "id": "c7396cce3335",
@@ -2592,7 +2700,19 @@
       "published": "Mon, 29 Dec 2025 20:22:07 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.976602"
+      "fetched_at": "2025-12-30T14:20:28.121884"
+    },
+    {
+      "id": "76bee1514b7f",
+      "title": "Blue Jackets trade Yegor Chinakhov to Penguins for Danton Heinen, picks - Daily Faceoff",
+      "description": "Blue Jackets trade Yegor Chinakhov to Penguins for Danton Heinen, picks&nbsp;&nbsp;Daily FaceoffBlue Jackets trade Chinakhov to Penguins for Heinen, two draft picks&nbsp;&nbsp;TSNChinakhov traded to Penguins by Blue Jackets for Heinen&nbsp;&nbsp;NHL.comFormer Bruins Forward Traded To New Team&nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckFETl9Gc2pOWmZteDNIdW9VbnRDQXJmLVlieFJDUTNYeDlDb3NPdGdpVjNnNWN4T3djSWRWbVRxcTUxa0VUMU12aGU5ampWa0NqYl9zVkFOYjJLYm9Ra0N4aXA5UWVoRnUwSHZLelVGQzhHN0NKUXd2aC00NmV5d19NbWtNTkdZUmVlOVFVdnlaMm9EZWVPdEZzRDMtaUZIck5zVFNoa3k0Zw?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Mon, 29 Dec 2025 20:22:00 GMT",
+      "location": "Canada",
+      "category": "sports",
+      "fetched_at": "2025-12-30T14:20:27.324741"
     },
     {
       "id": "7b736bec48f5",
@@ -2604,7 +2724,7 @@
       "published": "Mon, 29 Dec 2025 20:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.037466"
+      "fetched_at": "2025-12-30T14:20:25.568737"
     },
     {
       "id": "073a7397030e",
@@ -2616,19 +2736,7 @@
       "published": "Mon, 29 Dec 2025 19:59:08 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2025-12-30T12:42:25.881535"
-    },
-    {
-      "id": "705a96ac84be",
-      "title": "It took a village to build this Quebec furniture empire. The trade war is knocking it down",
-      "description": "Family-owned South Shore Furniture is a major employer in Sainte-Croix, where locals fears for its future",
-      "url": "https://www.theglobeandmail.com/business/article-trade-war-quebec-sainte-croix-south-shore-furniture/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/CAPOYVTFO5GMZPDHD3GX7EZXPE.JPG?auth=fdacec6458433722b49ae40e5e2b59aeaa7591dfafe8cc4eaf086fd564e7e29f&smart=true&width=6869&height=5152",
-      "published": "Mon, 29 Dec 2025 19:58:10 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:25.107027"
+      "fetched_at": "2025-12-30T14:20:26.853528"
     },
     {
       "id": "ca650720bcc8",
@@ -2640,7 +2748,7 @@
       "published": "Mon, 29 Dec 2025 19:41:14 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930778"
+      "fetched_at": "2025-12-30T14:20:27.759971"
     },
     {
       "id": "3cea9e9715c7",
@@ -2652,19 +2760,7 @@
       "published": "Mon, 29 Dec 2025 19:38:09 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.930821"
-    },
-    {
-      "id": "abae9f8a80b2",
-      "title": "Anand affirms Canada’s view that Ukraine must control decisions about its sovereignty",
-      "description": "OTTAWA — Foreign Affairs Minister Anita Anand said she told her Ukrainian counterpart Monday that decisions about Ukraine&#8217;s sovereignty must be made by Kyiv itself. Anand&#8217;s conversation with Andrii Sybiha, Ukraine&#8217;s foreign minister, followed Canada&#8217;s recent commitment of an ",
-      "url": "https://montreal.citynews.ca/2025/12/29/anand-affirms-canadas-view-that-ukraine-must-control-decisions-about-its-sovereignty/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 19:38:09 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208586"
+      "fetched_at": "2025-12-30T14:20:27.760014"
     },
     {
       "id": "b442051593f6",
@@ -2676,7 +2772,7 @@
       "published": "Mon, 29 Dec 2025 19:38:09 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.589773"
+      "fetched_at": "2025-12-30T14:20:27.869153"
     },
     {
       "id": "637f668a407f",
@@ -2688,19 +2784,7 @@
       "published": "Mon, 29 Dec 2025 19:30:28 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.830043"
-    },
-    {
-      "id": "a2c479e84b3e",
-      "title": "Trump says U.S. ‘hit’ Venezuela dock where drugs allegedly loaded on boats - Global News",
-      "description": "Trump says U.S. ‘hit’ Venezuela dock where drugs allegedly loaded on boats&nbsp;&nbsp;Global NewsTrump says U.S. struck dock on shore where he says alleged drug boats 'load up'&nbsp;&nbsp;CBCExclusive: CIA carried out drone strike on port facility on Venezuelan coast&nbsp;&nbsp;CNNTrump says US hit ",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpNFdnYXZtc2RjdVl2cmRINHVyM0JGckx5TnFObU4wTXk0Z1pWbjJla3NUVkdLSmhVWHM0OGMtekVlWWxZLVRvMTZFN3ZrelhjNE1ya1VpNWxac2c5RHJDQkFGeklTVm1TYTg3ZTRySVhhbVNyQU1vWVdfeEzSAYIBQVVfeXFMTV9ybExBckFOYnBQdzRUMUVRTm1GZ2haa18xcThtckJ1b2pIdE9ub3VfMWFyMnRmWklENXM0VFNHS09TM0hJOUdYOUJXZ2E0UGg4SWxUMmFud29KbzJ0RmRwUTFpaUZzX2RRb3NfMXlTQ3g1WHB3ak1oS09vejdINFJVUQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 19:26:01 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.699488"
+      "fetched_at": "2025-12-30T14:20:28.038947"
     },
     {
       "id": "f1c2e7d01e06",
@@ -2712,7 +2796,7 @@
       "published": "Mon, 29 Dec 2025 19:11:59 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009489"
+      "fetched_at": "2025-12-30T14:20:28.096316"
     },
     {
       "id": "69d873e92e18",
@@ -2724,19 +2808,19 @@
       "published": "Mon, 29 Dec 2025 19:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.037501"
+      "fetched_at": "2025-12-30T14:20:25.568816"
     },
     {
       "id": "a7a0b79f5b5a",
       "title": "U.S. Homeland Security launches fraud investigation in Minneapolis - The Globe and Mail",
-      "description": "U.S. Homeland Security launches fraud investigation in Minneapolis&nbsp;&nbsp;The Globe and MailFirst, a viral video. Then a surge of federal resources to investigate alleged child care fraud in Minnesota&nbsp;&nbsp;CNNTrump administration targets fraud in Minnesota&nbsp;&nbsp;The HillHow a viral vi",
+      "description": "U.S. Homeland Security launches fraud investigation in Minneapolis&nbsp;&nbsp;The Globe and MailViral video alleging day care fraud in Minnesota draws FBI response&nbsp;&nbsp;Yahoo News CanadaFirst, a viral video. Then a surge of federal resources to investigate alleged child care fraud in Minnesota",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEVYeDBkeW40UHdBamM1XzNvc1BPZHVqOUt3MDQ0VV9HcmpsRVZSY0hEdjFEY3VPM1BFaVJkWS02UVdkWmRiUERWS09mSmhubC12eTdiTUNLN05pQkladTNxQndGTUlJa1dxYlJFTXNWbnFRSlVkX0RyQ3Z5QXhkRVhZWUo2X3ZjeTY5aW45UV9oaDVPSEMyUjV3eFBGM0RsZG5fdVlYbw?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 29 Dec 2025 18:51:35 GMT",
-      "location": "World",
+      "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.699666"
+      "fetched_at": "2025-12-30T14:20:27.246333"
     },
     {
       "id": "de5f089b81ad",
@@ -2748,19 +2832,7 @@
       "published": "Mon, 29 Dec 2025 18:48:34 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.358501"
-    },
-    {
-      "id": "ba5535ccf154",
-      "title": "Betting on his family was a sure thing for one lottery winner - CTV News",
-      "description": "Betting on his family was a sure thing for one lottery winner&nbsp;&nbsp;CTV NewsGTA assembly line worker shares ‘best news’ with family after winning $1 million&nbsp;&nbsp;CTV News$1 million Encore lottery win gives Gen Zer the chance to go back to school&nbsp;&nbsp;Yahoo News CanadaArea resident c",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFozaXR2ZFhRN295WjVtanF3eE9QTHhvNE1qa1NUdkhxSlpYNnFrOUQ3UElIMEpRVUljRVVPdXE0U1JjSDNzRjROLWcycXNianZxRjh0SzlzVWYwUUV3dmpQVF81OWNVNU9kdFYxWXh3MjNHT0hCakZMb1NCZ3VaN1JicHF4STNkalJ4N2N0Qll5by1IamZXaURVeGFvUXhrTmc?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 18:47:35 GMT",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:26.957862"
+      "fetched_at": "2025-12-30T14:20:26.982496"
     },
     {
       "id": "44de8e6dfc91",
@@ -2772,7 +2844,7 @@
       "published": "Mon, 29 Dec 2025 18:46:01 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.830069"
+      "fetched_at": "2025-12-30T14:20:28.038974"
     },
     {
       "id": "11edcc6cd150",
@@ -2784,7 +2856,7 @@
       "published": "Mon, 29 Dec 2025 18:45:07 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009518"
+      "fetched_at": "2025-12-30T14:20:28.096347"
     },
     {
       "id": "d9dc929e67f3",
@@ -2796,19 +2868,7 @@
       "published": "Mon, 29 Dec 2025 18:29:08 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.009554"
-    },
-    {
-      "id": "b6af41556839",
-      "title": "Judge orders release of transcript from closed hearing for man accused of killing Charlie Kirk",
-      "description": "A Utah judge on Monday ordered the release of a transcript from a closed-door hearing in October over whether the man charged with killing Charlie Kirk must be shackled during court proceedings. State District Judge Tony Graf said the transcript must be posted on the court docket by the end of the d",
-      "url": "https://montreal.citynews.ca/2025/12/29/judge-orders-release-of-transcript-of-closed-hearing-for-man-accused-of-killing-charlie-kirk/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 18:29:01 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.208627"
+      "fetched_at": "2025-12-30T14:20:28.096385"
     },
     {
       "id": "ff539a230af9",
@@ -2820,7 +2880,7 @@
       "published": "Mon, 29 Dec 2025 18:29:01 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.589817"
+      "fetched_at": "2025-12-30T14:20:27.869197"
     },
     {
       "id": "4b85668ab165",
@@ -2832,7 +2892,7 @@
       "published": "Mon, 29 Dec 2025 18:26:07 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:26.957779"
+      "fetched_at": "2025-12-30T14:20:27.129318"
     },
     {
       "id": "70baa9334e9e",
@@ -2844,7 +2904,7 @@
       "published": "Mon, 29 Dec 2025 18:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:25.037532"
+      "fetched_at": "2025-12-30T14:20:25.568878"
     },
     {
       "id": "f3c98c746d5b",
@@ -2856,19 +2916,19 @@
       "published": "Mon, 29 Dec 2025 17:55:28 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2025-12-30T12:42:25.881561"
+      "fetched_at": "2025-12-30T14:20:26.853552"
     },
     {
       "id": "4277c3b8d542",
       "title": "More than 60,000 customers without power after winter storm hits Ontario: Hydro One - CityNews Toronto",
-      "description": "More than 60,000 customers without power after winter storm hits Ontario: Hydro One&nbsp;&nbsp;CityNews TorontoView Full Coverage on Google News",
+      "description": "More than 60,000 customers without power after winter storm hits Ontario: Hydro One&nbsp;&nbsp;CityNews TorontoThousands still without power after winter storm in Ontario, utility says&nbsp;&nbsp;CityNews TorontoWind warning ends for Toronto, but snow squall warnings in effect north of city&nbsp;&nb",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3Nva1lsbmNpTFByYnEtWGxLS0RCcWlRWURDYzZuQjhLbzh2cnhxa1RETmxaY3pOMVJER0UxMW8xVzd5VHlfTnZfVEN2b2kzTzhXUnBxajV5a3dRZ1NGN21uMFBZa3NkWm85dk5abUJDXy1xU3dLcXc2cWNCajNFclBNR2JTXzFCX1FMajRJMnJ3QWZ1ZmxkX3Y0NVBZVkVpLTJ6S29BaTVnVHg5bmtIZDB5RlFOSEl3aDFCWTFB?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 29 Dec 2025 17:45:00 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2025-12-30T12:42:26.957466"
+      "fetched_at": "2025-12-30T14:20:27.129136"
     },
     {
       "id": "73b77805287f",
@@ -2880,7 +2940,7 @@
       "published": "Mon, 29 Dec 2025 17:40:14 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2025-12-30T12:42:25.720079"
+      "fetched_at": "2025-12-30T14:20:26.344059"
     },
     {
       "id": "68dd4d3e9bb5",
@@ -2892,7 +2952,7 @@
       "published": "Mon, 29 Dec 2025 17:31:31 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.358291"
+      "fetched_at": "2025-12-30T14:20:26.982244"
     },
     {
       "id": "cd612476e9aa",
@@ -2904,7 +2964,7 @@
       "published": "Mon, 29 Dec 2025 17:30:37 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.292859"
+      "fetched_at": "2025-12-30T14:20:26.937109"
     },
     {
       "id": "537c90ccc940",
@@ -2916,7 +2976,7 @@
       "published": "Mon, 29 Dec 2025 17:30:03 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2025-12-30T12:42:26.358548"
+      "fetched_at": "2025-12-30T14:20:26.982544"
     },
     {
       "id": "a3bfd2043ac5",
@@ -2928,7 +2988,7 @@
       "published": "Mon, 29 Dec 2025 17:20:26 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2025-12-30T12:42:25.881607"
+      "fetched_at": "2025-12-30T14:20:26.853598"
     },
     {
       "id": "1983fd269410",
@@ -2940,123 +3000,62 @@
       "published": "Mon, 29 Dec 2025 17:19:14 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2025-12-30T12:42:26.292902"
-    },
-    {
-      "id": "265d605ecc2a",
-      "title": "Trump says the US ‘hit’ a facility along shore where he says alleged drug boats ‘load up’",
-      "description": "PALM BEACH, Fla. (AP) — President Donald Trump has indicated that the U.S. has “hit” a dock facility along a shore as he wages a pressure campaign on Venezuela, but the U.S. offered few details. Trump initially seemed to confirm a strike in what appeared to be an impromptu radio interview Friday, an",
-      "url": "https://ottawa.citynews.ca/2025/12/29/trump-indicates-the-us-hit-a-facility-that-he-tied-to-alleged-drug-boats/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 17:17:02 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:28.589860"
-    },
-    {
-      "id": "2cf8c5e749a0",
-      "title": "Skier who fell in deep snow in Banff may have died by suffocation, resort says",
-      "description": "Sunshine Village spokesperson says the female victim's cause of death could be 'asphyxiation due to the snow or cardiac arrest'",
-      "url": "https://nationalpost.com/news/canada/banff-ski-resort-suffocation",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/12/al-1-1050_274087318.jpg",
-      "published": "Mon, 29 Dec 2025 17:16:12 +0000",
-      "location": "World",
-      "category": "politics",
-      "fetched_at": "2025-12-30T12:42:25.881584"
-    },
-    {
-      "id": "d32bb16fe968",
-      "title": "Watch the new trailer for the Vancouver-shot Malcolm in the Middle: Life’s Still Unfair",
-      "description": "Frankie Muniz and Bryan Cranston return for Hulu's limited series reboot of hit sitcom Malcolm in the Middle",
-      "url": "https://vancouversun.com/entertainment/vancouver-shot-malcolm-in-the-middle-life-still-unfair-trailer-release",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 17:10:06 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.531921"
-    },
-    {
-      "id": "aa75de753a03",
-      "title": "Fireworks, music, and traffic: Toronto’s NYE plans - CP24",
-      "description": "Fireworks, music, and traffic: Toronto’s NYE plans&nbsp;&nbsp;CP2450 New Year's Eve 2026 parties you can attend in Toronto&nbsp;&nbsp;blogTOFireworks, performances, and dance: Toronto’s major NYE Party is almost here&nbsp;&nbsp;NOW TorontoRing in 2026, Toronto, with these New Year’s Eve celebrations",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEhiY05JTXNPM24wWmlhNVRSZlRpVHF5QWZuUDQ4Sm1XcGE0SXdrNHdoUVQwT0lTcG1CV01qSTBSVjIxQnNlYWRNb21JSEtBSzBMNmxUMFpna2JmU19ZS0xZTi1MZ1pDdkIzaUo2elFsYW9wTkplTTFSQjhCNENfRzFyM2Rpb2FnQm9JdlVDNXM2R0M0UUREWQ?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 17:07:45 GMT",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2025-12-30T12:42:26.957557"
-    },
-    {
-      "id": "cfdc57b79e5d",
-      "title": "Todd: Juraj Slafkovsky blossoming into a force for Canadiens",
-      "description": "Radiating confidence and growing almost game to game, winger seizes command in third period to lead Habs' furious comeback in Tampa.",
-      "url": "https://montrealgazette.com/sports/hockey/hockey-inside-out/todd-juraj-slafkovsky-blossoming-into-a-force-for-canadiens",
-      "source": "Montreal Gazette",
-      "image": "",
-      "published": "Mon, 29 Dec 2025 17:00:34 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2025-12-30T12:42:27.830094"
+      "fetched_at": "2025-12-30T14:20:26.937153"
     }
   ],
   "sources": [
-    "The Guardian",
-    "CityNews Montreal",
-    "BetaKit",
-    "National Post",
-    "TechCrunch",
-    "Wired",
-    "Global Politics",
+    "Google News Tech",
     "Montreal Gazette",
-    "Science Daily",
-    "BBC World",
-    "CityNews Vancouver",
+    "CityNews Calgary",
+    "CityNews Edmonton",
+    "TechCrunch",
+    "BetaKit",
+    "Global Politics",
+    "National Post",
     "Google News Business",
+    "CityNews Vancouver",
+    "The Guardian",
+    "National Post Politics",
+    "CityNews Ottawa",
+    "Edmonton Journal",
+    "Ottawa Citizen",
+    "CityNews Montreal",
+    "Wired",
     "Financial Post",
     "APTN News",
-    "CityNews Toronto",
-    "Al Jazeera",
-    "CityNews Ottawa",
     "Calgary Sun",
-    "Global News",
-    "Ottawa Citizen",
-    "CityNews Calgary",
-    "Vancouver Sun",
-    "CityNews Edmonton",
-    "CNN World",
-    "Google News Canada",
+    "CityNews Toronto",
     "Google News Sports",
+    "Science Daily",
+    "CNN World",
+    "BBC World",
     "Globe Business",
-    "National Post Politics",
-    "Google News Tech",
-    "Edmonton Journal"
+    "Google News Canada",
+    "Global News",
+    "Vancouver Sun",
+    "Al Jazeera"
   ],
   "stats": {
     "by_location": {
-      "World": 118,
-      "Canada": 36,
-      "Ottawa": 14,
-      "Vancouver": 21,
-      "Toronto": 17,
+      "World": 121,
+      "Canada": 38,
+      "Ottawa": 15,
       "Montreal": 16,
-      "Edmonton": 22,
-      "Winnipeg": 1,
+      "Toronto": 15,
+      "Vancouver": 19,
+      "Edmonton": 21,
       "Calgary": 4,
       "Halifax": 1
     },
     "by_category": {
       "indigenous": 6,
-      "local": 102,
-      "business": 28,
-      "technology": 24,
-      "canada": 29,
+      "local": 101,
       "world": 33,
+      "canada": 30,
+      "business": 28,
+      "technology": 26,
       "sports": 7,
-      "politics": 11,
+      "politics": 9,
       "science": 10
     },
     "source_count": 30
