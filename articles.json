@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01T16:38:28.785370",
+  "last_updated": "2026-01-01T18:41:09.201710",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 31 Dec 2025 23:50:50 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.562897"
+      "fetched_at": "2026-01-01T18:29:23.378979"
     },
     {
       "id": "389332e6c6f1",
@@ -24,7 +24,7 @@
       "published": "Wed, 31 Dec 2025 23:41:44 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029110"
+      "fetched_at": "2026-01-01T18:29:26.381722"
     },
     {
       "id": "6aad4d2440e8",
@@ -36,7 +36,7 @@
       "published": "Wed, 31 Dec 2025 23:29:15 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029143"
+      "fetched_at": "2026-01-01T18:29:26.381754"
     },
     {
       "id": "6800ef605bfc",
@@ -48,7 +48,7 @@
       "published": "Wed, 31 Dec 2025 23:09:13 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.496417"
+      "fetched_at": "2026-01-01T18:29:25.408034"
     },
     {
       "id": "7d522427a2f7",
@@ -60,7 +60,7 @@
       "published": "Wed, 31 Dec 2025 23:07:11 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170686"
+      "fetched_at": "2026-01-01T18:29:24.390345"
     },
     {
       "id": "23da30642648",
@@ -72,7 +72,7 @@
       "published": "Wed, 31 Dec 2025 22:46:21 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:42.075357"
+      "fetched_at": "2026-01-01T18:29:25.441645"
     },
     {
       "id": "2016fb106722",
@@ -84,7 +84,7 @@
       "published": "Wed, 31 Dec 2025 22:37:10 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.864367"
+      "fetched_at": "2026-01-01T18:29:25.898754"
     },
     {
       "id": "4cdb76467310",
@@ -96,7 +96,7 @@
       "published": "Wed, 31 Dec 2025 22:21:40 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788515"
+      "fetched_at": "2026-01-01T18:29:25.767116"
     },
     {
       "id": "a953c94582d6",
@@ -108,7 +108,7 @@
       "published": "Wed, 31 Dec 2025 22:18:30 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029175"
+      "fetched_at": "2026-01-01T18:29:26.381785"
     },
     {
       "id": "9f214b899549",
@@ -120,7 +120,7 @@
       "published": "Wed, 31 Dec 2025 22:00:41 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788542"
+      "fetched_at": "2026-01-01T18:29:25.767142"
     },
     {
       "id": "a85f8eb62b86",
@@ -132,19 +132,7 @@
       "published": "Wed, 31 Dec 2025 21:57:35 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788567"
-    },
-    {
-      "id": "402cc2d2d90f",
-      "title": "Attempted kidnapping at Banff Christmas Market under investigation",
-      "description": "An investigation is underway after a Calgary family faced an attempted kidnapping in Banff in early December, police say. The post Attempted kidnapping at Banff Christmas Market under investigation appeared first on CityNews Edmonton.",
-      "url": "https://edmonton.citynews.ca/2025/12/31/calgary-police-banff-christmas-market-kidnapping/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 21:49:23 +0000",
-      "location": "Calgary",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.729666"
+      "fetched_at": "2026-01-01T18:29:25.767167"
     },
     {
       "id": "c5c67f3ee323",
@@ -156,7 +144,19 @@
       "published": "Wed, 31 Dec 2025 21:49:23 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746742"
+      "fetched_at": "2026-01-01T18:29:25.685860"
+    },
+    {
+      "id": "402cc2d2d90f",
+      "title": "Attempted kidnapping at Banff Christmas Market under investigation",
+      "description": "An investigation is underway after a Calgary family faced an attempted kidnapping in Banff in early December, police say. The post Attempted kidnapping at Banff Christmas Market under investigation appeared first on CityNews Edmonton.",
+      "url": "https://edmonton.citynews.ca/2025/12/31/calgary-police-banff-christmas-market-kidnapping/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Wed, 31 Dec 2025 21:49:23 +0000",
+      "location": "Calgary",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.789726"
     },
     {
       "id": "399e535a3bf8",
@@ -168,7 +168,7 @@
       "published": "Wed, 31 Dec 2025 21:46:39 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.562921"
+      "fetched_at": "2026-01-01T18:29:23.379036"
     },
     {
       "id": "63cffbd3084d",
@@ -180,7 +180,7 @@
       "published": "Wed, 31 Dec 2025 21:43:36 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029204"
+      "fetched_at": "2026-01-01T18:29:26.381812"
     },
     {
       "id": "7cb94f99249e",
@@ -192,31 +192,7 @@
       "published": "Wed, 31 Dec 2025 21:33:46 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.608116"
-    },
-    {
-      "id": "b2eb745e598f",
-      "title": "Oxfam-Québec surprised to find itself on list of NGOs set to be barred from Gaza",
-      "description": "Canadian non-profit Oxfam-Québec says it was surprised to find itself on a list of 37 organizations set to be barred from Gaza by Israel. The country is reportedly moving to suspend more than two dozen humanitarian organizations as of Jan. 1 for failing to comply with new vetting rules for internati",
-      "url": "https://montreal.citynews.ca/2025/12/31/oxfam-quebec-surprised-to-find-itself-on-list-of-ngos-set-to-be-barred-from-gaza/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 21:14:38 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.506559"
-    },
-    {
-      "id": "b44755cc6ccf",
-      "title": "Young girl identified as victim who died after shootout involving police in Nunavik",
-      "description": "Authorities in Quebec&#8217;s Nunavik region say the person who died 10 days after an exchange of gunfire involving the Nunavik Police Service on Dec. 20 was a young girl. Maggie Emudluk, Kativik Regional Government chairperson, says in a statement the girl was an innocent victim of a sad tragedy. Q",
-      "url": "https://montreal.citynews.ca/2025/12/31/young-girl-identified-as-victim-who-died-after-shootout-involving-police-in-nunavik/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 21:14:21 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.506598"
+      "fetched_at": "2026-01-01T18:29:25.802649"
     },
     {
       "id": "e7645d8776dd",
@@ -228,7 +204,7 @@
       "published": "Wed, 31 Dec 2025 21:07:37 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029246"
+      "fetched_at": "2026-01-01T18:29:26.381838"
     },
     {
       "id": "1764508aabc6",
@@ -240,7 +216,7 @@
       "published": "Wed, 31 Dec 2025 21:04:28 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-01-01T16:26:41.022676"
+      "fetched_at": "2026-01-01T18:29:23.863282"
     },
     {
       "id": "fba00993413b",
@@ -252,7 +228,7 @@
       "published": "Wed, 31 Dec 2025 21:03:30 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.864392"
+      "fetched_at": "2026-01-01T18:29:25.898779"
     },
     {
       "id": "dd4ddbce2481",
@@ -264,19 +240,7 @@
       "published": "Wed, 31 Dec 2025 21:01:47 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.496445"
-    },
-    {
-      "id": "90bc1ae1433d",
-      "title": "Seven Canadians among dozens injured in Peru train crash, Foreign Affairs Minister says - The Globe and Mail",
-      "description": "Seven Canadians among dozens injured in Peru train crash, Foreign Affairs Minister says&nbsp;&nbsp;The Globe and Mail7 Canadians among dozens injured in Peru train collision: Global Affairs Canada&nbsp;&nbsp;CBCPassenger describes 'chaos' after head-on Machu Picchu train collision&nbsp;&nbsp;BBCSeve",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WMG1rLXFOSkwtY2dQQzZBZkFySWR4REVkYUxqWXB1THI3RkF0WjNRNlltUmY0anVJcXJYVjM1LTA4dzdVMnRYejZYbWtrZURvTHRQdVdVbllUQWpHakl1UmJpNURTZFpETi1TVTY2amdFcHpqTHpJRktZTVByWVU?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 20:59:03 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2026-01-01T16:26:42.075569"
+      "fetched_at": "2026-01-01T18:29:25.408062"
     },
     {
       "id": "812738df0502",
@@ -288,19 +252,7 @@
       "published": "Wed, 31 Dec 2025 20:58:13 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.729705"
-    },
-    {
-      "id": "7c64283c5d8b",
-      "title": "Wilson has Gordie Howe hat trick in Capitals win against Rangers - TSN",
-      "description": "Wilson has Gordie Howe hat trick in Capitals win against Rangers&nbsp;&nbsp;TSNWilson scores twice for Capitals in win against Rangers&nbsp;&nbsp;NHL.comRangers Lose Final Game Of 2025 To Capitals Despite Adam Fox Returning From Long Absence&nbsp;&nbsp;The Hockey NewsTakeaways: Team Canada's Tom Wil",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGNObUNaTFFwbFVEUVNjb1doWTBsLXhvWEh2ZjFGZ0RBMy1SV0FRWUY4NWlvVy05WFBUekdhT1Jtd3lGNGZzbFBYX2pKOWVTSGY2Yk4yOUs3YTdvZXoyekd1R3NlSU1oM3V0RGx2Yi1ucndtSXZEVjlMcklKcWhEb3lfV1NZWExPeWFEd0hNUFZ6Sl9raHRGSlluTjE?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 20:56:50 GMT",
-      "location": "Canada",
-      "category": "sports",
-      "fetched_at": "2026-01-01T16:26:42.325647"
+      "fetched_at": "2026-01-01T18:29:25.789762"
     },
     {
       "id": "7e595c1c2743",
@@ -312,7 +264,7 @@
       "published": "Wed, 31 Dec 2025 20:49:28 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746768"
+      "fetched_at": "2026-01-01T18:29:25.685884"
     },
     {
       "id": "cbe8036c2c6b",
@@ -324,43 +276,7 @@
       "published": "Wed, 31 Dec 2025 20:29:24 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.864415"
-    },
-    {
-      "id": "05a83f674c26",
-      "title": "7 Canadians injured after train crash near Machu Picchu in Peru, foreign affairs minister says",
-      "description": "Canada’s foreign affairs minister says seven Canadians were injured Tuesday in a train crash near the Machu Picchu archaeological site in Peru. Anita Anand says on social media that Global Affairs officials are providing consular assistance to those affected and are in close contact with local autho",
-      "url": "https://vancouver.citynews.ca/2025/12/31/7-canadians-injured-after-train-crash-near-machu-picchu-in-peru-foreign-affairs-minister-says/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 20:27:43 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.496486"
-    },
-    {
-      "id": "635089e75144",
-      "title": "7 Canadians injured after train crash near Machu Picchu in Peru, foreign affairs minister says",
-      "description": "Canada’s foreign affairs minister says seven Canadians were injured Tuesday in a train crash near the Machu Picchu archaeological site in Peru. Anita Anand says on social media that Global Affairs officials are providing consular assistance to those affected and are in close contact with local autho",
-      "url": "https://montreal.citynews.ca/2025/12/31/7-canadians-injured-after-train-crash-near-machu-picchu-in-peru-foreign-affairs-minister-says/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 20:27:43 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.506644"
-    },
-    {
-      "id": "d5ba8278e542",
-      "title": "7 Canadians injured after train crash near Machu Picchu in Peru, foreign affairs minister says",
-      "description": "Canada’s foreign affairs minister says seven Canadians were injured Tuesday in a train crash near the Machu Picchu archaeological site in Peru. Anita Anand says on social media that Global Affairs officials are providing consular assistance to those affected and are in close contact with local autho",
-      "url": "https://edmonton.citynews.ca/2025/12/31/7-canadians-injured-after-train-crash-near-machu-picchu-in-peru-foreign-affairs-minister-says/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 20:27:43 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.729754"
+      "fetched_at": "2026-01-01T18:29:25.898802"
     },
     {
       "id": "068a1e88e194",
@@ -372,7 +288,7 @@
       "published": "Wed, 31 Dec 2025 20:27:43 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746808"
+      "fetched_at": "2026-01-01T18:29:25.685927"
     },
     {
       "id": "33feca677c40",
@@ -384,19 +300,7 @@
       "published": "Wed, 31 Dec 2025 20:27:43 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280305"
-    },
-    {
-      "id": "bc0bea805024",
-      "title": "Man charged after woman spat on in Vancouver stranger assault",
-      "description": "Police have arrested a man suspected of spitting on a stranger in downtown Vancouver this week. The Vancouver Police Department says the victim, a woman in her 60s, alleges that a man approached her and spat in her face while she was walking her dog shortly after midnight on Dec. 29. She helped offi",
-      "url": "https://vancouver.citynews.ca/2025/12/31/man-charged-after-woman-spat-on-in-vancouver-stranger-assault/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 20:25:28 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.496513"
+      "fetched_at": "2026-01-01T18:29:26.235165"
     },
     {
       "id": "931c05963ff2",
@@ -408,7 +312,7 @@
       "published": "Wed, 31 Dec 2025 19:54:41 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.608138"
+      "fetched_at": "2026-01-01T18:29:25.802669"
     },
     {
       "id": "8af7a37c5716",
@@ -420,7 +324,7 @@
       "published": "Wed, 31 Dec 2025 19:52:46 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746837"
+      "fetched_at": "2026-01-01T18:29:25.685984"
     },
     {
       "id": "17b2715e95cf",
@@ -432,7 +336,7 @@
       "published": "Wed, 31 Dec 2025 19:41:27 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788593"
+      "fetched_at": "2026-01-01T18:29:25.767192"
     },
     {
       "id": "877fb8cc5bc4",
@@ -444,7 +348,7 @@
       "published": "Wed, 31 Dec 2025 19:32:45 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788615"
+      "fetched_at": "2026-01-01T18:29:25.767214"
     },
     {
       "id": "e8b70936a39c",
@@ -456,7 +360,7 @@
       "published": "Wed, 31 Dec 2025 19:26:19 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.562983"
+      "fetched_at": "2026-01-01T18:29:23.379135"
     },
     {
       "id": "9c4e6659dc9a",
@@ -468,7 +372,7 @@
       "published": "Wed, 31 Dec 2025 19:14:42 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.019882"
+      "fetched_at": "2026-01-01T18:29:23.157847"
     },
     {
       "id": "d2455c59e91a",
@@ -480,7 +384,7 @@
       "published": "Wed, 31 Dec 2025 19:04:55 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280341"
+      "fetched_at": "2026-01-01T18:29:26.235198"
     },
     {
       "id": "0be119b567a3",
@@ -492,7 +396,7 @@
       "published": "Wed, 31 Dec 2025 19:00:08 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.608159"
+      "fetched_at": "2026-01-01T18:29:25.802689"
     },
     {
       "id": "22578b2cd608",
@@ -504,7 +408,7 @@
       "published": "Wed, 31 Dec 2025 18:56:52 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.562943"
+      "fetched_at": "2026-01-01T18:29:23.379072"
     },
     {
       "id": "10fbca5954e6",
@@ -516,31 +420,31 @@
       "published": "Wed, 31 Dec 2025 18:55:04 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029287"
+      "fetched_at": "2026-01-01T18:29:26.381866"
     },
     {
-      "id": "2ae82dec4a92",
-      "title": "Department of Justice is reviewing more than 5.2 million documents related to Jeffrey Epstein",
-      "description": "WASHINGTON (AP) — The Department of Justice has expanded its review of documents related to the convicted sex offender Jeffrey Epstein to 5.2 million as it also increases the number of attorneys trying to comply with a law mandating release of the files, according to a person briefed on a letter sen",
-      "url": "https://edmonton.citynews.ca/2025/12/31/department-of-justice-is-reviewing-more-than-5-2-million-documents-related-to-jeffrey-epstein/",
-      "source": "CityNews Edmonton",
+      "id": "05f48d0f2b67",
+      "title": "$80-million Lotto Max ticket sold in London - London Free Press",
+      "description": "$80-million Lotto Max ticket sold in London&nbsp;&nbsp;London Free PressLondon lotto player wins Ontario’s first $80-million jackpot: OLG&nbsp;&nbsp;CTV NewsWinner of $80M Lotto Max jackpot in London, Ont.: OLG&nbsp;&nbsp;Global News$80 million lottery jackpot has been won in Canada&nbsp;&nbsp;INsau",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWdZS1FNMWFrd001WmJZT21PMTYtT3dOckFuYTVYM2RQd2c1ODJWQzMzenJZM1RHY0RDRjZDdHg5RFNhRHhxV0cxOTlxYkxnR2tXQmdkSVM1eXNjNjVxQnM4TDFyUE5UZEVLRW9oMmI4bGRzci1LTlBhN195UFl0SUZaTGI?oc=5",
+      "source": "Google News Business",
       "image": "",
-      "published": "Wed, 31 Dec 2025 18:49:40 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.729803"
+      "published": "Wed, 31 Dec 2025 18:52:21 GMT",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:24.912704"
     },
     {
-      "id": "e3a798cf162b",
-      "title": "Department of Justice is reviewing more than 5.2 million documents related to Jeffrey Epstein",
-      "description": "WASHINGTON (AP) — The Department of Justice has expanded its review of documents related to the convicted sex offender Jeffrey Epstein to 5.2 million as it also increases the number of attorneys trying to comply with a law mandating release of the files, according to a person briefed on a letter sen",
-      "url": "https://calgary.citynews.ca/2025/12/31/department-of-justice-is-reviewing-more-than-5-2-million-documents-related-to-jeffrey-epstein/",
-      "source": "CityNews Calgary",
+      "id": "8e3c72e67f20",
+      "title": "Two Maple Leafs expected to miss significant time due to injury - Hockey Patrol",
+      "description": "Two Maple Leafs expected to miss significant time due to injury&nbsp;&nbsp;Hockey PatrolNHL Status Report: Matthews could return for Maple Leafs against Jets&nbsp;&nbsp;NHL.comLeafs Ice Chips: Berube doesn't want team to relax with the return of Matthews&nbsp;&nbsp;TSNLeafs’ Chris Tanev to miss sign",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOamVSaEVwU2FXSUgxeUZhR25uYmVmZDZ6TlFaR3BrMDJOS2NMbHQwdW50T0tXT2duMFBRUzNfdDNtbHFXNEVPRkpUNUFTTnhoVXV2akVXeldqLWx6LVRQYVNLV2x5bDZ6SFhuQlhaQ0J5elJ2aU0wMnJBMjBURmMtSGN4TUpXMEdkdVRveGhCSTF2ZlFkUDNyS0hpUUFRYU9zV0NOWUh1UlY1cy15Q2ZsZndEaXJoMGdkbFEzRDhB?oc=5",
+      "source": "Google News Sports",
       "image": "",
-      "published": "Wed, 31 Dec 2025 18:49:40 +0000",
+      "published": "Wed, 31 Dec 2025 18:50:00 GMT",
       "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746880"
+      "category": "sports",
+      "fetched_at": "2026-01-01T18:29:25.489296"
     },
     {
       "id": "f82335d4331b",
@@ -552,19 +456,7 @@
       "published": "Wed, 31 Dec 2025 18:49:40 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280389"
-    },
-    {
-      "id": "c041b5782d3e",
-      "title": "Montreal weather: The end of 2025 is a bitter chill to swallow",
-      "description": "Environment Canada's New Year's Eve forecast calls for five to 10 centimetres of snow, a low of minus-11 C and a wind chill near minus-19 C.",
-      "url": "https://montrealgazette.com/news/weather/montreal-weather-the-end-of-2025-is-a-bitter-chill-to-swallow",
-      "source": "Montreal Gazette",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 18:46:38 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788638"
+      "fetched_at": "2026-01-01T18:29:26.235244"
     },
     {
       "id": "6171b574ee0f",
@@ -576,67 +468,7 @@
       "published": "Wed, 31 Dec 2025 18:39:38 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280423"
-    },
-    {
-      "id": "3cc47d04e5b0",
-      "title": "Palestinians watch as Israeli bulldozers claw down their West Bank homes",
-      "description": "NUR SHAMS REFUGEE CAMP, West Bank (AP) — Palestinians in the Israeli-occupied West Bank watched as Israeli military bulldozers pulled down their homes Wednesday as part of a nearly year-long incursion into the territory&#8217;s northern refugee camps. The scene in Nur Shams has been repeated often a",
-      "url": "https://edmonton.citynews.ca/2025/12/31/palestinians-watch-as-israeli-bulldozers-claw-down-their-west-bank-homes/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 18:25:47 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.729852"
-    },
-    {
-      "id": "55795aad48cd",
-      "title": "Palestinians watch as Israeli bulldozers claw down their West Bank homes",
-      "description": "NUR SHAMS REFUGEE CAMP, West Bank (AP) — Palestinians in the Israeli-occupied West Bank watched as Israeli military bulldozers pulled down their homes Wednesday as part of a nearly year-long incursion into the territory&#8217;s northern refugee camps. The scene in Nur Shams has been repeated often a",
-      "url": "https://calgary.citynews.ca/2025/12/31/palestinians-watch-as-israeli-bulldozers-claw-down-their-west-bank-homes/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 18:25:47 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746924"
-    },
-    {
-      "id": "6a3aedaaae49",
-      "title": "Palestinians watch as Israeli bulldozers claw down their West Bank homes",
-      "description": "NUR SHAMS REFUGEE CAMP, West Bank (AP) — Palestinians in the Israeli-occupied West Bank watched as Israeli military bulldozers pulled down their homes Wednesday as part of a nearly year-long incursion into the territory&#8217;s northern refugee camps. The scene in Nur Shams has been repeated often a",
-      "url": "https://ottawa.citynews.ca/2025/12/31/palestinians-watch-as-israeli-bulldozers-claw-down-their-west-bank-homes/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 18:25:47 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280467"
-    },
-    {
-      "id": "89ae0b94c7b7",
-      "title": "Alberta, Quebec referendums likely would fail due to Canadians’ anxiety about future: pollster",
-      "description": "A pollster says separatist movements in Alberta and Quebec are unlikely to succeed as long as Canadians feel a persistent sense of insecurity and anxiety about the future. David Coletto, whose polling firm Abacus Data has been studying what it calls the &#8220;precarity mindset&#8221; in Canada for ",
-      "url": "https://edmonton.citynews.ca/2025/12/31/alberta-quebec-referendums-fail-pollster/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 18:13:09 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.729896"
-    },
-    {
-      "id": "cf9155e14222",
-      "title": "Alberta, Quebec referendums likely would fail due to Canadians’ anxiety about future: pollster",
-      "description": "A pollster says separatist movements in Alberta and Quebec are unlikely to succeed as long as Canadians feel a persistent sense of insecurity and anxiety about the future. David Coletto, whose polling firm Abacus Data has been studying what it calls the &#8220;precarity mindset&#8221; in Canada for ",
-      "url": "https://calgary.citynews.ca/2025/12/31/alberta-quebec-referendums-fail-pollster/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 18:13:09 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746962"
+      "fetched_at": "2026-01-01T18:29:26.235277"
     },
     {
       "id": "cb23c703f7f0",
@@ -648,7 +480,7 @@
       "published": "Wed, 31 Dec 2025 18:11:47 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029323"
+      "fetched_at": "2026-01-01T18:29:26.381896"
     },
     {
       "id": "67f8d0d62cf5",
@@ -660,7 +492,7 @@
       "published": "Wed, 31 Dec 2025 17:41:51 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029352"
+      "fetched_at": "2026-01-01T18:29:26.381924"
     },
     {
       "id": "9567b7b82841",
@@ -672,43 +504,19 @@
       "published": "Wed, 31 Dec 2025 17:39:23 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.864446"
-    },
-    {
-      "id": "ff554ade8ab4",
-      "title": "CRA says it’s owed more than $10 billion in COVID-19 benefit payments",
-      "description": "OTTAWA — The Canada Revenue Agency says it&#8217;s owed $10.35 billion in COVID-19 benefits. Nina Ioussoupova, a spokesperson for the agency, said that, as of Nov. 30, it had disbursed $83.5 billion in COVID benefits to Canadians, including $45.3 billion for the Canada Emergency Response Benefit, th",
-      "url": "https://ottawa.citynews.ca/2025/12/31/cra-says-its-owed-more-than-10-billion-in-covid-19-benefit-payments/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 17:35:25 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280506"
-    },
-    {
-      "id": "12b95d86a2e9",
-      "title": "Canada unveils Olympic men’s hockey roster",
-      "description": "Macklin Celebrini is going to the Olympics. The 19-year-old was among 19 players named to Canada&#8217;s finalized 25-player men&#8217;s hockey roster Wednesday ahead of the NHL&#8217;s return to the Games. Celebrini, who sits third in league scoring behind superstar countrymen Connor McDavid of the",
-      "url": "https://ottawa.citynews.ca/2025/12/31/macklin-celebrini-selected-as-canada-unveils-olympic-mens-hockey-roster/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 17:21:52 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280540"
+      "fetched_at": "2026-01-01T18:29:25.898834"
     },
     {
       "id": "0a09d957cb37",
       "title": "These are the first and last countries to ring in the new year - WCNC",
-      "description": "These are the first and last countries to ring in the new year&nbsp;&nbsp;WCNCView Full Coverage on Google News",
+      "description": "These are the first and last countries to ring in the new year&nbsp;&nbsp;WCNCIn pictures: New Year welcomed around the world&nbsp;&nbsp;BBCHere’s what New Year’s celebrations looked like as the world rang in 2026&nbsp;&nbsp;CBCWorld rings in 2026 with fireworks, light shows&nbsp;&nbsp;The Globe and",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ2U5V3NnQ1E3T21uNlZja3k1bjlFV0N2Y2p1Yk02SllCVVFHY3VnWW4tdGpYemRTYml0cHhDbWdubXR5UHhoMHphTzlFcXJyR2pNVnNaNTQ3cGR1QzR2eHhpT3MwcnU2M3VuM2tIdjA0SndIUW52cVNKM1A2SHdmdGJ4SVBEMldXWk1fT29qUzlab190ZllueTRBeWtvRU1ndzEwcnV4N1BLZGswODJrQkdVRFpWS2JScjRqSTdqUnBpZlBsUUJ2emh5cDBNRm1LRVFoLUZhWG9lbDU5QjE2SXU0SzJpQQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Wed, 31 Dec 2025 17:19:00 GMT",
-      "location": "World",
+      "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:42.075461"
+      "fetched_at": "2026-01-01T18:29:25.441710"
     },
     {
       "id": "5b30795cd0a3",
@@ -720,19 +528,7 @@
       "published": "Wed, 31 Dec 2025 17:03:40 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.608183"
-    },
-    {
-      "id": "16480b7c6288",
-      "title": "Well-known, family-owned Sunrise Market in the Downtown Eastside up for sale",
-      "description": "Real estate agent David Wu, who has the $4.5 million listing, said only the business asset is for sale, not the property, which is assessed at $3.9 million.",
-      "url": "https://vancouversun.com/news/family-owned-sunrise-market-downtown-eastside-for-sale",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 16:48:56 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.608209"
+      "fetched_at": "2026-01-01T18:29:25.802713"
     },
     {
       "id": "1ce45597ef38",
@@ -744,7 +540,7 @@
       "published": "Wed, 31 Dec 2025 16:40:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192821"
+      "fetched_at": "2026-01-01T18:29:23.197311"
     },
     {
       "id": "1ceafeb7a36c",
@@ -756,7 +552,7 @@
       "published": "Wed, 31 Dec 2025 16:30:50 +0000",
       "location": "Toronto",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.562960"
+      "fetched_at": "2026-01-01T18:29:23.379098"
     },
     {
       "id": "f7c465c16d4c",
@@ -768,7 +564,7 @@
       "published": "Wed, 31 Dec 2025 16:19:59 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.864469"
+      "fetched_at": "2026-01-01T18:29:25.898857"
     },
     {
       "id": "c846ca515e69",
@@ -780,7 +576,7 @@
       "published": "Wed, 31 Dec 2025 16:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192849"
+      "fetched_at": "2026-01-01T18:29:23.197352"
     },
     {
       "id": "7437f5eb95e3",
@@ -792,19 +588,7 @@
       "published": "Wed, 31 Dec 2025 16:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192878"
-    },
-    {
-      "id": "7b1f0f7e4109",
-      "title": "Traffic Alert: Fog advisory in effect for Metro Vancouver",
-      "description": "Environment and Climate Change Canada is warning residents that near-zero visibility is expected on Wednesday morning.",
-      "url": "https://vancouversun.com/news/traffic-alert-fog-advisory-in-effect-for-metro-vancouver",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 15:22:46 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.608247"
+      "fetched_at": "2026-01-01T18:29:23.197399"
     },
     {
       "id": "4e9cde49443d",
@@ -816,7 +600,7 @@
       "published": "Wed, 31 Dec 2025 15:05:21 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192904"
+      "fetched_at": "2026-01-01T18:29:23.197451"
     },
     {
       "id": "1323d6988038",
@@ -828,7 +612,7 @@
       "published": "Wed, 31 Dec 2025 15:01:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192932"
+      "fetched_at": "2026-01-01T18:29:23.197499"
     },
     {
       "id": "ffb52a2f50c6",
@@ -840,19 +624,19 @@
       "published": "Wed, 31 Dec 2025 15:00:45 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.864490"
+      "fetched_at": "2026-01-01T18:29:25.898877"
     },
     {
-      "id": "b746dcfdaf82",
-      "title": "UAE foreign policy in spotlight after Yemen escalation - Reuters",
-      "description": "UAE foreign policy in spotlight after Yemen escalation&nbsp;&nbsp;ReutersYemen’s separatist STC refuses to withdraw from provinces near Saudi Arabia&nbsp;&nbsp;Al JazeeraTensions between Saudis and Emiratis over future of Yemen reach boiling point&nbsp;&nbsp;The GuardianHow the UAE-Saudi Arabia alli",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGlrMDZUMzNidzJBWHE1RTN5TU1QMS1JRWVVc2VyT1dkLWQ3a2pPbzFkUmlTVlQ3S3RLRHZ3V3lWaUljeTBfYzMxRmJrZlp5ek52bkk3OVUzSzAxWGJjRkEtQVJkc2RHWDVsUnNFWDBhUmNRdDFfaThIdGNYcFhXYjNrbWZ6dDFVX0RmMUdnTkhGclczSUxIejk5aXpFMXdaeElQSTdFZmI?oc=5",
+      "id": "2eb7d0f4a137",
+      "title": "UAE expands influence across Middle East and Africa - The Jerusalem Post",
+      "description": "UAE expands influence across Middle East and Africa&nbsp;&nbsp;The Jerusalem PostYemen’s separatist STC refuses to withdraw from provinces near Saudi Arabia&nbsp;&nbsp;Al JazeeraTensions between Saudis and Emiratis over future of Yemen reach boiling point&nbsp;&nbsp;The GuardianSaudi Arabia bombs Ye",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lUzFJXzQwRWNCTmtDR1ZuVmVGeGlUa1cwalVwVDcwUHF6UXZPbDFEUXdNdTdmLU5vTlZCQXZ2RFRvbTRxM01Ha0d3WS1ITnBKZ0loWndlclVOYWF3?oc=5",
       "source": "Google News Tech",
       "image": "",
-      "published": "Wed, 31 Dec 2025 14:29:14 GMT",
-      "location": "Vancouver",
+      "published": "Wed, 31 Dec 2025 14:48:24 GMT",
+      "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:42.075524"
+      "fetched_at": "2026-01-01T18:29:25.441846"
     },
     {
       "id": "6b327703ca1c",
@@ -864,7 +648,19 @@
       "published": "Wed, 31 Dec 2025 14:23:52 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-01-01T16:26:41.022978"
+      "fetched_at": "2026-01-01T18:29:23.863573"
+    },
+    {
+      "id": "f36f8bd558bc",
+      "title": "Winter Classic will see NHL raise the roof in Miami - NHL.com",
+      "description": "Winter Classic will see NHL raise the roof in Miami&nbsp;&nbsp;NHL.comNHL EDGE stats to watch for in 2026 Winter Classic&nbsp;&nbsp;NHL.comSeveral Florida Panthers players have experience skating in NHL outdoor games&nbsp;&nbsp;The Hockey NewsOutdoor hockey. In Miami. It’s finally going to happen on",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSzJibjluMm53T3NDUmI2aVB5QjFKTl82WE8wbUlFUHlRNUdFNTBrYjF0WHA4QndvektvUlFCUGdzMmdoQ3NYWV9zVnk2NlNzNDFMRkhhTXVNejhlSlZVUmoyWXFDOTJ3aGNzQy1aUFlIemZEVTIwUE5MT0llVkVUUUo4MEZOUXhfZ1E?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Wed, 31 Dec 2025 14:12:14 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-01-01T18:29:25.489412"
     },
     {
       "id": "94e55760359e",
@@ -876,7 +672,7 @@
       "published": "Wed, 31 Dec 2025 14:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192958"
+      "fetched_at": "2026-01-01T18:29:23.197543"
     },
     {
       "id": "c1a4daac79c6",
@@ -888,7 +684,7 @@
       "published": "Wed, 31 Dec 2025 13:00:00 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:41.427336"
+      "fetched_at": "2026-01-01T18:29:24.644806"
     },
     {
       "id": "233496bdc56a",
@@ -900,7 +696,7 @@
       "published": "Wed, 31 Dec 2025 12:00:51 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.786426"
+      "fetched_at": "2026-01-01T18:29:28.183956"
     },
     {
       "id": "c530ae27af81",
@@ -912,7 +708,7 @@
       "published": "Wed, 31 Dec 2025 12:00:31 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.563046"
+      "fetched_at": "2026-01-01T18:29:23.379253"
     },
     {
       "id": "b38775606faa",
@@ -924,19 +720,19 @@
       "published": "Wed, 31 Dec 2025 12:00:00 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.786464"
+      "fetched_at": "2026-01-01T18:29:28.183994"
     },
     {
       "id": "709020a54a65",
       "title": "Warren Buffett Retires With a $184 Billion Warning to Investors. History Says the Stock Market Will Do This in 2026. - The Motley Fool",
-      "description": "Warren Buffett Retires With a $184 Billion Warning to Investors. History Says the Stock Market Will Do This in 2026.&nbsp;&nbsp;The Motley FoolA 5 million percent return in 60 years leaves Warren Buffett’s legacy unmatched&nbsp;&nbsp;CNBCWarren Buffett is stepping down as CEO after 60 years. For a s",
+      "description": "Warren Buffett Retires With a $184 Billion Warning to Investors. History Says the Stock Market Will Do This in 2026.&nbsp;&nbsp;The Motley FoolA 5 million percent return in 60 years leaves Warren Buffett’s legacy unmatched&nbsp;&nbsp;CNBCSome Warren Buffett wisdom on his last day leading Berkshire H",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0lVU2tneHhia2tlNDNwRHJxZFVIRk1NNWUwcGNReDFkeGswcmxvcktDZGo2MzI0OWlEYlFUcTZfNHZ0czNxMUt1Y1F4TnFHWGhzV3ZYWFhwOVlGWXdQdEZ5bENoYmRZRHB5bFdYVjUzeXJXVDJoNTB2c3hrU3hWUWVpYkJJbDZjN1dibTZiQTYxbWJKVkE?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Wed, 31 Dec 2025 09:36:00 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:42.216210"
+      "fetched_at": "2026-01-01T18:29:24.912947"
     },
     {
       "id": "27f3d87d6b1b",
@@ -948,7 +744,7 @@
       "published": "Wed, 31 Dec 2025 09:00:34 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.019908"
+      "fetched_at": "2026-01-01T18:29:23.157874"
     },
     {
       "id": "3d27921a9aa1",
@@ -960,19 +756,7 @@
       "published": "Wed, 31 Dec 2025 07:54:43 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.615351"
-    },
-    {
-      "id": "63e2528b8084",
-      "title": "5 Things - Flames vs. Flyers - NHL.com",
-      "description": "5 Things - Flames vs. Flyers&nbsp;&nbsp;NHL.comFlames thump Flyers to win fifth straight home game&nbsp;&nbsp;TSNFlyers at Flames projected lineups&nbsp;&nbsp;NHL.comTakeaways: Flyers Fall to Flames in Disconnected New Year's Eve Performance&nbsp;&nbsp;The Hockey NewsFlames Game Day 40: Closing out ",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vRUJqYkFjS1AtbVFlY19tbFJoNmUxNDV0TEZfbkE0R3dVM3Y4WU5Nd185bHZ3S0RYWnJBaTMtejNZdUF4TE1DbG5XeXpUSWFyYk9nangtZWltVW9xaGtIWG1BQy1IOU4tTF9Ec0pyMVNoV05a?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 06:22:17 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2026-01-01T16:26:42.325765"
+      "fetched_at": "2026-01-01T18:29:24.664181"
     },
     {
       "id": "f31cd12e7bf9",
@@ -984,19 +768,7 @@
       "published": "Wed, 31 Dec 2025 05:37:03 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192984"
-    },
-    {
-      "id": "6bb7ed37d28f",
-      "title": "New Jersey Devils vs. Toronto Maple Leafs - NHL Game Recap - December 30, 2025 - CBS Sports",
-      "description": "New Jersey Devils vs. Toronto Maple Leafs - NHL Game Recap - December 30, 2025&nbsp;&nbsp;CBS SportsWoll shines as short-handed Maple Leafs dump Devils: ‘Easily our best player’&nbsp;&nbsp;TSNNo Nylander, No Matthews, No Problem As Maple Leafs Find Life In Win Against Devils&nbsp;&nbsp;The Hockey Ne",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdk5VSVM2V2FjamthbWJrZ1NLeWlmdXdBLTJfY1EzUXhtcHU5QzVQZnVtUDE5cHBxWmZXZVBwQlcwRjlPT3BIdVBDd0JfbUt5QkhXdUpHNlUyaWtkMmhDUTVSeVRvX3hhaWlOdjMzOVlSV1IzY2FJ?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Wed, 31 Dec 2025 02:45:37 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2026-01-01T16:26:42.325878"
+      "fetched_at": "2026-01-01T18:29:23.197585"
     },
     {
       "id": "b302cfc1f761",
@@ -1008,7 +780,7 @@
       "published": "Wed, 24 Dec 2025 18:47:59 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-01T16:26:40.015929"
+      "fetched_at": "2026-01-01T18:29:23.166117"
     },
     {
       "id": "8b17a650eb12",
@@ -1020,7 +792,7 @@
       "published": "Wed, 24 Dec 2025 18:44:47 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2026-01-01T16:26:40.016025"
+      "fetched_at": "2026-01-01T18:29:23.166212"
     },
     {
       "id": "48690255ef88",
@@ -1032,7 +804,7 @@
       "published": "Wed, 24 Dec 2025 16:29:03 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-01T16:26:40.016107"
+      "fetched_at": "2026-01-01T18:29:23.166299"
     },
     {
       "id": "729c8220ef49",
@@ -1044,7 +816,7 @@
       "published": "Wed, 24 Dec 2025 12:00:43 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.786617"
+      "fetched_at": "2026-01-01T18:29:28.184163"
     },
     {
       "id": "f311d57f0b17",
@@ -1056,7 +828,7 @@
       "published": "Wed, 24 Dec 2025 12:00:21 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.786651"
+      "fetched_at": "2026-01-01T18:29:28.184204"
     },
     {
       "id": "f23ffc117cd0",
@@ -1068,31 +840,19 @@
       "published": "Wed, 24 Dec 2025 00:05:58 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-01T16:26:40.016202"
-    },
-    {
-      "id": "141a86168958",
-      "title": "US withholding childcare funds from Minnesota amid fraud probe - BBC",
-      "description": "US withholding childcare funds from Minnesota amid fraud probe&nbsp;&nbsp;BBCHow a viral video prompted investigations into alleged fraud at day care centers in Minnesota&nbsp;&nbsp;CBS NewsTrump administration reportedly freezes all childcare payments to all states&nbsp;&nbsp;The GuardianHHS freezi",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZNldjWVVBQVhKVDE4dUtEU3MxSm94aHdFZlRjNlZWWlo3UktOdGFDYjdyd1dSeWNLTUZBQWpULTJ2SWR2cWp6MTIyTTE3bVFpRXo5TGVMcjJKQdIBX0FVX3lxTE1oMExxV0FTSmpNOFE4V1kxOHBmbE1mMFkxNWlBOWEyVW91SXdjQlh4ZkN2bHhCSEJqZHk1d0R2NnEzUTZBLWZEa1pTV1Z1OVpGMF9fWU5FRE1FekJvZVNr?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 30 Dec 2025 23:54:11 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-01-01T16:26:42.075622"
+      "fetched_at": "2026-01-01T18:29:23.166398"
     },
     {
       "id": "3c64b3e393bf",
       "title": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day - CBC",
-      "description": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day&nbsp;&nbsp;CBCLIVE: Pressure mounts on Israel over Gaza aid agency ban&nbsp;&nbsp;Al JazeeraOxfam-Québec surprised to find itself on list of NGOs set to be barred from Gaza&nbsp;&nbsp;CTV NewsIsraeli ban on aid agencies in Gaz",
+      "description": "Israel will ban dozens of aid groups from Gaza starting on New Year's Day&nbsp;&nbsp;CBCOxfam-Québec surprised to find itself on list of NGOs set to be barred from Gaza&nbsp;&nbsp;CTV NewsIsrael faces widespread condemnation as NGO ban comes into effect&nbsp;&nbsp;Al JazeeraUN rights chief slams ‘ou",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KVTZOR2tCTzhKcm0ySFdPOFEtYnFvTTlZLUxmZk5pcGJQYVZlTUl5RzlaLVpfc3ZyYlBFcDN4Zk9yNUgxNWNZUnFMbjhXNE1XLVhqTmQ5UkpMRVV1a1JtYm9pYUtHbkRROW5VYXRoZThHUmNLcHc1VTAyclM?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 30 Dec 2025 23:05:00 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:42.075424"
+      "fetched_at": "2026-01-01T18:29:25.441594"
     },
     {
       "id": "8a6d1c8d698e",
@@ -1104,7 +864,7 @@
       "published": "Tue, 30 Dec 2025 22:20:19 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629563"
+      "fetched_at": "2026-01-01T18:29:23.748302"
     },
     {
       "id": "166aed74d0a7",
@@ -1116,7 +876,7 @@
       "published": "Tue, 30 Dec 2025 21:16:33 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:41.427392"
+      "fetched_at": "2026-01-01T18:29:24.644858"
     },
     {
       "id": "ce872467db5e",
@@ -1128,7 +888,7 @@
       "published": "Tue, 30 Dec 2025 20:49:34 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:41.427438"
+      "fetched_at": "2026-01-01T18:29:24.644911"
     },
     {
       "id": "9d0da90aa916",
@@ -1140,7 +900,7 @@
       "published": "Tue, 30 Dec 2025 19:34:22 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.615542"
+      "fetched_at": "2026-01-01T18:29:24.664420"
     },
     {
       "id": "c52f94c3baab",
@@ -1152,7 +912,7 @@
       "published": "Tue, 30 Dec 2025 19:18:25 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:41.427477"
+      "fetched_at": "2026-01-01T18:29:24.644950"
     },
     {
       "id": "d5ebb11e2c7a",
@@ -1164,7 +924,7 @@
       "published": "Tue, 30 Dec 2025 17:19:44 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.615395"
+      "fetched_at": "2026-01-01T18:29:24.664236"
     },
     {
       "id": "ceb8236cef54",
@@ -1176,7 +936,7 @@
       "published": "Tue, 30 Dec 2025 17:09:44 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.563005"
+      "fetched_at": "2026-01-01T18:29:23.379177"
     },
     {
       "id": "e896b8c50ce3",
@@ -1188,7 +948,7 @@
       "published": "Tue, 30 Dec 2025 12:01:00 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:41.427514"
+      "fetched_at": "2026-01-01T18:29:24.644988"
     },
     {
       "id": "9d1fe5a2a615",
@@ -1200,7 +960,7 @@
       "published": "Tue, 30 Dec 2025 12:00:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.786500"
+      "fetched_at": "2026-01-01T18:29:28.184049"
     },
     {
       "id": "3bad7d2a3bb5",
@@ -1212,7 +972,7 @@
       "published": "Tue, 30 Dec 2025 11:54:08 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-01-01T16:26:41.022770"
+      "fetched_at": "2026-01-01T18:29:23.863377"
     },
     {
       "id": "795d12206e0c",
@@ -1224,7 +984,7 @@
       "published": "Tue, 30 Dec 2025 02:05:36 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.019934"
+      "fetched_at": "2026-01-01T18:29:23.157902"
     },
     {
       "id": "6b75d8248dbc",
@@ -1236,7 +996,7 @@
       "published": "Tue, 30 Dec 2025 00:17:59 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.615441"
+      "fetched_at": "2026-01-01T18:29:24.664294"
     },
     {
       "id": "9d762e986870",
@@ -1248,7 +1008,7 @@
       "published": "Tue, 23 Dec 2025 23:06:57 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-01T16:26:40.016296"
+      "fetched_at": "2026-01-01T18:29:23.166478"
     },
     {
       "id": "85da2898b05b",
@@ -1260,7 +1020,7 @@
       "published": "Tue, 23 Dec 2025 23:00:39 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.786686"
+      "fetched_at": "2026-01-01T18:29:28.184239"
     },
     {
       "id": "95ad01148116",
@@ -1272,7 +1032,7 @@
       "published": "Tue, 23 Dec 2025 21:02:10 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-01T16:26:40.016367"
+      "fetched_at": "2026-01-01T18:29:23.166561"
     },
     {
       "id": "5a62c92a9224",
@@ -1284,7 +1044,7 @@
       "published": "Tue, 23 Dec 2025 15:28:11 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.563067"
+      "fetched_at": "2026-01-01T18:29:23.379288"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -1296,7 +1056,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.473425"
+      "fetched_at": "2026-01-01T18:29:24.329312"
     },
     {
       "id": "05ea19344a14",
@@ -1308,7 +1068,7 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.473478"
+      "fetched_at": "2026-01-01T18:29:24.335049"
     },
     {
       "id": "a2b7282df523",
@@ -1320,7 +1080,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.473499"
+      "fetched_at": "2026-01-01T18:29:24.335088"
     },
     {
       "id": "295551ee6daf",
@@ -1332,7 +1092,7 @@
       "published": "Thu, 25 Dec 2025 09:00:47 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.019959"
+      "fetched_at": "2026-01-01T18:29:23.168161"
     },
     {
       "id": "a3777a8bac7b",
@@ -1344,19 +1104,511 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.473361"
+      "fetched_at": "2026-01-01T18:29:24.329271"
+    },
+    {
+      "id": "2f06d0e137ef",
+      "title": "Quebec’s revised rent rules come into effect",
+      "description": "A new method for calculating rent in Quebec came into effect Thursday. The government says the rules are meant to simplify how increases are calculated for tenants and landlords. Under the new system, landlords can pass a larger share of renovation costs onto tenants, and rent hikes remain tied to t",
+      "url": "https://montreal.citynews.ca/2026/01/01/quebec-revised-rent-rules/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 18:20:19 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.672481"
+    },
+    {
+      "id": "337b1678ab68",
+      "title": "Two killed in clashes between protesters and security forces in Iran",
+      "description": "Videos on social media showed cars set on fire during running battles as protests entered their fifth day.",
+      "url": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4486/live/1b001130-e729-11f0-b497-893ee467f2f6.jpg",
+      "published": "Thu, 01 Jan 2026 18:18:42 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-01T18:29:24.390195"
+    },
+    {
+      "id": "1a41dae33442",
+      "title": "Man charged following importation of child sex doll",
+      "description": "An Ottawa man is facing charges related to child sexual abuse after police found an imported sex doll resembling a child. A press release from Ottawa Police Service states that on Dec. 30, 2025, investigators from the Internet Child Exploitation Unit executed a search warrant at a resident in the ci",
+      "url": "https://ottawa.citynews.ca/2026/01/01/man-charged-following-importation-of-child-sex-doll/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 18:14:50 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:26.234869"
+    },
+    {
+      "id": "9df1e3dfe210",
+      "title": "Toronto Mayor Olivia Chow reflects on 2025, looks ahead to 2026",
+      "description": "In this special feed drop on The Big Story, 680 NewsRadio City Hall reporter, Momin Qureshi sits down with Toronto Mayor Olivia Chow to look back on 2025, and what she hopes for heading into 2026. The two discuss Chow&#8217;s potential second term, her relationship with Premier Doug Ford, and when e",
+      "url": "https://toronto.citynews.ca/2026/01/01/toronto-mayor-olivia-chow-reflects-on-2025-looks-ahead-to-2026/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 18:13:14 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:24.982271"
+    },
+    {
+      "id": "fbda0393393e",
+      "title": "Pimicikamak chief requests military help as power outage crisis continues",
+      "description": "The Pimicikamk First Nation chief is calling on the federal government to send in the armed forces, to help with an on-going public health and safety crisis.",
+      "url": "https://globalnews.ca/news/11596299/pimicikamak-chief-requests-armed-forces/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/12/Image-9.jpg?quality=65&strip=all",
+      "published": "Thu, 01 Jan 2026 18:11:55 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:23.080489"
+    },
+    {
+      "id": "cd3c74c17568",
+      "title": "Doctors fear ‘swamp fever’ spreading in flood-hit Gaza",
+      "description": "Health authorities are warning of yet another potential health threat in Gaza: leptospirosis.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/doctors-fear-swamp-fever-spreading-in-flood-hit-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 18:10:25 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-01T18:29:24.288530"
+    },
+    {
+      "id": "939b8fb52540",
+      "title": "BYD posts weakest sales growth in five years as Chinese competition heats up",
+      "description": "Chinese EV maker’s December sales dipped more than 18% amid growing local competition",
+      "url": "https://www.theglobeandmail.com/business/international-business/article-byd-posts-weakest-sales-growth-in-five-years-as-chinese-competition/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/PVLD2FSXSRH2BNOEJTEGITKNQY.jpg?auth=40fd6eacc5e90519cd639ce19fb788dbd0e361edd9dee9e4df279fd1a58dcb15&smart=true&width=7460&height=4867",
+      "published": "Thu, 01 Jan 2026 18:10:15 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:23.748090"
+    },
+    {
+      "id": "feb744ced0e9",
+      "title": "Woman seriously injured after a multi-vehicle crash in Beaverton",
+      "description": "A woman has life-altering injuries after an early morning collision in Beaverton on Thursday. Police say the crash happened around 3 a.m. on Regional Road 23, north of Thorah Concession Road 2. Investigators say the 47-year-old woman stopped to assist a Dodge minivan that had left the roadway. While",
+      "url": "https://toronto.citynews.ca/2026/01/01/woman-seriously-injured-after-a-multi-vehicle-crash-in-beaverton/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 17:52:13 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:24.982311"
+    },
+    {
+      "id": "2aa7f9ce50a8",
+      "title": "Russia says 24 killed in Ukrainian drone attack at cafe, hotel in Kherson region",
+      "description": "The claims couldn’t be independently verified though Russia’s installed head of the occupied part of Kherson region later posted photos allegedly showing the aftermath",
+      "url": "https://nationalpost.com/news/world/russia-says-24-killed-in-ukrainian-drone-attack-at-cafe-hotel-in-kherson-region",
+      "source": "National Post",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 17:50:47 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:23.270336"
+    },
+    {
+      "id": "b20f9f69caf6",
+      "title": "How much is your home worth? The new B.C. assessments are now online",
+      "description": "Lululemon founder Chip Wilson's Vancouver mansion fell in value by 11 per cent, while B.C. crooner Michael Bublé’s Burnaby home is assessed slightly higher than last year",
+      "url": "https://vancouversun.com/business/real-estate/how-much-home-worth-2026-bc-assessments-online",
+      "source": "Vancouver Sun",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 17:45:02 +0000",
+      "location": "Vancouver",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.802494"
+    },
+    {
+      "id": "8bbd6ab9fd3e",
+      "title": "Brazil’s Supreme Court rejects Jair Bolsonaro’s request for house arrest",
+      "description": "Bolsonaro&#039;s latest petition, one in a series, comes after he spent the week in hospital for a hernia and hiccups.",
+      "url": "https://www.aljazeera.com/news/2026/1/1/brazils-supreme-court-rejects-jair-bolsonaros-request-for-house-arrest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 17:25:22 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-01T18:29:24.288567"
+    },
+    {
+      "id": "ea3ff61e788d",
+      "title": "London Knights close out 2025 with home ice loss to Sarnia Sting",
+      "description": "Will Nicholl and Jesse Nurmi returned to the London Knights lineup on New Year's Eve for the final game of 2025.",
+      "url": "https://globalnews.ca/news/11595614/london-knights-close-out-2025-home-ice-loss-sarnia-sting/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/12/IMG_8806.jpeg?quality=65&strip=all",
+      "published": "Thu, 01 Jan 2026 17:25:19 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:23.080553"
+    },
+    {
+      "id": "4dafd41be84f",
+      "title": "Pimicikamak chief calls on Carney to deploy military over power outage fallout",
+      "description": "CROSS LAKE — The chief of Pimicikamak Cree Nation in northern Manitoba has urged Prime Minister Mark Carney to send in the military to deal with a crisis caused by a prolonged power outage. The community has been without power since late Sunday when a line crossing the Nelson River snapped. Manitoba",
+      "url": "https://toronto.citynews.ca/2026/01/01/pimicikamak-chief-calls-on-carney-to-deploy-military-over-power-outage-fallout/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 17:18:08 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:24.982356"
+    },
+    {
+      "id": "d553bc2aada0",
+      "title": "Trump delays increased tariffs on furniture, kitchen cabinets by a year",
+      "description": "Trump's order signed Wednesday keeps in place a 25% tariff, but delays for another year a 30% tariff on upholstered furniture and 50% tariff on kitchen cabinets and vanities.",
+      "url": "https://globalnews.ca/news/11596286/donald-trump-tariffs-furniture-increase-delay/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/12/7d36d34a8e85f2555bc712a4b8dcffe74f3cd7725f372bdb57393f7a275a8baa_190481.jpg?quality=65&strip=all",
+      "published": "Thu, 01 Jan 2026 17:17:22 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:23.080605"
+    },
+    {
+      "id": "be2d598a25c8",
+      "title": "Pimicikamak Cree Nation chief asks army deployment as power outage continues",
+      "description": "Pimicikamak Cree Nation Chief David Monias has asked Prime Minister Mark Carney to deploy the Canadian Armed Forces to assist with the ongoing power outage crisis in Cross Lake. In a letter on New Year’s Eve, Wednesday, Monias told Carney that the nation was “experiencing a rapidly escalating public",
+      "url": "https://toronto.citynews.ca/2026/01/01/pimicikamak-cree-nation-asks-army-deployment/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 17:16:39 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:24.982398"
+    },
+    {
+      "id": "7b98ab9c6e4f",
+      "title": "Report: RHP Tatsuya Imai, Astros in agreement on contract - Sportsnet.ca",
+      "description": "Report: RHP Tatsuya Imai, Astros in agreement on contract&nbsp;&nbsp;Sportsnet.caSources: Astros, RHP Imai agree to 3-year deal&nbsp;&nbsp;ESPNWhite Sox expected to be top landing spot for $157 million NPB superstar after signing Munetaka Murakami&nbsp;&nbsp;Yahoo Sports CanadaJapanese righty Imai a",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFpjSUlTay1na0FVa0ZPazk3ZC03VmN4NXNzb1V4bnRnLTU3YS12eHdFcTluSDlIWFpFanZjUHZiMU83bGpLejF2SXJoUkFLZlRxZUJ2MG5zMlpZemVDVGEzVkRDU1pPZ3ZOeFlKYVFIbi01R2hFNWVPWGgtNmw3R05aWG84NGF0MWEwZFh1R2lhbjAxYVlRTA?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 17:16:00 GMT",
+      "location": "Toronto",
+      "category": "sports",
+      "fetched_at": "2026-01-01T18:29:25.489166"
+    },
+    {
+      "id": "58b8048785fd",
+      "title": "Donald Trump pauses US tariff hike on furniture, cabinets for one year",
+      "description": "The tariff pause comes as Trump&#039;s Republican Party faces questions of affordability going into the midterm elections.",
+      "url": "https://www.aljazeera.com/news/2026/1/1/donald-trump-pauses-us-tariff-hike-on-furniture-cabinets-for-one-year?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 17:14:56 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-01T18:29:24.288596"
+    },
+    {
+      "id": "f26250674368",
+      "title": "16-year-old found dead in Vancouver, hours after being reported missing",
+      "description": "Authorities are investigating the death of a 16-year-old girl, who turned up dead, hours after she was reported missing to local law enforcement.",
+      "url": "https://globalnews.ca/news/11596257/16-year-old-found-dead-vancouver/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/12/5a260f69a8686b0a17e945e5a014558131fc549a1ce76450acd8c2c614c56f6f_f98ebd.jpg?quality=65&strip=all",
+      "published": "Thu, 01 Jan 2026 17:13:21 +0000",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:23.080645"
+    },
+    {
+      "id": "4b7a2a91670e",
+      "title": "The Curator: A working smoke alarm saves lives — is yours ready?",
+      "description": "Ontario Fire Marshal urges residents to test alarms monthly as fatal house fires rise. It takes minutes and can save lives. Read on for the best fire safety items for every home.",
+      "url": "https://globalnews.ca/the-curator/11439530/smoke-alarms-2025/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/09/GettyImages-1201473076.jpg?quality=65&strip=all",
+      "published": "Thu, 01 Jan 2026 17:00:33 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:23.080695"
+    },
+    {
+      "id": "84f333404f71",
+      "title": "Dozens feared dead, more than 100 injured after 'nightmare' blaze in Swiss ski resort bar on New Year's Eve - CBC",
+      "description": "Dozens feared dead, more than 100 injured after 'nightmare' blaze in Swiss ski resort bar on New Year's Eve&nbsp;&nbsp;CBCAbout 40 people dead and 115 injured in fire at Swiss Alpine bar during New Year’s celebration&nbsp;&nbsp;CTV NewsNew Year's Eve party: around 40 dead and 115 seriously injured i",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QUnY1dXVkSXpIMmJRWVVlR1FSRkRGTVZUNXJIM2owUmI0dzduY2hHYWl5UGRvd19GS3NIbUE0cml4RFRETW9CT2FjSkxOSTFzcUY4QW9iVG9naEtNUHpKMVFSa0t0UVUySEpVcFRGTE1jOElNR1JvTVRROA?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:58:01 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-01-01T18:29:25.441268"
+    },
+    {
+      "id": "0e43941bae79",
+      "title": "Israel faces widespread condemnation as NGO ban comes into effect",
+      "description": "Ban could cut hundreds of thousands of Palestinians in Gaza off from essential care, Doctors Without Borders warns.",
+      "url": "https://www.aljazeera.com/news/2026/1/1/israel-faces-widespread-condemnation-as-ngo-ban-comes-into-effect?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:56:57 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-01T18:29:24.288623"
+    },
+    {
+      "id": "b97ab5fced41",
+      "title": "Around 40 dead in Swiss ski resort bar fire",
+      "description": "Around 115 are injured - some severely - in fire at Crans-Montana Swiss ski resort bar Le Constellation.",
+      "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3137/live/f5050370-e703-11f0-837e-09a2247f0a0a.jpg",
+      "published": "Thu, 01 Jan 2026 16:55:50 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-01T18:29:24.390167"
+    },
+    {
+      "id": "52a652a700a9",
+      "title": "‘Only sheets to cover us’: Sudan’s displaced face little shelter in Kosti",
+      "description": "Thousands flee to Kosti as Sudan war rages, only to find overcrowded camps and aid cuts.",
+      "url": "https://www.aljazeera.com/news/2026/1/1/only-sheets-to-cover-us-sudans-displaced-face-little-shelter-in-kosti?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:55:16 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-01T18:29:24.288651"
+    },
+    {
+      "id": "80af642d9840",
+      "title": "Trump delays tariff hike on upholstered furniture, kitchen cabinets and vanities for a year, citing trade talks",
+      "description": "Order signed Wednesday keeps in place current levy of 25% on those goods",
+      "url": "https://www.theglobeandmail.com/business/article-us-tariff-increase-upholstered-furniture-kitchen-cabinets-vanities/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/QWI43TWK3ZCLFOQ2JOXWIXUW4I.JPG?auth=bfb2ebbbc29e7577be8272be0f8676df0d87dc5c20a853b9103f261b5f3c1002&smart=true&width=7223&height=4818",
+      "published": "Thu, 01 Jan 2026 16:46:11 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:23.748260"
+    },
+    {
+      "id": "ae1333284b1d",
+      "title": "Opinion: B.C. floods are a reminder that climate resilience must include animals",
+      "description": "Sarah Berger Richardson: Protecting farm animals during climate disasters is a national responsibility. The federal government is best positioned to set uniform standards and fund critical infrastructure.",
+      "url": "https://vancouversun.com/opinion/op-ed/bc-floods-are-a-reminder-that-climate-resilience-must-include-animals",
+      "source": "Vancouver Sun",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:45:18 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.802531"
+    },
+    {
+      "id": "0051db1523e7",
+      "title": "Snowmobiler dies in avalanche in Rocky Mountains in northeastern B.C.",
+      "description": "Avalanche Canada says three snowmobilers were riding in the Bullmoose area near Tumbler Ridge on Tuesday when an avalanche was remotely triggered from the base of the slope.",
+      "url": "https://globalnews.ca/news/11596281/bc-avalanche-snowmobiler-tumbler-ridge/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/01/BC-avalanche-Jan-1-2026.jpg?quality=65&strip=all",
+      "published": "Thu, 01 Jan 2026 16:43:13 +0000",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:23.080738"
+    },
+    {
+      "id": "a0dd92694eaf",
+      "title": "Province’s first baby of 2026 born in Quebec City",
+      "description": "The first baby of 2026 in Quebec was born at the CHUL hospital of the CHU de Québec-Université Laval at 12:02 a.m. on Thursday. The baby is a girl named Lessy-Ann, weighing 3.97 kilograms and measuring 51.5 centimeters, announced the hospital located in Quebec City. She is the first child of Alyson ",
+      "url": "https://montreal.citynews.ca/2026/01/01/quebec-first-baby-of-2026/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:39:47 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.672532"
+    },
+    {
+      "id": "90b0629ee0ba",
+      "title": "Winners announced for Boston Pizza and Bauer Design-A-Mask contest - Hockey Canada",
+      "description": "Winners announced for Boston Pizza and Bauer Design-A-Mask contest&nbsp;&nbsp;Hockey Canada",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTlVb3loUVcxZFdMaEZlWEY2cmVtUG5kUldJX2JmSklGa2xyZmxqTDJYcVdpZXhwX2tuekRCUmRPQUN6MDkwQzEybS1kdVlDSDN2TllTUG5ycjhjVS05azFZOUtlTmw1M3FHeWhNU01UX2hFRzN6aUxGNkQ2Nlp3NWFlVHlIeEhsVlRvUkZyWkpMVi1fanJIRlFuZUdVWE9udlpNUFFkc00?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:37:58 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:25.237583"
+    },
+    {
+      "id": "223b2536d13b",
+      "title": "Montreal’s first baby of 2026, Liana, born two seconds after midnight",
+      "description": "Sophia is the first 2026 baby at the MUHC, entering the world at 12:46 a.m.",
+      "url": "https://montrealgazette.com/news/local-news/montreals-first-baby-of-2026",
+      "source": "Montreal Gazette",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:37:27 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.766951"
+    },
+    {
+      "id": "5341e69693dc",
+      "title": "Two people confirmed dead as Iran protests turn into ‘battlefield’ - The Guardian",
+      "description": "Two people confirmed dead as Iran protests turn into ‘battlefield’&nbsp;&nbsp;The GuardianIran protests turn deadly after clashes with police across several provinces&nbsp;&nbsp;CNNIranians Have Had Enough&nbsp;&nbsp;The AtlanticSeveral reported killed in Iran protests over economic woes&nbsp;&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWI3a0lDRVp5WjJYMG1yZTMtU3J4aDByZVAySm1jT2Q5RHV3aGU3Mmx2TllESFJJWXVHM1l1ajZfZzJkZUtGc3Z4dklFSTh6YUZjU083N1k0THVydWNyMFU3aU45SkNKbHA3X0dEcndadmhoeEs3bGhHMU5lNGRTZUV2ZW5MZ2FDdkVkX0xKaFlhTlgwajZIYTVjQUtIa1NURnFrMG5lajVNZmExeFN2SGZaQk1oTUU?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:37:00 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-01-01T18:29:25.441526"
+    },
+    {
+      "id": "f74dddb7930c",
+      "title": "Raptors' latest comeback bid falls short against Jokic-less Nuggets - Sportsnet.ca",
+      "description": "Raptors' latest comeback bid falls short against Jokic-less Nuggets&nbsp;&nbsp;Sportsnet.caWatson scores 24 points as Nuggets hold off Raptors to win without Jokic&nbsp;&nbsp;TSNIngram’s would-be game-tying three at buzzer overturned as Raptors fall to Nuggets&nbsp;&nbsp;CP24Raptors Film Room: Brand",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0hsQ3NnUjZWbkcySVJnaGxBOWdQRkFIUUw4bm45cUItYlE4d05odUk3WjVNVDF5M0dpRjE0bWJlaWVxVzhUdjNuZzVwRV9odUN1cDRSRFFIT3dnakVxelQ3dWNQLUdHY0NTQmQ1VHdFbGh2dnZwekoxR1hnbF8xLUNLWm5xYXNpNXJEMHBsNEQxVHJIMk00U2UtZElYT1hueHZHbFlyTQ?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:36:00 GMT",
+      "location": "Toronto",
+      "category": "sports",
+      "fetched_at": "2026-01-01T18:29:25.488965"
+    },
+    {
+      "id": "18099806d64e",
+      "title": "At least three people killed in Iran as protests spread over ailing economy",
+      "description": "Deaths may signal change in how the country’s theocratic leaders will deal with widening demonstrations outside Tehran",
+      "url": "https://www.theglobeandmail.com/world/article-deaths-iran-protests-ailing-economy/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/CPPWC7BR7VHSDEPEY5QGAMUK4I.jpg?auth=24f8134bd8e447c3c049b4598aec519571c58483a7c5486914c73dc9a70532fb&smart=true&width=5472&height=3648",
+      "published": "Thu, 01 Jan 2026 16:29:52 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:23.748282"
+    },
+    {
+      "id": "32f440103e89",
+      "title": "Trump, in interview, defends his energy and health, offers new details on screening he underwent",
+      "description": "WASHINGTON (AP) — President Donald Trump defended his energy and health in an interview with The Wall Street Journal and disclosed that he had a CT scan, not an MRI scan, during an October examination about which he and the White House delayed offering details. Trump, in the interview, said he regre",
+      "url": "https://toronto.citynews.ca/2026/01/01/trump-in-interview-defends-his-energy-and-health-offers-new-details-on-screening-he-underwent/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:29:05 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:24.982445"
+    },
+    {
+      "id": "82e0e4a9a4b8",
+      "title": "Trump blames bruised hand on aspirin, denies falling asleep",
+      "description": "'I've never been a big sleeper,' Trump said",
+      "url": "https://nationalpost.com/news/world/trump-bruised-hand-aspirin-denies-falling-asleep",
+      "source": "National Post",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:27:50 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:23.270397"
+    },
+    {
+      "id": "099456af549f",
+      "title": "Gabon government sacks Aubameyang, suspends national team at AFCON 2025",
+      "description": "Pierre-Emerick Aubameyang and one other played banned after Gabon eliminated from Africa Cup of Nations group stage.",
+      "url": "https://www.aljazeera.com/sports/2026/1/1/gabon-government-sacks-aubameyang-suspends-national-team-at-afcon-2025?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:19:01 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-01T18:29:24.288679"
+    },
+    {
+      "id": "407a689ef384",
+      "title": "Snowmobiler dies in avalanche in Rocky Mountains in northeastern B.C.",
+      "description": "A snowmobiler has died after being buried by an avalanche in the Rocky Mountains in northeastern British Columbia. Avalanche Canada says three snowmobilers were riding in the Bullmoose area near Tumbler Ridge on Tuesday when an avalanche was remotely triggered from the base of the slope. The organiz",
+      "url": "https://toronto.citynews.ca/2026/01/01/snowmobiler-dies-in-avalanche-in-rocky-mountains-in-northeastern-b-c/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:14:48 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:24.982479"
+    },
+    {
+      "id": "074cac923fd6",
+      "title": "Snowmobiler dies in avalanche in Rocky Mountains in northeastern B.C.",
+      "description": "A snowmobiler has died after being buried by an avalanche in the Rocky Mountains in northeastern British Columbia. Avalanche Canada says three snowmobilers were riding in the Bullmoose area near Tumbler Ridge on Tuesday when an avalanche was remotely triggered from the base of the slope. The organiz",
+      "url": "https://vancouver.citynews.ca/2026/01/01/snowmobiler-dies-in-avalanche-in-rocky-mountains-in-northeastern-b-c/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:14:48 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.407725"
+    },
+    {
+      "id": "3a0b112fa5f7",
+      "title": "Snowmobiler dies in avalanche in Rocky Mountains in northeastern B.C.",
+      "description": "A snowmobiler has died after being buried by an avalanche in the Rocky Mountains in northeastern British Columbia. Avalanche Canada says three snowmobilers were riding in the Bullmoose area near Tumbler Ridge on Tuesday when an avalanche was remotely triggered from the base of the slope. The organiz",
+      "url": "https://montreal.citynews.ca/2026/01/01/snowmobiler-dies-in-avalanche-in-rocky-mountains-in-northeastern-b-c/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:14:48 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.672572"
+    },
+    {
+      "id": "d218b0f0362f",
+      "title": "Snowmobiler dies in avalanche in Rocky Mountains in northeastern B.C.",
+      "description": "A snowmobiler has died after being buried by an avalanche in the Rocky Mountains in northeastern British Columbia. Avalanche Canada says three snowmobilers were riding in the Bullmoose area near Tumbler Ridge on Tuesday when an avalanche was remotely triggered from the base of the slope. The organiz",
+      "url": "https://calgary.citynews.ca/2026/01/01/snowmobiler-dies-in-avalanche-in-rocky-mountains-in-northeastern-b-c/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:14:48 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.685595"
+    },
+    {
+      "id": "0995ed97f8bd",
+      "title": "Snowmobiler dies in avalanche in Rocky Mountains in northeastern B.C.",
+      "description": "A snowmobiler has died after being buried by an avalanche in the Rocky Mountains in northeastern British Columbia. Avalanche Canada says three snowmobilers were riding in the Bullmoose area near Tumbler Ridge on Tuesday when an avalanche was remotely triggered from the base of the slope. The organiz",
+      "url": "https://edmonton.citynews.ca/2026/01/01/snowmobiler-dies-in-avalanche-in-rocky-mountains-in-northeastern-b-c/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:14:48 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.789311"
+    },
+    {
+      "id": "85f16c3ff7db",
+      "title": "Snowmobiler dies in avalanche in Rocky Mountains in northeastern B.C.",
+      "description": "A snowmobiler has died after being buried by an avalanche in the Rocky Mountains in northeastern British Columbia. Avalanche Canada says three snowmobilers were riding in the Bullmoose area near Tumbler Ridge on Tuesday when an avalanche was remotely triggered from the base of the slope. The organiz",
+      "url": "https://ottawa.citynews.ca/2026/01/01/snowmobiler-dies-in-avalanche-in-rocky-mountains-in-northeastern-b-c/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 16:14:48 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:26.234909"
     },
     {
       "id": "c00bb0c7ffca",
-      "title": "Attempted murder: Woman in critical condition after pushed from 3rd floor, police say",
-      "description": "A woman is in critical condition after being allegedly pushed from a third-floor balcony on Thursday morning in the Mercier-Hochelaga-Maisonneuve borough. Montreal police (SPVM) say that they received a 911 call around 8:15 a.m. reporting that a woman was allegedly pushed from a building on Sainte-C",
+      "title": "Attempted murder: Man arrested after woman allegedly pushed from 3rd floor, police say",
+      "description": "A woman is in critical condition after being allegedly pushed from a third-floor balcony on Thursday morning in the Mercier-Hochelaga-Maisonneuve borough. Montreal police (SPVM) say that they received a 911 call around 8:15 a.m. reporting that a woman was allegedly pushed from an apartment building ",
       "url": "https://montreal.citynews.ca/2026/01/01/woman-pushed-critical-condition/",
       "source": "CityNews Montreal",
-      "image": "",
+      "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2026/01/WOMAN-PUSHED-3-1024x576.jpeg",
       "published": "Thu, 01 Jan 2026 16:05:59 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.506167"
+      "fetched_at": "2026-01-01T18:29:25.672700"
     },
     {
       "id": "888912d4e262",
@@ -1368,7 +1620,7 @@
       "published": "Thu, 01 Jan 2026 16:02:16 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923602"
+      "fetched_at": "2026-01-01T18:29:24.982510"
     },
     {
       "id": "437e5e111115",
@@ -1380,19 +1632,7 @@
       "published": "Thu, 01 Jan 2026 15:54:53 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.864213"
-    },
-    {
-      "id": "84f333404f71",
-      "title": "Dozens feared dead, hundreds injured after 'nightmare' blaze in Swiss ski resort bar on New Year's Eve - CBC",
-      "description": "Dozens feared dead, hundreds injured after 'nightmare' blaze in Swiss ski resort bar on New Year's Eve&nbsp;&nbsp;CBCSwitzerland resort fire latest news: ‘several dozen’ dead in Crans-Montana, as video appears to show bar ceiling alight&nbsp;&nbsp;The GuardianCrans-Montana Bar Fire Victims Transport",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QUnY1dXVkSXpIMmJRWVVlR1FSRkRGTVZUNXJIM2owUmI0dzduY2hHYWl5UGRvd19GS3NIbUE0cml4RFRETW9CT2FjSkxOSTFzcUY4QW9iVG9naEtNUHpKMVFSa0t0UVUySEpVcFRGTE1jOElNR1JvTVRROA?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 15:46:37 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-01-01T16:26:42.075070"
+      "fetched_at": "2026-01-01T18:29:25.898636"
     },
     {
       "id": "38b48e6fefd2",
@@ -1404,7 +1644,7 @@
       "published": "Thu, 01 Jan 2026 15:45:49 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788401"
+      "fetched_at": "2026-01-01T18:29:25.766982"
     },
     {
       "id": "69e86fc6ed15",
@@ -1413,10 +1653,10 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQzZ0U0laYlB2TUd6cFRPVlNuRWNTc0RqeXkyMDJBdmhQejdwVjNGcUZZS21ERjFDVE00V3dydzIzOEduX1hnTWxJVlRVUnk0M1Y4LVVkRjkyU2ZZanNjWWcwMEYtZElkak5rbVVmdFllV2ZEZzR3V0xUa3BKbXBXT2hoVFlrNlZHb1loWW1tamw?oc=5",
       "source": "Google News Canada",
       "image": "",
-      "published": "Thu, 01 Jan 2026 15:38:18 GMT",
+      "published": "Thu, 01 Jan 2026 15:38:07 GMT",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371767"
+      "fetched_at": "2026-01-01T18:29:25.237520"
     },
     {
       "id": "b8bf21ce3099",
@@ -1428,7 +1668,7 @@
       "published": "Thu, 01 Jan 2026 15:37:30 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:41.461194"
+      "fetched_at": "2026-01-01T18:29:23.270461"
     },
     {
       "id": "fad47ca72c8b",
@@ -1440,7 +1680,7 @@
       "published": "Thu, 01 Jan 2026 15:30:00 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.506223"
+      "fetched_at": "2026-01-01T18:29:25.672754"
     },
     {
       "id": "62613cc915bc",
@@ -1452,19 +1692,43 @@
       "published": "Thu, 01 Jan 2026 15:29:10 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923657"
+      "fetched_at": "2026-01-01T18:29:24.982558"
     },
     {
-      "id": "b97ab5fced41",
-      "title": "Several dozen feared dead in Swiss ski resort bar fire",
-      "description": "Around 100 are also injured in fire at Crans-Montana Swiss ski resort bar Le Constellation.",
-      "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3137/live/f5050370-e703-11f0-837e-09a2247f0a0a.jpg",
-      "published": "Thu, 01 Jan 2026 15:25:54 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170502"
+      "id": "9bc7caae1069",
+      "title": "Zohran Mamdani officially sworn in on a Quran full of symbolism",
+      "description": "NEW YORK (AP) — Incoming Mayor Zohran Mamdani took his midnight oath of office on a centuries-old Quran, marking the first time a mayor of New York City uses Islam’s holy text to be sworn in and underscoring a series of historic firsts for the city. The 34-year-old Democrat became mayor in a long-cl",
+      "url": "https://montreal.citynews.ca/2026/01/01/zohran-mamdani-officially-sworn-in-on-a-quran-full-of-symbolism/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 15:29:10 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.672811"
+    },
+    {
+      "id": "b37436b63cc0",
+      "title": "Zohran Mamdani officially sworn in on a Quran full of symbolism",
+      "description": "NEW YORK (AP) — Incoming Mayor Zohran Mamdani took his midnight oath of office on a centuries-old Quran, marking the first time a mayor of New York City uses Islam’s holy text to be sworn in and underscoring a series of historic firsts for the city. The 34-year-old Democrat became mayor in a long-cl",
+      "url": "https://edmonton.citynews.ca/2026/01/01/zohran-mamdani-officially-sworn-in-on-a-quran-full-of-symbolism/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 15:29:10 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.789376"
+    },
+    {
+      "id": "eb494dfdf318",
+      "title": "‘It has to raise an alarm’: No Quebec players on Canada hockey roster for first time since 1952 - CTV News",
+      "description": "‘It has to raise an alarm’: No Quebec players on Canada hockey roster for first time since 1952&nbsp;&nbsp;CTV NewsTo play hockey for Canada in these Olympics is profane work with a sacred purpose&nbsp;&nbsp;The Globe and MailTalented forward group led by Crosby, McDavid should be Canada's Olympic s",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRzdQUXpPLWdHdkJkTFdmWm4tQVB0Njc3WmY3VTdkMi03LVdETFBKNlViS0pPTzhzbURhcFFWZGppQVh0bmc5V3k4QU5WMjJjQjRLTjJjU3pRX0ZOLVJtNm9NOG9sQ1BsTi11OHk3WXkyWktoNG1rbGdFQzdndExOT0xKS21nY1RUd19aclY4a0NMRVl3bk1mcDZCSG5GM2JPNl91SHJvSEplUVRyZEVkMnhRT1pxOU5lM0JNaVQ5WlJXejdhd3NVV3J5WkxHZw?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 15:22:32 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-01-01T18:29:25.488498"
     },
     {
       "id": "fcec7a174d40",
@@ -1476,7 +1740,7 @@
       "published": "Thu, 01 Jan 2026 15:22:02 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923695"
+      "fetched_at": "2026-01-01T18:29:24.982589"
     },
     {
       "id": "66fdf80584c6",
@@ -1488,7 +1752,7 @@
       "published": "Thu, 01 Jan 2026 15:17:42 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.506302"
+      "fetched_at": "2026-01-01T18:29:25.672858"
     },
     {
       "id": "dc9718185941",
@@ -1500,7 +1764,7 @@
       "published": "Thu, 01 Jan 2026 15:16:10 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:41.461267"
+      "fetched_at": "2026-01-01T18:29:23.270520"
     },
     {
       "id": "a4d08951676e",
@@ -1512,7 +1776,7 @@
       "published": "Thu, 01 Jan 2026 15:07:07 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.331784"
+      "fetched_at": "2026-01-01T18:29:24.288710"
     },
     {
       "id": "c34f7c32c0a1",
@@ -1524,7 +1788,7 @@
       "published": "Thu, 01 Jan 2026 15:01:34 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362518"
+      "fetched_at": "2026-01-01T18:29:24.164861"
     },
     {
       "id": "f3203f2a25ae",
@@ -1536,7 +1800,19 @@
       "published": "Thu, 01 Jan 2026 15:01:22 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362567"
+      "fetched_at": "2026-01-01T18:29:24.164911"
+    },
+    {
+      "id": "ca455984bb0b",
+      "title": "What’s open/closed on New Year’s Day 2026 in London, Ont. - CTV News",
+      "description": "What’s open/closed on New Year’s Day 2026 in London, Ont.&nbsp;&nbsp;CTV NewsHow can I celebrate New Year’s Eve in Toronto and the GTA? What you need to know&nbsp;&nbsp;CP24What’s OPEN & CLOSED New Year’s Day Toronto and southern Ontario&nbsp;&nbsp;INsauga10 things to do on New Year's Day in Toronto",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWVvTmROWXBzRFFhaWloQlZhVG1PSEp2eTVwS0psTERtT2pTZk9IeFJwdHBiVHR6Qy1kYkVaUUlMXzVaeFBsYm9NbGJ0Nlg5QmhSakVqTE9obWlMbVY4ekQ1WkYtaktXMVJIdGN2RGdrdVZjcDNQUnZ4dE0taUN0WWpSNmdDUnpOVm1oekVWNERYM3pKZEE?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 15:00:42 GMT",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:24.912577"
     },
     {
       "id": "a97b1b07c334",
@@ -1548,7 +1824,19 @@
       "published": "Thu, 01 Jan 2026 15:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192711"
+      "fetched_at": "2026-01-01T18:29:23.197143"
+    },
+    {
+      "id": "9fa08e6f63a9",
+      "title": "Canada’s Grocery Code of Conduct starts Jan. 1: Here’s what it means for shoppers - Inside Halton",
+      "description": "Canada’s Grocery Code of Conduct starts Jan. 1: Here’s what it means for shoppers&nbsp;&nbsp;Inside Halton",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWoyMWpoV2J6RHBlVzM0YUtBaDNzM0hBUlFUMkp5Y1VnZUZmcXkzUXViZ1VqUXN3MU43OUFMQVdRaF9lQTlMSjdpVWdrckRYZ08tWGlERFFmTkdfSmpHc1dRUS1ueTJGN3dRQnczbmdaVVBwYzNIQ3BwYm9IVmRhblZGUmFzdWo2cXZQcE96eHRZV3dGZllZbkJqRVJFNmlpeGZOTDhvSzQ1cXpVZ1dnOHlqcVl1SmFYbGE3X0dVdDdEcmZZM3R6Qw?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 14:51:51 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:25.237929"
     },
     {
       "id": "252c2817f5f3",
@@ -1560,7 +1848,19 @@
       "published": "Thu, 01 Jan 2026 14:45:56 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:41.461324"
+      "fetched_at": "2026-01-01T18:29:23.270583"
+    },
+    {
+      "id": "a43467dc74e4",
+      "title": "Trump tells WSJ he is taking more aspirin than doctors recommend - Reuters",
+      "description": "Trump tells WSJ he is taking more aspirin than doctors recommend&nbsp;&nbsp;ReutersExclusive | As Signs of Aging Emerge, Trump Responds With Defiance&nbsp;&nbsp;The Wall Street JournalTrump blames bruised hand on aspirin, denies falling asleep&nbsp;&nbsp;CTV NewsTrump tells WSJ he takes a higher dai",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGV0QVd6ZUtXVndkWHNWU0ZmbHpyNUlqTVJnWjY1UWhjd1g5TmUxN0dXQTROeXV5YjVaeWp3MnR2cVdSUGhEVWlETzg0YVhfZ2JjdGJISUxfVWsweEtaTDVTdVpoX2ZUR2o2ZWxXa3FxWmZGOWVsSTE2NEdUZDRSSEQ2bUxuRGE5RG9LWk9Sbm5yeHkwWTVIQk9seEtMQXV2VTdKYVQzeDdJUG1ZV0E?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 14:39:32 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-01-01T18:29:25.441465"
     },
     {
       "id": "76e90b312498",
@@ -1572,31 +1872,91 @@
       "published": "Thu, 01 Jan 2026 14:33:27 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:39.934667"
+      "fetched_at": "2026-01-01T18:29:23.080788"
     },
     {
-      "id": "c892c2d0bda2",
+      "id": "716af3be9422",
+      "title": "About 40 people dead and 115 injured in fire at Swiss Alpine bar during New Year’s celebration",
+      "description": "CRANS-MONTANA, Switzerland (AP) — About 40 people were killed and another 115 injured, most of them seriously, after a fire ripped through a bar’s New Year celebration in a Swiss Alpine resort less than two hours after midnight Thursday, police said. Authorities did not immediately have an exact cou",
+      "url": "https://toronto.citynews.ca/2026/01/01/about-40-people-dead-and-115-injured-in-fire-at-swiss-alpine-bar-during-new-years-celebration/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 14:24:31 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:24.982635"
+    },
+    {
+      "id": "4cc229a1b24f",
+      "title": "About 40 people dead and 115 injured in fire at Swiss Alpine bar during New Year’s celebration",
+      "description": "About 40 people were killed and another 115 injured, most of them seriously, during a New Year’s celebration in a Swiss Alpine bar, police said Thursday.",
+      "url": "https://vancouver.citynews.ca/2026/01/01/40-people-dead-115-injured-fire-swiss-alpine-bar-during-new-years-celebration/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 14:24:31 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.407770"
+    },
+    {
+      "id": "edf86a4649ad",
+      "title": "About 40 people dead and 115 injured in fire at Swiss Alpine bar during New Year’s celebration",
+      "description": "CRANS-MONTANA, Switzerland (AP) — About 40 people were killed and another 115 injured, most of them seriously, during a New Year’s celebration in a Swiss Alpine bar, police said Thursday. Authorities did not immediately have an exact count of the deceased. THIS IS A BREAKING NEWS UPDATE. AP’s earlie",
+      "url": "https://montreal.citynews.ca/2026/01/01/about-40-people-dead-and-115-injured-in-fire-at-swiss-alpine-bar-during-new-years-celebration/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 14:24:31 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.672915"
+    },
+    {
+      "id": "467b854f7c33",
+      "title": "About 40 people dead and 115 injured in fire at Swiss Alpine bar during New Year’s celebration",
+      "description": "CRANS-MONTANA, Switzerland (AP) — About 40 people were killed and another 115 injured, most of them seriously, after a fire ripped through a bar’s New Year celebration in a Swiss Alpine resort less than two hours after midnight Thursday, police said. Authorities did not immediately have an exact cou",
+      "url": "https://ottawa.citynews.ca/2026/01/01/about-40-people-dead-and-115-injured-in-fire-at-swiss-alpine-bar-during-new-years-celebration/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 14:24:31 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:26.234961"
+    },
+    {
+      "id": "4970024c3492",
       "title": "Trump delays increased tariffs on upholstered furniture, kitchen cabinets and vanities for a year",
       "description": "WASHINGTON (AP) — President Donald Trump signed a New Year&#8217;s Eve proclamation delaying increased tariffs on upholstered furniture, kitchen cabinets and vanities for a year, citing ongoing trade talks. Trump&#8217;s order signed Wednesday keeps in place a 25% tariff he imposed in September on t",
-      "url": "https://toronto.citynews.ca/2026/01/01/trump-delays-increased-tariffs-on-upholstered-furniture-kitchen-cabinets-and-vanities-for-a-year/",
-      "source": "CityNews Toronto",
+      "url": "https://montreal.citynews.ca/2026/01/01/trump-delays-increased-tariffs-on-upholstered-furniture-kitchen-cabinets-and-vanities-for-a-year/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 14:08:02 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.672961"
+    },
+    {
+      "id": "dae5823d3f84",
+      "title": "Trump delays increased tariffs on upholstered furniture, kitchen cabinets and vanities for a year",
+      "description": "WASHINGTON (AP) — President Donald Trump signed a New Year&#8217;s Eve proclamation delaying increased tariffs on upholstered furniture, kitchen cabinets and vanities for a year, citing ongoing trade talks. Trump&#8217;s order signed Wednesday keeps in place a 25% tariff he imposed in September on t",
+      "url": "https://calgary.citynews.ca/2026/01/01/trump-delays-increased-tariffs-on-upholstered-furniture-kitchen-cabinets-and-vanities-for-a-year/",
+      "source": "CityNews Calgary",
       "image": "",
       "published": "Thu, 01 Jan 2026 14:08:02 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923738"
+      "fetched_at": "2026-01-01T18:29:25.685646"
     },
     {
-      "id": "828067f13225",
-      "title": "New year celebrations and Zohran Mamdani sworn in: photos of the day – Thursday - The Guardian",
-      "description": "New year celebrations and Zohran Mamdani sworn in: photos of the day – Thursday&nbsp;&nbsp;The GuardianZohran Mamdani sworn in as New York City mayor at historic subway station&nbsp;&nbsp;CBCAt Zohran Mamdani's swearing in, Rama Duwaji remains art-world chic&nbsp;&nbsp;USA Today‘People Are Taking th",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3UtRjhaZGxnSFcycUJrUjJZUzhtV1lKUnRySmdiY3Fmd3MxanM5aWJrVFpiN1FqYmRTcWR4MGM0MU03aVFPUWxsOWtrSUVpVWowSGVQOTNwZWk2cjBaSFFWMi1jN0E5YThOLXJXZThmQ0ZYM1p5ejVhVm8xcmdmQVlicHRWX2RZTXJTYmNTeUFFUGF2SkVWN0NLQmF5bHdzWl9yUGpCcEZpUXVGZGtMTGF0MGlxUElxUnRSUURKLWNVbjA3LXVrUg?oc=5",
-      "source": "Google News Tech",
+      "id": "c521d3fa1c00",
+      "title": "Trump delays increased tariffs on upholstered furniture, kitchen cabinets and vanities for a year",
+      "description": "WASHINGTON (AP) — President Donald Trump signed a New Year&#8217;s Eve proclamation delaying increased tariffs on upholstered furniture, kitchen cabinets and vanities for a year, citing ongoing trade talks. Trump&#8217;s order signed Wednesday keeps in place a 25% tariff he imposed in September on t",
+      "url": "https://edmonton.citynews.ca/2026/01/01/trump-delays-increased-tariffs-on-upholstered-furniture-kitchen-cabinets-and-vanities-for-a-year/",
+      "source": "CityNews Edmonton",
       "image": "",
-      "published": "Thu, 01 Jan 2026 14:07:00 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-01-01T16:26:42.075304"
+      "published": "Thu, 01 Jan 2026 14:08:02 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.789429"
     },
     {
       "id": "53399130fbd0",
@@ -1608,7 +1968,7 @@
       "published": "Thu, 01 Jan 2026 14:02:32 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362603"
+      "fetched_at": "2026-01-01T18:29:24.164949"
     },
     {
       "id": "da8f92095a4f",
@@ -1620,7 +1980,7 @@
       "published": "Thu, 01 Jan 2026 14:00:57 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:41.461366"
+      "fetched_at": "2026-01-01T18:29:23.270637"
     },
     {
       "id": "670e2f5042dc",
@@ -1632,7 +1992,7 @@
       "published": "Thu, 01 Jan 2026 14:00:44 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.608012"
+      "fetched_at": "2026-01-01T18:29:25.802557"
     },
     {
       "id": "3cc98ed54805",
@@ -1644,7 +2004,7 @@
       "published": "Thu, 01 Jan 2026 14:00:40 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362646"
+      "fetched_at": "2026-01-01T18:29:24.164992"
     },
     {
       "id": "5e8335838459",
@@ -1656,7 +2016,7 @@
       "published": "Thu, 01 Jan 2026 14:00:12 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.608046"
+      "fetched_at": "2026-01-01T18:29:25.802584"
     },
     {
       "id": "6755faa9f979",
@@ -1668,7 +2028,7 @@
       "published": "Thu, 01 Jan 2026 14:00:08 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.608070"
+      "fetched_at": "2026-01-01T18:29:25.802605"
     },
     {
       "id": "8bddaba7dc4a",
@@ -1680,19 +2040,7 @@
       "published": "Thu, 01 Jan 2026 14:00:02 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.331819"
-    },
-    {
-      "id": "15f3b94345e1",
-      "title": "The secret to success with New Year’s resolutions and goals is to improve the odds",
-      "description": "Every goal that you are pursuing, consultant Kyle Austin Young notes, has two hidden but crucial numbers attached to it: A probability of success and a probability of failure",
-      "url": "https://www.theglobeandmail.com/business/careers/career-advice/article-the-secret-to-success-with-new-years-resolutions-and-goals-is-to/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/WROZAF2NCBDO3K5HFBLHGGZUE4.jpg?auth=181b8655b7c6f81e26b16513c6e0b9162fb1713aaa7a8e199a49b156dbfdde9f&smart=true&width=2142&height=1399",
-      "published": "Thu, 01 Jan 2026 14:00:00 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629595"
+      "fetched_at": "2026-01-01T18:29:24.288736"
     },
     {
       "id": "7429cf54facc",
@@ -1704,7 +2052,7 @@
       "published": "Thu, 01 Jan 2026 13:59:27 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.331849"
+      "fetched_at": "2026-01-01T18:29:24.288762"
     },
     {
       "id": "0fbf352160a3",
@@ -1716,31 +2064,7 @@
       "published": "Thu, 01 Jan 2026 13:58:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170665"
-    },
-    {
-      "id": "7d5e42621b69",
-      "title": "Woman dead after early morning crash on Highway 401 in Mississauga",
-      "description": "A woman has died after a crash on Highway 401 near Dixie Road in Mississauga, according to paramedics. The Ontario Provincial Police say the crash happened around 6:30 a.m. and all eastbound collector lanes are closed as a result. The cause of the crash remains unknown. Police say drivers should pla",
-      "url": "https://toronto.citynews.ca/2026/01/01/woman-dead-in-early-morning-crash-on-highway-401-in-mississauga/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 13:58:01 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923765"
-    },
-    {
-      "id": "406443871f79",
-      "title": "Man struck, critically injured in Oshawa crash",
-      "description": "A 64-year-old man is in critical condition after being struck by a car in Oshawa on New Year&#8217;s Eve. Police in Durham Region say the crash occurred around 11:15 p.m. in the Simcoe Street North and Byng Avenue area. Investigators say the 64-year-old man was in the roadway on Simcoe Street North ",
-      "url": "https://toronto.citynews.ca/2026/01/01/man-struck-critically-injured-in-oshawa-crash/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 13:37:32 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923798"
+      "fetched_at": "2026-01-01T18:29:24.390325"
     },
     {
       "id": "275213844b2d",
@@ -1752,7 +2076,7 @@
       "published": "Thu, 01 Jan 2026 13:33:32 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.331876"
+      "fetched_at": "2026-01-01T18:29:24.288788"
     },
     {
       "id": "6c13e3d2602b",
@@ -1764,19 +2088,19 @@
       "published": "Thu, 01 Jan 2026 13:30:09 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170549"
+      "fetched_at": "2026-01-01T18:29:24.390217"
     },
     {
-      "id": "72e277e4bdc8",
-      "title": "Who are the Palestine Action hunger strikers?",
-      "description": "Four activists from the proscribed Palestine Action group in the UK are still on hunger strikes in prison.",
-      "url": "https://www.aljazeera.com/news/2026/1/1/who-are-the-palestine-action-hunger-strikers?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "2dc709a18e7c",
+      "title": "Maresca leaves Chelsea midway through turbulent season after reported clash with ownership - TSN",
+      "description": "Maresca leaves Chelsea midway through turbulent season after reported clash with ownership&nbsp;&nbsp;TSNChelsea manager latest: Liam Rosenior leading candidate to succeed Enzo Maresca&nbsp;&nbsp;BBCStrasbourg head coach Liam Rosenior leads the race to replace Enzo Maresca at Chelsea&nbsp;&nbsp;Yaho",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUV1Mk5fdlhiczlYWHA1bW5zMjlWdjdzYmp2QmRPaUd6bndyQUljUGJrb0FNZ0RIVkRtMnNBTUQ0THRqYWZZYk85OG1yczlrRnNUaU1rSVcxT1E0TENfNHh3QUhVdDhiS1lFOUhDRVFUakhpNDJRN1dWQWROYjFkNG9yaXF6S2prLTVMejVDTS1adEtGUzcwWEhwcDg5c1pJQWIyWVRNdndiX1l4WUxXUVFReGFMcDRXWS1MY2NfUEpFQkU?oc=5",
+      "source": "Google News Sports",
       "image": "",
-      "published": "Thu, 01 Jan 2026 13:25:47 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.331901"
+      "published": "Thu, 01 Jan 2026 13:26:30 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-01-01T18:29:25.489078"
     },
     {
       "id": "5df490b26f06",
@@ -1788,7 +2112,7 @@
       "published": "Thu, 01 Jan 2026 13:25:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192759"
+      "fetched_at": "2026-01-01T18:29:23.197217"
     },
     {
       "id": "893cce5574c5",
@@ -1800,31 +2124,7 @@
       "published": "Thu, 01 Jan 2026 13:22:40 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371803"
-    },
-    {
-      "id": "d490ebe3de53",
-      "title": "ICE operations and their impact on US residents",
-      "description": "ICE operations and their impact on US residents",
-      "url": "https://www.aljazeera.com/video/centre-stage/2026/1/1/ice-operations-and-their-impact-on-us-residents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 13:21:20 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.331925"
-    },
-    {
-      "id": "49cd65c1bd40",
-      "title": "Indonesia floods leave families fighting to survive",
-      "description": "More than a month after floods hit Indonesia, survivors are still living in ruins and desperately trying to get by.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/indonesia-floods-leave-families-fighting-to-survive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 13:12:22 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.331950"
+      "fetched_at": "2026-01-01T18:29:25.237892"
     },
     {
       "id": "4c933ebd490f",
@@ -1836,7 +2136,7 @@
       "published": "Thu, 01 Jan 2026 13:03:11 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362683"
+      "fetched_at": "2026-01-01T18:29:24.165061"
     },
     {
       "id": "80504a94f444",
@@ -1848,7 +2148,7 @@
       "published": "Thu, 01 Jan 2026 13:00:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.615303"
+      "fetched_at": "2026-01-01T18:29:24.664121"
     },
     {
       "id": "bcf8499bdc20",
@@ -1860,43 +2160,7 @@
       "published": "Thu, 01 Jan 2026 13:00:05 +0000",
       "location": "Calgary",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:39.934725"
-    },
-    {
-      "id": "b36698587a4e",
-      "title": "Not only is food more expensive, it is also becoming ultraprocessed garbage",
-      "description": "In a way, claims made by food companies about ultraprocessed products are fundamentally a form of economic disinformation",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-food-more-expensive-becoming-ultraprocessed-garbage/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/YOB6X2TZZ5DX3KBM7I4DZLH6SM.JPG?auth=33365d1a54d6667b8234e1a9a9662d1f03b0843b5a98a3feb32ccab33a672dbf&smart=true&width=7129&height=4630",
-      "published": "Thu, 01 Jan 2026 13:00:00 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629619"
-    },
-    {
-      "id": "c914f27b1b2c",
-      "title": "Somaliland denies agreeing to host Israeli bases, resettle Palestinians",
-      "description": "Breakaway region dismisses Somalia&#039;s allegations as attempt to undermine diplomatic progress.",
-      "url": "https://www.aljazeera.com/news/2026/1/1/somaliland-denies-agreeing-to-host-israeli-bases-resettle-palestinians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 12:57:53 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.331974"
-    },
-    {
-      "id": "dc135b62ecc4",
-      "title": "Iran security force member killed during protests, officials say",
-      "description": "A currency collapse has led to protests breaking out across the country, with unrest reported in several cities.",
-      "url": "https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84bd/live/85a27650-e67e-11f0-b67b-690eb873de1b.jpg",
-      "published": "Thu, 01 Jan 2026 12:54:04 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170706"
+      "fetched_at": "2026-01-01T18:29:23.080829"
     },
     {
       "id": "3c2a603e07d5",
@@ -1908,31 +2172,31 @@
       "published": "Thu, 01 Jan 2026 12:41:36 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362716"
+      "fetched_at": "2026-01-01T18:29:24.165098"
     },
     {
       "id": "40ec01320675",
       "title": "Ontario’s new blue bin system starts today. Why some fear it will be a ‘disaster’ - Toronto Star",
-      "description": "Ontario’s new blue bin system starts today. Why some fear it will be a ‘disaster’&nbsp;&nbsp;Toronto StarNew recycling rules, collection contractor start Jan. 1&nbsp;&nbsp;CBCRecycling changes start in Niagara and Ontario this week&nbsp;&nbsp;St. Catharines StandardCounty reminds residents of recycl",
+      "description": "Ontario’s new blue bin system starts today. Why some fear it will be a ‘disaster’&nbsp;&nbsp;Toronto StarNew recycling rules, collection contractor start Jan. 1&nbsp;&nbsp;CBCNew recycling changes starting Jan. 1 in province-wide shift&nbsp;&nbsp;CTV NewsRecycling changes start in Niagara and Ontari",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY2dxbEhVNDBUemxFWjFReXVoNFU1anl5X3FwMlh2MXlmcjBnWHJLZ05aSFljMDQwUG5BUjFpTVZXWWlKZ3VtcEwxQXZsZFYydVp0RXBoa0EtTXMtZGFzOXpOLXNRcGl6MUZOQ3l3LWwzUWg0WjFyNEdkVk9tWkVsdmEzcXJMOTFySzNQbDVyMHMyS3plRVhqZHhWZWVDTWh4TGctNGdWSHdOYjE4SW1uckw2dXlNbXZDbXVUUW1jQmhDVnlkbFdZWWNHQUJEeDYwV1p1am5VV1dxYWxVTlNYQUpOaXphbkNXejVxZg?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Thu, 01 Jan 2026 12:35:21 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:42.216293"
+      "fetched_at": "2026-01-01T18:29:24.912762"
     },
     {
       "id": "73431defbe32",
       "title": "Greyhounds captain nets two as Canadian juniors top Finland, claim first in pool - SooToday.com",
-      "description": "Greyhounds captain nets two as Canadian juniors top Finland, claim first in pool&nbsp;&nbsp;SooToday.comWJC Takeaways: Canada flexes offensive muscle in goal-fest vs. Finland&nbsp;&nbsp;Sportsnet.caCanada tops Finland to win group&nbsp;&nbsp;IIHFTeam Canada Defeats Finland, Sets Sights on Slovakia&n",
+      "description": "Greyhounds captain nets two as Canadian juniors top Finland, claim first in pool&nbsp;&nbsp;SooToday.comCanada wins Group B after defeating Finland at world juniors&nbsp;&nbsp;CBCWJC Takeaways: Canada flexes offensive muscle in goal-fest vs. Finland&nbsp;&nbsp;Sportsnet.caCanada tops Finland to win ",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVdsWU9XN1dHa1llQTdwYkQ3WjcyUkxXcTJmbEhrcy1PZWhVUXFTN1lmbzBJMS1tckpjN3MwLWxmeUkzYUlQcDFRSmJPY0o4MmlvMENVU3JnLUgtMm54UXFES19JS0cwbkNGWlZmcHZfLTM1d1RqdkNacHh1bE1neHFMR0RiWWJfQi1sZnpNQlNvX1RrZDFVdEk2ZjZCb2JrcDZ4VEpId0hMWmhaTkVZ?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Thu, 01 Jan 2026 12:34:48 GMT",
-      "location": "Toronto",
+      "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-01-01T16:26:42.325390"
+      "fetched_at": "2026-01-01T18:29:25.488595"
     },
     {
       "id": "3a3090361010",
@@ -1944,31 +2208,7 @@
       "published": "Thu, 01 Jan 2026 12:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295023"
-    },
-    {
-      "id": "32fd1254e739",
-      "title": "What’s OPEN & CLOSED New Year’s Day Toronto and southern Ontario - INsauga",
-      "description": "What’s OPEN & CLOSED New Year’s Day Toronto and southern Ontario&nbsp;&nbsp;INsaugaHow can I celebrate New Year’s Eve in Toronto and the GTA? What you need to know&nbsp;&nbsp;CP24What’s open/closed on New Year’s Day 2026 in London, Ont.&nbsp;&nbsp;CTV News10 things to do on New Year's Day in Toronto",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjdKbmZWcWpIdnRQV1dZalFRV3BLb1dfRS13cW1KZjNoNGpoZlZUakk4VUNxMHRaT3IxOUNvSmhmT3FRaWNxYmFsQlk3Sjctd3hwYWhnam9yMHlnWXYyV29kRExUd3ZVYUpoaXZiRmY1Y0NBY2c2WjBCX2ptMS1lRDBJdlFDQUhvYlE4SGlB?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 12:22:30 GMT",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2026-01-01T16:26:42.215912"
-    },
-    {
-      "id": "c2b5b7366834",
-      "title": "Hundreds of thousands march in Istanbul in solidarity with Gaza",
-      "description": "Demonstrators in Turkiye demand global pressure on Israel, calling the so-called ceasefire &#039;a slow-motion genocide&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/1/1/hundreds-of-thousands-march-in-istanbul-in-solidarity-with-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 12:17:27 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.331999"
+      "fetched_at": "2026-01-01T18:29:23.290811"
     },
     {
       "id": "074f49131000",
@@ -1980,31 +2220,19 @@
       "published": "Thu, 01 Jan 2026 12:10:06 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788430"
-    },
-    {
-      "id": "56179ce4f798",
-      "title": "Israel’s new rules for non-profits violate “duty of care”",
-      "description": "“They&#039;re asking us to accept political and ideological conditions that are unrelated to our humanitarian work.”",
-      "url": "https://www.aljazeera.com/video/quotable/2026/1/1/israels-new-rules-for-non-profits-violate-duty-of?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 12:09:44 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.332031"
+      "fetched_at": "2026-01-01T18:29:25.767027"
     },
     {
       "id": "6679109ef4be",
-      "title": "Dozens presumed dead, about 100 injured in fire at Swiss Alps bar during New Year’s celebration",
-      "description": "Dozens of people are presumed dead and about 100 injured, most of them seriously, following a fire at a bar in a Swiss Alps resort town during a New Year’s celebration.",
+      "title": "About 40 dead, 115 injured in New Year’s fire at Swiss Alps bar: police",
+      "description": "The Crans-Montana resort's crowded Le Constellation bar morphed from a scene of revelry into the site of what Switzerland's president said was one of the country's worst tragedies.",
       "url": "https://globalnews.ca/news/11596187/swiss-alps-fire-new-years-celebration/",
       "source": "Global News",
       "image": "https://globalnews.ca/wp-content/uploads/2026/01/swiss-alps-bar-fire-2.jpg?quality=65&strip=all",
       "published": "Thu, 01 Jan 2026 12:05:18 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:39.934769"
+      "fetched_at": "2026-01-01T18:29:23.080872"
     },
     {
       "id": "3ba926d70331",
@@ -2016,7 +2244,7 @@
       "published": "Thu, 01 Jan 2026 12:00:58 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:42.216372"
+      "fetched_at": "2026-01-01T18:29:24.912990"
     },
     {
       "id": "ffbf5c04aedd",
@@ -2028,7 +2256,7 @@
       "published": "Thu, 01 Jan 2026 12:00:33 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.786385"
+      "fetched_at": "2026-01-01T18:29:28.183915"
     },
     {
       "id": "dac8494105bb",
@@ -2040,7 +2268,7 @@
       "published": "Thu, 01 Jan 2026 12:00:04 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:39.934808"
+      "fetched_at": "2026-01-01T18:29:23.080910"
     },
     {
       "id": "f4b060783eb9",
@@ -2052,7 +2280,7 @@
       "published": "Thu, 01 Jan 2026 12:00:00 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:42.216100"
+      "fetched_at": "2026-01-01T18:29:24.912846"
     },
     {
       "id": "88db03bd5b4f",
@@ -2064,7 +2292,7 @@
       "published": "Thu, 01 Jan 2026 12:00:00 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:42.216139"
+      "fetched_at": "2026-01-01T18:29:24.912882"
     },
     {
       "id": "577e30db1eb8",
@@ -2076,7 +2304,7 @@
       "published": "Thu, 01 Jan 2026 12:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295051"
+      "fetched_at": "2026-01-01T18:29:23.290843"
     },
     {
       "id": "104606807835",
@@ -2088,19 +2316,43 @@
       "published": "Thu, 01 Jan 2026 12:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295075"
+      "fetched_at": "2026-01-01T18:29:23.290867"
     },
     {
-      "id": "95818aadcf58",
+      "id": "586cf1f7e9e5",
       "title": "Pope opens 2026 with plea for peace in countries bloodied by war, families wounded by violence",
       "description": "ROME (AP) — Pope Leo XIV opened 2026 on Thursday with a plea for peace, singling out in particular countries “bloodied by conflict” and families wounded by violence. Leo celebrated a New Year’s Day Mass in St. Peter’s Basilica and then delivered a special noontime prayer from his studio overlooking ",
-      "url": "https://toronto.citynews.ca/2026/01/01/pope-opens-2026-with-plea-for-peace-in-countries-bloodied-by-war-families-wounded-by-violence/",
-      "source": "CityNews Toronto",
+      "url": "https://montreal.citynews.ca/2026/01/01/pope-opens-2026-with-plea-for-peace-in-countries-bloodied-by-war-families-wounded-by-violence/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 11:57:52 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.673027"
+    },
+    {
+      "id": "78380b3e6be2",
+      "title": "Pope opens 2026 with plea for peace in countries bloodied by war, families wounded by violence",
+      "description": "ROME (AP) — Pope Leo XIV opened 2026 on Thursday with a plea for peace, singling out in particular countries “bloodied by conflict” and families wounded by violence. Leo celebrated a New Year’s Day Mass in St. Peter’s Basilica and then delivered a special noontime prayer from his studio overlooking ",
+      "url": "https://calgary.citynews.ca/2026/01/01/pope-opens-2026-with-plea-for-peace-in-countries-bloodied-by-war-families-wounded-by-violence/",
+      "source": "CityNews Calgary",
       "image": "",
       "published": "Thu, 01 Jan 2026 11:57:52 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923841"
+      "fetched_at": "2026-01-01T18:29:25.685692"
+    },
+    {
+      "id": "2ef0073fd8fb",
+      "title": "Pope opens 2026 with plea for peace in countries bloodied by war, families wounded by violence",
+      "description": "ROME (AP) — Pope Leo XIV opened 2026 on Thursday with a plea for peace, singling out in particular countries “bloodied by conflict” and families wounded by violence. Leo celebrated a New Year’s Day Mass in St. Peter’s Basilica and then delivered a special noontime prayer from his studio overlooking ",
+      "url": "https://edmonton.citynews.ca/2026/01/01/pope-opens-2026-with-plea-for-peace-in-countries-bloodied-by-war-families-wounded-by-violence/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 11:57:52 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.789482"
     },
     {
       "id": "372068d95145",
@@ -2109,22 +2361,10 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWHJhdWVMZ204RFVSaS1xcTVMNFB3WnVKSk1JclpXaTY2UTROd2xuSm1URy1ueFJIaXVCbWQ4N1lQeEcxRk1sYUI5RUNpbTFjd0s3N1pfcUxqM3pINlg0YVBxWDJzUUkycVQ0eFpsWnh3SUo2Snd0STF3VUVDbFByMm5wbmtHaVZFM0ZWSkUtdnZkbER4b2dsTWhINVZBaVRnVEtUNkJjRi1yZC1GME0tcm0tMjRvX1BwREJXRVFabWpJS2dSeVhZSi11YmpReFJTZXBxc2FPckY?oc=5",
       "source": "Google News Canada",
       "image": "",
-      "published": "Thu, 01 Jan 2026 11:33:42 GMT",
+      "published": "Thu, 01 Jan 2026 11:45:44 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371931"
-    },
-    {
-      "id": "2429b53ad1f9",
-      "title": "For California farmers, the agave plant is a source of hope in parched times - The Globe and Mail",
-      "description": "For California farmers, the agave plant is a source of hope in parched times&nbsp;&nbsp;The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLU1yMk90OS1aaTZxZ0V5RzRwZmhiSDY1NXZWeUdXY19Ccm9lWmNiR3c5cXVTME96RnlEdDZraHlpZlZHYlR6eVBFSHBaRkhzbk5DXzVZSTMzSTFKY0lxT1ZJb0xKTTV0YVpGc0Y3MU9sQVpkMnZ6MVp6OHQzZ3VSdGRyUHJNSzNaYmsyMmZn?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 11:30:00 GMT",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-01-01T16:26:42.216327"
+      "fetched_at": "2026-01-01T18:29:25.237656"
     },
     {
       "id": "bef46c33b888",
@@ -2136,19 +2376,7 @@
       "published": "Thu, 01 Jan 2026 11:01:48 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362749"
-    },
-    {
-      "id": "baf58b1b7be2",
-      "title": "Bruins aim to build off impressive win over Oilers",
-      "description": "The Boston Bruins ended the year feeling a lot better than the couple weeks that preceded their final game.",
-      "url": "https://globalnews.ca/news/11596165/bruins-aim-to-build-off-impressive-win-over-oilers/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/01/9461737b3a5ed72f07b0a3aa8a24eb374a9d90b219ad872696179cb4db0a798c.jpg?quality=65&strip=all",
-      "published": "Thu, 01 Jan 2026 11:01:38 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2026-01-01T16:26:39.934842"
+      "fetched_at": "2026-01-01T18:29:24.165131"
     },
     {
       "id": "f423477e08f3",
@@ -2160,7 +2388,7 @@
       "published": "Thu, 01 Jan 2026 11:01:38 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362780"
+      "fetched_at": "2026-01-01T18:29:24.165163"
     },
     {
       "id": "33fc1b2777ee",
@@ -2172,7 +2400,7 @@
       "published": "Thu, 01 Jan 2026 11:00:58 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362810"
+      "fetched_at": "2026-01-01T18:29:24.165194"
     },
     {
       "id": "78826b5ea536",
@@ -2184,7 +2412,7 @@
       "published": "Thu, 01 Jan 2026 11:00:58 +0000",
       "location": "Edmonton",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.362838"
+      "fetched_at": "2026-01-01T18:29:24.165222"
     },
     {
       "id": "ee51ff6916e6",
@@ -2196,19 +2424,19 @@
       "published": "Thu, 01 Jan 2026 11:00:51 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788460"
+      "fetched_at": "2026-01-01T18:29:25.767060"
     },
     {
       "id": "8d61e6c2fde1",
       "title": "Where is the true north? How the magnetic north pole is drifting away from Canada — and toward Russia",
       "description": "In the blink of an eye in geological time, Canada has lost one north pole but gained another, a new and different claim to be the true north",
       "url": "https://nationalpost.com/news/canada/where-is-the-magnetic-north-pole",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/12/canada-northpole.jpg",
+      "source": "National Post",
+      "image": "",
       "published": "Thu, 01 Jan 2026 11:00:50 +0000",
       "location": "Canada",
-      "category": "politics",
-      "fetched_at": "2026-01-01T16:26:40.562867"
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:23.270696"
     },
     {
       "id": "e547186c5fad",
@@ -2220,7 +2448,7 @@
       "published": "Thu, 01 Jan 2026 11:00:42 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:41.461472"
+      "fetched_at": "2026-01-01T18:29:23.270747"
     },
     {
       "id": "432d0b5e1023",
@@ -2232,7 +2460,7 @@
       "published": "Thu, 01 Jan 2026 11:00:36 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.788490"
+      "fetched_at": "2026-01-01T18:29:25.767090"
     },
     {
       "id": "4d3dc43ce472",
@@ -2244,19 +2472,7 @@
       "published": "Thu, 01 Jan 2026 11:00:31 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:41.461515"
-    },
-    {
-      "id": "361ee56f5c0e",
-      "title": "Northwest Territories facing a hard-as-diamonds reality as pivotal industry wanes",
-      "description": "It’s said that pressure makes diamonds, but a diamond mining downturn is what&#8217;s putting pressure on the Northwest Territories economy these days. Diamond mines have long been a vital source of well paying local jobs, with spinoffs in hospitality, construction and other areas. It’s been estimat",
-      "url": "https://toronto.citynews.ca/2026/01/01/northwest-territories-facing-a-hard-as-diamonds-reality-as-pivotal-industry-wanes/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 11:00:09 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923891"
+      "fetched_at": "2026-01-01T18:29:23.270799"
     },
     {
       "id": "5f9c9dc1482f",
@@ -2268,31 +2484,7 @@
       "published": "Thu, 01 Jan 2026 11:00:09 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.496166"
-    },
-    {
-      "id": "b00734842f75",
-      "title": "Northwest Territories facing a hard-as-diamonds reality as pivotal industry wanes",
-      "description": "It’s said that pressure makes diamonds, but a diamond mining downturn is what&#8217;s putting pressure on the Northwest Territories economy these days. Diamond mines have long been a vital source of well paying local jobs, with spinoffs in hospitality, construction and other areas. It’s been estimat",
-      "url": "https://montreal.citynews.ca/2026/01/01/northwest-territories-facing-a-hard-as-diamonds-reality-as-pivotal-industry-wanes/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 11:00:09 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.506361"
-    },
-    {
-      "id": "68f0a3c3b6bb",
-      "title": "Northwest Territories facing a hard-as-diamonds reality as pivotal industry wanes",
-      "description": "It’s said that pressure makes diamonds, but a diamond mining downturn is what&#8217;s putting pressure on the Northwest Territories economy these days. Diamond mines have long been a vital source of well paying local jobs, with spinoffs in hospitality, construction and other areas. It’s been estimat",
-      "url": "https://edmonton.citynews.ca/2026/01/01/northwest-territories-facing-a-hard-as-diamonds-reality-as-pivotal-industry-wanes/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 11:00:09 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.729458"
+      "fetched_at": "2026-01-01T18:29:25.407824"
     },
     {
       "id": "e875a99a1913",
@@ -2304,7 +2496,19 @@
       "published": "Thu, 01 Jan 2026 11:00:09 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746608"
+      "fetched_at": "2026-01-01T18:29:25.685742"
+    },
+    {
+      "id": "68f0a3c3b6bb",
+      "title": "Northwest Territories facing a hard-as-diamonds reality as pivotal industry wanes",
+      "description": "It’s said that pressure makes diamonds, but a diamond mining downturn is what&#8217;s putting pressure on the Northwest Territories economy these days. Diamond mines have long been a vital source of well paying local jobs, with spinoffs in hospitality, construction and other areas. It’s been estimat",
+      "url": "https://edmonton.citynews.ca/2026/01/01/northwest-territories-facing-a-hard-as-diamonds-reality-as-pivotal-industry-wanes/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 11:00:09 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.789540"
     },
     {
       "id": "1d96a2f773ee",
@@ -2316,19 +2520,31 @@
       "published": "Thu, 01 Jan 2026 11:00:09 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280138"
+      "fetched_at": "2026-01-01T18:29:26.235029"
     },
     {
-      "id": "04a9a1f9f3da",
-      "title": "Can Canada’s economy ignite in 2026? These 14 charts illustrate our investment dilemmas - The Globe and Mail",
-      "description": "Can Canada’s economy ignite in 2026? These 14 charts illustrate our investment dilemmas&nbsp;&nbsp;The Globe and MailThe Year Ahead: 100 Predictions for 2026&nbsp;&nbsp;Macleans.caFive things to watch in Canadian business for 2026&nbsp;&nbsp;Toronto StarHere’s the great policy challenge for governme",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkFvdGpqaFctbzJncnFZWkk0UVJNb21pbklhYjJ1SmxGNFR4VXlwcHZmWlZvdlZzZEYwNFRpOUdMRHAwYmxmeWMtVlBpUmVFNVJBWHE3ZzRmWFJuZG0xQXNpQWdHS2hJWXZmb3ZhaDBTc19MNENKWmhVWUdWbmJBT2pldTRXU25IWVVZMjNwZ0RlVUhyZmZNYVhOYV8zeHA5UXBR?oc=5",
+      "id": "f61afc3e11d8",
+      "title": "Seven economic charts to keep handy as Carney presses Canada to build big in 2026 - The Globe and Mail",
+      "description": "Seven economic charts to keep handy as Carney presses Canada to build big in 2026&nbsp;&nbsp;The Globe and MailCan Canada’s economy ignite in 2026? These 14 charts illustrate our investment dilemmas&nbsp;&nbsp;The Globe and MailThe Year Ahead: 100 Predictions for 2026&nbsp;&nbsp;Macleans.caFive thin",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVy1iUi1vZUltXzQ5TDBSdlVZdXRMWG9WWDM5WkdHNmoyTlFFNllnT09YSHBueFN5NzQ2SVZUUlR4SjZ4Rmk5MTVJVnU1NDdaYkN5NlpVZEdqRTRXb0ZxWW5KQ3pBZHZLd1huT0tiWnNJU1YxOTdCQ3JXNThlTm5kdC1KS0F6ejV0MWl3elRJRHl6V3k5?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Thu, 01 Jan 2026 11:00:00 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:42.215974"
+      "fetched_at": "2026-01-01T18:29:24.912636"
+    },
+    {
+      "id": "30f7de03636f",
+      "title": "Ottawa reverses course on immigration programs for caregivers - The Globe and Mail",
+      "description": "Ottawa reverses course on immigration programs for caregivers&nbsp;&nbsp;The Globe and MailView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0ZneDQxOUFyeUVWN2MxSDRteHJ0NzFxcFBubGVSUDFoOFdaMjdYTDh6eFpMS1RaU0tCVFpoNEpKU3VTNmNWTDU3cWxheENCamFDSHJzQUhhLWdXNXhiSkh0dkN2TVkxdUdjZG9ndjUzQXdVS01iT25IOVNldzVWcU4wVktLRHRWUWFMc05aT214V1ZLSWhLWlBxcmJQVG93N3NncVBR?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 11:00:00 GMT",
+      "location": "Ottawa",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:24.912796"
     },
     {
       "id": "881414922e9f",
@@ -2340,7 +2556,19 @@
       "published": "Thu, 01 Jan 2026 11:00:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371736"
+      "fetched_at": "2026-01-01T18:29:25.237852"
+    },
+    {
+      "id": "98849a723110",
+      "title": "Rocket @ Senators recap & highlights: Laval rings in the New Year with a win over Belleville - Habs Eyes on the Prize",
+      "description": "Rocket @ Senators recap & highlights: Laval rings in the New Year with a win over Belleville&nbsp;&nbsp;Habs Eyes on the PrizeRocket beat Senators&nbsp;&nbsp;Quinte NewsSens shaded in final game of 2025 by Rocket&nbsp;&nbsp;inquinte.ca",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQlpzQzkzX1ItUjRpbmkyeDl3aUtTQUlZSUpycl9raHFZcVVoWHhheXBEakNfSUdPcFp6NXRuN3ZMUkZTeVZHWHVUZTJoQUUwSVhrVmpmalVOMExsQjVwOWlFNVdTZmg4WGtzZjFfWkJwamVDWEFEZkVBYjdrOE16QzlMSGR0UGxfWVFuX1M1S0FTNUpRaTJ2SGFfeUVRbkN6eVVZRHBKSTlIV0RlZlhZVHZMOExjUG1melFKdjVCZkt5bXhucF9sQ0Y5cVlIOTFfVHlHdW1rNno1dE5wbDRuUjlUNTd1TTBUYl9wT21iVEVqWkVONnljMC1EM1NJOWpSNzM1dUtFbWpvQQ?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 11:00:00 GMT",
+      "location": "Montreal",
+      "category": "sports",
+      "fetched_at": "2026-01-01T18:29:25.488665"
     },
     {
       "id": "a27265e78b01",
@@ -2352,67 +2580,7 @@
       "published": "Thu, 01 Jan 2026 11:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295099"
-    },
-    {
-      "id": "f08f26b3fc39",
-      "title": "More tariffs, more problems: 12 charts to watch in Year 2 of the trade war",
-      "description": "A trade deal with Trump is still elusive, so Canadian businesses must keep adapting in 2026. We asked economists and analysts what’s at stake",
-      "url": "https://www.theglobeandmail.com/business/international-business/article-2026-in-charts-trade/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/S2THKJAIPRACTAT5WNJJ5OKZGM.jpg?auth=159146cc03f8cf921551d97c7343ca838e63ae02461808fd4ab09b2404a5875e&smart=true&width=1800&height=1200",
-      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629646"
-    },
-    {
-      "id": "37776b1416c4",
-      "title": "Can Canada’s economy ignite in 2026? These 14 charts illustrate our investment dilemmas",
-      "description": "Canada is hungry to boost productivity before Donald Trump eats our economy for lunch. Here are some of the challenges ahead",
-      "url": "https://www.theglobeandmail.com/business/economy/article-2026-in-charts-for-businesses-and-investors/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/2UIJXHXJIJDMZKFYSSYICP5GSI.jpg?auth=574777858377692951d633aa4c12f7096c821d990293e251b734bc80b6cafcfa&smart=true&width=1800&height=1200",
-      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629669"
-    },
-    {
-      "id": "5c5a6834de59",
-      "title": "How an Ontario chronic pain clinic is taking a new approach for long-lasting relief",
-      "description": "Excessive pain treatments harm patients and cost the province millions of dollars per year. Physician Zameer Pirani believes he has a better way",
-      "url": "https://www.theglobeandmail.com/business/economy/article-clinic-chronic-pain-treatments-health-care-long-lasting/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/EBAJ376BPFH5VHJ7Q3HXTRZGFA.JPG?auth=745114cc3a7f4958da9c1f60930c01734d89c9879d0deed6928adc966573d41d&smart=true&width=3000&height=2000",
-      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629691"
-    },
-    {
-      "id": "72568860b96b",
-      "title": "What’s ahead for the job market and household spending in 2026? Eight charts give us a glimpse",
-      "description": "We asked economists and analysts to pick the data you’ll need to know about labour and your finances in the year ahead",
-      "url": "https://www.theglobeandmail.com/business/economy/article-2026-in-charts-households-and-jobs/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/CK4M7GE64RG6PP3A6YFY7T5QQQ.jpg?auth=b4416fb25ed4ff464def44089a4768fe422299c25380175d0c44d409c5610795&smart=true&width=1800&height=1200",
-      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629715"
-    },
-    {
-      "id": "32a8a886e0a5",
-      "title": "Seven economic charts to keep handy as Carney presses Canada to build big in 2026",
-      "description": "Economists, analysts and business leaders look at key factors at play for policy makers",
-      "url": "https://www.theglobeandmail.com/business/economy/article-2026-in-charts-for-policy-makers/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/E7XGI3UWMJGM5CUGADYWHCUINI.jpg?auth=19fbe4202202bb63705fdd2562da061d2200ad5a29a39ef6f2e1d10511c36be7&smart=true&width=1800&height=1200",
-      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629741"
+      "fetched_at": "2026-01-01T18:29:23.290890"
     },
     {
       "id": "3f8c7d110443",
@@ -2424,7 +2592,55 @@
       "published": "Thu, 01 Jan 2026 11:00:00 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629765"
+      "fetched_at": "2026-01-01T18:29:23.748123"
+    },
+    {
+      "id": "72568860b96b",
+      "title": "What’s ahead for the job market and household spending in 2026? Eight charts give us a glimpse",
+      "description": "We asked economists and analysts to pick the data you’ll need to know about labour and your finances in the year ahead",
+      "url": "https://www.theglobeandmail.com/business/economy/article-2026-in-charts-households-and-jobs/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/CK4M7GE64RG6PP3A6YFY7T5QQQ.jpg?auth=b4416fb25ed4ff464def44089a4768fe422299c25380175d0c44d409c5610795&smart=true&width=1800&height=1200",
+      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:23.748150"
+    },
+    {
+      "id": "32a8a886e0a5",
+      "title": "Seven economic charts to keep handy as Carney presses Canada to build big in 2026",
+      "description": "Economists, analysts and business leaders look at key factors at play for policy makers",
+      "url": "https://www.theglobeandmail.com/business/economy/article-2026-in-charts-for-policy-makers/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/E7XGI3UWMJGM5CUGADYWHCUINI.jpg?auth=19fbe4202202bb63705fdd2562da061d2200ad5a29a39ef6f2e1d10511c36be7&smart=true&width=1800&height=1200",
+      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:23.748171"
+    },
+    {
+      "id": "f08f26b3fc39",
+      "title": "More tariffs, more problems: 12 charts to watch in Year 2 of the trade war",
+      "description": "A trade deal with Trump is still elusive, so Canadian businesses must keep adapting in 2026. We asked economists and analysts what’s at stake",
+      "url": "https://www.theglobeandmail.com/business/international-business/article-2026-in-charts-trade/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/S2THKJAIPRACTAT5WNJJ5OKZGM.jpg?auth=159146cc03f8cf921551d97c7343ca838e63ae02461808fd4ab09b2404a5875e&smart=true&width=1800&height=1200",
+      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:23.748195"
+    },
+    {
+      "id": "37776b1416c4",
+      "title": "Can Canada’s economy ignite in 2026? These 14 charts illustrate our investment dilemmas",
+      "description": "Canada is hungry to boost productivity before Donald Trump eats our economy for lunch. Here are some of the challenges ahead",
+      "url": "https://www.theglobeandmail.com/business/economy/article-2026-in-charts-for-businesses-and-investors/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/2UIJXHXJIJDMZKFYSSYICP5GSI.jpg?auth=574777858377692951d633aa4c12f7096c821d990293e251b734bc80b6cafcfa&smart=true&width=1800&height=1200",
+      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-01-01T18:29:23.748218"
     },
     {
       "id": "d10505a8f158",
@@ -2436,7 +2652,7 @@
       "published": "Thu, 01 Jan 2026 11:00:00 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:40.629788"
+      "fetched_at": "2026-01-01T18:29:23.748241"
     },
     {
       "id": "bf406425727a",
@@ -2448,7 +2664,7 @@
       "published": "Thu, 01 Jan 2026 11:00:00 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:41.427288"
+      "fetched_at": "2026-01-01T18:29:24.644758"
     },
     {
       "id": "273c2f5a8d67",
@@ -2460,7 +2676,7 @@
       "published": "Thu, 01 Jan 2026 10:34:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295120"
+      "fetched_at": "2026-01-01T18:29:23.290912"
     },
     {
       "id": "68a2035c3501",
@@ -2472,7 +2688,7 @@
       "published": "Thu, 01 Jan 2026 10:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295140"
+      "fetched_at": "2026-01-01T18:29:23.290932"
     },
     {
       "id": "39339443da67",
@@ -2484,7 +2700,19 @@
       "published": "Thu, 01 Jan 2026 10:19:32 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170601"
+      "fetched_at": "2026-01-01T18:29:24.390261"
+    },
+    {
+      "id": "c603001be153",
+      "title": "US military says five killed in strike on alleged drug boats - BBC",
+      "description": "US military says five killed in strike on alleged drug boats&nbsp;&nbsp;BBCU.S. military says 8 killed in strikes on 5 more alleged drug boats — but survivors jumped overboard&nbsp;&nbsp;CBCCoast Guard Searches for Survivors After More Boat Strikes&nbsp;&nbsp;The New York TimesUS military strikes th",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GamYzODNCUXNwemx5TExBUkxHUmlCZklEaUhzMTZyY0hSX3lGQ3pWdzcyNXNrQkFaOTZmd0xxWHBhaUltWXJScUlHMVVSUE45SlE2MWtVcFp0UdIBX0FVX3lxTE4yNGFOX0QtMDBJVkg4R3BMVjRxR0NCY3VreTVVTVBsdTQwMFgtWUtWSlV3dnhBbGJ3eElraGZaai1IWG9PaDF4Sm12WkZMMERPSWY2aGJLbXI0SXd0TC1N?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 10:19:32 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-01-01T18:29:25.441775"
     },
     {
       "id": "6ed28f80fc65",
@@ -2496,19 +2724,7 @@
       "published": "Thu, 01 Jan 2026 10:13:42 GMT",
       "location": "Canada",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170623"
-    },
-    {
-      "id": "822cd8b02d16",
-      "title": "Murray ready to shoulder more with Jokic out",
-      "description": "Canadian Jamal Murray was back home for the first night of the next four weeks without his Denver Nuggets teammate, three-time NBA MVP Nikola Jokic, on Wednesday.",
-      "url": "https://globalnews.ca/news/11596153/murray-ready-to-shoulder-more-with-jokic-out/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/01/d73c2084df2545ffb516f47d204951b225c7cfefa34bedd7ae0ed8aeafc62201.jpg?quality=65&strip=all",
-      "published": "Thu, 01 Jan 2026 10:01:33 +0000",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-01-01T16:26:39.934881"
+      "fetched_at": "2026-01-01T18:29:24.390282"
     },
     {
       "id": "667bf2e7540b",
@@ -2520,7 +2736,7 @@
       "published": "Thu, 01 Jan 2026 10:00:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371700"
+      "fetched_at": "2026-01-01T18:29:25.237616"
     },
     {
       "id": "61ab3d5cab11",
@@ -2532,7 +2748,7 @@
       "published": "Thu, 01 Jan 2026 10:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295160"
+      "fetched_at": "2026-01-01T18:29:23.290951"
     },
     {
       "id": "1abd342a2b8d",
@@ -2544,43 +2760,7 @@
       "published": "Thu, 01 Jan 2026 09:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295182"
-    },
-    {
-      "id": "ca0f49f47e7d",
-      "title": "Canada says Iran’s designation of navy as ‘terrorist’ is baseless - ایران اینترنشنال",
-      "description": "Canada says Iran’s designation of navy as ‘terrorist’ is baseless&nbsp;&nbsp;ایران اینترنشنال",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wYmxtdFpYR2FySUt0a3pUVENhM19VNENUVE9pbVByMXQ0WTlYS0Y3UjB2RVNrR1VsenBjbjFFeWVJUHhjSVdWN0NsRkl4WU02U1E?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 09:28:45 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371964"
-    },
-    {
-      "id": "0500570c552f",
-      "title": "BBC reports from the scene of Swiss resort bar fire",
-      "description": "Dozens of people are believed to have died after a fire broke out during New Year's Eve celebrations.",
-      "url": "https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/988b/live/c2966ea0-e6f5-11f0-aae2-2191c0e48a3b.jpg",
-      "published": "Thu, 01 Jan 2026 09:24:11 GMT",
-      "location": "Vancouver",
-      "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170526"
-    },
-    {
-      "id": "13ed66628865",
-      "title": "Many Canadians feel hopeful about 2026 but sour on actual solutions: poll",
-      "description": "The Ipsos poll for Global News found Canadians are generally positive about their personal health and happiness after the past year, but less so about their financial situation.",
-      "url": "https://globalnews.ca/news/11587764/canada-ipsos-poll-2026-year-ahead/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/12/CP165588208.jpg?quality=65&strip=all",
-      "published": "Thu, 01 Jan 2026 09:00:41 +0000",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-01-01T16:26:39.934919"
+      "fetched_at": "2026-01-01T18:29:23.290973"
     },
     {
       "id": "16f79b86674c",
@@ -2592,55 +2772,19 @@
       "published": "Thu, 01 Jan 2026 09:00:24 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.864277"
-    },
-    {
-      "id": "977c62180c14",
-      "title": "Spy watchdog reviewing Canadian security agencies’ use of artificial intelligence",
-      "description": "OTTAWA — Canada&#8217;s spy watchdog is examining the use and governance of artificial intelligence in national security activities. The National Security and Intelligence Review Agency has informed key federal ministers and organizations of the study, which will look at how the security community d",
-      "url": "https://toronto.citynews.ca/2026/01/01/spy-watchdog-reviewing-canadian-security-agencies-use-of-artificial-intelligence/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 09:00:08 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923935"
+      "fetched_at": "2026-01-01T18:29:25.898669"
     },
     {
       "id": "9657acdfa581",
       "title": "Spy watchdog reviewing Canadian security agencies’ use of artificial intelligence",
-      "description": "OTTAWA — Canada&#8217;s spy watchdog is examining the use and governance of artificial intelligence in national security activities. The National Security and Intelligence Review Agency has informed key federal ministers and organizations of the study, which will look at how the security community d",
+      "description": "Canada&#8217;s spy watchdog is examining the use and governance of artificial intelligence in national security activities. The National Security and Intelligence Review Agency has informed key federal ministers and organizations of the study, which will look at how the security community defines, u",
       "url": "https://vancouver.citynews.ca/2026/01/01/spy-watchdog-reviewing-canadian-security-agencies-use-of-artificial-intelligence/",
       "source": "CityNews Vancouver",
       "image": "",
       "published": "Thu, 01 Jan 2026 09:00:08 +0000",
-      "location": "Ottawa",
+      "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.496219"
-    },
-    {
-      "id": "228f471c471e",
-      "title": "Spy watchdog reviewing Canadian security agencies’ use of artificial intelligence",
-      "description": "OTTAWA — Canada&#8217;s spy watchdog is examining the use and governance of artificial intelligence in national security activities. The National Security and Intelligence Review Agency has informed key federal ministers and organizations of the study, which will look at how the security community d",
-      "url": "https://montreal.citynews.ca/2026/01/01/spy-watchdog-reviewing-canadian-security-agencies-use-of-artificial-intelligence/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 09:00:08 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.506414"
-    },
-    {
-      "id": "15ff5a851e4a",
-      "title": "Spy watchdog reviewing Canadian security agencies’ use of artificial intelligence",
-      "description": "OTTAWA — Canada&#8217;s spy watchdog is examining the use and governance of artificial intelligence in national security activities. The National Security and Intelligence Review Agency has informed key federal ministers and organizations of the study, which will look at how the security community d",
-      "url": "https://edmonton.citynews.ca/2026/01/01/spy-watchdog-reviewing-canadian-security-agencies-use-of-artificial-intelligence/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 09:00:08 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.729520"
+      "fetched_at": "2026-01-01T18:29:25.407868"
     },
     {
       "id": "948236c80cf2",
@@ -2652,7 +2796,19 @@
       "published": "Thu, 01 Jan 2026 09:00:08 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746662"
+      "fetched_at": "2026-01-01T18:29:25.685786"
+    },
+    {
+      "id": "15ff5a851e4a",
+      "title": "Spy watchdog reviewing Canadian security agencies’ use of artificial intelligence",
+      "description": "OTTAWA — Canada&#8217;s spy watchdog is examining the use and governance of artificial intelligence in national security activities. The National Security and Intelligence Review Agency has informed key federal ministers and organizations of the study, which will look at how the security community d",
+      "url": "https://edmonton.citynews.ca/2026/01/01/spy-watchdog-reviewing-canadian-security-agencies-use-of-artificial-intelligence/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 09:00:08 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.789593"
     },
     {
       "id": "3ef9d36f3c99",
@@ -2664,31 +2820,31 @@
       "published": "Thu, 01 Jan 2026 09:00:08 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280192"
+      "fetched_at": "2026-01-01T18:29:26.235076"
     },
     {
       "id": "df5a1ba98876",
       "title": "New rules and regulations are coming for Toronto in 2026 - CBC",
-      "description": "New rules and regulations are coming for Toronto in 2026&nbsp;&nbsp;CBCHere are the new laws and rules for Ontario starting in the new year&nbsp;&nbsp;Global NewsRegulations and Statutes in Force as of January 1, 2026&nbsp;&nbsp;ontario.caHere are the new Ontario laws coming into effect in 2026&nbsp",
+      "description": "New rules and regulations are coming for Toronto in 2026&nbsp;&nbsp;CBCHere are the new laws and rules for Ontario starting in the new year&nbsp;&nbsp;Global NewsRegulations and Statutes in Force as of January 1, 2026&nbsp;&nbsp;ontario.caThese are the new Ontario laws coming into effect in 2026&nbs",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnUzZGs0QnVMMm9NQTgtR1MzVEhtUjA3Q295d2pJdWJJU25qa1A3YmVWbjRyQVBDM2hrNGNhV1lwdUljNzV4eXVrcmZkcDdfZ3JFTXprME05TmpNeHVDZkdRSWo2aEVyNE51UkNwTzJBTnlCWC15NC13RzBNcjVoaWVTa1U?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Thu, 01 Jan 2026 09:00:00 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-01-01T16:26:42.215847"
+      "fetched_at": "2026-01-01T18:29:24.912514"
     },
     {
-      "id": "3a9f8c354293",
-      "title": "Canada's grocery code of conduct kicks in today, with buy-in from 5 major grocers - CBC",
-      "description": "Canada's grocery code of conduct kicks in today, with buy-in from 5 major grocers&nbsp;&nbsp;CBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcDZLWUJsYVJFeS1CTFYzSFFGdEFLdkVYeGRqcnF2amFnSjNSS2YwRFFqeWpPQlZTMTRuQlhEUUhXX0loR25aYU4zSDJQaTVKRVZhNDBqaThkenZpZHlXRkx4Qmx4d19oM202VWpBcnZVRklLR25icE1OZDZ4cGEyOHJFWWtkUQ?oc=5",
+      "id": "dccc331feeb0",
+      "title": "Passes, permits and fees - Parks Canada",
+      "description": "Passes, permits and fees&nbsp;&nbsp;Parks Canada",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XRjJ6TmJFcGNDcTlFdER3am1sVDFPMzNMQmh0YU85dG5hSU5rZm9zQXY0cFlYVFRzZ0pvNE9sZkJrWUNfbkk5ZWg0QmVPdmc1cTAtSWlpNURZVHc?oc=5",
       "source": "Google News Canada",
       "image": "",
-      "published": "Thu, 01 Jan 2026 09:00:00 GMT",
-      "location": "Vancouver",
+      "published": "Thu, 01 Jan 2026 08:28:01 GMT",
+      "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371833"
+      "fetched_at": "2026-01-01T18:29:25.237484"
     },
     {
       "id": "2db765b538fb",
@@ -2700,7 +2856,19 @@
       "published": "Thu, 01 Jan 2026 08:12:00 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170644"
+      "fetched_at": "2026-01-01T18:29:24.390303"
+    },
+    {
+      "id": "a60f765f6f55",
+      "title": "Three from N.L. appointed to Order of Canada - CBC",
+      "description": "Three from N.L. appointed to Order of Canada&nbsp;&nbsp;CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NeHBZZDBGejN1N1ExZkpUNHhFdXI5R1k5VDBPTmNxVzgwSE9NOWZYbVEzeUt5Z3oybnlnUVZvaG9scjRUWU94Wm5Famc2SWpMMU13a1hLVjdhQQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 07:40:59 GMT",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2026-01-01T18:29:25.237688"
     },
     {
       "id": "5bf453771fa5",
@@ -2712,55 +2880,31 @@
       "published": "Thu, 01 Jan 2026 07:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295201"
+      "fetched_at": "2026-01-01T18:29:23.290992"
     },
     {
-      "id": "d73a3d878b30",
-      "title": "Fire at Swiss Alpine resort bar during New Year’s celebration leaves dozens feared dead, 100 injured",
-      "description": "CRANS-MONTANA, Switzerland (AP) — A fire ripped through a bar’s New Year celebration in a Swiss Alpine resort less than two hours after midnight Thursday, with dozens of people feared dead and about 100 more injured, most seriously, police said. The Crans-Montana resort is best known as an internati",
-      "url": "https://toronto.citynews.ca/2026/01/01/dozens-presumed-dead-and-about-100-injured-in-fire-at-swiss-alps-bar-during-new-years-celebration/",
-      "source": "CityNews Toronto",
+      "id": "17464f7f2719",
+      "title": "Photos: Zohran Mamdani becomes New York City’s first Muslim mayor - Al Jazeera",
+      "description": "Photos: Zohran Mamdani becomes New York City’s first Muslim mayor&nbsp;&nbsp;Al JazeeraZohran Mamdani sworn in as New York City mayor at historic subway station&nbsp;&nbsp;CBCA DJ, a Poet and Politicians Make Up Mamdani’s Inaugural Lineup&nbsp;&nbsp;The New York Times‘People Are Taking the Wrong Les",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFNHWko4LXdOX2hXV0NQVjVFSjBYeF96dnMzZHp4czg3TlVGbmJsSllDektFLTJTMDZqS0tJUDBiQ1ExMU5IS3dnaWxDcTE1V1BRdlFaM1BYVjRnVnpkdDRhUktfOUZ2WUFBSjZURk5yb0RIU05mLUpNakdGWTE5d1YyeWVPQl9Qc0VHUEZjeWw4R1I4RDk3UVJKY0l1dDN0cjVUNHMyRHR1d9IBrwFBVV95cUxPV2NYU21PT08zTENVcHFwdVlCdWRKX05tUzhGMWF4WVlCYVl1bU1FZG1Cekw2QWJqb2NRRVpvcDZFSlRUakIxQUdydlAyZTRKaEk2YUZLUjF1M3RFakN1anZidDhrc25FWWoxQmFPUnVhRGM2TUMxNHg0NlNHTkVVS3k1VGxrakZiRVM5OGJFTmg2VDFQSGlYVVdsbHM0cVEwNzdtbXZ6dXZucGNPZVlV?oc=5",
+      "source": "Google News Tech",
       "image": "",
-      "published": "Thu, 01 Jan 2026 06:49:57 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:41.923984"
+      "published": "Thu, 01 Jan 2026 06:56:42 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-01-01T18:29:25.441408"
     },
     {
-      "id": "9e1273489b95",
+      "id": "ced627e6e726",
       "title": "Dozens presumed dead and about 100 injured in fire at Swiss Alps bar during New Year’s celebration",
-      "description": "CRANS-MONTANA, Switzerland (AP) — Dozens of people are presumed dead and about 100 injured, most of them seriously, following a fire at a bar in a Swiss Alps resort town during a New Year’s celebration, police said Thursday. “Several tens of people” were killed at the bar, Le Constellation, Valais C",
-      "url": "https://vancouver.citynews.ca/2025/12/31/dozens-presumed-dead-and-about-100-injured-in-fire-at-swiss-alps-bar-during-new-years-celebration/",
+      "description": "Dozens of people are presumed dead and about 100 injured, most of them seriously, following a fire at a bar in a Swiss Alps resort town during a New Year’s celebration, police said Thursday.",
+      "url": "https://vancouver.citynews.ca/2025/12/31/dozens-presumed-dead-100-injured-fire-swiss-alps-bar-during-new-years-celebration/",
       "source": "CityNews Vancouver",
       "image": "",
       "published": "Thu, 01 Jan 2026 06:49:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.496291"
-    },
-    {
-      "id": "9d4a423cfaee",
-      "title": "Dozens presumed dead and about 100 injured in fire at Swiss Alps bar during New Year’s celebration",
-      "description": "CRANS-MONTANA, Switzerland (AP) — Dozens of people are presumed dead and about 100 injured, most of them seriously, following a fire at a bar in a Swiss Alps resort town during a New Year’s celebration, police said Thursday. “Several tens of people” were killed at the bar, Le Constellation, Valais C",
-      "url": "https://montreal.citynews.ca/2026/01/01/dozens-presumed-dead-and-about-100-injured-in-fire-at-swiss-alps-bar-during-new-years-celebration/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 06:49:57 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.506469"
-    },
-    {
-      "id": "dd3e7220202f",
-      "title": "Dozens presumed dead and about 100 injured in fire at Swiss Alps bar during New Year’s celebration",
-      "description": "CRANS-MONTANA, Switzerland (AP) — Dozens of people are presumed dead and about 100 injured, most of them seriously, following a fire at a bar in a Swiss Alps resort town during a New Year’s celebration, police said Thursday. “Several tens of people” were killed at the bar, Le Constellation, Valais C",
-      "url": "https://edmonton.citynews.ca/2025/12/31/dozens-presumed-dead-and-about-100-injured-in-fire-at-swiss-alps-bar-during-new-years-celebration/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 06:49:57 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.729580"
+      "fetched_at": "2026-01-01T18:29:25.407907"
     },
     {
       "id": "d2d5e281ed52",
@@ -2772,7 +2916,19 @@
       "published": "Thu, 01 Jan 2026 06:49:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.746713"
+      "fetched_at": "2026-01-01T18:29:25.685834"
+    },
+    {
+      "id": "dd3e7220202f",
+      "title": "Dozens presumed dead and about 100 injured in fire at Swiss Alps bar during New Year’s celebration",
+      "description": "CRANS-MONTANA, Switzerland (AP) — Dozens of people are presumed dead and about 100 injured, most of them seriously, following a fire at a bar in a Swiss Alps resort town during a New Year’s celebration, police said Thursday. “Several tens of people” were killed at the bar, Le Constellation, Valais C",
+      "url": "https://edmonton.citynews.ca/2025/12/31/dozens-presumed-dead-and-about-100-injured-in-fire-at-swiss-alps-bar-during-new-years-celebration/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 06:49:57 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-01-01T18:29:25.789647"
     },
     {
       "id": "11d452d68adc",
@@ -2784,19 +2940,7 @@
       "published": "Thu, 01 Jan 2026 06:49:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.280261"
-    },
-    {
-      "id": "f74dddb7930c",
-      "title": "Raptors' latest comeback bid falls short against Jokic-less Nuggets - Sportsnet.ca",
-      "description": "Raptors' latest comeback bid falls short against Jokic-less Nuggets&nbsp;&nbsp;Sportsnet.caIngram’s would-be game-tying three at buzzer overturned as Raptors fall to Nuggets&nbsp;&nbsp;CP24Watson scores 24 points as Nuggets hold off Raptors to win without Jokic&nbsp;&nbsp;TSNRaptors Film Room: Brand",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0hsQ3NnUjZWbkcySVJnaGxBOWdQRkFIUUw4bm45cUItYlE4d05odUk3WjVNVDF5M0dpRjE0bWJlaWVxVzhUdjNuZzVwRV9odUN1cDRSRFFIT3dnakVxelQ3dWNQLUdHY0NTQmQ1VHdFbGh2dnZwekoxR1hnbF8xLUNLWm5xYXNpNXJEMHBsNEQxVHJIMk00U2UtZElYT1hueHZHbFlyTQ?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 06:37:00 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2026-01-01T16:26:42.325528"
+      "fetched_at": "2026-01-01T18:29:26.235126"
     },
     {
       "id": "8a4b7aa5bc72",
@@ -2808,19 +2952,7 @@
       "published": "Thu, 01 Jan 2026 06:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.295223"
-    },
-    {
-      "id": "6b7ebbf7382e",
-      "title": "WJC Takeaways: Canada flexes offensive muscle in goal-fest vs. Finland - Sportsnet.ca",
-      "description": "WJC Takeaways: Canada flexes offensive muscle in goal-fest vs. Finland&nbsp;&nbsp;Sportsnet.ca",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc29VZUZUM3lmQmdTZ0FhblZtMlB1MVV4RDdiMHp3d2pxNGl5UjhBa1FYaFpITnY2d3pvcTVLSmdIQ3hvcHM5VEczaGV0OHNJSzVRRkpmNkhfRmMtY2JFREZpV0wyUjBOSUFzX0lUVi1ueG9waDBYR2dNQ2lybEhtckZ5VnZmZDVsdnJ2VnRoVzg5OU9hYjI2ZnloUU9RSEpyR2JSQlZEb2hHekVCd1JzaTFINFJ5ZHM?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 06:19:00 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371895"
+      "fetched_at": "2026-01-01T18:29:23.291043"
     },
     {
       "id": "912c2df1c639",
@@ -2832,19 +2964,7 @@
       "published": "Thu, 01 Jan 2026 06:01:14 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371660"
-    },
-    {
-      "id": "e3af8c9d50a7",
-      "title": "Connor Ingram struggles, Edmonton Oilers fizzle in blowout loss to Bruins - Edmonton Journal",
-      "description": "Connor Ingram struggles, Edmonton Oilers fizzle in blowout loss to Bruins&nbsp;&nbsp;Edmonton JournalBruins cruise past Oilers, end 6-game losing streak&nbsp;&nbsp;NHL.comDavid Pastrnak Believes Bruins Have ‘Special Group’ After Blowout Win&nbsp;&nbsp;Yahoo Sports CanadaMarco Sturm ‘Proud’ Of Bruins",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLWNROTRKZlU2c0hTaWNUZDJZZzhvWkt2RXV4Mk1OV3R5bmdrTW5ka1M5YWhjd0VHVno0NWQwMlJrWVZ0UjJqQko2bnZaOC1SYmgzaWNwczBGSHozV0xnb29VbXJHMzM0Ym1qNDJrNWMyeE1vSGZlMlVDLXZDMWlfVzRFamFsUnlRdnV5aWRfNGdFZw?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 05:55:24 GMT",
-      "location": "Edmonton",
-      "category": "sports",
-      "fetched_at": "2026-01-01T16:26:42.325457"
+      "fetched_at": "2026-01-01T18:29:25.237551"
     },
     {
       "id": "93cf523c0670",
@@ -2856,19 +2976,19 @@
       "published": "Thu, 01 Jan 2026 05:51:55 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029036"
+      "fetched_at": "2026-01-01T18:29:26.381649"
     },
     {
-      "id": "32e5b342be18",
-      "title": "Pastrnak, Bruins cruise past Oilers 6-2",
-      "description": "David Pastrnak had two goals and an assist as the Boston Bruins closed out the 2025 calendar year with a much-needed 6-2 victory over the Edmonton Oilers on Wednesday.",
-      "url": "https://globalnews.ca/news/11596099/pastrnak-bruins-cruise-past-oilers-6-2/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/01/6af3a22d453388de895a9552603d7f70eb6440ed40c61c4446778db1d2aff451.jpg?quality=65&strip=all",
-      "published": "Thu, 01 Jan 2026 05:27:15 +0000",
+      "id": "98eab0f182e3",
+      "title": "Boston Bruins vs. Edmonton Oilers - NHL Game Recap - December 31, 2025 - CBS Sports",
+      "description": "Boston Bruins vs. Edmonton Oilers - NHL Game Recap - December 31, 2025&nbsp;&nbsp;CBS SportsWith skid in the rearview mirror, Bruins aim to build off impressive win over Oilers&nbsp;&nbsp;TSNPastrnak’s three-point effort leads Bruins to 6-2 victory over Oilers&nbsp;&nbsp;CTV NewsGAME RECAP: Bruins 6",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UQVBXVDN1OE9yeDJvZXRlWGJuczV6T0NIaWxENjBiQmhranFqOTFyc0J4NEdyVHZhdzljTF92ZllxOEZrMGo5bXBnOHZXWC1ndm9fYkh2R3MtQ2ZnZ1R4WTJxMzk2NXpSczIySWxuSk1fYTVPOTJkQg?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Thu, 01 Jan 2026 05:28:33 GMT",
       "location": "Edmonton",
-      "category": "canada",
-      "fetched_at": "2026-01-01T16:26:39.934953"
+      "category": "sports",
+      "fetched_at": "2026-01-01T18:29:25.488854"
     },
     {
       "id": "12df62f75559",
@@ -2880,182 +3000,62 @@
       "published": "Thu, 01 Jan 2026 05:22:01 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-01T16:26:41.170579"
-    },
-    {
-      "id": "e3055c96ac0e",
-      "title": "Player grades: Oilers with iffy goalie and get goalied in loss to Boston",
-      "description": "It was bound to happen. After weeks of great goaltending, an Oilers goalie didn&#8217;t have his best night, with newcomer Connor Ingram struggling in a 6-2 loss to the Bruins of Boston. At the other end, Boston goalie Jeremy Swayman was outstanding, thwarting Connor McDavid on an armada of Grade A ",
-      "url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/edmonton-oilers-boston-bruins-connor-ingram",
-      "source": "Edmonton Journal",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 05:14:37 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:43.029078"
-    },
-    {
-      "id": "5d781a4df81f",
-      "title": "Did you see the hot dog stuck in the rafters at the Sens game? It's my fault",
-      "description": "Ottawa Citizen reporter Natasha Baldin was invited to the Canadian Tire Centre to drop hot dogs from parachutes during a Senators game.",
-      "url": "https://ottawacitizen.com/news/sens-hot-dogs-from-heaven",
-      "source": "Ottawa Citizen",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 05:01:25 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.864307"
-    },
-    {
-      "id": "0f16dc07f450",
-      "title": "Quarter-finals set - IIHF",
-      "description": "Quarter-finals set&nbsp;&nbsp;IIHFOn Tap: Day 8 of 2026 World Junior Championship&nbsp;&nbsp;NHL.comQuarterfinals set at 2026 world juniors&nbsp;&nbsp;Sportsnet.ca2026 World Juniors: Top standouts from Dec. 31&nbsp;&nbsp;Daily Faceoff2026 IIHF World Juniors Notebook: Day 6&nbsp;&nbsp;NHL.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sZUk3WHE4eG5OMUlMMUJ4TWd5anplc0gxVm1GMlRNVm44QngwWWZEdG1lcEJhZ1dBMm1FaEJzcTNFZlJvdnc5VUprQmxxTS14Wk1heWxmS0ppRnh2TXhTQmlsS2tyUFRVQVF6QXphNko1WGpwR0Jkc3h3?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 04:43:11 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2026-01-01T16:26:42.325580"
-    },
-    {
-      "id": "0a8352b14dd1",
-      "title": "VPD asks for public’s help in locating sex-offender wanted Canada-wide",
-      "description": "The Vancouver Police Department (VPD) says it is searching for a convicted sex offender who left his halfway house in Vancouver on Wednesday.",
-      "url": "https://vancouver.citynews.ca/2025/12/31/vpd-ask-publics-help-locating-sex-offender-wanted-canada-wide/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 03:33:10 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2026-01-01T16:26:42.496320"
-    },
-    {
-      "id": "03a5f82a4974",
-      "title": "U.S. military says 8 killed in strikes on 5 more alleged drug boats — but survivors jumped overboard - CBC",
-      "description": "U.S. military says 8 killed in strikes on 5 more alleged drug boats — but survivors jumped overboard&nbsp;&nbsp;CBCUS military says five killed in latest strike on alleged drug boats&nbsp;&nbsp;BBCCoast Guard Searches for Survivors After More Boat Strikes&nbsp;&nbsp;The New York TimesUS strikes 3 al",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5INkYxZEV0Q1NyLWFqM0U2cWc0WE5lRnd5MmJFOVU2X3FMMjNfdEpCOGVnb3QtZW1rR1EwRUdxUm9hMnhLeHlVX09CaEVielNmRFdDNHFpbGlOcVRKTE1zMjJtaC01a3k5eS1UNVJJNUxua1Va?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 03:28:00 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-01-01T16:26:42.075213"
-    },
-    {
-      "id": "66567d46e511",
-      "title": "Raptors fall just short in 106-103 loss to Nuggets",
-      "description": "Peyton Watson scored a team-high 24 points for the Denver Nuggets, and Brandon Ingram countered with a game-high 30 as the Nikola Jokic-less Nuggets handed the Toronto Raptors a 106-103 loss on Wednesday.",
-      "url": "https://globalnews.ca/news/11596049/raptors-fall-just-short-in-106-103-loss-to-nuggets/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/12/79b35cbd77a28e6b982ece3f95853f7cf36ce41befb2d95e47833aade4451faf.jpg?quality=65&strip=all",
-      "published": "Thu, 01 Jan 2026 03:27:36 +0000",
-      "location": "Toronto",
-      "category": "canada",
-      "fetched_at": "2026-01-01T16:26:39.934978"
-    },
-    {
-      "id": "cc0da353b305",
-      "title": "Canada leads Finland after two periods in Group B-deciding clash at World Juniors - TSN",
-      "description": "Canada leads Finland after two periods in Group B-deciding clash at World Juniors&nbsp;&nbsp;TSN",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlAzbzh3dHBtWGpaaUZjWWFmRllMUldYQmo4eFRtd0x3ZVI2cFpLdDdNQWZLeUVQLWVrZnJkS2ZoS3d6YkM5MzctUWpjMkhONFRNWkdwS3RQQXpyeGRjREd3c013cHZNaW00S1kxeV82YzdNQzNXazNnR2JGeU1CWXUyY1l0eERaXzVMU2dZMlZuOENDMXplbzdRS1BPbmlTcGdwLXJvWjlMRno1R1RIdTAtMXVrNVZYcFZyOGNkX3Q?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 03:21:00 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-01-01T16:26:42.371864"
-    },
-    {
-      "id": "3ccadf587d16",
-      "title": "Unification with Taiwan ‘is unstoppable,’ China’s Xi says in upbeat New Year’s speech",
-      "description": "Xi’s message to Taiwan came after the People’s Liberation Army’s concluded its most expansive drills around the island democracy in decades",
-      "url": "https://nationalpost.com/news/canada/china-taiwan-unification-unstoppable-xi-jinping-says",
-      "source": "National Post",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 03:00:37 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2026-01-01T16:26:41.461564"
-    },
-    {
-      "id": "19efea12c547",
-      "title": "‘College dropout’ has become the most coveted startup founder credential",
-      "description": "AI founders are increasingly using their \"dropout\" status as a credential during YC pitches.",
-      "url": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 02:44:02 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-01-01T16:26:40.192792"
-    },
-    {
-      "id": "3030e848141a",
-      "title": "Celebrini in, Bedard misses cut as 4 B.C.-born NHL players make Team Canada - CTV News",
-      "description": "Celebrini in, Bedard misses cut as 4 B.C.-born NHL players make Team Canada&nbsp;&nbsp;CTV NewsTeam Canada’s 2026 roster: Biggest surprises, toughest decisions&nbsp;&nbsp;Sportsnet.ca‘It has to raise an alarm’: No Quebec players on Canada hockey roster for first time since 1952&nbsp;&nbsp;CTV NewsTa",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWm4yX3JaSzR5TDVCU21OUV9tLXJLMU1sMllZYzc2UDBicWxCdVpXdHRpU1lTR2M3OHdrX1BWMHpiQ0dmY0l4dkZjMlNKQnlWR0lqemswTGZQbHZUX1lPNXlpY2twWmcwcUpKTnZqS0huWkJOamJSNkhGVUM1MGJSRm9VOHpBQ0huWURMZ1lMQXRqYXNob3NaYllDUW1SdDgyWFBXNHJUS3piNWtwNnVwX3RCZVU?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Thu, 01 Jan 2026 02:25:00 GMT",
-      "location": "Vancouver",
-      "category": "sports",
-      "fetched_at": "2026-01-01T16:26:42.325325"
+      "fetched_at": "2026-01-01T18:29:24.390240"
     }
   ],
   "sources": [
-    "National Post Politics",
-    "CityNews Montreal",
-    "Vancouver Sun",
-    "CityNews Ottawa",
-    "Google News Sports",
-    "BetaKit",
-    "BBC World",
     "The Guardian",
-    "Al Jazeera",
-    "Google News Tech",
-    "Global Politics",
     "TechCrunch",
-    "Google News Canada",
-    "Edmonton Journal",
     "Financial Post",
-    "CityNews Vancouver",
-    "Globe Business",
-    "Montreal Gazette",
     "National Post",
-    "Calgary Sun",
-    "Science Daily",
-    "APTN News",
-    "Google News Business",
-    "CityNews Edmonton",
-    "CityNews Toronto",
-    "CNN World",
-    "Global News",
     "Ottawa Citizen",
+    "Global Politics",
+    "Global News",
+    "CityNews Edmonton",
+    "Google News Canada",
+    "Montreal Gazette",
+    "Google News Business",
+    "Science Daily",
+    "Edmonton Journal",
+    "Google News Sports",
+    "CityNews Montreal",
+    "CityNews Toronto",
     "Wired",
-    "CityNews Calgary"
+    "Google News Tech",
+    "BBC World",
+    "CityNews Ottawa",
+    "Globe Business",
+    "Calgary Sun",
+    "CNN World",
+    "Al Jazeera",
+    "CityNews Calgary",
+    "BetaKit",
+    "Vancouver Sun",
+    "CityNews Vancouver",
+    "APTN News",
+    "National Post Politics"
   ],
   "stats": {
     "by_location": {
-      "World": 117,
-      "Edmonton": 20,
-      "Vancouver": 22,
-      "Ottawa": 16,
-      "Montreal": 16,
+      "World": 116,
+      "Edmonton": 18,
+      "Vancouver": 24,
+      "Ottawa": 14,
+      "Montreal": 18,
       "Calgary": 6,
-      "Canada": 41,
-      "Toronto": 12
+      "Canada": 44,
+      "Toronto": 10
     },
     "by_category": {
-      "politics": 13,
-      "local": 101,
-      "world": 29,
-      "technology": 35,
+      "politics": 12,
+      "local": 99,
+      "world": 28,
+      "technology": 34,
       "science": 3,
-      "sports": 8,
-      "business": 29,
+      "business": 30,
+      "sports": 9,
       "indigenous": 6,
-      "canada": 26
+      "canada": 29
     },
     "source_count": 30
   }
