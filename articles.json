@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06T06:46:10.729641",
+  "last_updated": "2026-01-06T08:42:22.478011",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 31 Dec 2025 19:14:42 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-06T06:34:10.647478"
+      "fetched_at": "2026-01-06T08:30:20.835500"
     },
     {
       "id": "233496bdc56a",
@@ -24,7 +24,7 @@
       "published": "Wed, 31 Dec 2025 12:00:51 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.694453"
+      "fetched_at": "2026-01-06T08:30:25.029783"
     },
     {
       "id": "b38775606faa",
@@ -36,7 +36,7 @@
       "published": "Wed, 31 Dec 2025 12:00:00 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.694487"
+      "fetched_at": "2026-01-06T08:30:25.029820"
     },
     {
       "id": "27f3d87d6b1b",
@@ -48,7 +48,7 @@
       "published": "Wed, 31 Dec 2025 09:00:34 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-06T06:34:10.647498"
+      "fetched_at": "2026-01-06T08:30:20.835532"
     },
     {
       "id": "3d27921a9aa1",
@@ -60,7 +60,7 @@
       "published": "Wed, 31 Dec 2025 07:54:43 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.194690"
+      "fetched_at": "2026-01-06T08:30:22.288320"
     },
     {
       "id": "b302cfc1f761",
@@ -72,7 +72,7 @@
       "published": "Wed, 24 Dec 2025 18:47:59 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-06T06:34:10.800573"
+      "fetched_at": "2026-01-06T08:30:20.780944"
     },
     {
       "id": "8b17a650eb12",
@@ -84,7 +84,7 @@
       "published": "Wed, 24 Dec 2025 18:44:47 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2026-01-06T06:34:10.800610"
+      "fetched_at": "2026-01-06T08:30:20.780982"
     },
     {
       "id": "d5ebb11e2c7a",
@@ -96,7 +96,7 @@
       "published": "Tue, 30 Dec 2025 17:19:44 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.194735"
+      "fetched_at": "2026-01-06T08:30:22.288365"
     },
     {
       "id": "9d1fe5a2a615",
@@ -108,7 +108,7 @@
       "published": "Tue, 30 Dec 2025 12:00:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.694520"
+      "fetched_at": "2026-01-06T08:30:25.029854"
     },
     {
       "id": "795d12206e0c",
@@ -120,7 +120,7 @@
       "published": "Tue, 30 Dec 2025 02:05:36 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-01-06T06:34:10.647523"
+      "fetched_at": "2026-01-06T08:30:20.835570"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -132,7 +132,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.132032"
+      "fetched_at": "2026-01-06T08:30:22.037643"
     },
     {
       "id": "05ea19344a14",
@@ -144,7 +144,259 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.132094"
+      "fetched_at": "2026-01-06T08:30:22.037696"
+    },
+    {
+      "id": "9e4ae210c751",
+      "title": "French Inflation Decelerates to Seven-Month Low on Energy",
+      "description": "French inflation slowed slightly in December as energy costs fell, indicating little change in the backdrop that has allowed the European Central Bank to keep interest rates on hold.",
+      "url": "https://financialpost.com/pmn/business-pmn/french-inflation-decelerates-to-seven-month-low-on-energy",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 08:04:20 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-01-06T08:30:21.052737"
+    },
+    {
+      "id": "ec09125cfda8",
+      "title": "Deadly floods devastate Indonesia, leaving families displaced and homeless",
+      "description": "More than 1,170 lives have been lost as floods hit North Sumatra, West Sumatra, and Aceh, leaving communities in crisis.",
+      "url": "https://www.aljazeera.com/gallery/2026/1/6/deadly-floods-devastate-indonesia-leaving-families-displaced-and-homeless?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 08:02:58 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.911778"
+    },
+    {
+      "id": "92131d71da95",
+      "title": "Durant’s 3-pointer in final seconds gives Rockets 100-97 win over the Suns",
+      "description": "In other games, OKC are handed second straight loss as Clippers edged Warriors despite Steph Curry&#039;s 27 points.",
+      "url": "https://www.aljazeera.com/sports/2026/1/6/durants-3-pointer-in-final-seconds-gives-rockets-100-97-win-over-the-suns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 08:01:35 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.911817"
+    },
+    {
+      "id": "e2137ec569d8",
+      "title": "CES Live Blog, Day 2: More of the Coolest Tech From Las Vegas",
+      "description": "Read our live updates from CES 2026 to see the latest consumer gadgetry in all of its chatbot-enabled, sensor-packed, AI-infused glory.",
+      "url": "https://www.wired.com/live/ces-2026-live-blog/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 08:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-01-06T08:30:20.965712"
+    },
+    {
+      "id": "1d8a664f4430",
+      "title": "US abduction of Maduro has “serious implications”",
+      "description": "&quot;You could probably use that same indictment against any prime minister or president in the world.&quot;",
+      "url": "https://www.aljazeera.com/video/quotable/2026/1/6/us-abduction-of-maduro-has-serious-implications?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:59:55 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.911848"
+    },
+    {
+      "id": "d65449b2d2a0",
+      "title": "Netflix pulls Chinese drama after Vietnam's outcry over disputed map",
+      "description": "An episode in the drama Shine on Me features a map depicting contested claims in the South China Sea.",
+      "url": "https://www.bbc.com/news/articles/c301n41518do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a49d/live/146d3d20-eabc-11f0-88a7-3d5589c04f8e.png",
+      "published": "Tue, 06 Jan 2026 07:56:07 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.736531"
+    },
+    {
+      "id": "ef47f98715c9",
+      "title": "Deposed Maduro pleads not guilty after capture in shock US attack on Venezuela",
+      "description": "President protests innocence in US court as countries at UN meeting condemn Donald Trump’s ‘crime of aggression’Venezuela crisis – latest updatesThe deposed Venezuelan president Nicolás Maduro pleaded not guilty to drugs, weapons and narco-terrorism charges on Monday, two days after his capture by U",
+      "url": "https://www.theguardian.com/us-news/2026/jan/05/maduro-pleads-not-guilty",
+      "source": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/75f1135fd2a0a9113522ddd92aeddd4d1837417b/93_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=2ec9c99a7fc0ac74f7c433c8d35524d4",
+      "published": "Tue, 06 Jan 2026 07:54:34 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:22.288417"
+    },
+    {
+      "id": "91b6f2d56c3a",
+      "title": "US politicians react after briefing on Venezuela",
+      "description": "Top US politicians react to briefing on operation to seize Venezuela’s President Nicolas Maduro.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/us-politicians-react-after-briefing-on-venezuela?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:54:24 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.911878"
+    },
+    {
+      "id": "cb05df6cf9ac",
+      "title": "Opposition leader Machado says she hasn’t spoken to Trump since attack as she vows to return to Venezuela – live",
+      "description": "María Corina Machado tells Fox News she would share her Nobel peace prize with US president after removal of Nicolás MaduroDeposed Maduro pleads not guilty after capture in shock US attack on VenezuelaUS foes and allies denounce Trump’s ‘crime of aggression’ in Venezuela at UN meetingMy colleague Si",
+      "url": "https://www.theguardian.com/world/live/2026/jan/06/venezuela-live-updates-maduro-trump-us-attack-opposition-machado-return",
+      "source": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/ba50311733ac805e244a264a7b8ebc5eaeb29789/1050_420_4392_3514/master/4392.jpg?width=140&quality=85&auto=format&fit=max&s=a47d38b32c48785d1fe65c48dd0a7b84",
+      "published": "Tue, 06 Jan 2026 07:54:03 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:22.288485"
+    },
+    {
+      "id": "89e21465587b",
+      "title": "Gunfire in Venezuela’s capital as ‘unauthorised’ drones reported",
+      "description": "Video shows projectiles fired into the air over Caracas where officials said unauthorised drones were seen over the city",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/gunfire-in-venezuelas-capital-as-unauthorised-drones-reported?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:50:06 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.911907"
+    },
+    {
+      "id": "bda79b6d9d4e",
+      "title": "Thai army says Cambodia claims new border strike was accident amid truce",
+      "description": "Thai military says Cambodia is blaming &quot;operational error&quot; as solider wounded in mortar strike in disputed border area.",
+      "url": "https://www.aljazeera.com/news/2026/1/6/thai-army-says-cambodia-claims-new-border-strike-was-accident-amid-truce?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:45:13 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.911934"
+    },
+    {
+      "id": "824734914f76",
+      "title": "Which countries could be in Trump's sights next? - BBC",
+      "description": "Which countries could be in Trump's sights next?&nbsp;&nbsp;BBCColombian president says ‘I will take up arms again’ if US invades&nbsp;&nbsp;The GuardianColombia’s Petro promises to defend homeland amid Trump threats&nbsp;&nbsp;Al JazeeraWhat will follow Trump's Venezuela attack? - Transcript&nbsp;&",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZDA5WV9ZdlJ5VkNTNnFqNlpEaFRZZTlLT2tCM1BBbWdCQ0hRTDIxcjZZWXZ2MlRXNUU5U2FqVzRRTnhHUkY5T3czbGs0ZUNybFZqSHNMcWVJQdIBX0FVX3lxTE9LSHJKMVRlUzk1QXlaYXRkTXM2US1sYTZlZlJEYkxjb3ZrUFZWS0E1SGJrZWdreGxyZXRQdUFvTVhyN294TlVVUlpjalQ3Q3dIcnlPUWtKM2JPZ3BodWZn?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:33:15 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-01-06T08:30:22.723953"
+    },
+    {
+      "id": "c0782b88d62a",
+      "title": "Gaza children risk snipers to attend tent schools",
+      "description": "Gaza students brave snipers in &#039;yellow zone&#039; tent schools as UNICEF warns 25% of children now have speech impediments.",
+      "url": "https://www.aljazeera.com/news/2026/1/6/gaza-children-risk-snipers-to-attend-tent-schools?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:20:11 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.911960"
+    },
+    {
+      "id": "0dbfaae77343",
+      "title": "Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry",
+      "description": "Narwal's new robo vacuum cleaner switches to quiet mode near a baby's crib.",
+      "url": "https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:18:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-01-06T08:30:20.748428"
+    },
+    {
+      "id": "6336e733c610",
+      "title": "Venezuela’s Machado says she hasn’t spoken to Trump since October",
+      "description": "The opposition leader tells Fox News she is &#039;grateful&#039; for Trump&#039;s &#039;courageous vision&#039; after Maduro&#039;s abduction.",
+      "url": "https://www.aljazeera.com/news/2026/1/6/venezuelas-machado-says-she-hasnt-spoken-to-trump-since-october?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:10:30 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.911987"
+    },
+    {
+      "id": "432d5ec96de8",
+      "title": "‘New phase’: India eyes Bangladesh thaw with BNP before elections",
+      "description": "In advance of elections in Bangladesh, India and the BNP are trying to reset historically strained ties. Will it work?",
+      "url": "https://www.aljazeera.com/features/2026/1/6/new-phase-india-eyes-bangladesh-thaw-with-bnp-before-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:03:40 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.912014"
+    },
+    {
+      "id": "4004d0d399f9",
+      "title": "A US drug policy contrast",
+      "description": "We compare and contrast Trump&#039;s indictment of Maduro for drug trafficking with his pardon of Juan Orlando Hernandez.",
+      "url": "https://www.aljazeera.com/video/compare-contrast/2026/1/6/a-us-drug-policy-contrast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:03:40 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.912039"
+    },
+    {
+      "id": "2a387f64ec9d",
+      "title": "Mertens, Belgium book quarterfinal spot with sweep of Canada - WTA Tennis",
+      "description": "Mertens, Belgium book quarterfinal spot with sweep of Canada&nbsp;&nbsp;WTA Tennis",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1wUjUzb29BY0ZabDd5RG5tWXRqUkU4OG9MS3RHVmV3Zjg4bHNpTHdkSG0xa3pMbHREMVlIQXN0UjFvblM4TmRORWdRUnNnVVg0Nkd1d0RvZ0t3N2Jpd0NnUDNRd09QT0xFS2FVMjV5Z0FlSkdlLVVLbGZJZmFtOWN5b2k5cFJaakt6Y3JwNURQVS00a3JIYW1BSQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 07:02:39 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-01-06T08:30:22.828805"
+    },
+    {
+      "id": "57bd2ab3e080",
+      "title": "MindRank Initiates Phase III ‘MOBILE’ Trial for MDR-001: an Oral GLP-1RA Small Molecule Engineered with AI",
+      "description": "MDR-001 progressed from program discovery to Phase III in just 4.5 years, much faster than traditional development cycles. Phase IIb data demonstrated 10.3% mean weight reduction at Week 24 with a best-in-class safety potential (0.8% TEAE-related discontinuation rate). MDR-001’s unique biased-select",
+      "url": "https://financialpost.com/globe-newswire/mindrank-initiates-phase-iii-mobile-trial-for-mdr-001-an-oral-glp-1ra-small-molecule-engineered-with-ai",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 06:56:35 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-01-06T08:30:21.052837"
+    },
+    {
+      "id": "ffe950de2e9f",
+      "title": "Gold Steadies as Traders Look Beyond Venezuela Risk to US Data",
+      "description": "Gold steadied, as traders looked beyond tensions in Venezuela toward a busy lineup of economic data in the US. Silver rose for a third day.",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-steadies-as-traders-look-beyond-venezuela-risk-to-us-data",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 06:42:48 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-01-06T08:30:21.052884"
+    },
+    {
+      "id": "14d42845262c",
+      "title": "Central African Republic president  wins third term by landslide",
+      "description": "The main opposition coalition boycotted the vote after a referendum allowed the removal of term limits.",
+      "url": "https://www.bbc.com/news/articles/c0q40xg3j0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f19/live/80b9ade0-eac3-11f0-af0c-e718853372cb.jpg",
+      "published": "Tue, 06 Jan 2026 06:30:15 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.736510"
     },
     {
       "id": "df03715a1fe1",
@@ -156,11 +408,11 @@
       "published": "Tue, 06 Jan 2026 06:21:36 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094496"
+      "fetched_at": "2026-01-06T08:30:21.052960"
     },
     {
       "id": "d5330091d1d3",
-      "title": "The most interesting tech we saw on day one of CES",
+      "title": "The most interesting tech AP saw on Day 1 of CES",
       "description": "LAS VEGAS (AP) &#8212; Sure, Nvidia, AMD and Intel all had important chip and AI platform announcements on the first day of CES 2026, but all audiences wanted to see more of was Star Wars and Jensen Huang&#8217;s little robot buddies. CES is a huge opportunity annually for companies both large and s",
       "url": "https://financialpost.com/pmn/the-most-interesting-tech-we-saw-on-day-one-of-ces",
       "source": "Financial Post",
@@ -168,19 +420,7 @@
       "published": "Tue, 06 Jan 2026 06:16:50 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094539"
-    },
-    {
-      "id": "cb05df6cf9ac",
-      "title": "Opposition leader Machado says she hasn’t spoken to Trump since attack as she vows to return to Venezuela – live",
-      "description": "María Corina Machado tells Fox News she would share her Nobel peace prize with US president after removal of Nicolás MaduroDeposed Maduro pleads not guilty after capture in shock US attack on VenezuelaUS foes and allies denounce Trump’s ‘crime of aggression’ in Venezuela at UN meetingFresh from his ",
-      "url": "https://www.theguardian.com/world/live/2026/jan/06/venezuela-live-updates-maduro-trump-us-attack-opposition-machado-return",
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/ba50311733ac805e244a264a7b8ebc5eaeb29789/1050_420_4392_3514/master/4392.jpg?width=140&quality=85&auto=format&fit=max&s=a47d38b32c48785d1fe65c48dd0a7b84",
-      "published": "Tue, 06 Jan 2026 06:08:41 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.194796"
+      "fetched_at": "2026-01-06T08:30:21.053017"
     },
     {
       "id": "ee1637aba7c6",
@@ -192,19 +432,7 @@
       "published": "Tue, 06 Jan 2026 05:58:27 +0000",
       "location": "Calgary",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588728"
-    },
-    {
-      "id": "14e76db9977a",
-      "title": "Israeli army vehicles enter Quneitra countryside village in southern Syria",
-      "description": "Israel has, since the fall of al-Assad, extended its occupation of Syrian territory staged raids and bombardments",
-      "url": "https://www.aljazeera.com/news/2026/1/6/israeli-army-vehicles-enter-quneitra-countryside-village-in-southern-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 05:57:33 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046201"
+      "fetched_at": "2026-01-06T08:30:20.817321"
     },
     {
       "id": "8b469fb2da81",
@@ -216,7 +444,7 @@
       "published": "Tue, 06 Jan 2026 05:21:28 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094576"
+      "fetched_at": "2026-01-06T08:30:21.053071"
     },
     {
       "id": "6b475eceed62",
@@ -228,7 +456,7 @@
       "published": "Tue, 06 Jan 2026 05:21:19 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094618"
+      "fetched_at": "2026-01-06T08:30:21.053130"
     },
     {
       "id": "8e7324af490e",
@@ -240,19 +468,19 @@
       "published": "Tue, 06 Jan 2026 05:19:43 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094657"
+      "fetched_at": "2026-01-06T08:30:21.053193"
     },
     {
       "id": "fabda1f7bb1a",
-      "title": "Asian shares and US futures advance and oil prices fall back",
-      "description": "BANGKOK (AP) &#8212; Asian shares and U.S. futures advanced Tuesday after stocks closed higher on Wall Street. Oil prices fell back after gaining Monday following the capture by U.S. forces of Venezuelan President Nicolas Maduro in a weekend raid. In Tokyo, the Nikkei 225 gained 1.1% to 52,389.63 on",
+      "title": "Asian shares and US futures advance, as Tokyo’s Nikkei 225 hits a record high",
+      "description": "BANGKOK (AP) &#8212; Asian shares logged strong gains, with Tokyo&#8217;s benchmark closing at a record high on Tuesday, after a broad rally on Wall Street. Oil prices fell back after surging Monday following the capture by U.S. forces of Venezuelan President Nicolas Maduro in a weekend raid. Japan&",
       "url": "https://financialpost.com/pmn/asian-shares-and-us-futures-advance-and-oil-prices-fall-back",
       "source": "Financial Post",
       "image": "",
       "published": "Tue, 06 Jan 2026 05:15:06 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094691"
+      "fetched_at": "2026-01-06T08:30:21.053256"
     },
     {
       "id": "d0e214b6c739",
@@ -264,43 +492,19 @@
       "published": "Tue, 06 Jan 2026 05:10:56 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094723"
+      "fetched_at": "2026-01-06T08:30:21.053307"
     },
     {
-      "id": "f9736bb65f3e",
-      "title": "LIVE: US abduction of Venezuela’s Maduro prompts global outcry",
-      "description": "Condemnation comes as Nicolas Maduro appeared in a court in New York and pleaded not guilty to drug charges.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/6/live-un-security-council-members-slam-us-abduction-of-venezuelas-maduro?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 05:00:25 +0000",
+      "id": "af86713776ed",
+      "title": "Skiers create heart-shaped tribute for Switzerland fire victims",
+      "description": "Skiers formed a heart shape on the slopes of Crans-Montana, days after 40 people were killed in a fire at the Swiss ski resort town.",
+      "url": "https://www.bbc.com/news/videos/cdxj907qgvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/446b/live/aa0636c0-eacb-11f0-a422-4ba8a094a8fa.jpg",
+      "published": "Tue, 06 Jan 2026 05:07:09 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046241"
-    },
-    {
-      "id": "5d4908c76368",
-      "title": "Israel kills two in Gaza as Palestinians call for Rafah crossing to open",
-      "description": "Israeli forces bomb tent in al-Mawasi, killing a five-year-old girl and her uncle, taking death toll since truce to 422.",
-      "url": "https://www.aljazeera.com/news/2026/1/6/israel-kills-two-in-gaza-as-palestinians-call-for-rafah-crossing-to-open?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 04:54:07 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046272"
-    },
-    {
-      "id": "e88915e71510",
-      "title": "DMG Blockchain Solutions Announces December Preliminary Operational Results",
-      "description": "VANCOUVER, British Columbia, Jan. 05, 2026 (GLOBE NEWSWIRE) &#8212; DMG Blockchain Solutions Inc. (TSX-V: DMGI) (OTCQB US: DMGGF) (FRANKFURT: 6AX) (&#8220;DMG&#8221;), a leading vertically integrated blockchain and data center technology company, announces December 2025 preliminary operational resul",
-      "url": "https://financialpost.com/globe-newswire/dmg-blockchain-solutions-announces-december-preliminary-operational-results",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 04:49:25 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094751"
+      "fetched_at": "2026-01-06T08:30:21.736490"
     },
     {
       "id": "7a829f61ce04",
@@ -312,19 +516,7 @@
       "published": "Tue, 06 Jan 2026 04:36:56 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.194847"
-    },
-    {
-      "id": "b0948f09c3a4",
-      "title": "AMD and its Partners Share their Vision for “AI Everywhere, for Everyone” at CES 2026",
-      "description": "News Highlights AMD provided an early look at its “Helios” rack-scale platform, the blueprint for yotta-scale AI infrastructure, built on AMD Instinct MI455X GPUs and AMD EPYC “Venice” CPUs designed for advanced AI workloads AMD expanded its AI portfolio with the introduction of the AMD Instinct MI4",
-      "url": "https://financialpost.com/globe-newswire/amd-and-its-partners-share-their-vision-for-ai-everywhere-for-everyone-at-ces-2026",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 04:34:09 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094792"
+      "fetched_at": "2026-01-06T08:30:22.288536"
     },
     {
       "id": "021c61f5f75d",
@@ -336,7 +528,7 @@
       "published": "Tue, 06 Jan 2026 04:14:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:12.845184"
+      "fetched_at": "2026-01-06T08:30:22.828769"
     },
     {
       "id": "38969f3dfb6b",
@@ -348,19 +540,7 @@
       "published": "Tue, 06 Jan 2026 04:13:22 GMT",
       "location": "World",
       "category": "sports",
-      "fetched_at": "2026-01-06T06:34:12.493677"
-    },
-    {
-      "id": "e7e889c55809",
-      "title": "No timeline for return to First Nation in Manitoba after power outage, chief says",
-      "description": "PIMICIKAMAK CREE NATION, MAN. &#8212; The chief of a First Nation in Manitoba says there is no timeline for thousands of people to return home after they were forced out because of a power outage more than a week ago. Manitoba Hydro fully restored power Friday to Pimicikamak Cree Nation, about 530 k",
-      "url": "https://financialpost.com/pmn/no-timeline-for-return-to-first-nation-in-manitoba-after-power-outage-chief-says",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 04:08:41 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.094825"
+      "fetched_at": "2026-01-06T08:30:22.542330"
     },
     {
       "id": "89a770051082",
@@ -372,7 +552,7 @@
       "published": "Tue, 06 Jan 2026 04:01:00 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594239"
+      "fetched_at": "2026-01-06T08:30:23.755805"
     },
     {
       "id": "0e01028bfd5b",
@@ -384,43 +564,19 @@
       "published": "Tue, 06 Jan 2026 03:58:45 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183192"
+      "fetched_at": "2026-01-06T08:30:23.128131"
     },
     {
       "id": "441f923e5278",
       "title": "Sweden holds off Czechia to capture first gold medal at World Juniors since 2012 - TSN",
-      "description": "Sweden holds off Czechia to capture first gold medal at World Juniors since 2012&nbsp;&nbsp;TSNThe last great adventure&nbsp;&nbsp;IIHFThis Week in the NHL: Medals on the line as 2026 World Juniors conclude&nbsp;&nbsp;Daily FaceoffSweden flushes years of world junior heartbreak with elusive gold med",
+      "description": "Sweden holds off Czechia to capture first gold medal at World Juniors since 2012&nbsp;&nbsp;TSNThe last great adventure&nbsp;&nbsp;IIHFThis Week in the NHL: Medals on the line as 2026 World Juniors conclude&nbsp;&nbsp;Daily FaceoffKraken Propsect Loke Krantz Takes Home World Junior Gold; Jakub Fibig",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3otZ1VmWnFIWFNjTUNSN19QaE1lT3pfUGZIQ2gyWFVCVWJtMDg5cElfeThIaW91NURRRUVob3dXVTVHM29RZ29BTDBwR01SaFdDVklmeXNIcW1ZUURIdUtjRlJQVHUySlhBTzNlaU9MU1J5Y1FPRktvdERGcmpvM19TLU1lR2JrbjhLTDNudFFpd0RjQnAybm5RLVdYUTRmUWVBYm9MbUFITDZVdXpQZDZFNmZILUFZWnp3S0c1NHo?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 06 Jan 2026 03:57:00 GMT",
       "location": "Canada",
       "category": "sports",
-      "fetched_at": "2026-01-06T06:34:12.493506"
-    },
-    {
-      "id": "1b6a6b873ef5",
-      "title": "US critics and allies condemn Maduro’s abduction at UN Security Council - Al Jazeera",
-      "description": "US critics and allies condemn Maduro’s abduction at UN Security Council&nbsp;&nbsp;Al JazeeraCuba defiant as it braces for post-Maduro era&nbsp;&nbsp;BBCMaduro’s capture is a blow to China. But on Chinese social media it’s being hailed as a blueprint for Taiwan&nbsp;&nbsp;CNNVenezuela's collapse, Tr",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmZwRlBublUxWnM0Z0NyQ0tVc3dUY1RGVjBhaDRIUWtQWXdTY0daS1JyX1ctRjctUWJMckV5QlVESnFWNkdaUm9NenJ4MjdqazZ4eHJZeEJwRHBsMV9Rd3F1cldhRDhUTF95RnQ3MmJ1WFhfNE8xVnJVV3gzbm9tbTZpT29Xcm5pTHdFMkx6YnowNDRRU3R5RnJaT25qUHBLLURsOENwbTlYRWduYUNN0gG0AUFVX3lxTFBNbUoxVzBXa3N3MUhDeGpQYm9BX2hfaV93cHZ4SGEyRE5YU284ZkRMd2FicjdmUXk2cEVzcU5SaS1wYUVCTl84cV9BY0lEQ2YwcWtTYnBDRlZ2Nk1yMVFQbVVuQ0tDSDVud05KLUZoQXNJdVd4Nmp3VjZlQUJPLXBUczB4cGUzcVotYjdsTjhGY05PZDFrQ2RmWGkzbXZ2dmVENjdncENTZGh2WHNfMUNmR2NUSQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 03:56:21 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.621528"
-    },
-    {
-      "id": "2a387f64ec9d",
-      "title": "Mertens overcomes Mboko to seal Belgium's upset of Canada - WTA Tennis",
-      "description": "Mertens overcomes Mboko to seal Belgium's upset of Canada&nbsp;&nbsp;WTA Tennis",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1wUjUzb29BY0ZabDd5RG5tWXRqUkU4OG9MS3RHVmV3Zjg4bHNpTHdkSG0xa3pMbHREMVlIQXN0UjFvblM4TmRORWdRUnNnVVg0Nkd1d0RvZ0t3N2Jpd0NnUDNRd09QT0xFS2FVMjV5Z0FlSkdlLVVLbGZJZmFtOWN5b2k5cFJaakt6Y3JwNURQVS00a3JIYW1BSQ?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 03:55:59 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-01-06T06:34:12.845258"
+      "fetched_at": "2026-01-06T08:30:22.536830"
     },
     {
       "id": "ea112f34a187",
@@ -432,19 +588,7 @@
       "published": "Tue, 06 Jan 2026 03:55:45 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.642009"
-    },
-    {
-      "id": "68590f2e31b8",
-      "title": "US critics and allies condemn Maduro’s abduction at UN Security Council",
-      "description": "Denmark and Mexico, also threatened by US President Donald Trump, warn that the US violated international law.",
-      "url": "https://www.aljazeera.com/news/2026/1/6/us-critics-and-allies-condemn-maduros-abduction-at-un-security-council?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 03:53:56 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046303"
+      "fetched_at": "2026-01-06T08:30:23.539090"
     },
     {
       "id": "bba4829eddb6",
@@ -456,19 +600,19 @@
       "published": "Tue, 06 Jan 2026 03:48:52 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.642048"
+      "fetched_at": "2026-01-06T08:30:23.539129"
     },
     {
       "id": "ee91dc63e517",
-      "title": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court",
-      "description": "Delcy Rodríguez said she was pained by what she called the \"kidnapping\" of Maduro and his wife.",
+      "title": "Venezuela swears in interim president after defiant Maduro pleads not guilty",
+      "description": "Delcy Rodríguez said she was pained by what she called the \"kidnapping\" of President Nicolás Maduro and his wife by the US.",
       "url": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1d/live/12736d20-eab5-11f0-bd3e-8974f95a47ab.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6a/live/c8ef2fd0-eac9-11f0-a422-4ba8a094a8fa.jpg",
       "published": "Tue, 06 Jan 2026 03:47:29 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:11.895591"
+      "fetched_at": "2026-01-06T08:30:21.736398"
     },
     {
       "id": "8c28fb4b2712",
@@ -480,7 +624,19 @@
       "published": "Tue, 06 Jan 2026 03:42:19 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.367972"
+      "fetched_at": "2026-01-06T08:30:23.512127"
+    },
+    {
+      "id": "079aee0a41da",
+      "title": "Nvidia unveils 'reasoning' AI technology for self-driving cars",
+      "description": "The chip giant is partnering with Mercedes-Benz to launch a driverless car powered by its 'Alpamayo' tech.",
+      "url": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295d/live/a5a12330-eab0-11f0-a636-7915f3591f99.jpg",
+      "published": "Tue, 06 Jan 2026 03:41:04 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.736467"
     },
     {
       "id": "71008efe7134",
@@ -492,19 +648,7 @@
       "published": "Tue, 06 Jan 2026 03:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686387"
-    },
-    {
-      "id": "71226293a2f4",
-      "title": "Rookie Collin Murray-Boyles impresses as Raptors top Hawks - Sportsnet.ca",
-      "description": "Rookie Collin Murray-Boyles impresses as Raptors top Hawks&nbsp;&nbsp;Sportsnet.caRaptors aim for back-to-back wins against Hawks tonight on TSN&nbsp;&nbsp;TSNGameday: Hawks @ Raptors, January 5th&nbsp;&nbsp;Raptors RepublicRJ Barrett and Brandon Ingram help Raptors surge past Hawks 134-117&nbsp;&nb",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDNYM0NEX0Nwc0pWTW52ZmE3cGxwRDNxZ1ZHS283MmZkMU5wT2dXVkNsbVhya2FETVdIVGw0cWYycVQ4Z09UT2QzM3RYSWh4R3hzSkZrX1FsS01tdTRpVkNJNUpFX3JIOTFVQTd6eTNsWEdXNlJHWkhRZVVWS2xDVWtRTmlHYXNkQmhqaTdDNzZPdkc2UThFVXdKOVk?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 03:25:00 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2026-01-06T06:34:12.493864"
+      "fetched_at": "2026-01-06T08:30:20.748473"
     },
     {
       "id": "bce9321805bc",
@@ -516,7 +660,7 @@
       "published": "Tue, 06 Jan 2026 03:19:39 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594287"
+      "fetched_at": "2026-01-06T08:30:23.755852"
     },
     {
       "id": "0c435f412ce0",
@@ -528,43 +672,31 @@
       "published": "Tue, 06 Jan 2026 03:13:52 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588761"
+      "fetched_at": "2026-01-06T08:30:20.817343"
     },
     {
-      "id": "24612572ebe2",
-      "title": "Americans evenly split on Maduro’s abduction, poll shows",
-      "description": "One in three Americans opposes the Venezuelan leader&#039;s abduction by US forces, a poll shows, while others are unsure.",
-      "url": "https://www.aljazeera.com/news/2026/1/6/americans-evenly-split-on-maduros-abduction-poll-shows?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 03:12:04 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046333"
-    },
-    {
-      "id": "7faa61b6f088",
-      "title": "US will be exempt from global tax deal targeting profits of large multinationals - The Guardian",
-      "description": "US will be exempt from global tax deal targeting profits of large multinationals&nbsp;&nbsp;The GuardianView Full Coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGVtdUUyRmF0WTVFOFNiRmkyWXpObXJHTy1wZllITG5vTVJaMDNpMUw1R1pXNFlpaHFkWGwtRWllVXEzbmpobnNjZHlqb0RqRlZXYmdfQjB3OTBzQ2NUVlA3c0U1RmlyRHFXaW9VZXdmNUhaaVBPcXg0Ukx4MHJmdXZ0enJuVDQzcTVKSTN2SDhna1VKSVBHVTB2VUpUdGNkUWpEZDJLbkk4dw?oc=5",
+      "id": "d95377b566cc",
+      "title": "Oil Prices Slip as Markets Eye the Return of Venezuelan Crude - Crude Oil Prices Today | OilPrice.com",
+      "description": "Oil Prices Slip as Markets Eye the Return of Venezuelan Crude&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.comOpinion: Guns and oil: Trump’s global power with Venezuela’s reserves at his side will be formidable&nbsp;&nbsp;The Globe and MailTrump administration sets meetings with oil companies over V",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFlvSjBybnNIS2lIcW11MWdXSmx4NlQ0QXlYLXMyNkpqV09qdms2TkxLOFRPcW5HVzdETDA1Vm1iMV80ajBQckRHRThPSjJtSl9yNVpQLV9fVUdmcDN3SDNuNm9sem5iSG5DUktYRmFscmVaSGU4dHAxbEVrRFh1cDZuS2N6QV9IX1VKcy1zVzBnTjVIdFh2VUEwaW55ODh3OUEzUTNzWUtoNTFWTGhNRlJISXJxNE800gG-AUFVX3lxTE5QZVhmWDljWXhoRjV2aUFrRUoxWnI0cHhrUGhTRV80U0xtUzBSU3dDaHdNOGFpVVBkc3plM0dRbDJfREZ5VzlqSkZEVmRBMDNPNVVlbVI1TzNPdWMwTEx6SjVaazBkS3lhTGZWXzVKTkpaaEp2VUxOaFlpSjFwS1FMa0RfRVNyd3EzUjFqcjBDZEJQc0owb2l2QmRDQjA3U1FGbU10NGZ1eGpnckFhOUVQWUVWczI5NFg3MGxVMUE?oc=5",
       "source": "Google News Business",
       "image": "",
-      "published": "Tue, 06 Jan 2026 03:04:00 GMT",
+      "published": "Tue, 06 Jan 2026 03:03:46 GMT",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:12.780624"
+      "fetched_at": "2026-01-06T08:30:22.897984"
     },
     {
       "id": "8ef36e274a26",
       "title": "Key takeaways from Maduro's first court appearance in U.S. - CBC",
-      "description": "Key takeaways from Maduro's first court appearance in U.S.&nbsp;&nbsp;CBC92-year-old judge handling Maduro case ‘doesn’t give a s--t what anyone thinks about him’&nbsp;&nbsp;Politico‘I am innocent,’ says Venezuela’s abducted leader, Maduro, in US court&nbsp;&nbsp;Al JazeeraAP News in Brief at 12:04 ",
+      "description": "Key takeaways from Maduro's first court appearance in U.S.&nbsp;&nbsp;CBC‘Soy inocente’: Maduro defiant in surreal New York courtroom spectacle&nbsp;&nbsp;The GuardianLive updates: Defiant Maduro pleads not guilty in US court as Trump threatens other countries&nbsp;&nbsp;CNN92-year-old judge handlin",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckNYSGQyMG14OUFEUkJfQnJBZ1BKWDhGNVZudXpWeWhQMTFhVXRZN1ZGZzZUUDhpX3BLb0Y0dFFzYWJ6emVhbi1JZjFUZlBYb3RTbjRWRzJJa1hjVnFoTy1GV3NoRmZ4NVF4U2VzUUc4X0FRcnlaSVBvaU5vbXBZbmVpTFJpTEpx?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 06 Jan 2026 02:54:00 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.621606"
+      "fetched_at": "2026-01-06T08:30:22.723684"
     },
     {
       "id": "322a2344de41",
@@ -576,7 +708,7 @@
       "published": "Tue, 06 Jan 2026 02:52:52 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.893882"
+      "fetched_at": "2026-01-06T08:30:21.042064"
     },
     {
       "id": "3960b32155db",
@@ -588,7 +720,7 @@
       "published": "Tue, 06 Jan 2026 02:51:03 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.368021"
+      "fetched_at": "2026-01-06T08:30:23.512176"
     },
     {
       "id": "33e204eb8be0",
@@ -600,7 +732,19 @@
       "published": "Tue, 06 Jan 2026 02:48:45 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:12.845115"
+      "fetched_at": "2026-01-06T08:30:22.828679"
+    },
+    {
+      "id": "67936694e6c2",
+      "title": "B.C. jobs in high demand: Why 2026 may be the best time to learn a trade - CBC",
+      "description": "B.C. jobs in high demand: Why 2026 may be the best time to learn a trade&nbsp;&nbsp;CBCView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENVgtV1ZFa2F5a3FzLUhZVWN4b1NyckVYM0J1RHZ1S0tGWGU1Zkc4cGxTZGoxcVdyQTlWbURMSF9ycVB4NVFrMktiQk5lNDRTcWZBTkxYV1NPcGdZQ0dJcGJFSzlzT3NvYjhMWklTaG1TNkpSZFE?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 02:47:00 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-01-06T08:30:22.898597"
     },
     {
       "id": "afeb33f2ac1d",
@@ -612,19 +756,19 @@
       "published": "Tue, 06 Jan 2026 02:44:22 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:11.895769"
+      "fetched_at": "2026-01-06T08:30:21.736445"
     },
     {
-      "id": "7fe7e84c46df",
-      "title": "Eva Schloss, Holocaust survivor and stepsister of Anne Frank, dies at 96",
-      "description": "UK&#039;s King Charles III praises Schloss for her lifelong work on &#039;overcoming hatred and prejudice&#039; around the world.",
-      "url": "https://www.aljazeera.com/news/2026/1/6/eva-schloss-holocaust-survivor-and-stepsister-of-anne-frank-dies-at-96?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "7ba3fd061ca9",
+      "title": "3 major takeaways from Nvidia Live at CES 2026 - Mashable",
+      "description": "3 major takeaways from Nvidia Live at CES 2026&nbsp;&nbsp;MashableNvidia unveils 'reasoning' AI technology for self-driving cars&nbsp;&nbsp;BBCNvidia announces new, more powerful Vera Rubin chip made for AI&nbsp;&nbsp;The GuardianNvidia CEO Jensen Huang delivers some good news for investors at CES&n",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2RkJWbU81bS13X0s3S2ZRMjRhUVlrQTJlakdFcmpQdmpzalZrZ291bUlLQ0lyWHl0eWVlSjhwV3lHQmY0b3VUUF9MTHdlOTZpZFNXeVY0Z3h4NEptcW5RTzZmMTNrbFZFUi14T0g5YkktUEE0eVhuN0Vn?oc=5",
+      "source": "Google News Business",
       "image": "",
-      "published": "Tue, 06 Jan 2026 02:40:51 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046361"
+      "published": "Tue, 06 Jan 2026 02:28:43 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-01-06T08:30:22.898519"
     },
     {
       "id": "012466b0a7cb",
@@ -636,19 +780,7 @@
       "published": "Tue, 06 Jan 2026 02:19:02 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.893939"
-    },
-    {
-      "id": "185019eda9c9",
-      "title": "Alarms raised as Trump’s CDC cuts number of suggested vaccines for children",
-      "description": "An American Academy of Pediatrics official warns that changes made by political appointees could harm children.",
-      "url": "https://www.aljazeera.com/news/2026/1/6/alarms-raised-as-trumps-cdc-cuts-number-of-suggested-vaccines-for-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 02:17:30 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046390"
+      "fetched_at": "2026-01-06T08:30:21.042101"
     },
     {
       "id": "523c00502f54",
@@ -660,7 +792,7 @@
       "published": "Tue, 06 Jan 2026 02:15:03 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.368062"
+      "fetched_at": "2026-01-06T08:30:23.512217"
     },
     {
       "id": "be83c366a016",
@@ -672,19 +804,7 @@
       "published": "Tue, 06 Jan 2026 02:08:00 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:12.780681"
-    },
-    {
-      "id": "71ae28c79969",
-      "title": "Russia-Ukraine war: List of key events, day 1,412",
-      "description": "These are the key developments from day 1,412 of Russia’s war on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/1/6/russia-ukraine-war-list-of-key-events-day-1412?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 02:02:19 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046420"
+      "fetched_at": "2026-01-06T08:30:22.898458"
     },
     {
       "id": "ea8c8fefb012",
@@ -696,7 +816,7 @@
       "published": "Tue, 06 Jan 2026 02:02:19 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196557"
+      "fetched_at": "2026-01-06T08:30:23.327648"
     },
     {
       "id": "1a4e1aa9f350",
@@ -708,7 +828,7 @@
       "published": "Tue, 06 Jan 2026 02:00:23 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.915853"
+      "fetched_at": "2026-01-06T08:30:23.015730"
     },
     {
       "id": "45d97fd74b37",
@@ -720,19 +840,7 @@
       "published": "Tue, 06 Jan 2026 02:00:02 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.915891"
-    },
-    {
-      "id": "992d2976cc63",
-      "title": "World Junior Championship roundup: Canada tops Finland to win bronze - NHL.com",
-      "description": "World Junior Championship roundup: Canada tops Finland to win bronze&nbsp;&nbsp;NHL.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXpBZEtHZThfTnNUMHFEX0gzbkw5bnREUEd5c01jalkyU3NVRVdWekYwZDlCVjZxeXVHTndlZE53WXhsU011NjFJNjdqYWFuT3RObE5BcVM5Y3BVbWlHdG1YcURmSnFUczgyNTZJNm1iNERxNDhXaFBlenRrb3d5RjVpLUc0TkVybDFYWV9tMU0?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 01:55:50 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-01-06T06:34:12.845421"
+      "fetched_at": "2026-01-06T08:30:23.015785"
     },
     {
       "id": "fe684de2067c",
@@ -744,7 +852,7 @@
       "published": "Tue, 06 Jan 2026 01:54:58 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.368108"
+      "fetched_at": "2026-01-06T08:30:23.512263"
     },
     {
       "id": "81ffc4ca3511",
@@ -756,7 +864,7 @@
       "published": "Tue, 06 Jan 2026 01:50:58 +0000",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588782"
+      "fetched_at": "2026-01-06T08:30:20.817360"
     },
     {
       "id": "63819265d79d",
@@ -768,7 +876,7 @@
       "published": "Tue, 06 Jan 2026 01:47:48 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.915950"
+      "fetched_at": "2026-01-06T08:30:23.015813"
     },
     {
       "id": "cb0eb9bd7f00",
@@ -780,19 +888,7 @@
       "published": "Tue, 06 Jan 2026 01:42:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:12.845391"
-    },
-    {
-      "id": "2ccb2bd8056b",
-      "title": "Jets frustrated with results after winning Presidents' Trophy last season - NHL.com",
-      "description": "Jets frustrated with results after winning Presidents' Trophy last season&nbsp;&nbsp;NHL.comWhat's the biggest issues with the Winnipeg Jets this season?&nbsp;&nbsp;TSN3 Trade Targets To Help Winnipeg's Scoring Problems&nbsp;&nbsp;The Hockey NewsNHL power rankings: The Winnipeg Jets have hit rock bo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEpVc0ZlZk85czltb1p0RDJORkxRb1Bfd0dFVTcyTE5leVBMVWttTEllVHl5cGpCQzdPaGUySTNMRzVoM0c5OUhFNEl1MkpkNGV4WG5kZjJtNUEtR2ZfUkxMQm0wUG5US3EtSEhFRERxZTF1UGNTM0ZYNmRlUVMwNERnemxkdUZ5aTRva2lmcUF1aE4waTBYX3NiSmdaTmZkQkp0VXVlVjVPZw?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 06 Jan 2026 01:41:15 GMT",
-      "location": "Winnipeg",
-      "category": "sports",
-      "fetched_at": "2026-01-06T06:34:12.493445"
+      "fetched_at": "2026-01-06T08:30:22.828979"
     },
     {
       "id": "128db97d834d",
@@ -804,7 +900,19 @@
       "published": "Tue, 06 Jan 2026 01:19:24 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183233"
+      "fetched_at": "2026-01-06T08:30:23.128173"
+    },
+    {
+      "id": "0141ef0e0141",
+      "title": "Hegseth's move to demote Kelly raises legal questions - Axios",
+      "description": "Hegseth's move to demote Kelly raises legal questions&nbsp;&nbsp;AxiosPentagon moves to cut Sen. Mark Kelly’s military retirement pay as punishment over ‘illegal orders’ video&nbsp;&nbsp;CNNPete Hegseth issues formal censure to Democratic senator Mark Kelly&nbsp;&nbsp;The GuardianHegseth’s Appalling",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUdWa2xRcTRPN21sRnotd290Q0p5d3h4ZkgtZVA4ZE9oWTBudnVmRlAydEJmNks4YlpTTUNSdlRNcFRlT0hGZ1JkaTY2SnJicVRNT256VXd4b3R4TTAzSWVZb1VLMnZjajdkMDFGaHF3LWpvVzVpS0dkWkdqVjI2eGdUa2l5eUNDcnNoMHNraE9lNUlI?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 06 Jan 2026 01:16:23 GMT",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-01-06T08:30:22.724013"
     },
     {
       "id": "53f9df256ca9",
@@ -816,7 +924,7 @@
       "published": "Tue, 06 Jan 2026 01:13:48 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588807"
+      "fetched_at": "2026-01-06T08:30:20.817383"
     },
     {
       "id": "659011625c03",
@@ -828,7 +936,7 @@
       "published": "Tue, 06 Jan 2026 01:12:06 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658251"
+      "fetched_at": "2026-01-06T08:30:23.863309"
     },
     {
       "id": "b3984ce543ec",
@@ -840,19 +948,19 @@
       "published": "Tue, 06 Jan 2026 01:01:17 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168400"
+      "fetched_at": "2026-01-06T08:30:23.183792"
     },
     {
       "id": "89abe2245fa5",
       "title": "Canada tops Finland to claim bronze at world junior hockey championship; Sweden wins gold - CBC",
-      "description": "Canada tops Finland to claim bronze at world junior hockey championship; Sweden wins gold&nbsp;&nbsp;CBCCanada ends medal drought with bronze&nbsp;&nbsp;IIHFColts co-captains earn bronze with Team Canada Juniors&nbsp;&nbsp;CTV NewsMichael Hage earns bronze at 2026 WJC&nbsp;&nbsp;NHL.comGeorge helps ",
+      "description": "Canada tops Finland to claim bronze at world junior hockey championship; Sweden wins gold&nbsp;&nbsp;CBCCanada ends medal drought with bronze&nbsp;&nbsp;IIHFMichael Hage earns bronze at 2026 WJC&nbsp;&nbsp;NHL.comColts co-captains earn bronze with Team Canada Juniors&nbsp;&nbsp;CTV NewsGeorge helps ",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFVWNzNkeU45ZVpLR19nMFNpTm5YZm9qcUM3cjlhR3luTkIwZUpSSWEyWWVFWjdwMXVwVHJKa3Z3V3l6NnN5R3hPc3hBMHNnejF0a0dhS21jaUFkM01NaDU1RkxfVGF4bXd4SzdPWi1EeTZEcE5SQ29sSkxGUDB6dUoxdHBGMktQd3k4NzZjS1ZZYVZySTVDbmpLWGtWWUc0RUE?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 06 Jan 2026 01:00:00 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-01-06T06:34:12.493381"
+      "fetched_at": "2026-01-06T08:30:22.536761"
     },
     {
       "id": "50d3c56413cb",
@@ -864,7 +972,7 @@
       "published": "Tue, 06 Jan 2026 00:45:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:12.845289"
+      "fetched_at": "2026-01-06T08:30:22.828838"
     },
     {
       "id": "5d16105c42f0",
@@ -876,7 +984,7 @@
       "published": "Tue, 06 Jan 2026 00:39:24 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168443"
+      "fetched_at": "2026-01-06T08:30:23.183836"
     },
     {
       "id": "1b16bebf4c09",
@@ -888,7 +996,7 @@
       "published": "Tue, 06 Jan 2026 00:38:18 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.199768"
+      "fetched_at": "2026-01-06T08:30:23.980194"
     },
     {
       "id": "2c921ec3b368",
@@ -900,7 +1008,7 @@
       "published": "Tue, 06 Jan 2026 00:37:03 +0000",
       "location": "Winnipeg",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588830"
+      "fetched_at": "2026-01-06T08:30:20.817404"
     },
     {
       "id": "2af5474cd461",
@@ -912,7 +1020,7 @@
       "published": "Tue, 06 Jan 2026 00:33:58 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588860"
+      "fetched_at": "2026-01-06T08:30:20.817425"
     },
     {
       "id": "1f7d4ff0de7e",
@@ -924,7 +1032,7 @@
       "published": "Tue, 06 Jan 2026 00:32:30 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.194901"
+      "fetched_at": "2026-01-06T08:30:22.288588"
     },
     {
       "id": "651363f556d3",
@@ -936,7 +1044,7 @@
       "published": "Tue, 06 Jan 2026 00:28:25 +0000",
       "location": "Calgary",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588882"
+      "fetched_at": "2026-01-06T08:30:20.817445"
     },
     {
       "id": "2cc741e04ab2",
@@ -948,7 +1056,7 @@
       "published": "Tue, 06 Jan 2026 00:24:14 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658299"
+      "fetched_at": "2026-01-06T08:30:23.863357"
     },
     {
       "id": "df0ff814a6f6",
@@ -960,7 +1068,7 @@
       "published": "Tue, 06 Jan 2026 00:21:52 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168473"
+      "fetched_at": "2026-01-06T08:30:23.183865"
     },
     {
       "id": "ef026fb12838",
@@ -972,7 +1080,7 @@
       "published": "Tue, 06 Jan 2026 00:20:33 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588932"
+      "fetched_at": "2026-01-06T08:30:20.817465"
     },
     {
       "id": "f8708ec4243b",
@@ -984,7 +1092,7 @@
       "published": "Tue, 06 Jan 2026 00:17:24 +0000",
       "location": "Winnipeg",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588968"
+      "fetched_at": "2026-01-06T08:30:20.817484"
     },
     {
       "id": "5f8b21ec718e",
@@ -996,7 +1104,7 @@
       "published": "Tue, 06 Jan 2026 00:15:40 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.915982"
+      "fetched_at": "2026-01-06T08:30:23.015840"
     },
     {
       "id": "77602549cdb7",
@@ -1008,7 +1116,7 @@
       "published": "Tue, 06 Jan 2026 00:15:29 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594322"
+      "fetched_at": "2026-01-06T08:30:23.755888"
     },
     {
       "id": "a60b861edfd4",
@@ -1020,7 +1128,7 @@
       "published": "Tue, 06 Jan 2026 00:11:34 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.893971"
+      "fetched_at": "2026-01-06T08:30:21.042130"
     },
     {
       "id": "2c0e8c81a2ea",
@@ -1032,7 +1140,7 @@
       "published": "Tue, 06 Jan 2026 00:09:53 +0000",
       "location": "Winnipeg",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.588991"
+      "fetched_at": "2026-01-06T08:30:20.817503"
     },
     {
       "id": "0374bf46b6bb",
@@ -1044,7 +1152,7 @@
       "published": "Tue, 06 Jan 2026 00:08:39 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.078378"
+      "fetched_at": "2026-01-06T08:30:21.173981"
     },
     {
       "id": "c9bc84b25db0",
@@ -1056,7 +1164,7 @@
       "published": "Tue, 06 Jan 2026 00:08:18 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594349"
+      "fetched_at": "2026-01-06T08:30:23.755915"
     },
     {
       "id": "3b54871e6df8",
@@ -1068,7 +1176,7 @@
       "published": "Tue, 06 Jan 2026 00:06:18 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.078403"
+      "fetched_at": "2026-01-06T08:30:21.174005"
     },
     {
       "id": "37c7988f2713",
@@ -1080,7 +1188,7 @@
       "published": "Tue, 06 Jan 2026 00:01:35 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.368151"
+      "fetched_at": "2026-01-06T08:30:23.512307"
     },
     {
       "id": "a2b7282df523",
@@ -1092,7 +1200,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.132116"
+      "fetched_at": "2026-01-06T08:30:22.037717"
     },
     {
       "id": "295551ee6daf",
@@ -1104,7 +1212,7 @@
       "published": "Thu, 25 Dec 2025 09:00:47 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-06T06:34:10.647548"
+      "fetched_at": "2026-01-06T08:30:20.835607"
     },
     {
       "id": "a3777a8bac7b",
@@ -1116,7 +1224,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.131975"
+      "fetched_at": "2026-01-06T08:30:22.037603"
     },
     {
       "id": "bc6428449ed0",
@@ -1128,7 +1236,7 @@
       "published": "Thu, 01 Jan 2026 22:57:39 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.069767"
+      "fetched_at": "2026-01-06T08:30:22.223862"
     },
     {
       "id": "71cfc936a44f",
@@ -1140,7 +1248,7 @@
       "published": "Thu, 01 Jan 2026 19:00:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.194586"
+      "fetched_at": "2026-01-06T08:30:22.288217"
     },
     {
       "id": "80504a94f444",
@@ -1152,7 +1260,7 @@
       "published": "Thu, 01 Jan 2026 13:00:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.194646"
+      "fetched_at": "2026-01-06T08:30:22.288276"
     },
     {
       "id": "ffbf5c04aedd",
@@ -1164,7 +1272,7 @@
       "published": "Thu, 01 Jan 2026 12:00:33 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.694421"
+      "fetched_at": "2026-01-06T08:30:25.029730"
     },
     {
       "id": "bf406425727a",
@@ -1176,7 +1284,7 @@
       "published": "Thu, 01 Jan 2026 11:00:00 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.069840"
+      "fetched_at": "2026-01-06T08:30:22.223935"
     },
     {
       "id": "5a543b741fb9",
@@ -1188,7 +1296,7 @@
       "published": "Sun, 28 Dec 2025 12:00:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.694562"
+      "fetched_at": "2026-01-06T08:30:25.029891"
     },
     {
       "id": "48332101e695",
@@ -1200,7 +1308,7 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.132058"
+      "fetched_at": "2026-01-06T08:30:22.037664"
     },
     {
       "id": "7d7ed7b9026f",
@@ -1212,7 +1320,7 @@
       "published": "Sun, 04 Jan 2026 22:47:48 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.642227"
+      "fetched_at": "2026-01-06T08:30:23.539310"
     },
     {
       "id": "cf68a228b01e",
@@ -1224,43 +1332,19 @@
       "published": "Sun, 04 Jan 2026 21:58:30 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.642252"
+      "fetched_at": "2026-01-06T08:30:23.539335"
     },
     {
       "id": "bd44c12d0a1d",
       "title": "State Your Case: Red Wings or Senators finishing higher in Atlantic Division - NHL.com",
-      "description": "State Your Case: Red Wings or Senators finishing higher in Atlantic Division&nbsp;&nbsp;NHL.comSenators frustrated with inconsistent goaltending after loss to Red Wings&nbsp;&nbsp;Sportsnet.caGame 41 Hub: Detroit Red Wings vs Ottawa Senators&nbsp;&nbsp;silversevensens.comSenators vs. Red Wings — Fir",
+      "description": "State Your Case: Red Wings or Senators finishing higher in Atlantic Division&nbsp;&nbsp;NHL.comGame 41 Hub: Detroit Red Wings vs Ottawa Senators&nbsp;&nbsp;silversevensens.comSenators frustrated with inconsistent goaltending after loss to Red Wings&nbsp;&nbsp;Sportsnet.caRed Wings pounce on Senators",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHZMOHB1LWcyT1FhbFB0T0VJMjljMERpVko1MjAzaHlfQzF0N0ZDNmlHc29qbUdKLUd5a0hLMkp1Sl9DMk5yQnJkUTFfcVMwOWhmWE54bEZ0RzlFMVpQTFlDU0dhV1l0a1dlQnVjQ0ZtYU5OQ1NHbkdaSkE2aWFvanRzZk1rMURWUlhBS3JWYVcxMmVxTHY2NW4ycGNhSGVjbW9YdTZBaWNUaTN4MHdoM0d3?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Sun, 04 Jan 2026 18:58:21 GMT",
       "location": "Ottawa",
       "category": "sports",
-      "fetched_at": "2026-01-06T06:34:12.493742"
-    },
-    {
-      "id": "e40c5bb0b5ae",
-      "title": "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps",
-      "description": "Follow the operation to seize the Venezuelan president through photos, satellite images and maps.",
-      "url": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdc3/live/490a4e60-e990-11f0-aae2-2191c0e48a3b.jpg",
-      "published": "Sun, 04 Jan 2026 18:05:10 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:11.895746"
-    },
-    {
-      "id": "fbcf872808fb",
-      "title": "Who is Delcy Rodríguez, Maduro's No. 2 now leading Venezuela? - Axios",
-      "description": "Who is Delcy Rodríguez, Maduro's No. 2 now leading Venezuela?&nbsp;&nbsp;AxiosVenezuela swears in interim president after defiant Maduro pleads not guilty in US court&nbsp;&nbsp;BBCTrump has a list of demands for Venezuela’s new leader&nbsp;&nbsp;PoliticoWho is Delcy Rodríguez, Venezuela's new inter",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GT21JTWFiYjN5cVZMTVE1R0hLTjhMWDBBOFFtWFdUbmZHeWxWSzhuX1JERjg2UFVsdE4yN1lobWdwbEFCYjdMa2tlRWt1YnFSY19TcGRDd0t3MEY5ZDdOZmFRSVMyY2lrTFg0Y1h2UG9wNHM1UFVHV05MUWc?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sun, 04 Jan 2026 16:19:52 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.621916"
+      "fetched_at": "2026-01-06T08:30:22.542173"
     },
     {
       "id": "5cb4144e91ef",
@@ -1272,7 +1356,7 @@
       "published": "Sun, 04 Jan 2026 12:00:44 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.694313"
+      "fetched_at": "2026-01-06T08:30:25.029623"
     },
     {
       "id": "6404a112ca67",
@@ -1284,7 +1368,7 @@
       "published": "Sun, 04 Jan 2026 10:00:55 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-06T06:34:10.647409"
+      "fetched_at": "2026-01-06T08:30:20.835385"
     },
     {
       "id": "708500308cd4",
@@ -1296,7 +1380,7 @@
       "published": "Sat, 27 Dec 2025 12:00:07 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.694600"
+      "fetched_at": "2026-01-06T08:30:25.029927"
     },
     {
       "id": "2b7bc8dbfad0",
@@ -1308,7 +1392,7 @@
       "published": "Sat, 03 Jan 2026 15:00:01 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-01-06T06:34:11.139805"
+      "fetched_at": "2026-01-06T08:30:25.233939"
     },
     {
       "id": "7663b33d3e32",
@@ -1320,7 +1404,7 @@
       "published": "Sat, 03 Jan 2026 12:00:06 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.694350"
+      "fetched_at": "2026-01-06T08:30:25.029660"
     },
     {
       "id": "4a7848b83ec0",
@@ -1332,7 +1416,7 @@
       "published": "Sat, 03 Jan 2026 11:00:55 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-06T06:34:11.139827"
+      "fetched_at": "2026-01-06T08:30:25.233961"
     },
     {
       "id": "90819b13fa6d",
@@ -1344,7 +1428,7 @@
       "published": "Mon, 22 Dec 2025 23:11:05 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-01-06T06:34:10.647569"
+      "fetched_at": "2026-01-06T08:30:20.835646"
     },
     {
       "id": "b650d7229c46",
@@ -1356,7 +1440,7 @@
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.132008"
+      "fetched_at": "2026-01-06T08:30:22.037624"
     },
     {
       "id": "479e8e95cf17",
@@ -1368,19 +1452,7 @@
       "published": "Mon, 05 Jan 2026 23:58:48 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594386"
-    },
-    {
-      "id": "0104c658e8e7",
-      "title": "Central African Republic’s Touadera wins third presidential term",
-      "description": "Provisional results show Faustin-Archange Touadera received 76.15 percent of the vote in December 28 election.",
-      "url": "https://www.aljazeera.com/news/2026/1/5/central-african-republics-touadera-wins-third-presidential-term?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 23:55:53 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046449"
+      "fetched_at": "2026-01-06T08:30:23.755951"
     },
     {
       "id": "adad5b1f5bb8",
@@ -1392,7 +1464,7 @@
       "published": "Mon, 05 Jan 2026 23:55:52 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168503"
+      "fetched_at": "2026-01-06T08:30:23.183893"
     },
     {
       "id": "dad7b8cc1879",
@@ -1404,7 +1476,7 @@
       "published": "Mon, 05 Jan 2026 23:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686427"
+      "fetched_at": "2026-01-06T08:30:20.748503"
     },
     {
       "id": "c85ec68f94a2",
@@ -1416,7 +1488,7 @@
       "published": "Mon, 05 Jan 2026 23:26:52 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658347"
+      "fetched_at": "2026-01-06T08:30:23.863405"
     },
     {
       "id": "37d11ce188bf",
@@ -1428,7 +1500,7 @@
       "published": "Mon, 05 Jan 2026 23:26:52 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.199832"
+      "fetched_at": "2026-01-06T08:30:23.980258"
     },
     {
       "id": "bb08dd5b1bb3",
@@ -1440,7 +1512,7 @@
       "published": "Mon, 05 Jan 2026 23:26:42 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:12.780546"
+      "fetched_at": "2026-01-06T08:30:22.898139"
     },
     {
       "id": "c94a69b04c59",
@@ -1452,7 +1524,7 @@
       "published": "Mon, 05 Jan 2026 23:09:56 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686464"
+      "fetched_at": "2026-01-06T08:30:20.748537"
     },
     {
       "id": "7be8f59a7298",
@@ -1464,7 +1536,7 @@
       "published": "Mon, 05 Jan 2026 23:08:13 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.078425"
+      "fetched_at": "2026-01-06T08:30:21.174025"
     },
     {
       "id": "308803a8101a",
@@ -1476,7 +1548,7 @@
       "published": "Mon, 05 Jan 2026 23:05:32 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.768354"
+      "fetched_at": "2026-01-06T08:30:20.965743"
     },
     {
       "id": "90a6e0b4e9fb",
@@ -1488,19 +1560,7 @@
       "published": "Mon, 05 Jan 2026 23:05:12 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183266"
-    },
-    {
-      "id": "660490fb53ec",
-      "title": "Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’ - WIRED",
-      "description": "Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’&nbsp;&nbsp;WIREDNvidia unveils 'reasoning' AI technology for self-driving cars&nbsp;&nbsp;BBCNvidia launches Vera Rubin, its next major AI platform, at CES 2026&nbsp;&nbsp;Yahoo FinanceNvidia announces new, more powerful Vera R",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GUFNLdS02amRGWjMtUmpUeGNZRG1CQmRoMkdSYkZka2lOQmZhRTdOWURFTUZrRUJsckhzanZEUnZPM2NJQTBPY0h5WlJwWlZhRjk0WE9KZFE0cUdKeklqaGZveHhWX0IzR2Ezb3l3OWJGV1BfUy04M2ducGE5Sms?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 23:05:00 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-01-06T06:34:12.780742"
+      "fetched_at": "2026-01-06T08:30:23.128205"
     },
     {
       "id": "4d0a1889ca52",
@@ -1512,7 +1572,7 @@
       "published": "Mon, 05 Jan 2026 23:03:50 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658389"
+      "fetched_at": "2026-01-06T08:30:23.863447"
     },
     {
       "id": "3b020c9304b9",
@@ -1524,7 +1584,7 @@
       "published": "Mon, 05 Jan 2026 23:00:58 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196591"
+      "fetched_at": "2026-01-06T08:30:23.327682"
     },
     {
       "id": "8ed1e83a6f2b",
@@ -1536,7 +1596,7 @@
       "published": "Mon, 05 Jan 2026 23:00:04 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686497"
+      "fetched_at": "2026-01-06T08:30:20.748567"
     },
     {
       "id": "8508386bf812",
@@ -1548,19 +1608,19 @@
       "published": "Mon, 05 Jan 2026 23:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686527"
+      "fetched_at": "2026-01-06T08:30:20.748596"
     },
     {
-      "id": "423a3bff5418",
-      "title": "Hundreds of tourists stuck on Yemeni island as tensions simmer on mainland",
-      "description": "Hadramout governor says ports, airports will soon be in action after Saudi-backed forces ousted rebels from south.",
-      "url": "https://www.aljazeera.com/news/2026/1/5/hundreds-of-tourists-stuck-on-yemeni-island-as-tensions-simmer-on-mainland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 22:59:30 +0000",
-      "location": "World",
+      "id": "60cc424b8c25",
+      "title": "Canada's Chrystia Freeland to quit as MP and become adviser to Zelensky",
+      "description": "Freeland says she will exit parliament in \"the coming weeks\" as she becomes an economic development adviser for Kyiv.",
+      "url": "https://www.bbc.com/news/articles/c24gngzr4ero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bfd/live/f96fd290-ea6f-11f0-b385-5f48925de19a.jpg",
+      "published": "Mon, 05 Jan 2026 22:58:16 GMT",
+      "location": "Canada",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.046476"
+      "fetched_at": "2026-01-06T08:30:21.736552"
     },
     {
       "id": "c80f673338fe",
@@ -1572,7 +1632,7 @@
       "published": "Mon, 05 Jan 2026 22:54:41 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594418"
+      "fetched_at": "2026-01-06T08:30:23.755983"
     },
     {
       "id": "2c9426388b52",
@@ -1584,7 +1644,7 @@
       "published": "Mon, 05 Jan 2026 22:51:51 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168534"
+      "fetched_at": "2026-01-06T08:30:23.183924"
     },
     {
       "id": "861fb55bffe3",
@@ -1596,7 +1656,7 @@
       "published": "Mon, 05 Jan 2026 22:44:04 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.894003"
+      "fetched_at": "2026-01-06T08:30:21.042162"
     },
     {
       "id": "f45da0362c8f",
@@ -1608,7 +1668,7 @@
       "published": "Mon, 05 Jan 2026 22:38:41 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594454"
+      "fetched_at": "2026-01-06T08:30:23.756019"
     },
     {
       "id": "0b9d40b73a5e",
@@ -1620,7 +1680,7 @@
       "published": "Mon, 05 Jan 2026 22:19:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168564"
+      "fetched_at": "2026-01-06T08:30:23.183958"
     },
     {
       "id": "2a6e4a363b81",
@@ -1632,7 +1692,7 @@
       "published": "Mon, 05 Jan 2026 22:18:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:12.845225"
+      "fetched_at": "2026-01-06T08:30:22.828878"
     },
     {
       "id": "19d35d007f61",
@@ -1644,7 +1704,19 @@
       "published": "Mon, 05 Jan 2026 22:16:58 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686566"
+      "fetched_at": "2026-01-06T08:30:20.748628"
+    },
+    {
+      "id": "7598a3d3cc65",
+      "title": "Uncertainty looms in Cuba after the capture of president of Venezuela, Cuba's closest ally - CBC",
+      "description": "Uncertainty looms in Cuba after the capture of president of Venezuela, Cuba's closest ally&nbsp;&nbsp;CBCCuba says 32 of its officers were killed in U.S. raid on Venezuela&nbsp;&nbsp;CBCThirty-two Cubans killed during US attack on Venezuela&nbsp;&nbsp;BBCCubans worry about the future after U.S. capt",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1X1JYSkd6amFhbjJwUk1FQ2ZVNXpJWkFnMXRtQl9KZ2lXQzhFTGJ5c2lFTlNqQURrOVV6VW1QY3pvRkoxX0pUSGkyY05aZlk0WWIzcU9OZi1OTlZtZFlNcEROV0VXTlBQT1RyMlNaLS1qV19lZEo1dTlwd0E?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 22:15:37 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-01-06T08:30:22.724119"
     },
     {
       "id": "33240b76a011",
@@ -1656,7 +1728,7 @@
       "published": "Mon, 05 Jan 2026 22:14:33 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168594"
+      "fetched_at": "2026-01-06T08:30:23.183988"
     },
     {
       "id": "89cef7bb4999",
@@ -1668,7 +1740,7 @@
       "published": "Mon, 05 Jan 2026 22:12:56 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.916011"
+      "fetched_at": "2026-01-06T08:30:23.015866"
     },
     {
       "id": "f234beac243c",
@@ -1680,7 +1752,7 @@
       "published": "Mon, 05 Jan 2026 22:12:48 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594492"
+      "fetched_at": "2026-01-06T08:30:23.756056"
     },
     {
       "id": "767c9fec9c4c",
@@ -1692,7 +1764,7 @@
       "published": "Mon, 05 Jan 2026 22:12:19 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183292"
+      "fetched_at": "2026-01-06T08:30:23.128230"
     },
     {
       "id": "bcf608dfe4d7",
@@ -1704,7 +1776,7 @@
       "published": "Mon, 05 Jan 2026 22:05:49 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658424"
+      "fetched_at": "2026-01-06T08:30:23.863484"
     },
     {
       "id": "2ae97d49066d",
@@ -1716,7 +1788,7 @@
       "published": "Mon, 05 Jan 2026 22:04:14 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196621"
+      "fetched_at": "2026-01-06T08:30:23.327711"
     },
     {
       "id": "771b2367dfbd",
@@ -1728,7 +1800,7 @@
       "published": "Mon, 05 Jan 2026 22:01:51 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.368194"
+      "fetched_at": "2026-01-06T08:30:23.512351"
     },
     {
       "id": "59e209f26034",
@@ -1740,7 +1812,7 @@
       "published": "Mon, 05 Jan 2026 21:57:42 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.894038"
+      "fetched_at": "2026-01-06T08:30:21.042194"
     },
     {
       "id": "4ce92c534026",
@@ -1752,7 +1824,7 @@
       "published": "Mon, 05 Jan 2026 21:55:55 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686598"
+      "fetched_at": "2026-01-06T08:30:20.748656"
     },
     {
       "id": "ec854b291250",
@@ -1764,7 +1836,7 @@
       "published": "Mon, 05 Jan 2026 21:52:22 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686631"
+      "fetched_at": "2026-01-06T08:30:20.748687"
     },
     {
       "id": "e28918afc3f1",
@@ -1776,7 +1848,19 @@
       "published": "Mon, 05 Jan 2026 21:52:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.642076"
+      "fetched_at": "2026-01-06T08:30:23.539158"
+    },
+    {
+      "id": "4a38be6f550c",
+      "title": "‘A volatile White House’: What shaped responses to U.S.’s Venezuela attack? - Global News",
+      "description": "‘A volatile White House’: What shaped responses to U.S.’s Venezuela attack?&nbsp;&nbsp;Global NewsCuba defiant as it braces for post-Maduro era&nbsp;&nbsp;BBC‘It ought to provide a deterrent’: what US action in Venezuela means for Taiwan&nbsp;&nbsp;The GuardianMaduro’s capture is a blow to China. Bu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWEJOSWJsRHZjQnpxNmcyQ0JfNXZtaklOMjlxNG5fcXJBbFRQcG8wc2lxZFhXcFFCTERkWjF1SlN5ODlxQjdFcjRtaEZqTGxKM3FXczVSTWN5ZEpuNGpmckgwQ3l2NlhCX2FJbi1RUzlJRURjak9jOHoxR3hscW9VRVdCUVRDeHhh?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 21:48:53 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-01-06T08:30:22.723591"
     },
     {
       "id": "60193b63f94c",
@@ -1788,7 +1872,7 @@
       "published": "Mon, 05 Jan 2026 21:46:49 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.368239"
+      "fetched_at": "2026-01-06T08:30:23.512396"
     },
     {
       "id": "b461e225b970",
@@ -1800,19 +1884,19 @@
       "published": "Mon, 05 Jan 2026 21:45:34 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.199878"
+      "fetched_at": "2026-01-06T08:30:23.980304"
     },
     {
-      "id": "b80c05aa11f6",
-      "title": "Wall Street gains ground as crude prices and oil company stocks rise after the U.S. raid on Venezuela - BNN Bloomberg",
-      "description": "Wall Street gains ground as crude prices and oil company stocks rise after the U.S. raid on Venezuela&nbsp;&nbsp;BNN BloombergOpinion: Guns and oil: Trump’s global power with Venezuela’s reserves at his side will be formidable&nbsp;&nbsp;The Globe and MailDense, sticky and heavy: why Venezuelan crud",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzJxeXh2MlU0ZUE2NmFPZkI2OWtjOEFkV2k4aTUxY1E3REtiN19seWFJYV9GbUZjZC1EbTBvaWNYam90RW5UNkxqdFJoT2FkMEJIR0liN3NhekZSb09Vbjk0RG9rblB4c252Tl9Gd2NlV2NHMXNZNC1CbURKaE1DeHVWNmxZLXBwckFoZHlnVXJpSTVlenpsYlU3dXBzbTdmbHBkeklzdC1XNENvdDh6RWY3UllELWJL?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 21:41:07 GMT",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-01-06T06:34:12.780415"
+      "id": "dccfd619cca4",
+      "title": "Cuba defiant as it braces for post-Maduro era",
+      "description": "The prospects for Cuba - a close ally of Nicolás Maduro's Venezuela - are now bleak, writes the BBC's Will Grant.",
+      "url": "https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0428/live/4fd83570-ea78-11f0-b385-5f48925de19a.jpg",
+      "published": "Mon, 05 Jan 2026 21:41:36 GMT",
+      "location": "Vancouver",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.736365"
     },
     {
       "id": "d2ab7eec6a12",
@@ -1824,7 +1908,7 @@
       "published": "Mon, 05 Jan 2026 21:39:50 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.078354"
+      "fetched_at": "2026-01-06T08:30:21.173958"
     },
     {
       "id": "5e24a9845b8f",
@@ -1836,7 +1920,7 @@
       "published": "Mon, 05 Jan 2026 21:39:25 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.199950"
+      "fetched_at": "2026-01-06T08:30:23.980358"
     },
     {
       "id": "8b6b1ce28c78",
@@ -1848,7 +1932,7 @@
       "published": "Mon, 05 Jan 2026 21:37:14 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594519"
+      "fetched_at": "2026-01-06T08:30:23.756082"
     },
     {
       "id": "35d04e410c9a",
@@ -1860,7 +1944,7 @@
       "published": "Mon, 05 Jan 2026 21:36:06 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.916037"
+      "fetched_at": "2026-01-06T08:30:23.015891"
     },
     {
       "id": "2d43ea9e20b4",
@@ -1872,7 +1956,7 @@
       "published": "Mon, 05 Jan 2026 21:34:44 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-01-06T06:34:11.739346"
+      "fetched_at": "2026-01-06T08:30:21.346278"
     },
     {
       "id": "6650972a490b",
@@ -1884,7 +1968,7 @@
       "published": "Mon, 05 Jan 2026 21:33:45 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.200002"
+      "fetched_at": "2026-01-06T08:30:23.980410"
     },
     {
       "id": "f859ecb28743",
@@ -1896,7 +1980,7 @@
       "published": "Mon, 05 Jan 2026 21:29:45 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-06T06:34:10.800252"
+      "fetched_at": "2026-01-06T08:30:20.780603"
     },
     {
       "id": "55dd62076e02",
@@ -1908,19 +1992,7 @@
       "published": "Mon, 05 Jan 2026 21:26:13 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658455"
-    },
-    {
-      "id": "babb6a9b802a",
-      "title": "Danish prime minister says a US takeover of Greenland would mark the end of NATO",
-      "description": "COPENHAGEN, Denmark (AP) — Danish Prime Minister Mette Frederiksen said Monday an American takeover of Greenland would amount to the end of the NATO military alliance. Her comments came in response to U.S. President Donald Trump&#8217;s renewed call for the strategic, mineral-rich Arctic island to c",
-      "url": "https://vancouver.citynews.ca/2026/01/05/danish-prime-minister-says-a-us-takeover-of-greenland-would-mark-the-end-of-nato/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 21:23:46 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168640"
+      "fetched_at": "2026-01-06T08:30:23.863516"
     },
     {
       "id": "ebb63d28a1c2",
@@ -1932,7 +2004,19 @@
       "published": "Mon, 05 Jan 2026 21:23:46 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183341"
+      "fetched_at": "2026-01-06T08:30:23.128279"
+    },
+    {
+      "id": "babb6a9b802a",
+      "title": "Danish prime minister says a US takeover of Greenland would mark the end of NATO",
+      "description": "COPENHAGEN, Denmark (AP) — Danish Prime Minister Mette Frederiksen said Monday an American takeover of Greenland would amount to the end of the NATO military alliance. Her comments came in response to U.S. President Donald Trump&#8217;s renewed call for the strategic, mineral-rich Arctic island to c",
+      "url": "https://vancouver.citynews.ca/2026/01/05/danish-prime-minister-says-a-us-takeover-of-greenland-would-mark-the-end-of-nato/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 21:23:46 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-01-06T08:30:23.184035"
     },
     {
       "id": "18e2d7968969",
@@ -1944,19 +2028,7 @@
       "published": "Mon, 05 Jan 2026 21:23:46 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.368290"
-    },
-    {
-      "id": "e2042543eefb",
-      "title": "Danish prime minister says a US takeover of Greenland would mark the end of NATO",
-      "description": "COPENHAGEN, Denmark (AP) — Danish Prime Minister Mette Frederiksen said Monday an American takeover of Greenland would amount to the end of the NATO military alliance. Her comments came in response to U.S. President Donald Trump&#8217;s renewed call for the strategic, mineral-rich Arctic island to c",
-      "url": "https://calgary.citynews.ca/2026/01/05/danish-prime-minister-says-a-us-takeover-of-greenland-would-mark-the-end-of-nato/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 21:23:46 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658501"
+      "fetched_at": "2026-01-06T08:30:23.512446"
     },
     {
       "id": "82390284b97a",
@@ -1968,7 +2040,19 @@
       "published": "Mon, 05 Jan 2026 21:23:46 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773349"
+      "fetched_at": "2026-01-06T08:30:23.758216"
+    },
+    {
+      "id": "e2042543eefb",
+      "title": "Danish prime minister says a US takeover of Greenland would mark the end of NATO",
+      "description": "COPENHAGEN, Denmark (AP) — Danish Prime Minister Mette Frederiksen said Monday an American takeover of Greenland would amount to the end of the NATO military alliance. Her comments came in response to U.S. President Donald Trump&#8217;s renewed call for the strategic, mineral-rich Arctic island to c",
+      "url": "https://calgary.citynews.ca/2026/01/05/danish-prime-minister-says-a-us-takeover-of-greenland-would-mark-the-end-of-nato/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 21:23:46 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-01-06T08:30:23.863562"
     },
     {
       "id": "4024c2783623",
@@ -1980,7 +2064,7 @@
       "published": "Mon, 05 Jan 2026 21:23:46 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.200059"
+      "fetched_at": "2026-01-06T08:30:23.980465"
     },
     {
       "id": "438dd4a7a4a7",
@@ -1992,7 +2076,7 @@
       "published": "Mon, 05 Jan 2026 21:16:26 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.642105"
+      "fetched_at": "2026-01-06T08:30:23.539186"
     },
     {
       "id": "6646698c79c2",
@@ -2004,7 +2088,19 @@
       "published": "Mon, 05 Jan 2026 21:00:08 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-06T06:34:10.800297"
+      "fetched_at": "2026-01-06T08:30:20.780646"
+    },
+    {
+      "id": "b6a8cb3b56f1",
+      "title": "Opinion: We need to prepare for the possibility that the U.S. uses military coercion against Canada - The Globe and Mail",
+      "description": "Opinion: We need to prepare for the possibility that the U.S. uses military coercion against Canada&nbsp;&nbsp;The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWxRcEF5Q3FJN1huTDFISDdyOXQyTlk4eGRpeGdQa25HZVZVbGpIM05QRkNMajlURU5jTFhOLWF0SnE5bENUZGZmSGVoRUZDbGhJdFY5QlNrNlhXMkk5eWVtczgxekJpdXBTSEdVbS1ocDViQ3ZRdW9JMEtJaHpWN1pTTkpLWTFTSTI5OGVWRG0yczMzMURVZHZRX1VyODV1SUMzYUU5N2dNRHZMalFfaklzWQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 21:00:00 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-01-06T08:30:22.829012"
     },
     {
       "id": "f382ae95b9fa",
@@ -2016,7 +2112,7 @@
       "published": "Mon, 05 Jan 2026 21:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.768380"
+      "fetched_at": "2026-01-06T08:30:20.965795"
     },
     {
       "id": "331b7395eee8",
@@ -2028,7 +2124,7 @@
       "published": "Mon, 05 Jan 2026 20:57:24 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168672"
+      "fetched_at": "2026-01-06T08:30:23.184067"
     },
     {
       "id": "4918f430115a",
@@ -2040,7 +2136,7 @@
       "published": "Mon, 05 Jan 2026 20:54:13 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.168707"
+      "fetched_at": "2026-01-06T08:30:23.184101"
     },
     {
       "id": "509b502e8fde",
@@ -2052,31 +2148,19 @@
       "published": "Mon, 05 Jan 2026 20:54:12 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.621777"
-    },
-    {
-      "id": "ef47f98715c9",
-      "title": "Deposed Maduro pleads not guilty after capture in shock US attack on Venezuela",
-      "description": "President protests innocence in US court as countries at UN meeting condemn Donald Trump’s ‘crime of aggression’Venezuela crisis – latest updatesThe deposed Venezuelan president Nicolás Maduro pleaded not guilty to drugs, weapons and narco-terrorism charges on Monday, two days after his capture by U",
-      "url": "https://www.theguardian.com/us-news/2026/jan/05/maduro-pleads-not-guilty",
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/75f1135fd2a0a9113522ddd92aeddd4d1837417b/93_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=2ec9c99a7fc0ac74f7c433c8d35524d4",
-      "published": "Mon, 05 Jan 2026 20:53:02 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.194975"
+      "fetched_at": "2026-01-06T08:30:22.723895"
     },
     {
       "id": "883a07f98f44",
       "title": "CES 2026 highlights: 5 new gadgets you can already buy - Mashable",
-      "description": "CES 2026 highlights: 5 new gadgets you can already buy&nbsp;&nbsp;MashableWhat to expect from the annual Consumer Electronics Show: More AI, more robots&nbsp;&nbsp;The Globe and MailThe most interesting tech we saw on day one of CES&nbsp;&nbsp;CityNews HalifaxSelf-driving tech, AI take center stage ",
+      "description": "CES 2026 highlights: 5 new gadgets you can already buy&nbsp;&nbsp;MashableThe most interesting tech AP saw on Day 1 of CES&nbsp;&nbsp;Toronto StarWhat to expect from the annual Consumer Electronics Show: More AI, more robots&nbsp;&nbsp;The Globe and MailThe best tech announced at CES 2026 so far&nbs",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrMEdvTzE1RUFZS3hvc3JFX3RDbkgxNmtqQ2ZuMWc5RTVJSDZSaW5rbHRsVDFZUVBTQmFyUVROa2ZnVGd1UVIxMGFUdi00eVBjS3FBS1pyZ3F5NDRJamhKMzNMSkE1Z0RM?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 05 Jan 2026 20:49:14 GMT",
-      "location": "Halifax",
+      "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:12.780799"
+      "fetched_at": "2026-01-06T08:30:22.898567"
     },
     {
       "id": "5215d9b0b730",
@@ -2088,7 +2172,7 @@
       "published": "Mon, 05 Jan 2026 20:48:59 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:12.845325"
+      "fetched_at": "2026-01-06T08:30:22.828912"
     },
     {
       "id": "25f534541b3c",
@@ -2100,7 +2184,7 @@
       "published": "Mon, 05 Jan 2026 20:48:09 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-01-06T06:34:11.739398"
+      "fetched_at": "2026-01-06T08:30:21.346330"
     },
     {
       "id": "46c0ca7145be",
@@ -2112,7 +2196,7 @@
       "published": "Mon, 05 Jan 2026 20:47:24 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196649"
+      "fetched_at": "2026-01-06T08:30:23.327738"
     },
     {
       "id": "b88e58ed3fa1",
@@ -2124,7 +2208,7 @@
       "published": "Mon, 05 Jan 2026 20:43:19 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.894069"
+      "fetched_at": "2026-01-06T08:30:21.042225"
     },
     {
       "id": "7f82b4e83f1e",
@@ -2136,7 +2220,7 @@
       "published": "Mon, 05 Jan 2026 20:42:52 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183368"
+      "fetched_at": "2026-01-06T08:30:23.128304"
     },
     {
       "id": "df724244d3ed",
@@ -2148,7 +2232,7 @@
       "published": "Mon, 05 Jan 2026 20:42:22 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.594543"
+      "fetched_at": "2026-01-06T08:30:23.756112"
     },
     {
       "id": "a2fff3146977",
@@ -2160,7 +2244,7 @@
       "published": "Mon, 05 Jan 2026 20:36:28 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183401"
+      "fetched_at": "2026-01-06T08:30:23.128337"
     },
     {
       "id": "420fca38c12e",
@@ -2172,7 +2256,7 @@
       "published": "Mon, 05 Jan 2026 20:33:14 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-06T06:34:10.800344"
+      "fetched_at": "2026-01-06T08:30:20.780691"
     },
     {
       "id": "0af747e336ab",
@@ -2184,7 +2268,7 @@
       "published": "Mon, 05 Jan 2026 20:31:51 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686665"
+      "fetched_at": "2026-01-06T08:30:20.748718"
     },
     {
       "id": "dfc050a18dce",
@@ -2196,7 +2280,7 @@
       "published": "Mon, 05 Jan 2026 20:24:43 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.894095"
+      "fetched_at": "2026-01-06T08:30:21.042250"
     },
     {
       "id": "8857d2e01fbb",
@@ -2208,7 +2292,7 @@
       "published": "Mon, 05 Jan 2026 20:20:48 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.368338"
+      "fetched_at": "2026-01-06T08:30:23.512494"
     },
     {
       "id": "228f1e819d9b",
@@ -2220,7 +2304,7 @@
       "published": "Mon, 05 Jan 2026 20:17:04 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.894130"
+      "fetched_at": "2026-01-06T08:30:21.042284"
     },
     {
       "id": "211d06de1d78",
@@ -2232,7 +2316,7 @@
       "published": "Mon, 05 Jan 2026 20:11:48 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.068380"
+      "fetched_at": "2026-01-06T08:30:22.223255"
     },
     {
       "id": "55394dddb74e",
@@ -2244,7 +2328,7 @@
       "published": "Mon, 05 Jan 2026 20:03:25 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:12.780484"
+      "fetched_at": "2026-01-06T08:30:22.898057"
     },
     {
       "id": "0c2e289508bb",
@@ -2256,7 +2340,7 @@
       "published": "Mon, 05 Jan 2026 20:01:59 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-01-06T06:34:11.739443"
+      "fetched_at": "2026-01-06T08:30:21.346373"
     },
     {
       "id": "0a5259989622",
@@ -2268,7 +2352,7 @@
       "published": "Mon, 05 Jan 2026 20:00:03 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:12.195024"
+      "fetched_at": "2026-01-06T08:30:22.288636"
     },
     {
       "id": "e2c1ac75b368",
@@ -2280,7 +2364,7 @@
       "published": "Mon, 05 Jan 2026 19:54:11 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.068457"
+      "fetched_at": "2026-01-06T08:30:22.223326"
     },
     {
       "id": "c486b0d46fd2",
@@ -2292,7 +2376,7 @@
       "published": "Mon, 05 Jan 2026 19:50:19 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:12.845359"
+      "fetched_at": "2026-01-06T08:30:22.828944"
     },
     {
       "id": "19647432344c",
@@ -2304,7 +2388,7 @@
       "published": "Mon, 05 Jan 2026 19:48:59 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196679"
+      "fetched_at": "2026-01-06T08:30:23.327808"
     },
     {
       "id": "4b00534cb3ae",
@@ -2316,7 +2400,7 @@
       "published": "Mon, 05 Jan 2026 19:47:11 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.894159"
+      "fetched_at": "2026-01-06T08:30:21.042314"
     },
     {
       "id": "687b8b39c64f",
@@ -2328,19 +2412,7 @@
       "published": "Mon, 05 Jan 2026 19:40:57 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.642130"
-    },
-    {
-      "id": "9f5ccd213090",
-      "title": "Colombian Defence Minister dismisses Trump’s threats, says U.S. is not an enemy - The Globe and Mail",
-      "description": "Colombian Defence Minister dismisses Trump’s threats, says U.S. is not an enemy&nbsp;&nbsp;The Globe and MailWhich countries could be in Trump's sights after Venezuela?&nbsp;&nbsp;BBCColombian president says ‘I will take up arms again’ if US invades&nbsp;&nbsp;The GuardianColombia’s Petro promises t",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0FXR3FiUGpKYU9ZRXMtdldMb3FnWktBRWNTRFpLXzRmczNNaTMwcDBfSU1sQVVSeWZlTXM5TjRtV2VLVVFaTU0tUDM2VjBQN1QxcVJfc2NKOEU0eU0tZE5TQlpLWEpIMWtfRVNyNWxRUlMteUFGX2xtVVgxZUdXbXphdEV4SF9hWlNqd1RFRlk5c0tmWnhheE9YcGgtR2Z2cTAxeXhKSmF2ODRsR2UweUlFTWwtX1U?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 19:39:48 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.621987"
+      "fetched_at": "2026-01-06T08:30:23.539210"
     },
     {
       "id": "135faa58170b",
@@ -2352,7 +2424,7 @@
       "published": "Mon, 05 Jan 2026 19:35:52 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-01-06T06:34:11.895622"
+      "fetched_at": "2026-01-06T08:30:21.736422"
     },
     {
       "id": "3048ec60b8ff",
@@ -2364,7 +2436,7 @@
       "published": "Mon, 05 Jan 2026 19:27:01 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183434"
+      "fetched_at": "2026-01-06T08:30:23.128370"
     },
     {
       "id": "308c7f9a631a",
@@ -2376,7 +2448,7 @@
       "published": "Mon, 05 Jan 2026 19:27:01 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773390"
+      "fetched_at": "2026-01-06T08:30:23.758256"
     },
     {
       "id": "c5baf1fd1549",
@@ -2388,7 +2460,19 @@
       "published": "Mon, 05 Jan 2026 19:25:18 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183479"
+      "fetched_at": "2026-01-06T08:30:23.128414"
+    },
+    {
+      "id": "dd00fb9d92ac",
+      "title": "WestJet passenger shows just how little leg room there is on recent flight - Daily Hive Vancouver",
+      "description": "WestJet passenger shows just how little leg room there is on recent flight&nbsp;&nbsp;Daily Hive VancouverInfuriated WestJet passenger shows sardine-can seating in new planes: ‘You have to pay for the other leg’&nbsp;&nbsp;New York Post",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56R3gyS1oyUkh5Mkt1SGNjT2ZSbTBwSTlwOVFXSXhIeDhxNEQtQVl0Q2EtaUpRVFlJcWRDcnJPRVY3aVQ1eWRMY3ZYSjdZV2U4SzFVUUI2dzJVTDdUSGRuYkM2YmNvNEVuSkxj?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 19:21:00 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-01-06T08:30:22.898636"
     },
     {
       "id": "fec5dc1fd139",
@@ -2400,7 +2484,7 @@
       "published": "Mon, 05 Jan 2026 19:10:55 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.768401"
+      "fetched_at": "2026-01-06T08:30:20.965817"
     },
     {
       "id": "6e5899911bd9",
@@ -2412,7 +2496,7 @@
       "published": "Mon, 05 Jan 2026 19:06:46 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196707"
+      "fetched_at": "2026-01-06T08:30:23.327838"
     },
     {
       "id": "0987adffd902",
@@ -2424,7 +2508,7 @@
       "published": "Mon, 05 Jan 2026 19:01:21 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.368376"
+      "fetched_at": "2026-01-06T08:30:23.512532"
     },
     {
       "id": "e77433575f2b",
@@ -2436,7 +2520,7 @@
       "published": "Mon, 05 Jan 2026 19:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.768430"
+      "fetched_at": "2026-01-06T08:30:20.965845"
     },
     {
       "id": "31f0640db1b7",
@@ -2448,7 +2532,7 @@
       "published": "Mon, 05 Jan 2026 18:58:08 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773427"
+      "fetched_at": "2026-01-06T08:30:23.758293"
     },
     {
       "id": "1683bc1ddc82",
@@ -2460,19 +2544,7 @@
       "published": "Mon, 05 Jan 2026 18:57:43 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-01-06T06:34:11.739489"
-    },
-    {
-      "id": "d61a4691f8b5",
-      "title": "Hacktivist deletes white supremacist websites live onstage during hacker conference",
-      "description": "A hacker known as Martha Root broke in and deleted three white supremacist websites at the end of a talk during the annual hacker conference Chaos Communication Congress in Germany.",
-      "url": "https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 18:57:31 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.686694"
+      "fetched_at": "2026-01-06T08:30:21.346417"
     },
     {
       "id": "e6719e930899",
@@ -2484,7 +2556,7 @@
       "published": "Mon, 05 Jan 2026 18:46:36 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-01-06T06:34:10.894188"
+      "fetched_at": "2026-01-06T08:30:21.042342"
     },
     {
       "id": "5dbbdb0c1f8a",
@@ -2496,19 +2568,19 @@
       "published": "Mon, 05 Jan 2026 18:39:05 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773463"
+      "fetched_at": "2026-01-06T08:30:23.758329"
     },
     {
-      "id": "fcc26e0b7769",
-      "title": "Pentagon moves to punish Democratic Senator Mark Kelly over 'seditious video' - BBC",
-      "description": "Pentagon moves to punish Democratic Senator Mark Kelly over 'seditious video'&nbsp;&nbsp;BBCPentagon moves to cut Sen. Mark Kelly’s military retirement pay as punishment over ‘illegal orders’ video&nbsp;&nbsp;CNNHegseth’s Appalling Vengeance Campaign&nbsp;&nbsp;The AtlanticPete Hegseth issues formal",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51bFN3OUZXa3JIRHdJdlA1bjRkTF9La1Zrbjg2QlJtbFV0SmlSTDJabzdLTDh6Vnk0YzlLTXlzNlM2RkNmdTY3QkZrTU41UFdzakdxTjYtTkswd9IBX0FVX3lxTE5HRUp4dFh1QldkcGpHOEJKYTF6dXZmZjR5V0pneC1TUkVnQ0ZsSDhDSHBRT1NVdzU5dmVOT21aX1ZWUU1uQWdTT1k3Y25hUDlzRXBMNkxzcXlNSkFobzQ0?oc=5",
-      "source": "Google News Tech",
+      "id": "21ee24e57a03",
+      "title": "US-based multinational companies will be exempt from global tax deal - Yahoo! Finance Canada",
+      "description": "US-based multinational companies will be exempt from global tax deal&nbsp;&nbsp;Yahoo! Finance CanadaUS will be exempt from global tax deal targeting profits of large multinationals&nbsp;&nbsp;The GuardianOECD collapse will lock in countries’ tax losses to US firms&nbsp;&nbsp;Tax Justice NetworkOECD",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDJQMmF2d29DVWtCYTJ1dkQ5OWoyVlJ2UmZwbnJlRk5FQlBqZU1aRGdNczJQeVNVU3M5V2dzYTJYMGNCdjFxVEhMWW9FMUhONk9HS04yOGZiWmhMQnZMMTFVWFNORFR2b01FTDZTTGJTbWZLeFdjMnU5WE1xcGFIR1VuelZtd0FYckVPTWN0MTRpdw?oc=5",
+      "source": "Google News Business",
       "image": "",
-      "published": "Mon, 05 Jan 2026 18:29:11 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.622050"
+      "published": "Mon, 05 Jan 2026 18:35:28 GMT",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-01-06T08:30:22.898244"
     },
     {
       "id": "fc8d515e2ce5",
@@ -2520,19 +2592,7 @@
       "published": "Mon, 05 Jan 2026 18:29:11 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.916059"
-    },
-    {
-      "id": "85dfe67653c4",
-      "title": "Minto Apartment REIT going private with Crestpoint in $2.3-billion deal - Yahoo! Finance Canada",
-      "description": "Minto Apartment REIT going private with Crestpoint in $2.3-billion deal&nbsp;&nbsp;Yahoo! Finance CanadaView Full Coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPelhkaEtLbkVnVjhadGJsT1RaVkdJbmFKd2gtZjBWaDdJd2FyeWtESUJ0T044VTd4RkZHc1B5LWtWVmlqT3dDc2syYThtbUFEbXh4ZmhSb092dXU5OF9wbWRZV0RkblZiZWR2TjFITFZvMjZpMzB2YndrellVVUM1blVLeGxOWXVuOG13?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 18:27:47 GMT",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2026-01-06T06:34:12.780585"
+      "fetched_at": "2026-01-06T08:30:23.015912"
     },
     {
       "id": "b2076ebccb5d",
@@ -2544,7 +2604,7 @@
       "published": "Mon, 05 Jan 2026 18:23:28 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-01-06T06:34:11.739534"
+      "fetched_at": "2026-01-06T08:30:21.346459"
     },
     {
       "id": "1040417903fa",
@@ -2556,7 +2616,19 @@
       "published": "Mon, 05 Jan 2026 18:19:06 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.078330"
+      "fetched_at": "2026-01-06T08:30:21.173937"
+    },
+    {
+      "id": "c8a3cfc7adf0",
+      "title": "US attacking NATO ally to annex Greenland would be end of 'everything,' says Danish PM - Euronews.com",
+      "description": "US attacking NATO ally to annex Greenland would be end of 'everything,' says Danish PM&nbsp;&nbsp;Euronews.comUS attack on Greenland would mean end of Nato, says Danish PM&nbsp;&nbsp;The GuardianTrump’s Greenland Logic Spells Trouble for Europe and NATO&nbsp;&nbsp;Bloomberg.com'We need Greenland': T",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHYzaDRxM0g0WC11SjZDek5vc2QtMk9CdkttT1lNemdGdUNabEhYZFEzTWJzODhfOXI1RnZ4TTdFcmQxaWQzT3hnR0JkeFR6NDhvNE9pcW1vcUNsOVVWcmNuT20wTTdJNVJlUl9jYllfaHRWd3FlVFczN090Q2Ftd3BXUlk1LU4xNTkwWVVHRHBjeFNmZDVTWU9DeC1vTkVCbGd4dkRaQm5ISVFTNV9WVVBLblZYb3hwVnhJ?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 18:11:09 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-01-06T08:30:22.723768"
     },
     {
       "id": "658c008f3cb2",
@@ -2568,7 +2640,7 @@
       "published": "Mon, 05 Jan 2026 18:04:25 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.183504"
+      "fetched_at": "2026-01-06T08:30:23.128438"
     },
     {
       "id": "472c30971f9c",
@@ -2580,7 +2652,7 @@
       "published": "Mon, 05 Jan 2026 17:53:45 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.916080"
+      "fetched_at": "2026-01-06T08:30:23.015933"
     },
     {
       "id": "1cc70c1a7a8e",
@@ -2592,7 +2664,7 @@
       "published": "Mon, 05 Jan 2026 17:37:41 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196736"
+      "fetched_at": "2026-01-06T08:30:23.327868"
     },
     {
       "id": "d453d67403c0",
@@ -2604,7 +2676,7 @@
       "published": "Mon, 05 Jan 2026 17:30:38 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-01-06T06:34:11.739576"
+      "fetched_at": "2026-01-06T08:30:21.346501"
     },
     {
       "id": "952bf23e489f",
@@ -2616,7 +2688,7 @@
       "published": "Mon, 05 Jan 2026 17:22:58 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.916101"
+      "fetched_at": "2026-01-06T08:30:23.015952"
     },
     {
       "id": "b29d554b4e63",
@@ -2628,7 +2700,7 @@
       "published": "Mon, 05 Jan 2026 17:21:45 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196762"
+      "fetched_at": "2026-01-06T08:30:23.327895"
     },
     {
       "id": "5b29ffc15ebb",
@@ -2640,7 +2712,7 @@
       "published": "Mon, 05 Jan 2026 17:20:34 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658542"
+      "fetched_at": "2026-01-06T08:30:23.863602"
     },
     {
       "id": "c321d91fa982",
@@ -2652,7 +2724,7 @@
       "published": "Mon, 05 Jan 2026 17:18:07 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:15.916122"
+      "fetched_at": "2026-01-06T08:30:23.015972"
     },
     {
       "id": "99bcd6ebc0e3",
@@ -2664,7 +2736,7 @@
       "published": "Mon, 05 Jan 2026 17:03:12 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773496"
+      "fetched_at": "2026-01-06T08:30:23.758363"
     },
     {
       "id": "c6a069671522",
@@ -2676,7 +2748,19 @@
       "published": "Mon, 05 Jan 2026 16:27:35 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-01-06T06:34:10.800383"
+      "fetched_at": "2026-01-06T08:30:20.780727"
+    },
+    {
+      "id": "d2fefad0821d",
+      "title": "Winnipeg Jets ‘paying a little bit of a price’ for trading draft picks: GM - Global News",
+      "description": "Winnipeg Jets ‘paying a little bit of a price’ for trading draft picks: GM&nbsp;&nbsp;Global NewsJets frustrated with results after winning Presidents' Trophy last season&nbsp;&nbsp;NHL.comJets GM on season struggles&nbsp;&nbsp;CTV News3 Trade Targets To Help Winnipeg's Scoring Problems&nbsp;&nbsp;T",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGo3ZG1ydjZQOVZ5UHN0QTI5ampvaTRZSl9tOUR5WWR5bFc0MF82azhMQ3hGTWhPMDE2Vjl4dm5iRFFBd3pDdWYxRU9NWGk2Z3ctOEo3X3NWTTdlbndacmduTkoyUkc0MC1uSmpkcXZ5OXZocVNjZkVhYmdtTzVxbWR6VEIxU3VNaTg4Tmc3TnVabEljSEpnTHlVVUw?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 16:22:37 GMT",
+      "location": "Winnipeg",
+      "category": "sports",
+      "fetched_at": "2026-01-06T08:30:22.542246"
     },
     {
       "id": "199f27b61b21",
@@ -2688,7 +2772,7 @@
       "published": "Mon, 05 Jan 2026 16:15:59 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658569"
+      "fetched_at": "2026-01-06T08:30:23.863630"
     },
     {
       "id": "466704e6b73d",
@@ -2700,19 +2784,7 @@
       "published": "Mon, 05 Jan 2026 16:13:37 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.200105"
-    },
-    {
-      "id": "bb073a138f20",
-      "title": "‘That’s enough’: Greenland PM urges Trump to drop annex threats - CP24",
-      "description": "‘That’s enough’: Greenland PM urges Trump to drop annex threats&nbsp;&nbsp;CP24View Full Coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0c2RFQwdzQzVlpwSlRzM0NMOWtkZlVnMUFWRGdnOGNHZWUwSlVzS2FidmI4a3ZYXzJKZHA2R2NPR3c5X1hBRnlnTDRQMGtTdkhVS19jM2RKdlM5clc1WnpvMVRTa2V0RGljdmh2UU56b2Z0LVdrbk0weDVEZDBfOTBqQVFDdUFaU2QzV0xibnZQN2RvRjdMQkZPejZCcTBSMzYyc1Zn?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 16:12:48 GMT",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.621649"
+      "fetched_at": "2026-01-06T08:30:23.980511"
     },
     {
       "id": "beecc331bbed",
@@ -2724,19 +2796,43 @@
       "published": "Mon, 05 Jan 2026 16:11:09 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196787"
+      "fetched_at": "2026-01-06T08:30:23.327919"
+    },
+    {
+      "id": "55eac3f17889",
+      "title": "Ravens left facing harsh reality after disappointing season - TSN",
+      "description": "Ravens left facing harsh reality after disappointing season&nbsp;&nbsp;TSNLoop’s missed FG costs Ravens AFC North, ends season: ‘It just sucks’&nbsp;&nbsp;TSNAaron Rodgers’s Great Geezer Playoff Revival&nbsp;&nbsp;The Wall Street JournalRodgers fulfills Steelers' 'vision,' delivers AFC North&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb2YtMmhRMFQ1MFlRYTc1UlJWMklkbXNwSXN2ajVOM0xsM3ZmNGkyaWI0dmhsT1FqRkU4elJ1dTNrS2ZrelhWa0FVSlNKZ0dRcGkyZWZ5OGVISi1Ea2gyQlkzSlAtc0dsdWMxX3kyVVhURm1WQ0JHTkNrd1M4ektQZkxGdVpEeWxtZ3lEcWVKbV9sQnc2QlE?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 16:05:39 GMT",
+      "location": "Canada",
+      "category": "sports",
+      "fetched_at": "2026-01-06T08:30:22.542511"
+    },
+    {
+      "id": "084582b1cae4",
+      "title": "Minto Group, Crestpoint taking Minto Apt. REIT private in $2.3B transaction - RENX.ca",
+      "description": "Minto Group, Crestpoint taking Minto Apt. REIT private in $2.3B transaction&nbsp;&nbsp;RENX.caView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFdvdUMtblROcnpFTmJ0VDFJQ3J2Wmc0SlJMeDUwdmFkUW9rdkRSLUR5dDloRmVDWTd5YjkwNmI4NDYzeTZGMWVrdWtrbUxlOGVXN1ZielVkX1A4NnpGTl9MZXdBWWRVYktRaV9tWWlLQm0wSU9DSTFKUUw5eTE1b1FzRHJSNC1ITUFCWVlhZ2Q?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 05 Jan 2026 16:04:29 GMT",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-01-06T08:30:22.898177"
     },
     {
       "id": "6928cc8dbd31",
       "title": "OHL, CHL Mourn the Loss of David Branch, Transformative Commissioner and Hockey Visionary - Canadian Hockey League",
-      "description": "OHL, CHL Mourn the Loss of David Branch, Transformative Commissioner and Hockey Visionary&nbsp;&nbsp;Canadian Hockey LeagueDavid Branch, who built the foundation of Ontario junior hockey, dies at 77&nbsp;&nbsp;Toronto StarFormer OHL commissioner, CHL president Branch dead at 77&nbsp;&nbsp;TSNCommiss",
+      "description": "OHL, CHL Mourn the Loss of David Branch, Transformative Commissioner and Hockey Visionary&nbsp;&nbsp;Canadian Hockey LeagueView Full Coverage on Google News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTdRcnZxSUdJNWtYNDVHd0Izclh3V1M1VW81MmdTRUl2Q0RmNmNDNU9PdDY4d29xMl81Yk84M2tpM0t4SHVKemRHT0k1MlZ3ZGx5QXlXRmVBUXlkY25UZTc2NGIzTm1LZFB1QVgzV0ZJS2IxakZDRVhUSDhuMERFbzJkcmt6aUdjLS1nb0JPVHdjUFZQaHpRSnV1QzVERjZqUXp2N1VjX0JKVGEtcW1pbTJXaC1NQQ?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 05 Jan 2026 15:59:36 GMT",
-      "location": "Toronto",
+      "location": "Canada",
       "category": "sports",
-      "fetched_at": "2026-01-06T06:34:12.493630"
+      "fetched_at": "2026-01-06T08:30:22.542285"
     },
     {
       "id": "5c980b0490f1",
@@ -2748,7 +2844,7 @@
       "published": "Mon, 05 Jan 2026 15:57:36 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.658603"
+      "fetched_at": "2026-01-06T08:30:23.863665"
     },
     {
       "id": "c82950d2bb82",
@@ -2760,7 +2856,7 @@
       "published": "Mon, 05 Jan 2026 15:54:12 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-01-06T06:34:11.139732"
+      "fetched_at": "2026-01-06T08:30:25.233870"
     },
     {
       "id": "fef8c2eaa72f",
@@ -2772,7 +2868,7 @@
       "published": "Mon, 05 Jan 2026 15:32:22 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.196812"
+      "fetched_at": "2026-01-06T08:30:23.327944"
     },
     {
       "id": "9ffc182b8e35",
@@ -2784,7 +2880,7 @@
       "published": "Mon, 05 Jan 2026 15:30:20 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.078305"
+      "fetched_at": "2026-01-06T08:30:21.173914"
     },
     {
       "id": "a932393a12fc",
@@ -2796,7 +2892,7 @@
       "published": "Mon, 05 Jan 2026 15:26:51 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773540"
+      "fetched_at": "2026-01-06T08:30:23.758410"
     },
     {
       "id": "78a87f7c3bdc",
@@ -2808,31 +2904,31 @@
       "published": "Mon, 05 Jan 2026 15:26:51 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.200143"
+      "fetched_at": "2026-01-06T08:30:23.980548"
+    },
+    {
+      "id": "614e77ee1dc1",
+      "title": "Protests and US warnings shake Iran at its weakest point in years",
+      "description": "War with Israel, a battered economy, and the swift loss of allies have left Iran vulnerable in the face of mounting protests.",
+      "url": "https://www.bbc.com/news/articles/cn564q0vgvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/860f/live/9c8c3540-ea6b-11f0-a422-4ba8a094a8fa.jpg",
+      "published": "Mon, 05 Jan 2026 15:20:36 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-01-06T08:30:21.736573"
     },
     {
       "id": "b19dd3ca8650",
       "title": "Protests shake Iran at its weakest point in years - BBC",
-      "description": "Protests shake Iran at its weakest point in years&nbsp;&nbsp;BBCIran's Khamenei says 'rioters should be put in their place'&nbsp;&nbsp;CBCActivists say at least 29 people have been killed and 1,200 detained in Iran's ongoing economic protests&nbsp;&nbsp;CityNews HalifaxAt least 35 people, including ",
+      "description": "Protests shake Iran at its weakest point in years&nbsp;&nbsp;BBCActivists say at least 29 people have been killed and 1,200 detained in Iran's ongoing economic protests&nbsp;&nbsp;CityNews HalifaxAt least 35 people have been killed and 1,200 detained in Iran’s economic protests&nbsp;&nbsp;CTV NewsIr",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbGRZQ1RuUXluMHM3eWI3cmI3aHVLelpuQUMtS1pqYW5aQmdYSHQ0dE9wSHJPVWo1Vk9HeDdrRTZGNTVRV0JXS1pzaklIWGZkWml3dkpjVFdYQdIBX0FVX3lxTE5mQ2xDSmRZRnN3dVJGemZPUHBMZGk5R29mTzRmY2lWZlhFRXRTX0xPUkxKU1BDbVBKMXBhTFVaV1FudlJNQnNnSXJoM3lYNUhWOEt4dmZnVE9kSG1FUVVZ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 05 Jan 2026 15:20:36 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.621451"
-    },
-    {
-      "id": "ef3e5844548e",
-      "title": "Thirty-two Cubans killed during US attack on Venezuela",
-      "description": "Cuba's president said military and intelligence operatives were providing protection to captured leader Nicolás Maduro.",
-      "url": "https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/952a/live/cf102dd0-ea2c-11f0-b67b-690eb873de1b.jpg",
-      "published": "Mon, 05 Jan 2026 14:59:21 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:11.895699"
+      "fetched_at": "2026-01-06T08:30:22.723474"
     },
     {
       "id": "217c502251e5",
@@ -2844,19 +2940,7 @@
       "published": "Mon, 05 Jan 2026 14:58:11 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-01-06T06:34:10.768456"
-    },
-    {
-      "id": "fce646999a82",
-      "title": "The Least Sexy Stocks for 2026 (Don't Even Think About Buying These Unless You Want to Make Money) - The Motley Fool Canada",
-      "description": "The Least Sexy Stocks for 2026 (Don't Even Think About Buying These Unless You Want to Make Money)&nbsp;&nbsp;The Motley Fool CanadaThese Stocks Won Big Last Year and Are Still Excellent Buys for 2026&nbsp;&nbsp;Yahoo! Finance CanadaThese 2 Stocks Are the Top Opportunities on the TSX Today&nbsp;&nbs",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xV1V2SHRqZ053bFZ2UzRYblltakV1dmM0QW5FRFlERWZrNjd2ekNYaHo4ZU5lNkd2cFcyaTM0TUpiS1I4dmVYRWtRdUNYYjcwM3FYUDgxNEVNUHlDUVRpMkdzbXM?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 14:48:05 GMT",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2026-01-06T06:34:12.780854"
+      "fetched_at": "2026-01-06T08:30:20.965869"
     },
     {
       "id": "1038b516d2a8",
@@ -2868,7 +2952,7 @@
       "published": "Mon, 05 Jan 2026 14:44:43 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773579"
+      "fetched_at": "2026-01-06T08:30:23.758450"
     },
     {
       "id": "4ca0fb6ece1f",
@@ -2880,7 +2964,7 @@
       "published": "Mon, 05 Jan 2026 14:29:42 GMT",
       "location": "World",
       "category": "sports",
-      "fetched_at": "2026-01-06T06:34:12.493918"
+      "fetched_at": "2026-01-06T08:30:22.542549"
     },
     {
       "id": "53ba88a6fd5d",
@@ -2892,7 +2976,7 @@
       "published": "Mon, 05 Jan 2026 14:21:59 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773635"
+      "fetched_at": "2026-01-06T08:30:23.758507"
     },
     {
       "id": "2596a3a2ca04",
@@ -2904,7 +2988,7 @@
       "published": "Mon, 05 Jan 2026 14:21:59 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.200199"
+      "fetched_at": "2026-01-06T08:30:23.980604"
     },
     {
       "id": "180e2bc517d0",
@@ -2916,147 +3000,62 @@
       "published": "Mon, 05 Jan 2026 14:15:37 +0000",
       "location": "Calgary",
       "category": "business",
-      "fetched_at": "2026-01-06T06:34:11.078483"
-    },
-    {
-      "id": "44fb1b664dc7",
-      "title": "All 116 injured in Swiss ski resort fire identified",
-      "description": "Forty people were killed when a fire swept through a busy bar in Crans-Montana on New Year's Eve.",
-      "url": "https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02ae/live/78c311f0-ea62-11f0-a422-4ba8a094a8fa.jpg",
-      "published": "Mon, 05 Jan 2026 14:12:19 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:11.895723"
-    },
-    {
-      "id": "b3b64cc6c1fb",
-      "title": "All 116 injured in Swiss ski resort fire identified - BBC",
-      "description": "All 116 injured in Swiss ski resort fire identified&nbsp;&nbsp;BBCAll 40 victims of Swiss New Year's Eve bar fire now identified, police say&nbsp;&nbsp;CBCSkiers create heart-shaped tribute for Switzerland fire victims&nbsp;&nbsp;BBCOpinion | Lessons of Switzerland’s Crans-Montana Fire&nbsp;&nbsp;Th",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3MjVKOW9sbXBDNWlPZENZdjNnVWJSaXdFMXh0cEIyWUUwS2t5TkE4QU1NdG5TTk4tS19aZkV5eEVxQkhUMnl2elZLUFYzdXY0c0MweDgtQUFlUdIBX0FVX3lxTE01WVg5eFhIellQT2ZvZ0JxYjlCZFFFdEtaYV9IWl9HZ3g3NTBxOWtBLS1RaEdaajVTR3JuZGgxZ0RsTUpjYW1JX0ZoOXFEejYzMFU4OE1ZQTRRbVZFLXNz?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 14:12:19 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-01-06T06:34:12.621837"
-    },
-    {
-      "id": "361a0106b200",
-      "title": "Zelenskyy replaces Ukraine’s security chief and hires a Canadian economic adviser",
-      "description": "KYIV, Ukraine (AP) — President Volodymyr Zelenskyy replaced the head of Ukraine’s security service Monday, continuing a top-level reshuffle ahead of a trip to Paris where he hoped to finalize agreements with allies on how to ensure that Russia doesn’t repeat its invasion if a peace agreement is sign",
-      "url": "https://ottawa.citynews.ca/2026/01/05/zelenskyy-replaces-ukraines-security-chief-ahead-of-paris-talks/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 14:12:02 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773685"
-    },
-    {
-      "id": "e281ebf4cd57",
-      "title": "Zelenskyy replaces Ukraine’s security chief ahead of Paris talks",
-      "description": "KYIV, Ukraine (AP) — President Volodymyr Zelenskyy replaced the head of Ukraine’s security service Monday, continuing a top-level reshuffle ahead of a trip to Paris where he hoped to finalize agreements with allies on how to ensure that Russia doesn’t repeat its invasion if a peace agreement is sign",
-      "url": "https://edmonton.citynews.ca/2026/01/05/zelenskyy-replaces-ukraines-security-chief-ahead-of-paris-talks/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 14:12:02 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-01-06T06:34:14.200248"
-    },
-    {
-      "id": "1226067f1211",
-      "title": "'We need Greenland': Trump repeats threat to annex Danish territory",
-      "description": "The US president has repeatedly said he wants the island to become a part of the US.",
-      "url": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/b80291e0-ea1e-11f0-b67b-690eb873de1b.jpg",
-      "published": "Mon, 05 Jan 2026 14:07:49 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-01-06T06:34:11.895812"
-    },
-    {
-      "id": "f04af9359c3e",
-      "title": "Swiss police identify all 116 people injured in deadly New Year’s bar fire",
-      "description": "CRANS-MONTANA, Switzerland (AP) — Swiss police said Monday they&#8217;ve identified all the people who were injured in the fire that tore through a New Year&#8217;s celebration in a crowded bar. They put the total at 116, more than two-thirds still in hospitals. Authorities had previously given a fi",
-      "url": "https://ottawa.citynews.ca/2026/01/05/swiss-police-identify-all-116-people-injured-in-deadly-new-years-bar-fire/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Mon, 05 Jan 2026 14:05:42 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-01-06T06:34:13.773728"
-    },
-    {
-      "id": "88d18679f4cc",
-      "title": "Chrystia Freeland will quit as MP, accept Zelenskyy advisor position",
-      "description": "Freeland has said Ukraine could become an economic juggernaut by taking up the opportunities it missed after the collapse of the Soviet Union.",
-      "url": "https://globalnews.ca/news/11599430/ukraine-zelenskyy-chrystia-freeland-economic-advisor/",
-      "source": "Global Politics",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/01/Freeland-Ukraine-advisor.jpg?quality=65&strip=all",
-      "published": "Mon, 05 Jan 2026 14:04:16 +0000",
-      "location": "World",
-      "category": "politics",
-      "fetched_at": "2026-01-06T06:34:10.647349"
+      "fetched_at": "2026-01-06T08:30:21.174079"
     }
   ],
   "sources": [
-    "Montreal Gazette",
-    "Ottawa Citizen",
-    "CityNews Ottawa",
-    "Al Jazeera",
-    "Science Daily",
-    "Google News Business",
-    "TechCrunch",
-    "Edmonton Journal",
-    "Global News",
-    "Globe Business",
-    "National Post",
-    "CityNews Vancouver",
+    "The Guardian",
     "BBC World",
-    "APTN News",
-    "CNN World",
-    "Google News Tech",
     "CityNews Edmonton",
-    "Google News Canada",
+    "Edmonton Journal",
+    "CityNews Montreal",
     "BetaKit",
     "National Post Politics",
-    "CityNews Calgary",
-    "Vancouver Sun",
-    "CityNews Montreal",
-    "Global Politics",
-    "CityNews Toronto",
-    "Calgary Sun",
     "Financial Post",
+    "National Post",
+    "CityNews Vancouver",
+    "Globe Business",
+    "Calgary Sun",
+    "Al Jazeera",
+    "Google News Sports",
+    "Global News",
+    "Ottawa Citizen",
+    "Vancouver Sun",
+    "Google News Canada",
+    "Montreal Gazette",
+    "CityNews Calgary",
+    "CNN World",
     "Wired",
-    "The Guardian",
-    "Google News Sports"
+    "Google News Tech",
+    "CityNews Ottawa",
+    "Science Daily",
+    "APTN News",
+    "Google News Business",
+    "CityNews Toronto",
+    "TechCrunch",
+    "Global Politics"
   ],
   "stats": {
     "by_location": {
-      "Canada": 34,
+      "Canada": 35,
       "World": 134,
+      "Vancouver": 21,
       "Calgary": 11,
-      "Vancouver": 20,
-      "Edmonton": 15,
+      "Edmonton": 14,
       "Ottawa": 9,
       "Montreal": 13,
       "Toronto": 9,
-      "Winnipeg": 4,
-      "Halifax": 1
+      "Winnipeg": 4
     },
     "by_category": {
-      "politics": 10,
-      "local": 105,
-      "world": 32,
+      "politics": 9,
+      "local": 102,
+      "world": 35,
       "indigenous": 6,
-      "business": 26,
+      "business": 27,
+      "technology": 28,
       "canada": 29,
       "sports": 8,
-      "technology": 28,
       "science": 6
     },
     "source_count": 30
