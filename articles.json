@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T07:03:05.010548",
+  "last_updated": "2026-02-03T08:48:03.887485",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 28 Jan 2026 12:00:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.623404"
+      "fetched_at": "2026-02-03T08:36:06.845516"
     },
     {
       "id": "cb2d4d7dc01b",
@@ -24,7 +24,7 @@
       "published": "Wed, 28 Jan 2026 12:00:30 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.623445"
+      "fetched_at": "2026-02-03T08:36:06.845550"
     },
     {
       "id": "ff54f6491aca",
@@ -36,7 +36,7 @@
       "published": "Tue, 27 Jan 2026 12:00:26 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.623487"
+      "fetched_at": "2026-02-03T08:36:06.845589"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -48,7 +48,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.569693"
+      "fetched_at": "2026-02-03T08:36:05.814511"
     },
     {
       "id": "05ea19344a14",
@@ -60,19 +60,223 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.569749"
+      "fetched_at": "2026-02-03T08:36:05.814565"
     },
     {
-      "id": "0dcb82ae9287",
-      "title": "Ambani, Adani Group Shares Surge After US-India Trade Deal",
-      "description": "Flagship firms of billionaires Mukesh Ambani and Gautam Adani surged after India and the US announced a much-awaited trade pact, easing months of geopolitical tensions.",
-      "url": "https://financialpost.com/pmn/business-pmn/ambani-adani-group-shares-surge-after-us-india-trade-deal",
+      "id": "bfa9efd70e2d",
+      "title": "Rape trial begins for son of Norway's crown princess in tense moment for royal family",
+      "description": "Marius Borg Høiby is accused of 38 charges including four counts of rape in one of the biggest cases in Norway for years.",
+      "url": "https://www.bbc.com/news/articles/ckgn8dnxjgwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0581/live/cb17b6c0-0062-11f1-a8b8-bdd2c5f9bcad.jpg",
+      "published": "Tue, 03 Feb 2026 08:32:46 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-03T08:36:05.706797"
+    },
+    {
+      "id": "be9a0870d382",
+      "title": "French Inflation Rate Unexpectedly Sinks to Five-Year Low",
+      "description": "French inflation unexpectedly eased to a five-year low, staying well short of the European Central Bank’s 2% target as energy prices fell.",
+      "url": "https://financialpost.com/pmn/business-pmn/french-inflation-rate-unexpectedly-sinks-to-five-year-low",
       "source": "Financial Post",
       "image": "",
-      "published": "Tue, 03 Feb 2026 06:32:18 +0000",
+      "published": "Tue, 03 Feb 2026 08:30:15 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.537664"
+      "fetched_at": "2026-02-03T08:36:05.149428"
+    },
+    {
+      "id": "5ea0ad353b8d",
+      "title": "Snowflake Delivers Semantic View Autopilot as the Foundation for Trusted, Scalable Enterprise-Ready AI",
+      "description": "With Semantic View Autopilot, organizations including eSentire, HiBob, Simon AI, and VTS can ensure that AI agents operate on the same trusted business metrics, while cutting semantic model creation from days to minutes Customers like World Kinect can leverage natural language prompts from Cortex Co",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-delivers-semantic-view-autopilot-as-the-foundation-for-trusted-scalable-enterprise-ready-ai",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 08:21:16 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:05.149473"
+    },
+    {
+      "id": "be1e4c5162d1",
+      "title": "Snowflake Unveils Cortex Code, An AI Coding Agent That Drastically Increases Productivity by Understanding Your Enterprise Data Context",
+      "description": "Cortex Code, Snowflake’s AI coding agent, helps customers like Braze, Decile, dentsu, FYUL, LendingTree, Shelter Mutual Insurance, TextNow, United Rentals, and WHOOP perform complex data engineering, analytics, machine learning, and agent-building tasks in simple, natural language Cortex Code CLI ma",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-unveils-cortex-code-an-ai-coding-agent-that-drastically-increases-productivity-by-understanding-your-enterprise-data-context",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 08:10:42 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:05.149523"
+    },
+    {
+      "id": "a4d8f348959b",
+      "title": "Snowflake Makes Enterprise Data AI-Ready With Snowflake Postgres and Advanced Innovations for Open Data Interoperability",
+      "description": "Leading enterprises including BlueCloud and Sigma Computing will rely on Snowflake Postgres to reduce data silos and complex data pipelines for AI and analytics use cases Snowflake Horizon Catalog helps customers like Merck and Motorq access and govern data across different systems and formats with ",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snowflake-makes-enterprise-data-ai-ready-with-snowflake-postgres-and-advanced-innovations-for-open-data-interoperability",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 08:10:15 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:05.149563"
+    },
+    {
+      "id": "2310f1e50f9c",
+      "title": "Corona Cero Unveils Global Roster of Athlete Ambassadors to Champion TIME CERO at Milano Cortina 2026",
+      "description": "A First-of-Its-Kind Initiative, In Partnership with International Olympics Committee (IOC), TIME CERO Empowers Athletes to Unwind, Recharge, and Celebrate the Moment Corona Cero Invites Fans to Celebrate Together in Italy with Corona Hotel, Casa Corona, and Other Immersive Activities MILAN &#8212; C",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/corona-cero-unveils-global-roster-of-athlete-ambassadors-to-champion-time-cero-at-milano-cortina-2026",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 08:09:55 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:05.149610"
+    },
+    {
+      "id": "1551d23f6661",
+      "title": "Palestinians return to Gaza after limited Rafah crossing reopening",
+      "description": "Palestinians have reunited with loved ones in Gaza after Israel allowed a partial reopening of the Rafah crossing.",
+      "url": "https://www.aljazeera.com/video/2026/2/3/palestinians-return-to-gaza-after-limited-rafah-crossing-reopening?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 08:07:42 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-03T08:36:05.598711"
+    },
+    {
+      "id": "43dde579eaea",
+      "title": "Trump announces plan to sue Harvard for $1bn damages",
+      "description": "The US president writes on Truth Social that he wants &#039;nothing further to do, into the future&#039; with the university.",
+      "url": "https://www.aljazeera.com/news/2026/2/3/trump-announces-plan-to-sue-harvard-for-1bn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 08:07:35 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-03T08:36:05.598746"
+    },
+    {
+      "id": "75500e00eb2a",
+      "title": "New Earth Resources Welcomes Jack Lifton as Advisor to the Company",
+      "description": "Vancouver, British Columbia, Feb. 03, 2026 (GLOBE NEWSWIRE) &#8212; NEW EARTH RESOURCES CORP. (CSE: EATH) (“New Earth” or the “Company”) is pleased to announce the appointment of Jack Lifton as an advisor to the Company. Mr. Lifton is a globally recognized consultant in the natural resources sector,",
+      "url": "https://financialpost.com/globe-newswire/new-earth-resources-welcomes-jack-lifton-as-advisor-to-the-company",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 08:05:51 +0000",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:05.149646"
+    },
+    {
+      "id": "da8f25bb7a33",
+      "title": "New Jabra expandable room solutions give every participant a front-row meeting experience",
+      "description": "Jabra’s new PanaCast 55 VBS, PanaCast SpeakerMic and PanaCast Room Kits create a new portfolio of expandable room solutions that deliver a unified, scalable video collaboration system that adapts to your meeting room needs LOWELL, Mass., Feb. 03, 2026 (GLOBE NEWSWIRE) &#8212; Jabra today announces n",
+      "url": "https://financialpost.com/globe-newswire/new-jabra-expandable-room-solutions-give-every-participant-a-front-row-meeting-experience",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 08:00:57 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:05.149688"
+    },
+    {
+      "id": "adf412df71ae",
+      "title": "Oil prices fall on apparent easing global tensions, taking Canadian producers, drivers along for ride",
+      "description": "'The U.S. and Iran are talking, and so that's reducing fears in the market that the U.S. is going to intervene more aggressively in Iran'",
+      "url": "https://edmontonjournal.com/news/local-news/oil-prices-fall-easing-global-tensions-canadian-producers",
+      "source": "Edmonton Journal",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 08:00:06 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-02-03T08:36:07.207180"
+    },
+    {
+      "id": "18d93679d429",
+      "title": "Uruguay President Orsi deepens ties with China’s Xi despite Trump threats",
+      "description": "Yamandu Orsi is the first Latin American leader to visit China since the US abducted Venezuela&#039;s Nicolas Maduro.",
+      "url": "https://www.aljazeera.com/news/2026/2/3/uruguay-president-orsi-deepens-ties-with-chinas-xi-despite-trump-threats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 07:50:15 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-03T08:36:05.598779"
+    },
+    {
+      "id": "6068142833cb",
+      "title": "LEADING EDGE MATERIALS’ PROGRESS UPDATE ON ROMANIAN EXPLORATION PROJECT",
+      "description": "LEADING EDGE MATERIALS’ PROGRESS UPDATE ON ROMANIAN EXPLORATION PROJECT 2025 exploration campaign identifies significant areas of mineralisation underground in Valea Leucii, Dibarz and Avram Iancu, and wider potential across the exploration licence. Underground development mapping and sampling data ",
+      "url": "https://financialpost.com/globe-newswire/leading-edge-materials-progress-update-on-romanian-exploration-project",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 07:35:20 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:05.149730"
+    },
+    {
+      "id": "457a0cc5c3c8",
+      "title": "India’s Top Adviser Sees Growth Beating Forecast After US Deal",
+      "description": "India’s economy could grow even faster than the government’s earlier forecast after the US substantially lowered tariffs on Indian goods, the country’s chief economic adviser said.",
+      "url": "https://financialpost.com/pmn/business-pmn/indias-top-adviser-sees-growth-beating-forecast-after-us-deal",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 07:33:35 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:05.149762"
+    },
+    {
+      "id": "593258d64a46",
+      "title": "Record-breaking snow blankets Japan, killing at least 30 people",
+      "description": "Japan deploys troops to help residents and warns people to watch for avalanches and snow falling from roofs.",
+      "url": "https://www.aljazeera.com/news/2026/2/3/record-breaking-snow-blankets-japan-killing-at-least-30-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 07:29:57 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-03T08:36:05.598806"
+    },
+    {
+      "id": "cbb00e62b5ca",
+      "title": "U.S. and Iran plan talks in Istanbul, as Trump warns of ‘bad things’ - The Washington Post",
+      "description": "U.S. and Iran plan talks in Istanbul, as Trump warns of ‘bad things’&nbsp;&nbsp;The Washington PostIran’s president says Tehran ready to pursue ‘fair’ talks with US&nbsp;&nbsp;The GuardianIran conditionally agrees to nuclear talks with US, first since Trump’s military strikes last summer&nbsp;&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkQtSzRWUTZjT1A2VUNjenRMcXdxbjRjU0gtQkw3dGEwTmttaHE2UjU3eTA2TFQ1Tm5VSzN5eGtmTWtCaTdxVDJCYkxaR0sxODIwcTZVci1qRHVFM1R6bC1pWHJvbjZSb3otSlZHNlBKSnQzZDM4WHkzcmc2dk1Qb2xnM3U4b29sbnlCODNTejdvX0w5b0lYeXhOTQ?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 07:29:19 GMT",
+      "location": "Toronto",
+      "category": "technology",
+      "fetched_at": "2026-02-03T08:36:06.179295"
+    },
+    {
+      "id": "90267c09571a",
+      "title": "Copenhagen Infrastructure Partners acquires Ørsted’s European onshore business",
+      "description": "The acquisition marks a significant milestone for its fifth flagship fund, CI V, managed by Copenhagen Infrastructure Partners, as it further strengthens its European portfolio and its position as a leading fund within energy infrastructure and onshore renewables COPENHAGEN, Denmark, Feb. 03, 2026 (",
+      "url": "https://financialpost.com/globe-newswire/copenhagen-infrastructure-partners-acquires-orsteds-european-onshore-business",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 07:04:33 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:05.149800"
+    },
+    {
+      "id": "3c23980aa692",
+      "title": "Trickle of Palestinians get to leave, enter Gaza as Rafah crossing reopens",
+      "description": "Only 12 Palestinians entered Gaza through Rafah while five patients and their escorts were allowed to leave for Egypt.",
+      "url": "https://www.aljazeera.com/news/2026/2/3/trickle-of-palestinians-get-to-leave-enter-gaza-as-rafah-crossing-reopens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 06:41:44 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-03T08:36:05.598834"
     },
     {
       "id": "613f52d942ff",
@@ -84,7 +288,7 @@
       "published": "Tue, 03 Feb 2026 06:24:33 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.451997"
+      "fetched_at": "2026-02-03T08:36:05.598862"
     },
     {
       "id": "1f92c3ad9627",
@@ -96,43 +300,7 @@
       "published": "Tue, 03 Feb 2026 06:20:50 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.452035"
-    },
-    {
-      "id": "cbb00e62b5ca",
-      "title": "U.S. and Iran plan talks in Istanbul, as Trump warns of ‘bad things’ - The Washington Post",
-      "description": "U.S. and Iran plan talks in Istanbul, as Trump warns of ‘bad things’&nbsp;&nbsp;The Washington PostIran’s top diplomat says government is ready for talks with US on a nuclear deal&nbsp;&nbsp;The GuardianIran’s president seeks ‘fair and equitable negotiations’ with the United States&nbsp;&nbsp;CityNe",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkQtSzRWUTZjT1A2VUNjenRMcXdxbjRjU0gtQkw3dGEwTmttaHE2UjU3eTA2TFQ1Tm5VSzN5eGtmTWtCaTdxVDJCYkxaR0sxODIwcTZVci1qRHVFM1R6bC1pWHJvbjZSb3otSlZHNlBKSnQzZDM4WHkzcmc2dk1Qb2xnM3U4b29sbnlCODNTejdvX0w5b0lYeXhOTQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 06:02:04 GMT",
-      "location": "Halifax",
-      "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.984290"
-    },
-    {
-      "id": "bfa9efd70e2d",
-      "title": "Son of Norway's crown princess goes on trial in tense moment for royal family",
-      "description": "Marius Borg Høiby is accused of 38 charges including four counts of rape in one of the biggest cases in Norway for years.",
-      "url": "https://www.bbc.com/news/articles/ckgn8dnxjgwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0581/live/cb17b6c0-0062-11f1-a8b8-bdd2c5f9bcad.jpg",
-      "published": "Tue, 03 Feb 2026 06:01:18 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.392735"
-    },
-    {
-      "id": "b92b225ea8a7",
-      "title": "Letters: Canada's trade deal with China is concerning - Delta Optimist",
-      "description": "Letters: Canada's trade deal with China is concerning&nbsp;&nbsp;Delta Optimist",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUtVLUctcWVyQTh4ekdwVFJ2S3hkeFRmQ2dOVTBMMkQ1ZUJJaUNuRUt3M2thMWdCNFAwb3FHV0hnTGhRWkdwZnktRmxYVTBaT0hHc0dXSWVfVnlxQTlqRnpQSGxaYzUzNEF5LWtlVUtaMnZONWRHTVdqdGhiT3pGRDgyRVZqZjh5NkNXb090Y1VoUXlJUmhjLUR2X05JWEN1?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 06:00:00 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-02-03T06:51:23.170093"
+      "fetched_at": "2026-02-03T08:36:05.598888"
     },
     {
       "id": "05b56d8c33da",
@@ -144,7 +312,7 @@
       "published": "Tue, 03 Feb 2026 05:50:55 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482327"
+      "fetched_at": "2026-02-03T08:36:06.657897"
     },
     {
       "id": "a0d1659a5076",
@@ -156,7 +324,7 @@
       "published": "Tue, 03 Feb 2026 05:49:32 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294212"
+      "fetched_at": "2026-02-03T08:36:04.202883"
     },
     {
       "id": "9b26cfe7b4d4",
@@ -168,7 +336,7 @@
       "published": "Tue, 03 Feb 2026 05:31:22 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.452068"
+      "fetched_at": "2026-02-03T08:36:05.598933"
     },
     {
       "id": "5a09d2c91044",
@@ -180,7 +348,31 @@
       "published": "Tue, 03 Feb 2026 05:08:07 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565179"
+      "fetched_at": "2026-02-03T08:36:12.856614"
+    },
+    {
+      "id": "bd3dbdd7b08b",
+      "title": "Instant Reaction: Öhgren-Blueger-Garland line stand out in Canucks’ 6-2 loss to Mammoth - Canucks Army",
+      "description": "Instant Reaction: Öhgren-Blueger-Garland line stand out in Canucks’ 6-2 loss to Mammoth&nbsp;&nbsp;Canucks ArmyCanucks at Mammoth projected lineups&nbsp;&nbsp;NHL.comCanucks Takeaways: Ohgren a bright spot in otherwise listless loss&nbsp;&nbsp;Sportsnet.caNick Schmaltz nets hat trick as Mammoth over",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDdwcHJIZGlHMVV2bVRmXzAtUjhIbkpZM3VMZUd5eC1vRUE0TVFKOFFsRkZtZzZDNFlCYXI1TTQwM3k0Q282VmVIUGJxQ1l2OGp1WldiMVhReko5ZnFMN1FTTFZScmdrWjA5QkFHYU1DUkpibVVoR0VURzdRNjloUE9acnJBOUtBLU1tOTZONS16NC1ZUWZDY2dzMmtwb0J0aDBZWmdGX1YxWGZObkpnYUdESDVQcmE3VFhVbzFVSG9RaFU?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 05:06:00 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-02-03T08:36:06.289026"
+    },
+    {
+      "id": "c4d642657418",
+      "title": "'There are no words': Three Southern Alberta Mustangs junior hockey players killed in crash - Calgary Herald",
+      "description": "'There are no words': Three Southern Alberta Mustangs junior hockey players killed in crash&nbsp;&nbsp;Calgary Herald3 junior hockey players killed in collision south of Calgary&nbsp;&nbsp;Global News'Heartbreaking day' for hockey community after 3 junior players killed in Alberta crash&nbsp;&nbsp;C",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUpSbjZ3NjgxSG1uWXNFV1ZHc0V1c1kzbkQ2bXZxSkJ0U0xUbWhrbW04RG9IUG5YNGhLRE1kdVloMXNvQzFYYS1YbkpmNEZWWWViTXp0Slo2NTAwbENUZDRyZTFVcXRpMmpLZ1J0c2FCSzFzcUllb1hJWVZwbDZOV2tqaUs2OG1HYktEOVB3a2xuY0EyUnFJem9JdGJiRjAxdmY2c0hCclU?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 05:03:45 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-02-03T08:36:06.288648"
     },
     {
       "id": "865fc96918ef",
@@ -192,7 +384,7 @@
       "published": "Tue, 03 Feb 2026 04:47:14 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.452096"
+      "fetched_at": "2026-02-03T08:36:05.598965"
     },
     {
       "id": "9782a73322e1",
@@ -204,7 +396,7 @@
       "published": "Tue, 03 Feb 2026 04:32:17 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.053996"
+      "fetched_at": "2026-02-03T08:36:06.318027"
     },
     {
       "id": "4ff441f47598",
@@ -216,7 +408,7 @@
       "published": "Tue, 03 Feb 2026 04:29:33 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024152"
+      "fetched_at": "2026-02-03T08:36:07.207229"
     },
     {
       "id": "0c754dbff0ce",
@@ -228,31 +420,7 @@
       "published": "Tue, 03 Feb 2026 04:25:21 +0000",
       "location": "Winnipeg",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294252"
-    },
-    {
-      "id": "48e4235a283e",
-      "title": "Rand Is Undervalued Even After Year-Long Rally, Survey Shows",
-      "description": "South Africa’s rand is undervalued at current levels, according to a survey of investors and economists, who see scope for further currency appreciation as the government’s reform program boosts economic growth.",
-      "url": "https://financialpost.com/pmn/business-pmn/rand-is-undervalued-even-after-year-long-rally-survey-shows",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 04:23:57 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.537705"
-    },
-    {
-      "id": "f9db54b186ce",
-      "title": "Australia Becomes First Major Economy to Hike Rates in 2026",
-      "description": "Australia’s central bank raised its key interest rate Tuesday, the first major monetary authority to hike this year, after judging inflation pressures were persistent enough to warrant renewed restraint.",
-      "url": "https://financialpost.com/pmn/business-pmn/australia-raises-key-rate-to-combat-mounting-price-pressure",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 04:18:55 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.537741"
+      "fetched_at": "2026-02-03T08:36:04.202970"
     },
     {
       "id": "209830594e38",
@@ -264,7 +432,7 @@
       "published": "Tue, 03 Feb 2026 04:18:53 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.452122"
+      "fetched_at": "2026-02-03T08:36:05.598995"
     },
     {
       "id": "54e5deb34133",
@@ -276,19 +444,7 @@
       "published": "Tue, 03 Feb 2026 04:12:03 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719466"
-    },
-    {
-      "id": "acb713b115bc",
-      "title": "CGTN: More than a journey: How Spring Festival travel rush reflects a changing China",
-      "description": "The 2026 Spring Festival travel rush begins on February 2 and will run for 40 days, ending on March 13. Ahead of this annual migration, CGTN published a feature article exploring how the event has transcended its role as a transport phenomenon, becoming a unique lens through which to view China’s so",
-      "url": "https://financialpost.com/globe-newswire/cgtn-more-than-a-journey-how-spring-festival-travel-rush-reflects-a-changing-china",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 04:11:25 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.537781"
+      "fetched_at": "2026-02-03T08:36:07.460458"
     },
     {
       "id": "ce68b781c906",
@@ -300,7 +456,7 @@
       "published": "Tue, 03 Feb 2026 04:00:33 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:40.213441"
+      "fetched_at": "2026-02-03T08:36:21.081805"
     },
     {
       "id": "b1362da94f0e",
@@ -312,67 +468,43 @@
       "published": "Tue, 03 Feb 2026 03:50:12 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.181726"
+      "fetched_at": "2026-02-03T08:36:06.791740"
     },
     {
-      "id": "e03578c57d60",
-      "title": "China’s Solar Power Capacity on Course to Surpass Coal This Year",
-      "description": "China’s solar generating capacity is expected to surpass coal for the first time this year, according to the country’s top electricity industry group, marking a milestone in the country’s long-standing effort to build a cleaner power system.",
-      "url": "https://financialpost.com/pmn/business-pmn/chinas-solar-power-capacity-on-course-to-surpass-coal-this-year",
-      "source": "Financial Post",
+      "id": "07ba95060e92",
+      "title": "Batoche National Historic Site - Parks Canada",
+      "description": "Batoche National Historic Site&nbsp;&nbsp;Parks Canada",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNMEZRWjVSX1lwNXJLYkpVcXlseHlKanBDYmFwLWE4dVY3OXJzVHhUMkRUSEFQcG9rSW5tNEVNNHlZel80QXBxQXJqOHRFYmNzaTZQag?oc=5",
+      "source": "Google News Canada",
       "image": "",
-      "published": "Tue, 03 Feb 2026 03:42:46 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.537817"
+      "published": "Tue, 03 Feb 2026 03:39:37 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-02-03T08:36:06.594067"
     },
     {
-      "id": "ec143d84576d",
-      "title": "SPEA Congratulates Successful Completion of Darlington Nuclear Refurbishment",
-      "description": "Engineering excellence and technical expertise deliver world&#8217;s largest nuclear refurbishment ahead of schedule and under budget MISSISSAUGA, Ontario, Feb. 02, 2026 (GLOBE NEWSWIRE) &#8212; The Society of Professional Engineers and Associates (SPEA) congratulates Ontario Power Generation, the G",
-      "url": "https://financialpost.com/globe-newswire/spea-congratulates-successful-completion-of-darlington-nuclear-refurbishment",
-      "source": "Financial Post",
+      "id": "1559e8e90075",
+      "title": "Wild 4-3 Canadiens (Feb 2, 2026) Game Recap - ESPN",
+      "description": "Wild 4-3 Canadiens (Feb 2, 2026) Game Recap&nbsp;&nbsp;ESPNNHL On Tap: Wild host Canadiens with Hughes on 8-game point streak&nbsp;&nbsp;NHL.comKaprizov scores OT winner on power play as Wild clip Canadiens&nbsp;&nbsp;TSNCanadiens @ Wild Top Six Minutes: Montreal fights hard for a point in Minnesota",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BalZVc2VzeXZQV01NeVI4dFlMOHZUbVFmRFpWMVRUaDBKRWRGVXJTcktmanZFeV84cHR4LXRUTXg2WEoyZF9WZ1ZvUUpkUkxFcWNqY3prMV9BaUU?oc=5",
+      "source": "Google News Sports",
       "image": "",
-      "published": "Tue, 03 Feb 2026 03:20:29 +0000",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.537853"
+      "published": "Tue, 03 Feb 2026 03:33:45 GMT",
+      "location": "Montreal",
+      "category": "sports",
+      "fetched_at": "2026-02-03T08:36:06.288699"
     },
     {
-      "id": "5972e7b40ada",
-      "title": "UK police to review misconduct claims after Mandelson’s leaks to Epstein",
-      "description": "UK Prime Minister Keir Starmer says ex-envoy Peter Mandelson should no longer hold seat in upper house of parliament.",
-      "url": "https://www.aljazeera.com/news/2026/2/3/uk-police-to-review-misconduct-claims-after-mandelsons-leaks-to-epstein?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "27c8821d21dc",
+      "title": "Sabres 5-3 Panthers (Feb 2, 2026) Game Recap - ESPN",
+      "description": "Sabres 5-3 Panthers (Feb 2, 2026) Game Recap&nbsp;&nbsp;ESPNLyon makes 38 saves, Sabres hand Panthers 4th straight loss&nbsp;&nbsp;NHL.comJason Zucker breaks third-period tie in Sabres’ win over Panthers&nbsp;&nbsp;TSNFacing steep climb in playoff race, Panthers host Wild Card-holding Sabres&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12NWxYMk81MnUwNzhYZjN3RTVJWC1BQy16Yy0yQTFQeGNMQndlTWpqM3d4b3MtMGFQekNGVzAyeGtwb0FDd18xdFRieUd6MjA1b1FyR0luZDltN0E?oc=5",
+      "source": "Google News Sports",
       "image": "",
-      "published": "Tue, 03 Feb 2026 03:17:46 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.452150"
-    },
-    {
-      "id": "8f3b6027c6ac",
-      "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
-      "description": "Cuban diplomat says Havana ready for dialogue with US, but certain things are off the table, including the constitution.",
-      "url": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 03:12:06 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.452176"
-    },
-    {
-      "id": "19e5ad209b8c",
-      "title": "Blind Sailor Mitsuhiro Iwamoto Redefines the Limits of Possibility Through Technology in a Historic Trans-Pacific Project",
-      "description": "&#8211; “HIRO’s CHOICE”: A Solo, Non-Stop Crossing of the Pacific Ocean &#8211; FUJISAWA, Japan &#8212; Mitsuhiro Iwamoto, a Japanese sailor based in San Diego, who is taking on the world’s first solo, non-stop trans-Pacific crossing by a blind sailor as part of the Blind Sailor Single-Handed Pacifi",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/blind-sailor-mitsuhiro-iwamoto-redefines-the-limits-of-possibility-through-technology-in-a-historic-trans-pacific-project",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 03:05:39 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.537895"
+      "published": "Tue, 03 Feb 2026 02:58:03 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-02-03T08:36:06.288822"
     },
     {
       "id": "81c21c9d4900",
@@ -384,7 +516,7 @@
       "published": "Tue, 03 Feb 2026 02:56:31 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657199"
+      "fetched_at": "2026-02-03T08:36:04.651053"
     },
     {
       "id": "d45c3d5bd77b",
@@ -396,7 +528,7 @@
       "published": "Tue, 03 Feb 2026 02:52:20 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:40.213483"
+      "fetched_at": "2026-02-03T08:36:21.081843"
     },
     {
       "id": "ccd2c5222819",
@@ -408,7 +540,7 @@
       "published": "Tue, 03 Feb 2026 02:48:56 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.054058"
+      "fetched_at": "2026-02-03T08:36:06.318060"
     },
     {
       "id": "39e86c67b0c9",
@@ -420,7 +552,7 @@
       "published": "Tue, 03 Feb 2026 02:46:29 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.181807"
+      "fetched_at": "2026-02-03T08:36:06.791786"
     },
     {
       "id": "e0d43afd3b42",
@@ -432,7 +564,7 @@
       "published": "Tue, 03 Feb 2026 02:25:42 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294287"
+      "fetched_at": "2026-02-03T08:36:04.203016"
     },
     {
       "id": "3e04a27844f5",
@@ -444,31 +576,19 @@
       "published": "Tue, 03 Feb 2026 02:21:41 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070112"
+      "fetched_at": "2026-02-03T08:36:06.718212"
     },
     {
       "id": "0dc3cee11821",
       "title": "Trump unveils $12bn critical minerals stockpile scheme in apparent move to counter China’s dominance - The Guardian",
-      "description": "Trump unveils $12bn critical minerals stockpile scheme in apparent move to counter China’s dominance&nbsp;&nbsp;The GuardianTrump to Launch $12 Billion Critical Mineral Stockpile to Blunt Reliance on China&nbsp;&nbsp;Bloomberg.comTrump administration to create a strategic reserve for rare earth elem",
+      "description": "Trump unveils $12bn critical minerals stockpile scheme in apparent move to counter China’s dominance&nbsp;&nbsp;The GuardianRare earth miners jump as Trump announces establishment of critical mineral reserve&nbsp;&nbsp;CNBCU.S. to stockpile $12-billion in critical minerals to counter China&nbsp;&nbs",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY1lPbTJYVmhVUXVaR3ROQ1doc0NxZzlnQ0ZNZVZHcFFCSGd0VzAxdHRfZ0pFRjVFT1pXYmwzWU1iM1hwSUpwTklQN0Y3UHVEd3BaTjJ1RHY3WUV6d0pPOE5mYU9TaXJ4bER1RkwtcGVFaTFXOEFQeENEblRmVFpjRzFFRThEQkFicVUwN3lPWWNIdFVQRWZ2Qnllcw?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 03 Feb 2026 02:20:49 GMT",
-      "location": "World",
+      "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946797"
-    },
-    {
-      "id": "c847099d9064",
-      "title": "Ex-US President Bill Clinton, Hillary Clinton to testify in Epstein probe",
-      "description": "The Clintons agree to testify in congressional probe of high-society sex offender Jeffrey Epstein amid contempt threat.",
-      "url": "https://www.aljazeera.com/news/2026/2/3/ex-us-president-bill-clinton-hillary-clinton-to-testify-in-epstein-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 02:20:02 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.452201"
+      "fetched_at": "2026-02-03T08:36:06.465542"
     },
     {
       "id": "5233fa9a8c91",
@@ -480,19 +600,31 @@
       "published": "Tue, 03 Feb 2026 02:19:21 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482359"
+      "fetched_at": "2026-02-03T08:36:06.657949"
+    },
+    {
+      "id": "d5802bbc91ce",
+      "title": "This brain discovery is forcing scientists to rethink how memory works",
+      "description": "A new brain imaging study reveals that remembering facts and recalling life events activate nearly identical brain networks. Researchers expected clear differences but instead found strong overlap across memory types. The finding challenges decades of memory research. It may also help scientists bet",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
+      "source": "Science Daily",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 02:17:32 EST",
+      "location": "World",
+      "category": "science",
+      "fetched_at": "2026-02-03T08:36:04.924195"
     },
     {
       "id": "ceca9758b749",
       "title": "Clintons agree to testify in investigation by US Congress into Jeffrey Epstein - Financial Times",
-      "description": "Clintons agree to testify in investigation by US Congress into Jeffrey Epstein&nbsp;&nbsp;Financial TimesBill and Hillary Clinton agree to testify on Epstein as vote looms to hold them in contempt of Congress&nbsp;&nbsp;BBCBill and Hillary Clinton now agree to testify before Congress&nbsp;&nbsp;Poli",
+      "description": "Clintons agree to testify in investigation by US Congress into Jeffrey Epstein&nbsp;&nbsp;Financial TimesBill and Hillary Clinton agree to testify on Epstein as vote looms to hold them in contempt of Congress&nbsp;&nbsp;BBCClintons Capitulate on House Epstein Inquiry, Agreeing to Testify&nbsp;&nbsp;",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80R0lOUmpZWU1iZFplRXpmWmEzUm1PZV9PNjVUcnNXUzZtNWUxdDRyVVhXX2lWRjlHOTlsLWVxWmhsdHhMTUN5YS1OcGcxQ1pia05iNU1lY3BheVBFZW9MNDUxV2RiMzY1cWNQSm56YkI?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 03 Feb 2026 02:11:43 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.984341"
+      "fetched_at": "2026-02-03T08:36:06.179348"
     },
     {
       "id": "d4859ae900c7",
@@ -504,7 +636,7 @@
       "published": "Tue, 03 Feb 2026 02:11:40 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294321"
+      "fetched_at": "2026-02-03T08:36:04.203053"
     },
     {
       "id": "eb93c79850c9",
@@ -512,11 +644,11 @@
       "description": "It makes China the first country to stop the use of designs first made popular by Elon Musk's Tesla.",
       "url": "https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce0/live/fe881aa0-00b1-11f1-9546-27ae936b56b9.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e5/live/b9e22840-00d0-11f1-a266-e3d9153f08c1.jpg",
       "published": "Tue, 03 Feb 2026 02:06:29 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.392927"
+      "fetched_at": "2026-02-03T08:36:05.706931"
     },
     {
       "id": "975ae975abdb",
@@ -528,19 +660,7 @@
       "published": "Tue, 03 Feb 2026 01:59:16 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:40.213509"
-    },
-    {
-      "id": "8af7886693dc",
-      "title": "APF Canada Launches Canadian Women-Only Business Mission to the Philippines with Public Symposium in Manila",
-      "description": "Women Securing Our Shared Futures: Building Resilience Through Canada-Philippines Collaboration symposium to convene women entrepreneurs, business leaders, and advocates of women’s economic empowerment and features a keynote address by The Honourable Cristina Aldeguer-Roque, Secretary of Trade and I",
-      "url": "https://financialpost.com/globe-newswire/apf-canada-launches-canadian-women-only-business-mission-to-the-philippines-with-public-symposium-in-manila",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 01:59:02 +0000",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.537937"
+      "fetched_at": "2026-02-03T08:36:21.081870"
     },
     {
       "id": "6cb976c3ce39",
@@ -552,7 +672,7 @@
       "published": "Tue, 03 Feb 2026 01:50:19 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294352"
+      "fetched_at": "2026-02-03T08:36:04.203091"
     },
     {
       "id": "7a046a8b42fa",
@@ -564,7 +684,7 @@
       "published": "Tue, 03 Feb 2026 01:45:12 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657237"
+      "fetched_at": "2026-02-03T08:36:04.651093"
     },
     {
       "id": "f1b8a5843fa4",
@@ -576,19 +696,7 @@
       "published": "Tue, 03 Feb 2026 01:44:50 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.932865"
-    },
-    {
-      "id": "6a9dff5de165",
-      "title": "BP Investors Demand Proof More Oil, Gas Spending Boosts Returns",
-      "description": "BP Plc needs to demonstrate how its decision to prioritize investment in oil and gas will create value for shareholders, according to a group of investors.",
-      "url": "https://financialpost.com/pmn/business-pmn/bp-investors-demand-proof-more-oil-gas-spending-boosts-returns",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 01:34:29 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.537965"
+      "fetched_at": "2026-02-03T08:36:07.474852"
     },
     {
       "id": "f57aca7b1040",
@@ -600,7 +708,7 @@
       "published": "Tue, 03 Feb 2026 01:30:33 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294382"
+      "fetched_at": "2026-02-03T08:36:04.203128"
     },
     {
       "id": "64fe6019b0bb",
@@ -612,7 +720,7 @@
       "published": "Tue, 03 Feb 2026 01:27:33 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.392676"
+      "fetched_at": "2026-02-03T08:36:05.706764"
     },
     {
       "id": "a66d86ec2624",
@@ -624,7 +732,7 @@
       "published": "Tue, 03 Feb 2026 01:26:06 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:21.727441"
+      "fetched_at": "2026-02-03T08:36:04.834584"
     },
     {
       "id": "0778a65acde7",
@@ -636,19 +744,7 @@
       "published": "Tue, 03 Feb 2026 01:25:08 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:40.213535"
-    },
-    {
-      "id": "82cb6568bac4",
-      "title": "Russia-Ukraine war: List of key events, day 1,440",
-      "description": "These are the key developments from day 1,440 of Russia’s war on Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/2/3/russia-ukraine-war-list-of-key-events-day-1440?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 01:14:02 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.452229"
+      "fetched_at": "2026-02-03T08:36:21.081896"
     },
     {
       "id": "465f07666f11",
@@ -660,7 +756,7 @@
       "published": "Tue, 03 Feb 2026 01:14:02 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024198"
+      "fetched_at": "2026-02-03T08:36:07.207272"
     },
     {
       "id": "dbcafa04b3ef",
@@ -672,7 +768,7 @@
       "published": "Tue, 03 Feb 2026 01:07:07 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070148"
+      "fetched_at": "2026-02-03T08:36:06.718248"
     },
     {
       "id": "3ac13212fb66",
@@ -684,7 +780,7 @@
       "published": "Tue, 03 Feb 2026 01:05:26 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294415"
+      "fetched_at": "2026-02-03T08:36:04.203170"
     },
     {
       "id": "5fe097e69c5e",
@@ -696,7 +792,7 @@
       "published": "Tue, 03 Feb 2026 01:03:55 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294461"
+      "fetched_at": "2026-02-03T08:36:04.203534"
     },
     {
       "id": "3ac4360c5ced",
@@ -708,7 +804,7 @@
       "published": "Tue, 03 Feb 2026 00:57:02 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482388"
+      "fetched_at": "2026-02-03T08:36:06.657979"
     },
     {
       "id": "7c8601d33490",
@@ -720,7 +816,7 @@
       "published": "Tue, 03 Feb 2026 00:55:18 +0000",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:21.727483"
+      "fetched_at": "2026-02-03T08:36:04.834624"
     },
     {
       "id": "f64b2ddd299e",
@@ -732,7 +828,7 @@
       "published": "Tue, 03 Feb 2026 00:49:52 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070184"
+      "fetched_at": "2026-02-03T08:36:06.718284"
     },
     {
       "id": "922020924548",
@@ -744,7 +840,7 @@
       "published": "Tue, 03 Feb 2026 00:44:56 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482416"
+      "fetched_at": "2026-02-03T08:36:06.658007"
     },
     {
       "id": "fa4356300a71",
@@ -756,7 +852,7 @@
       "published": "Tue, 03 Feb 2026 00:35:39 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.932910"
+      "fetched_at": "2026-02-03T08:36:07.474897"
     },
     {
       "id": "61f41d4a3bb2",
@@ -768,7 +864,7 @@
       "published": "Tue, 03 Feb 2026 00:35:03 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482438"
+      "fetched_at": "2026-02-03T08:36:06.658030"
     },
     {
       "id": "86d93c72ffea",
@@ -780,7 +876,19 @@
       "published": "Tue, 03 Feb 2026 00:34:39 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294508"
+      "fetched_at": "2026-02-03T08:36:04.203564"
+    },
+    {
+      "id": "6be67f945134",
+      "title": "Smith Engineering advances Canada-Asia engagement - Queen's University",
+      "description": "Smith Engineering advances Canada-Asia engagement&nbsp;&nbsp;Queen's University",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMDlTaXJhUjZPcjVJa2F2dzhCNWNRNXpIM3F0R05kQXMxSmJuVVpOTnJlc3dFUEZyOWlmcTEzNDNwRGo3YV92ZXlGMWx4c1NDX0tNSEFzT05ZRnYtcnZHdUxLaWxkcU1lN2VfSWV4TzZUVWpjR0pfUWtHTmFJMEJfbzlKN1J6TVV5bnpZakpaMmkyUQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 03 Feb 2026 00:32:35 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-02-03T08:36:06.594369"
     },
     {
       "id": "4845960c39d8",
@@ -792,19 +900,7 @@
       "published": "Tue, 03 Feb 2026 00:31:48 +0000",
       "location": "Edmonton",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.294544"
-    },
-    {
-      "id": "bbc8c084ca9c",
-      "title": "Thai Beverage Makers Look to Warm Weather to Revive Earnings",
-      "description": "For Thai beverage companies, summer can’t come fast enough. After a year of weak consumer sentiment weighing on earnings, warmer days are expected to boost the bottom lines of tea and energy drink makers.",
-      "url": "https://financialpost.com/pmn/business-pmn/thai-beverage-makers-look-to-warm-weather-to-revive-earnings",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Feb 2026 00:28:03 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-03T06:51:35.538019"
+      "fetched_at": "2026-02-03T08:36:04.203597"
     },
     {
       "id": "0ec0c34f81f3",
@@ -816,7 +912,7 @@
       "published": "Tue, 03 Feb 2026 00:24:22 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.407364"
+      "fetched_at": "2026-02-03T08:36:04.467137"
     },
     {
       "id": "805e4d4c1c03",
@@ -828,7 +924,7 @@
       "published": "Tue, 03 Feb 2026 00:23:00 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946448"
+      "fetched_at": "2026-02-03T08:36:06.465228"
     },
     {
       "id": "311646a56011",
@@ -840,7 +936,7 @@
       "published": "Tue, 03 Feb 2026 00:19:02 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:21.267761"
+      "fetched_at": "2026-02-03T08:36:04.232926"
     },
     {
       "id": "201c5da06628",
@@ -852,7 +948,7 @@
       "published": "Tue, 03 Feb 2026 00:16:14 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154150"
+      "fetched_at": "2026-02-03T08:36:04.331855"
     },
     {
       "id": "5a6bca8bcd3f",
@@ -864,7 +960,7 @@
       "published": "Tue, 03 Feb 2026 00:15:03 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565212"
+      "fetched_at": "2026-02-03T08:36:12.856648"
     },
     {
       "id": "fd05ba571c27",
@@ -876,19 +972,19 @@
       "published": "Tue, 03 Feb 2026 00:08:10 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:21.727419"
+      "fetched_at": "2026-02-03T08:36:04.834562"
     },
     {
       "id": "a8e273b5dcbb",
       "title": "After months of acrimony, Colombia's Petro is about to meet Trump",
-      "description": "Despite some recent cordiality, the Colombian and Americans leaders have long traded barbs and accusations.",
+      "description": "Despite some recent cordiality, the Colombian and American leaders have long traded barbs and accusations.",
       "url": "https://www.bbc.com/news/articles/c62v187kl1ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fab4/live/25a268d0-ffcb-11f0-b669-eb89c7ddc639.jpg",
       "published": "Tue, 03 Feb 2026 00:00:32 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.392781"
+      "fetched_at": "2026-02-03T08:36:05.706822"
     },
     {
       "id": "a2b7282df523",
@@ -900,7 +996,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.569771"
+      "fetched_at": "2026-02-03T08:36:05.814586"
     },
     {
       "id": "a436854a59ea",
@@ -912,7 +1008,7 @@
       "published": "Thu, 29 Jan 2026 23:47:49 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:21.267916"
+      "fetched_at": "2026-02-03T08:36:04.233087"
     },
     {
       "id": "2c5ff3e26b0f",
@@ -924,7 +1020,7 @@
       "published": "Thu, 29 Jan 2026 23:30:19 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:21.267937"
+      "fetched_at": "2026-02-03T08:36:04.233108"
     },
     {
       "id": "d3741262b2c6",
@@ -936,7 +1032,7 @@
       "published": "Thu, 29 Jan 2026 23:14:02 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:21.267959"
+      "fetched_at": "2026-02-03T08:36:04.233132"
     },
     {
       "id": "8019be214a23",
@@ -948,7 +1044,7 @@
       "published": "Thu, 29 Jan 2026 12:00:12 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.623343"
+      "fetched_at": "2026-02-03T08:36:06.845479"
     },
     {
       "id": "a3777a8bac7b",
@@ -960,7 +1056,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.569650"
+      "fetched_at": "2026-02-03T08:36:05.814471"
     },
     {
       "id": "48332101e695",
@@ -972,7 +1068,19 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.569715"
+      "fetched_at": "2026-02-03T08:36:05.814532"
+    },
+    {
+      "id": "56a1ac48b559",
+      "title": "A record breaking gravitational wave is helping test Einstein’s theory of general relativity",
+      "description": "A newly detected gravitational wave, GW250114, is giving scientists their clearest look yet at a black hole collision—and a powerful way to test Einstein’s theory of gravity. Its clarity allowed scientists to measure multiple “tones” from the collision, all matching Einstein’s predictions. That conf",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260201231224.htm",
+      "source": "Science Daily",
+      "image": "",
+      "published": "Sun, 01 Feb 2026 23:12:24 EST",
+      "location": "World",
+      "category": "science",
+      "fetched_at": "2026-02-03T08:36:04.924377"
     },
     {
       "id": "61b4fcd9898c",
@@ -984,7 +1092,7 @@
       "published": "Sun, 01 Feb 2026 22:50:10 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-02-03T06:51:22.337156"
+      "fetched_at": "2026-02-03T08:36:04.924531"
     },
     {
       "id": "09685b20011e",
@@ -996,7 +1104,7 @@
       "published": "Sun, 01 Feb 2026 21:17:13 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.984412"
+      "fetched_at": "2026-02-03T08:36:06.179412"
     },
     {
       "id": "fef825416cde",
@@ -1008,19 +1116,7 @@
       "published": "Sun, 01 Feb 2026 20:01:34 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:21.727465"
-    },
-    {
-      "id": "60fb81400efb",
-      "title": "Judge orders 5-year-old Liam Conejo Ramos and his dad released from ICE detention - Global News",
-      "description": "Judge orders 5-year-old Liam Conejo Ramos and his dad released from ICE detention&nbsp;&nbsp;Global NewsFather of 5-year-old detained in Minnesota disputes government assertion he abandoned the boy&nbsp;&nbsp;CTV NewsWhat comes next for 5‑year‑old Liam Ramos and his father after their release from f",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nUlEtY1VxYXNJMG5HYmpSMm1FWDBGdEF0aG5RSDJoTTdGQmpRVGo4VmMxWXpVREZvQ1dIbmJCVy0wWWQyT1pEYlcwZnQyNlJSQnh6RHhpZFAwRFFkRDRwWG1sX09PWVhKWlg5SnYwSDdpZw?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sun, 01 Feb 2026 16:05:33 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.984164"
+      "fetched_at": "2026-02-03T08:36:04.834607"
     },
     {
       "id": "b04168ea50da",
@@ -1032,7 +1128,7 @@
       "published": "Sun, 01 Feb 2026 12:00:25 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.623164"
+      "fetched_at": "2026-02-03T08:36:06.845321"
     },
     {
       "id": "79f71bdec315",
@@ -1044,7 +1140,7 @@
       "published": "Sun, 01 Feb 2026 12:00:13 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.623206"
+      "fetched_at": "2026-02-03T08:36:06.845363"
     },
     {
       "id": "28a10b3132d9",
@@ -1056,7 +1152,7 @@
       "published": "Sun, 01 Feb 2026 11:00:04 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:22.714706"
+      "fetched_at": "2026-02-03T08:36:05.920973"
     },
     {
       "id": "5d944c5fbd1e",
@@ -1068,31 +1164,7 @@
       "published": "Sun, 01 Feb 2026 10:41:29 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-02-03T06:51:22.337194"
-    },
-    {
-      "id": "0a949a863287",
-      "title": "Middle age is becoming a breaking point in the U.S.",
-      "description": "Middle age is becoming a tougher chapter for many Americans, especially those born in the 1960s and early 1970s. Compared with earlier generations, they report more loneliness and depression, along with weaker physical strength and declining memory. These troubling trends stand out internationally, ",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260201062457.htm",
-      "source": "Science Daily",
-      "image": "",
-      "published": "Sun, 01 Feb 2026 10:25:53 EST",
-      "location": "World",
-      "category": "science",
-      "fetched_at": "2026-02-03T06:51:22.337228"
-    },
-    {
-      "id": "57690469db6a",
-      "title": "This AI app can tell which dinosaur made a footprint",
-      "description": "Dinosaur footprints have always been mysterious, but a new AI app is cracking their secrets. DinoTracker analyzes photos of fossil tracks and predicts which dinosaur made them, with accuracy rivaling human experts. Along the way, it uncovered footprints that look strikingly bird-like—dating back mor",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260201062455.htm",
-      "source": "Science Daily",
-      "image": "",
-      "published": "Sun, 01 Feb 2026 08:37:50 EST",
-      "location": "World",
-      "category": "science",
-      "fetched_at": "2026-02-03T06:51:22.337267"
+      "fetched_at": "2026-02-03T08:36:04.924567"
     },
     {
       "id": "f27adfb6fba6",
@@ -1104,7 +1176,7 @@
       "published": "Sat, 31 Jan 2026 12:00:57 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.623245"
+      "fetched_at": "2026-02-03T08:36:06.845403"
     },
     {
       "id": "164bb459e35d",
@@ -1116,7 +1188,7 @@
       "published": "Sat, 31 Jan 2026 04:54:41 +0000",
       "location": "Calgary",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:21.267877"
+      "fetched_at": "2026-02-03T08:36:04.233047"
     },
     {
       "id": "e66a3a796101",
@@ -1128,7 +1200,7 @@
       "published": "Sat, 31 Jan 2026 00:00:43 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-03T06:51:21.233533"
+      "fetched_at": "2026-02-03T08:36:04.293001"
     },
     {
       "id": "773bcd0c0a68",
@@ -1140,7 +1212,7 @@
       "published": "Mon, 26 Jan 2026 12:00:06 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.623523"
+      "fetched_at": "2026-02-03T08:36:06.845624"
     },
     {
       "id": "b650d7229c46",
@@ -1152,19 +1224,7 @@
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.569673"
-    },
-    {
-      "id": "f9eed89ae049",
-      "title": "Harper and Chretien talk Alberta separatism, Canadian sovereignty in Ottawa - Global News",
-      "description": "Harper and Chretien talk Alberta separatism, Canadian sovereignty in Ottawa&nbsp;&nbsp;Global News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclhaS3FwYjliQjNjNUltdzJ4QXpYMXB4TnIzeDdQQlRMaFpXMzRHQVBnSjZwTkJHRFdaRkwxS0NQaTlkUFBUR2VReGtFOGpvWjF0dm0zQUJWUHZjUFZLejFqdDFpd285MlhqOUNQWTc3Y214VnpPXzBGUF9Kb3dEMmt6TG84TEpSNTZ1UmR3?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 23:59:09 GMT",
-      "location": "Ottawa",
-      "category": "canada",
-      "fetched_at": "2026-02-03T06:51:23.169862"
+      "fetched_at": "2026-02-03T08:36:05.814492"
     },
     {
       "id": "4f6d24ec764f",
@@ -1176,19 +1236,7 @@
       "published": "Mon, 02 Feb 2026 23:59:09 +0000",
       "location": "Ottawa",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:21.267791"
-    },
-    {
-      "id": "5145e5bbc95e",
-      "title": "3 junior hockey players killed in collision south of Calgary - Global News",
-      "description": "3 junior hockey players killed in collision south of Calgary&nbsp;&nbsp;Global NewsAlberta junior hockey players killed in crash while travelling to team practice&nbsp;&nbsp;CP24Alberta junior hockey team says three players dead in vehicle crash&nbsp;&nbsp;Sportsnet.caThree Alberta junior hockey pla",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU29BOTdGa21CVkNRQ2ZwbDVpd0JEdUYzR2M2Z3dTNVRZNVhTXzJrREpZdEwxVVFYVVFKQTlYN2dDSzQxXzRnd3gzb1hObWRaZy05NVNlWkZCZkFXcy16WVA4czN0bDg2dTVVWVpZUFI4OXhXOEcwNVFmdTlfN1EzZjU0WFJqTS1LWElqb1NiVWxKd2M?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 23:57:04 GMT",
-      "location": "Calgary",
-      "category": "sports",
-      "fetched_at": "2026-02-03T06:51:23.339291"
+      "fetched_at": "2026-02-03T08:36:04.232959"
     },
     {
       "id": "6b990b9a6281",
@@ -1200,7 +1248,7 @@
       "published": "Mon, 02 Feb 2026 23:53:43 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565238"
+      "fetched_at": "2026-02-03T08:36:12.856675"
     },
     {
       "id": "9f9ebe3bd5a9",
@@ -1212,7 +1260,7 @@
       "published": "Mon, 02 Feb 2026 23:52:14 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.054093"
+      "fetched_at": "2026-02-03T08:36:06.318091"
     },
     {
       "id": "62faecc72d64",
@@ -1224,7 +1272,7 @@
       "published": "Mon, 02 Feb 2026 23:51:59 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.054128"
+      "fetched_at": "2026-02-03T08:36:06.318126"
     },
     {
       "id": "15136c4a2f7b",
@@ -1236,7 +1284,7 @@
       "published": "Mon, 02 Feb 2026 23:51:59 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070216"
+      "fetched_at": "2026-02-03T08:36:06.718318"
     },
     {
       "id": "1387c3e0e786",
@@ -1248,7 +1296,7 @@
       "published": "Mon, 02 Feb 2026 23:51:59 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.181871"
+      "fetched_at": "2026-02-03T08:36:06.791827"
     },
     {
       "id": "45f00e570d4c",
@@ -1260,7 +1308,7 @@
       "published": "Mon, 02 Feb 2026 23:51:59 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432446"
+      "fetched_at": "2026-02-03T08:36:07.179991"
     },
     {
       "id": "c45b3f18c117",
@@ -1272,7 +1320,7 @@
       "published": "Mon, 02 Feb 2026 23:51:59 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719517"
+      "fetched_at": "2026-02-03T08:36:07.460507"
     },
     {
       "id": "fe3ec27a839e",
@@ -1284,19 +1332,7 @@
       "published": "Mon, 02 Feb 2026 23:51:59 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.932948"
-    },
-    {
-      "id": "eb7b938ef327",
-      "title": "What is the US critical minerals stockpile?",
-      "description": "President Trump said the stockpile would &#039;ensure that American businesses and workers are never harmed by any shortage&#039;.",
-      "url": "https://www.aljazeera.com/economy/2026/2/2/what-is-the-us-strategic-minerals-stockpile?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 23:51:56 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.452256"
+      "fetched_at": "2026-02-03T08:36:07.474954"
     },
     {
       "id": "2526a28b024c",
@@ -1308,19 +1344,7 @@
       "published": "Mon, 02 Feb 2026 23:49:01 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.799846"
-    },
-    {
-      "id": "7e8f122329d4",
-      "title": "Stephen Harper says he ‘didn't anticipate’ the U.S. being the biggest threat to Canadian Arctic - National Post",
-      "description": "Stephen Harper says he ‘didn't anticipate’ the U.S. being the biggest threat to Canadian Arctic&nbsp;&nbsp;National Post",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ga0taMW1yZzUzYmIzVndjd2MwOGllVjdGeHFnN1RxTkMzSzBObWF4TnhqblNQZ1JCblRvM3FWWm1OQU13Q2ZneXZHeENHbE4zVkFZX1JCQkE0dW9Mc0RmRXpWOTBCQ1RuNGR3QjVEcXYwa01aUGtrV19QclJfbUU?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 23:48:45 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-02-03T06:51:23.170062"
+      "fetched_at": "2026-02-03T08:36:05.807689"
     },
     {
       "id": "1914bf61a7d5",
@@ -1332,7 +1356,19 @@
       "published": "Mon, 02 Feb 2026 23:46:31 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.181960"
+      "fetched_at": "2026-02-03T08:36:06.791878"
+    },
+    {
+      "id": "cce34e0c8722",
+      "title": "Mark Carney, a prime minister seeking to free Canada from US dominance - Le Monde.fr",
+      "description": "Mark Carney, a prime minister seeking to free Canada from US dominance&nbsp;&nbsp;Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX3dUODNJeHllVklNWVBhTW5xeHQ5MFJhSGdVd1BqUWwxbWVLeFlLOVR6VFZLUmtXckxIclUxeFFGTUtDZlpfUDg4UG9KQlpyR1pkOXFEWTNMd1EtNXRjS2NVRFNIQzNwVGZpbmxVNVp6Z3hkbGdkcVh6TVpGZkhad0dqT0E3LUU3YjgwVzlIMlFOOUtpU01iYm5Kbi1vS0p1VGZPQS1wZ2dqYno4WXBxX2d1akZvSG1hdENKcld2aWgtOFNNM1RnMWx1NEpsZmtKVi1qcA?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Mon, 02 Feb 2026 23:43:13 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-02-03T08:36:06.594237"
     },
     {
       "id": "f7eeef332eff",
@@ -1344,7 +1380,7 @@
       "published": "Mon, 02 Feb 2026 23:41:37 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:40.213560"
+      "fetched_at": "2026-02-03T08:36:21.081941"
     },
     {
       "id": "d5e113a1100e",
@@ -1356,7 +1392,7 @@
       "published": "Mon, 02 Feb 2026 23:38:13 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719574"
+      "fetched_at": "2026-02-03T08:36:07.460564"
     },
     {
       "id": "4384154ec2ec",
@@ -1368,7 +1404,7 @@
       "published": "Mon, 02 Feb 2026 23:38:13 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.933011"
+      "fetched_at": "2026-02-03T08:36:07.475000"
     },
     {
       "id": "2ba1e6c157ce",
@@ -1380,7 +1416,7 @@
       "published": "Mon, 02 Feb 2026 23:34:30 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024226"
+      "fetched_at": "2026-02-03T08:36:07.207300"
     },
     {
       "id": "b9b4ddbeb386",
@@ -1392,7 +1428,7 @@
       "published": "Mon, 02 Feb 2026 23:32:48 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482470"
+      "fetched_at": "2026-02-03T08:36:06.658062"
     },
     {
       "id": "d4e062ab90b3",
@@ -1404,19 +1440,19 @@
       "published": "Mon, 02 Feb 2026 23:25:59 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:21.727546"
+      "fetched_at": "2026-02-03T08:36:04.834682"
     },
     {
       "id": "8bc6b566fda4",
       "title": "Body cameras being immediately issued to ICE agents in Minneapolis - CBC",
-      "description": "Body cameras being immediately issued to ICE agents in Minneapolis&nbsp;&nbsp;CBCJudge wipes away order requiring feds to preserve evidence gathered at Alex Pretti shooting scene&nbsp;&nbsp;CNNFederal officers in Minneapolis to get body cameras 'effective immediately'&nbsp;&nbsp;BBCKristi Noem says ",
+      "description": "Body cameras being immediately issued to ICE agents in Minneapolis&nbsp;&nbsp;CBCFederal officers in Minneapolis to get body cameras 'effective immediately'&nbsp;&nbsp;BBCJudge wipes away order requiring feds to preserve evidence gathered at Alex Pretti shooting scene&nbsp;&nbsp;CNNKristi Noem says ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHJtTEJxVGl0ODFOMjhJM2JrLU1VWUdQNEkwTk1UMmVkR2hQOW9uZUNxeC0yWF8tVjhWUlpyLTZFU0thVENxTWljZGxEVHg0NU80RkE4dDVCOC1IZlFhTF9KMFJ2VW1fcVl3RkI4T3Z3cHFFeU45NHdUV3hUaWhxS1gwazVRQm8?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 02 Feb 2026 23:23:00 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.984037"
+      "fetched_at": "2026-02-03T08:36:06.179111"
     },
     {
       "id": "e876f2a1a9f0",
@@ -1428,7 +1464,7 @@
       "published": "Mon, 02 Feb 2026 23:21:53 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.054166"
+      "fetched_at": "2026-02-03T08:36:06.318163"
     },
     {
       "id": "7eed67bd9683",
@@ -1440,7 +1476,7 @@
       "published": "Mon, 02 Feb 2026 23:21:53 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070254"
+      "fetched_at": "2026-02-03T08:36:06.718357"
     },
     {
       "id": "15918ee2a65b",
@@ -1452,7 +1488,7 @@
       "published": "Mon, 02 Feb 2026 23:21:53 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.182087"
+      "fetched_at": "2026-02-03T08:36:06.791956"
     },
     {
       "id": "f822fa0e5072",
@@ -1464,7 +1500,7 @@
       "published": "Mon, 02 Feb 2026 23:21:53 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432491"
+      "fetched_at": "2026-02-03T08:36:07.180037"
     },
     {
       "id": "a7b3f84cdcc8",
@@ -1476,7 +1512,7 @@
       "published": "Mon, 02 Feb 2026 23:21:53 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719619"
+      "fetched_at": "2026-02-03T08:36:07.460608"
     },
     {
       "id": "d25fa5ce4908",
@@ -1488,7 +1524,7 @@
       "published": "Mon, 02 Feb 2026 23:21:53 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.933049"
+      "fetched_at": "2026-02-03T08:36:07.475034"
     },
     {
       "id": "24a300435584",
@@ -1500,7 +1536,7 @@
       "published": "Mon, 02 Feb 2026 23:12:59 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.392822"
+      "fetched_at": "2026-02-03T08:36:05.706845"
     },
     {
       "id": "e738a1985342",
@@ -1512,7 +1548,7 @@
       "published": "Mon, 02 Feb 2026 23:07:31 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.933090"
+      "fetched_at": "2026-02-03T08:36:07.475075"
     },
     {
       "id": "7886699674f7",
@@ -1524,7 +1560,7 @@
       "published": "Mon, 02 Feb 2026 23:07:19 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.407395"
+      "fetched_at": "2026-02-03T08:36:04.467169"
     },
     {
       "id": "40d459950dfe",
@@ -1536,7 +1572,7 @@
       "published": "Mon, 02 Feb 2026 23:05:32 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.054208"
+      "fetched_at": "2026-02-03T08:36:06.318206"
     },
     {
       "id": "22d36abacc88",
@@ -1548,7 +1584,7 @@
       "published": "Mon, 02 Feb 2026 23:04:33 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154195"
+      "fetched_at": "2026-02-03T08:36:04.331891"
     },
     {
       "id": "7451f7f0898b",
@@ -1560,7 +1596,7 @@
       "published": "Mon, 02 Feb 2026 22:58:16 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:23.169768"
+      "fetched_at": "2026-02-03T08:36:06.594106"
     },
     {
       "id": "62bf0cc464c3",
@@ -1572,31 +1608,19 @@
       "published": "Mon, 02 Feb 2026 22:55:04 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565262"
-    },
-    {
-      "id": "f6bd66d86140",
-      "title": "Arizona police suspect crime in disappearance of Today show host's mother - CBC",
-      "description": "Arizona police suspect crime in disappearance of Today show host's mother&nbsp;&nbsp;CBCSheriff believes Savannah Guthrie’s mother was abducted: ‘She did not leave on her own’&nbsp;&nbsp;CNNPolice searching for Savannah Guthrie’s mother believe a crime occurred. ‘She did not leave on her own,’ sheri",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94VEE5Y1RmRG4wanRITDFFcFVhVFpHNGdudGRLRUhZWkRCcE13dWxweWhWV0YwNFNiREMzTzY3RjRKYVpuSlM0elBjRVFEdG0wamk1TXBLRDI3VDNnLUNyWGhROUZtWUNydVptREFGUW5rZnVDaWtmaA?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 22:51:00 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.984472"
+      "fetched_at": "2026-02-03T08:36:12.856700"
     },
     {
       "id": "3b23356b14f6",
       "title": "Partial US government shutdown enters third day as funding standoff continues - BBC",
-      "description": "Partial US government shutdown enters third day as funding standoff continues&nbsp;&nbsp;BBCGOP leaders labor for support ahead of key test vote on ending partial government shutdown&nbsp;&nbsp;Toronto StarHouse Democrats once again left complaining about a Senate spending deal&nbsp;&nbsp;PoliticoTr",
+      "description": "Partial US government shutdown enters third day as funding standoff continues&nbsp;&nbsp;BBCHouse Democrats once again left complaining about a Senate spending deal&nbsp;&nbsp;PoliticoTrump Live Updates: India Trade Deal, Partial Government Shutdown and More News&nbsp;&nbsp;The New York TimesGOP lea",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWHVaYk9CODJMQ1lmakcwY3dmSElRbFVURUdXeHFCUFM4ZklkdnVqc0hBZG1IOGZOZ3JudS1URm9MR3ROS1BRb01HQ3lnRzh5RVJ4TTNoYjBYQQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 02 Feb 2026 22:45:44 GMT",
       "location": "Toronto",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.984565"
+      "fetched_at": "2026-02-03T08:36:06.179522"
     },
     {
       "id": "5cd04eb8a0d6",
@@ -1608,19 +1632,7 @@
       "published": "Mon, 02 Feb 2026 22:35:43 GMT",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:23.169833"
-    },
-    {
-      "id": "eb4a9d62389f",
-      "title": "Blue Jays to honour Carter's World Series-clinching homer with statue - Sportsnet.ca",
-      "description": "Blue Jays to honour Carter's World Series-clinching homer with statue&nbsp;&nbsp;Sportsnet.caToronto Blue Jays finally removing controversial statue of former billionaire owner&nbsp;&nbsp;blogTOBlue Jays legend Joe Carter to be honoured with statue outside Rogers Centre&nbsp;&nbsp;CP24Carter’s World",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmlEQVRmWkEyd3JDY1Azb0dTNno3OHhwQl9BOXB6U2dzdTMxM0VTQ29NMnBuVUxUU1dFWHVPcnp0OEpyVmRnazYxOFZ3aDdvTm1sSEVlbFdRQnJ0emJ5MXFpRHZSZlRCQ1JtalRXbG5jUnN1Tm9kRnhmVWlKYjNNellzeWF4anBvaGFFMmVRbjhCQTBSUllXUzhyWUFxak1VT3VUN09NV0syZw?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 22:35:00 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2026-02-03T06:51:23.339840"
+      "fetched_at": "2026-02-03T08:36:06.594204"
     },
     {
       "id": "a7dbf7274b8a",
@@ -1632,7 +1644,7 @@
       "published": "Mon, 02 Feb 2026 22:34:00 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024250"
+      "fetched_at": "2026-02-03T08:36:07.207325"
     },
     {
       "id": "4e094ca8edd5",
@@ -1644,19 +1656,19 @@
       "published": "Mon, 02 Feb 2026 22:30:59 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719660"
+      "fetched_at": "2026-02-03T08:36:07.460651"
     },
     {
       "id": "165e2b4f85be",
       "title": "Toronto Maple Leafs vs. Calgary Flames – Game #56 Projected Lines, Preview & TV Info - Maple Leafs Hotstove",
-      "description": "Toronto Maple Leafs vs. Calgary Flames – Game #56 Projected Lines, Preview & TV Info&nbsp;&nbsp;Maple Leafs HotstoveNylander gets 3 points, Maple Leafs edge Flames&nbsp;&nbsp;NHL.comPPP After Dark: Come sit by the fire with us to watch the Leafs and Flames&nbsp;&nbsp;PPP LeafsNylander nets three poi",
+      "description": "Toronto Maple Leafs vs. Calgary Flames – Game #56 Projected Lines, Preview & TV Info&nbsp;&nbsp;Maple Leafs HotstoveNylander nets three points to lead Maple Leafs to win over Flames&nbsp;&nbsp;TSNPPP After Dark: Come sit by the fire with us to watch the Leafs and Flames&nbsp;&nbsp;PPP LeafsFlames Ra",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnh6dzYySThNQktzRWF6LVZrRU8wVklJNndjWExlb1dVSzZNZlJtaG9vcUlLOURMUWNuTjl4OVpLNUJkbGtrSVZPcllWU2JxbjF0RkRiT09OdFJVZVZoUEt6aU1USXA0NVR2V0J4S0dqLXpvTWFhRWZ4UVNZaExSZXZ2QW5qX0dmcWprUnR5bGJOMjNwTG9DbUF5b3MtQmt5YzNPSWhqVXFmeURFQjM2ZWZwU1gyUFkwd2xIVw?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 02 Feb 2026 22:30:06 GMT",
       "location": "Toronto",
       "category": "sports",
-      "fetched_at": "2026-02-03T06:51:23.339402"
+      "fetched_at": "2026-02-03T08:36:06.288595"
     },
     {
       "id": "ed7dffda99b5",
@@ -1668,7 +1680,7 @@
       "published": "Mon, 02 Feb 2026 22:26:24 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.054250"
+      "fetched_at": "2026-02-03T08:36:06.318247"
     },
     {
       "id": "f35f2c11514f",
@@ -1680,7 +1692,7 @@
       "published": "Mon, 02 Feb 2026 22:26:24 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719697"
+      "fetched_at": "2026-02-03T08:36:07.460690"
     },
     {
       "id": "67d69679c845",
@@ -1692,19 +1704,19 @@
       "published": "Mon, 02 Feb 2026 22:26:24 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.933121"
+      "fetched_at": "2026-02-03T08:36:07.475107"
     },
     {
       "id": "fa46761f0b1d",
       "title": "Newly released Jeffrey Epstein files: 10 key takeaways so far - The Guardian",
-      "description": "Newly released Jeffrey Epstein files: 10 key takeaways so far&nbsp;&nbsp;The GuardianWatch: Why is no-one being prosecuted over the Epstein files?&nbsp;&nbsp;BBCPowerful men from politics, business and entertainment mentioned in latest Jeffrey Epstein files&nbsp;&nbsp;CBCThe Government Published Doz",
+      "description": "Newly released Jeffrey Epstein files: 10 key takeaways so far&nbsp;&nbsp;The GuardianPowerful men from politics, business and entertainment mentioned in latest Jeffrey Epstein files&nbsp;&nbsp;CBCThe Government Published Dozens of Nude Photos in the Epstein Files&nbsp;&nbsp;The New York TimesEpstein",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb3JwLXdsTmt5SnZwdnViR09GdEFOMFBEWG9xaWU3OG1rQWZZNHdHVkIzMzZ0eEIwMUo2Nkd2R1ZHYzROdDgzd2VaNEpGVzFZbm10Tk53cndpeFBPazB2cDBncXkweWFzdWE4MEx1NmZXLXFKYkg4Q3dRTjlhVm5aZGh4R011eE9rbXpvSXdVODQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 02 Feb 2026 22:23:00 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.984096"
+      "fetched_at": "2026-02-03T08:36:06.179174"
     },
     {
       "id": "70b7ca283e2a",
@@ -1716,7 +1728,7 @@
       "published": "Mon, 02 Feb 2026 22:22:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482498"
+      "fetched_at": "2026-02-03T08:36:06.658090"
     },
     {
       "id": "e66a916a8507",
@@ -1728,7 +1740,7 @@
       "published": "Mon, 02 Feb 2026 22:21:57 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154233"
+      "fetched_at": "2026-02-03T08:36:04.331955"
     },
     {
       "id": "b8b7ce90024c",
@@ -1740,7 +1752,7 @@
       "published": "Mon, 02 Feb 2026 22:15:28 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.054299"
+      "fetched_at": "2026-02-03T08:36:06.318297"
     },
     {
       "id": "b4c8fa09799c",
@@ -1752,19 +1764,7 @@
       "published": "Mon, 02 Feb 2026 22:15:23 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070292"
-    },
-    {
-      "id": "e1c0d938f147",
-      "title": "Brendan Banfield convicted of double murder in au pair affair trial - CNN",
-      "description": "Brendan Banfield convicted of double murder in au pair affair trial&nbsp;&nbsp;CNNVirginia man having affair with au pair found guilty of murdering wife and another man&nbsp;&nbsp;The GuardianBrendan Banfield double murder trial: Man found guilty in elaborate plot to get rid of his wife&nbsp;&nbsp;A",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0tDVVhfYUZsLXBFTy1MTzMyQkdlUEoxM01pT2pjZ2RTZU5oQ2lnU0xXOGVjZER5U2J6dFlaV1ZGQUw1RThnT3dZSUtTeFVXTm94RWNQRjRRQUVnb3JFQXY5QTUteURPRjd0bUR3UUJfVVVsNEhwUzFNVDFjMUZFSWw1QXY?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 22:06:21 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.984523"
+      "fetched_at": "2026-02-03T08:36:06.718397"
     },
     {
       "id": "62ea8ab9752c",
@@ -1776,7 +1776,7 @@
       "published": "Mon, 02 Feb 2026 21:57:31 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657267"
+      "fetched_at": "2026-02-03T08:36:04.651128"
     },
     {
       "id": "257f61419d65",
@@ -1788,7 +1788,7 @@
       "published": "Mon, 02 Feb 2026 21:57:28 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.054332"
+      "fetched_at": "2026-02-03T08:36:06.318408"
     },
     {
       "id": "c0e284c45dff",
@@ -1800,7 +1800,7 @@
       "published": "Mon, 02 Feb 2026 21:56:38 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.182203"
+      "fetched_at": "2026-02-03T08:36:06.792014"
     },
     {
       "id": "cbff8c788ef7",
@@ -1812,7 +1812,7 @@
       "published": "Mon, 02 Feb 2026 21:55:51 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:40.213587"
+      "fetched_at": "2026-02-03T08:36:21.081971"
     },
     {
       "id": "5d044d601cf8",
@@ -1824,7 +1824,7 @@
       "published": "Mon, 02 Feb 2026 21:55:38 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154278"
+      "fetched_at": "2026-02-03T08:36:04.332011"
     },
     {
       "id": "53f05e37e70a",
@@ -1836,7 +1836,19 @@
       "published": "Mon, 02 Feb 2026 21:53:45 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.933155"
+      "fetched_at": "2026-02-03T08:36:07.475143"
+    },
+    {
+      "id": "c76c7249117c",
+      "title": "Bank of Montreal fined $4-million for overcharging customers on discounted plans",
+      "description": "101,091 customers were affected between 2010 and 2024, watchdog says",
+      "url": "https://www.theglobeandmail.com/business/article-bank-of-montreal-bmo-fine/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLS5JQQHFBCJZKMGJHAMAWK2DQ.jpg?auth=8e0967c60bbc9c300a771b9fdcc381f5a0761bc20b580613d0a3df8814ff84a1&smart=true&width=3840&height=1965",
+      "published": "Mon, 02 Feb 2026 21:50:54 +0000",
+      "location": "Montreal",
+      "category": "business",
+      "fetched_at": "2026-02-03T08:36:04.834480"
     },
     {
       "id": "5cfe9bcdfe86",
@@ -1848,7 +1860,7 @@
       "published": "Mon, 02 Feb 2026 21:47:30 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482532"
+      "fetched_at": "2026-02-03T08:36:06.658125"
     },
     {
       "id": "e56d32e43d0c",
@@ -1860,7 +1872,7 @@
       "published": "Mon, 02 Feb 2026 21:45:06 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024278"
+      "fetched_at": "2026-02-03T08:36:07.207353"
     },
     {
       "id": "e6ac71c00cd4",
@@ -1872,7 +1884,7 @@
       "published": "Mon, 02 Feb 2026 21:43:55 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719737"
+      "fetched_at": "2026-02-03T08:36:07.460730"
     },
     {
       "id": "e51318517060",
@@ -1884,7 +1896,7 @@
       "published": "Mon, 02 Feb 2026 21:42:38 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946636"
+      "fetched_at": "2026-02-03T08:36:06.465356"
     },
     {
       "id": "4573ec3a66a7",
@@ -1896,7 +1908,7 @@
       "published": "Mon, 02 Feb 2026 21:37:19 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024304"
+      "fetched_at": "2026-02-03T08:36:07.207378"
     },
     {
       "id": "fe254eab28d1",
@@ -1908,7 +1920,7 @@
       "published": "Mon, 02 Feb 2026 21:36:33 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946855"
+      "fetched_at": "2026-02-03T08:36:06.465646"
     },
     {
       "id": "698a1ab795a6",
@@ -1920,7 +1932,7 @@
       "published": "Mon, 02 Feb 2026 21:34:07 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.054368"
+      "fetched_at": "2026-02-03T08:36:06.318472"
     },
     {
       "id": "b46905d5b28c",
@@ -1932,7 +1944,7 @@
       "published": "Mon, 02 Feb 2026 21:33:31 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070315"
+      "fetched_at": "2026-02-03T08:36:06.718421"
     },
     {
       "id": "7cb153f77295",
@@ -1944,7 +1956,7 @@
       "published": "Mon, 02 Feb 2026 21:30:18 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719775"
+      "fetched_at": "2026-02-03T08:36:07.460768"
     },
     {
       "id": "b6e8db3906b6",
@@ -1956,7 +1968,7 @@
       "published": "Mon, 02 Feb 2026 21:30:18 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.933195"
+      "fetched_at": "2026-02-03T08:36:07.475178"
     },
     {
       "id": "1c4a20f00c5e",
@@ -1968,7 +1980,7 @@
       "published": "Mon, 02 Feb 2026 21:17:03 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.800123"
+      "fetched_at": "2026-02-03T08:36:05.807960"
     },
     {
       "id": "dbb883e2eb3c",
@@ -1980,7 +1992,7 @@
       "published": "Mon, 02 Feb 2026 21:15:03 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154312"
+      "fetched_at": "2026-02-03T08:36:04.332041"
     },
     {
       "id": "7b29da54c2d2",
@@ -1992,7 +2004,7 @@
       "published": "Mon, 02 Feb 2026 21:14:19 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.182285"
+      "fetched_at": "2026-02-03T08:36:06.792062"
     },
     {
       "id": "124cb8357be2",
@@ -2004,7 +2016,7 @@
       "published": "Mon, 02 Feb 2026 21:09:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024328"
+      "fetched_at": "2026-02-03T08:36:07.207403"
     },
     {
       "id": "413c67a60c26",
@@ -2016,7 +2028,7 @@
       "published": "Mon, 02 Feb 2026 21:05:50 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:23.169929"
+      "fetched_at": "2026-02-03T08:36:06.594273"
     },
     {
       "id": "ee56e3ff7af8",
@@ -2028,7 +2040,7 @@
       "published": "Mon, 02 Feb 2026 21:04:46 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946576"
+      "fetched_at": "2026-02-03T08:36:06.465415"
     },
     {
       "id": "a27313c2a37e",
@@ -2040,7 +2052,7 @@
       "published": "Mon, 02 Feb 2026 21:00:25 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565289"
+      "fetched_at": "2026-02-03T08:36:12.856728"
     },
     {
       "id": "8244df47dfdb",
@@ -2052,7 +2064,7 @@
       "published": "Mon, 02 Feb 2026 20:59:45 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565311"
+      "fetched_at": "2026-02-03T08:36:12.856752"
     },
     {
       "id": "e7cbd6c4ea21",
@@ -2064,7 +2076,19 @@
       "published": "Mon, 02 Feb 2026 20:56:41 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.407425"
+      "fetched_at": "2026-02-03T08:36:04.467197"
+    },
+    {
+      "id": "fa42f6c6b609",
+      "title": "Bill Blair is Canada’s next U.K. high commissioner, will resign as MP - Global News",
+      "description": "Bill Blair is Canada’s next U.K. high commissioner, will resign as MP&nbsp;&nbsp;Global News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tNlpYOUZfUHFFdk9YSkpPTVlSNVZiQlRsV0NVdnFibGJ2QndqdWhLNWhVOXM4T01NeldxMEJOMkU3NVdzX25ETWVqWkc5MlFScFJQOWRpbm1yY19BTUxnRUpVR3JLRm5QZWNVaGc3NXcwVWZmQ1g4?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Mon, 02 Feb 2026 20:56:12 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-02-03T08:36:06.594174"
     },
     {
       "id": "964502a68f5c",
@@ -2076,7 +2100,7 @@
       "published": "Mon, 02 Feb 2026 20:56:12 +0000",
       "location": "Toronto",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:21.267809"
+      "fetched_at": "2026-02-03T08:36:04.232978"
     },
     {
       "id": "46df95eb0c44",
@@ -2088,7 +2112,7 @@
       "published": "Mon, 02 Feb 2026 20:49:06 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657295"
+      "fetched_at": "2026-02-03T08:36:04.651184"
     },
     {
       "id": "e9e2ec48cd51",
@@ -2100,7 +2124,7 @@
       "published": "Mon, 02 Feb 2026 20:48:03 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946690"
+      "fetched_at": "2026-02-03T08:36:06.465470"
     },
     {
       "id": "47c00a1936d2",
@@ -2112,7 +2136,7 @@
       "published": "Mon, 02 Feb 2026 20:39:59 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154350"
+      "fetched_at": "2026-02-03T08:36:04.332078"
     },
     {
       "id": "cc797892cc67",
@@ -2124,7 +2148,7 @@
       "published": "Mon, 02 Feb 2026 20:38:52 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:40.213611"
+      "fetched_at": "2026-02-03T08:36:21.081996"
     },
     {
       "id": "a6a3b8c450cc",
@@ -2136,7 +2160,7 @@
       "published": "Mon, 02 Feb 2026 20:35:50 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.933231"
+      "fetched_at": "2026-02-03T08:36:07.475214"
     },
     {
       "id": "fb5c556633b8",
@@ -2148,7 +2172,7 @@
       "published": "Mon, 02 Feb 2026 20:35:10 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.182355"
+      "fetched_at": "2026-02-03T08:36:06.792107"
     },
     {
       "id": "81ad04ec2fa5",
@@ -2160,7 +2184,7 @@
       "published": "Mon, 02 Feb 2026 20:30:00 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.438009"
+      "fetched_at": "2026-02-03T08:36:05.811874"
     },
     {
       "id": "af3438ef4124",
@@ -2172,7 +2196,7 @@
       "published": "Mon, 02 Feb 2026 20:27:55 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657328"
+      "fetched_at": "2026-02-03T08:36:04.651221"
     },
     {
       "id": "89462b3f2a0b",
@@ -2184,7 +2208,7 @@
       "published": "Mon, 02 Feb 2026 20:27:22 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.407450"
+      "fetched_at": "2026-02-03T08:36:04.467231"
     },
     {
       "id": "aa79e4ec70b1",
@@ -2196,7 +2220,7 @@
       "published": "Mon, 02 Feb 2026 20:26:20 GMT",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:23.169969"
+      "fetched_at": "2026-02-03T08:36:06.594309"
     },
     {
       "id": "985a307cd332",
@@ -2208,7 +2232,7 @@
       "published": "Mon, 02 Feb 2026 20:24:13 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-03T06:51:21.233358"
+      "fetched_at": "2026-02-03T08:36:04.292806"
     },
     {
       "id": "d0bb0776d0ed",
@@ -2220,7 +2244,7 @@
       "published": "Mon, 02 Feb 2026 20:21:37 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657354"
+      "fetched_at": "2026-02-03T08:36:04.651249"
     },
     {
       "id": "a776f0e7931f",
@@ -2232,7 +2256,7 @@
       "published": "Mon, 02 Feb 2026 20:19:55 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.182419"
+      "fetched_at": "2026-02-03T08:36:06.792148"
     },
     {
       "id": "e34fdbad18aa",
@@ -2244,7 +2268,7 @@
       "published": "Mon, 02 Feb 2026 20:19:24 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024350"
+      "fetched_at": "2026-02-03T08:36:07.207425"
     },
     {
       "id": "a891c44a13d6",
@@ -2256,7 +2280,7 @@
       "published": "Mon, 02 Feb 2026 20:18:02 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:21.267831"
+      "fetched_at": "2026-02-03T08:36:04.233001"
     },
     {
       "id": "7009f3a46819",
@@ -2268,7 +2292,7 @@
       "published": "Mon, 02 Feb 2026 20:12:45 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657383"
+      "fetched_at": "2026-02-03T08:36:04.651279"
     },
     {
       "id": "fd112061cff4",
@@ -2280,7 +2304,7 @@
       "published": "Mon, 02 Feb 2026 20:12:20 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070348"
+      "fetched_at": "2026-02-03T08:36:06.718454"
     },
     {
       "id": "dc58838d4998",
@@ -2292,7 +2316,7 @@
       "published": "Mon, 02 Feb 2026 20:12:20 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.182494"
+      "fetched_at": "2026-02-03T08:36:06.792190"
     },
     {
       "id": "6973f314603f",
@@ -2304,7 +2328,7 @@
       "published": "Mon, 02 Feb 2026 20:12:20 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432527"
+      "fetched_at": "2026-02-03T08:36:07.180075"
     },
     {
       "id": "950381114bf8",
@@ -2316,7 +2340,7 @@
       "published": "Mon, 02 Feb 2026 20:12:20 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719817"
+      "fetched_at": "2026-02-03T08:36:07.460811"
     },
     {
       "id": "dd43cc76c28c",
@@ -2328,7 +2352,7 @@
       "published": "Mon, 02 Feb 2026 20:09:01 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070378"
+      "fetched_at": "2026-02-03T08:36:06.718484"
     },
     {
       "id": "260c2a46417d",
@@ -2340,7 +2364,7 @@
       "published": "Mon, 02 Feb 2026 20:06:25 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.719853"
+      "fetched_at": "2026-02-03T08:36:07.460847"
     },
     {
       "id": "68fd7f438a76",
@@ -2352,7 +2376,7 @@
       "published": "Mon, 02 Feb 2026 20:04:12 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482553"
+      "fetched_at": "2026-02-03T08:36:06.658147"
     },
     {
       "id": "4d5634a7bc4a",
@@ -2364,7 +2388,7 @@
       "published": "Mon, 02 Feb 2026 20:04:11 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.070407"
+      "fetched_at": "2026-02-03T08:36:06.718514"
     },
     {
       "id": "4f00b4d99f25",
@@ -2376,7 +2400,7 @@
       "published": "Mon, 02 Feb 2026 20:00:00 GMT",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:23.170024"
+      "fetched_at": "2026-02-03T08:36:06.594338"
     },
     {
       "id": "6ae5aff636bc",
@@ -2388,7 +2412,7 @@
       "published": "Mon, 02 Feb 2026 19:57:57 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024387"
+      "fetched_at": "2026-02-03T08:36:07.207463"
     },
     {
       "id": "f5b845df2386",
@@ -2400,7 +2424,7 @@
       "published": "Mon, 02 Feb 2026 19:57:36 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.482573"
+      "fetched_at": "2026-02-03T08:36:06.658168"
     },
     {
       "id": "17eab0a91575",
@@ -2412,19 +2436,7 @@
       "published": "Mon, 02 Feb 2026 19:49:27 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657411"
-    },
-    {
-      "id": "42660afa0442",
-      "title": "Opinion: Could your electric vehicle be a cybersecurity risk?",
-      "description": "Canada and China recently reached an agreement allowing for the import of Chinese electric vehicles (EVs) into Canada. In exchange for China cutting tariffs on imported canola from roughly 85 per cent to 15 per cent, Canada has agreed to cut its 100-per-cent tariff on Chinese EVs to 6.1 per cent. Th",
-      "url": "https://edmontonjournal.com/opinion/columnists/opinion-could-your-electric-vehicle-pose-a-cybersecurity-risk",
-      "source": "Edmonton Journal",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 19:42:59 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-02-03T06:51:30.024420"
+      "fetched_at": "2026-02-03T08:36:04.651307"
     },
     {
       "id": "0d88c9ed87e7",
@@ -2436,7 +2448,7 @@
       "published": "Mon, 02 Feb 2026 19:38:01 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657440"
+      "fetched_at": "2026-02-03T08:36:04.651336"
     },
     {
       "id": "17ce0f6ad6bf",
@@ -2448,19 +2460,19 @@
       "published": "Mon, 02 Feb 2026 19:22:50 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.407472"
+      "fetched_at": "2026-02-03T08:36:04.467253"
     },
     {
       "id": "c4161f58adf9",
       "title": "Canadian pair Stellato-Dudek, Deschamps drops out of Olympic team event - Sportsnet.ca",
-      "description": "Canadian pair Stellato-Dudek, Deschamps drops out of Olympic team event&nbsp;&nbsp;Sportsnet.caInjury forces Canada's Deanna Stellato-Dudek, figure skating partner Deschamps out of Olympic team event&nbsp;&nbsp;CBCSkating for Canada at 42, Deanna Stellato-Dudek makes maturity her superpower&nbsp;&nb",
+      "description": "Canadian pair Stellato-Dudek, Deschamps drops out of Olympic team event&nbsp;&nbsp;Sportsnet.caInjury forces Canada's Deanna Stellato-Dudek, figure skating partner Deschamps out of Olympic team event&nbsp;&nbsp;CBCStellato-Dudek and Deschamps pull out of Olympic figure skating team event&nbsp;&nbsp;",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDktbTcxNnZUQVNMYlpHYlZoc3BBWGlwUGdPaG5Lb1A2dlB1UGNjMHY5T0xYQlMyNkVtMVRPS0ZkWVNuTXY2ZkRUMWpndHlJam9aRHcyZ3dGbVJqWXlDcW5RTEpGWXhnbDBUbEoyZkFDOTlGVnROZGRIbXY2Vko2Q3BrX1lFYmN0enQyZDlJMmNXcGFYdmY3ZDRZM1JnZnRESzhicGxkTzUxRDNjZkdSMjVxdw?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 02 Feb 2026 19:13:00 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-02-03T06:51:23.339071"
+      "fetched_at": "2026-02-03T08:36:06.288532"
     },
     {
       "id": "e565f5acf597",
@@ -2472,7 +2484,7 @@
       "published": "Mon, 02 Feb 2026 19:09:44 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154380"
+      "fetched_at": "2026-02-03T08:36:04.332109"
     },
     {
       "id": "2316d7b1ade8",
@@ -2484,7 +2496,7 @@
       "published": "Mon, 02 Feb 2026 18:59:19 GMT",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946728"
+      "fetched_at": "2026-02-03T08:36:06.465587"
     },
     {
       "id": "153ee2b3c2be",
@@ -2496,7 +2508,7 @@
       "published": "Mon, 02 Feb 2026 18:55:57 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432562"
+      "fetched_at": "2026-02-03T08:36:07.180111"
     },
     {
       "id": "b9344ac552c3",
@@ -2508,7 +2520,7 @@
       "published": "Mon, 02 Feb 2026 18:55:02 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432607"
+      "fetched_at": "2026-02-03T08:36:07.180156"
     },
     {
       "id": "fe4e64d091dd",
@@ -2520,7 +2532,7 @@
       "published": "Mon, 02 Feb 2026 18:53:16 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432645"
+      "fetched_at": "2026-02-03T08:36:07.180196"
     },
     {
       "id": "e762e4598337",
@@ -2532,7 +2544,7 @@
       "published": "Mon, 02 Feb 2026 18:50:59 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565336"
+      "fetched_at": "2026-02-03T08:36:12.856778"
     },
     {
       "id": "0adba72e0e96",
@@ -2544,7 +2556,7 @@
       "published": "Mon, 02 Feb 2026 18:42:09 +0000",
       "location": "Winnipeg",
       "category": "indigenous",
-      "fetched_at": "2026-02-03T06:51:21.233408"
+      "fetched_at": "2026-02-03T08:36:04.292857"
     },
     {
       "id": "3678b4490990",
@@ -2556,7 +2568,7 @@
       "published": "Mon, 02 Feb 2026 18:34:45 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154405"
+      "fetched_at": "2026-02-03T08:36:04.332136"
     },
     {
       "id": "f320323df183",
@@ -2568,7 +2580,7 @@
       "published": "Mon, 02 Feb 2026 18:28:21 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:40.213633"
+      "fetched_at": "2026-02-03T08:36:21.082019"
     },
     {
       "id": "60c85178098d",
@@ -2580,7 +2592,7 @@
       "published": "Mon, 02 Feb 2026 18:27:54 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.407494"
+      "fetched_at": "2026-02-03T08:36:04.467274"
     },
     {
       "id": "a3ba3a1bcf9c",
@@ -2592,7 +2604,7 @@
       "published": "Mon, 02 Feb 2026 18:22:43 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154430"
+      "fetched_at": "2026-02-03T08:36:04.332162"
     },
     {
       "id": "b04e1823f7c2",
@@ -2604,19 +2616,7 @@
       "published": "Mon, 02 Feb 2026 18:19:31 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:21.154456"
-    },
-    {
-      "id": "b4d66fdcaf7e",
-      "title": "Georgian Bay Islands National Park - Parks Canada",
-      "description": "Georgian Bay Islands National Park&nbsp;&nbsp;Parks Canada",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1INWw2Z0pQME02MUpDSTdvZnpVSzBETlU1Y3hxUFd0WV8xVGRlU181TjQ5YjJBR1FFSmlRY0FkYzNoVUk3eVRtMVhKZXlFYVE?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 18:07:17 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-02-03T06:51:23.169891"
+      "fetched_at": "2026-02-03T08:36:04.332188"
     },
     {
       "id": "4f4f504fc441",
@@ -2628,7 +2628,7 @@
       "published": "Mon, 02 Feb 2026 18:04:10 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946940"
+      "fetched_at": "2026-02-03T08:36:06.465747"
     },
     {
       "id": "177d383bcbab",
@@ -2640,7 +2640,7 @@
       "published": "Mon, 02 Feb 2026 18:04:10 +0000",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:21.727524"
+      "fetched_at": "2026-02-03T08:36:04.834662"
     },
     {
       "id": "aa8bd72c8e8e",
@@ -2652,19 +2652,7 @@
       "published": "Mon, 02 Feb 2026 17:56:32 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565366"
-    },
-    {
-      "id": "f3ffbd71bdff",
-      "title": "Jets vs Stars Prediction, Picks & Odds for Tonight’s NHL Game - Covers.com",
-      "description": "Jets vs Stars Prediction, Picks & Odds for Tonight’s NHL Game&nbsp;&nbsp;Covers.comHarley scores in OT, Stars recover against Jets for 5th straight win&nbsp;&nbsp;NHL.comJets fall to Stars on Harley’s overtime winner&nbsp;&nbsp;TSNHarley’s OT winner lifts Dallas past Winnipeg Jets 4-3&nbsp;&nbsp;Glo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVE1TdWJDNVZwRFRITVNGR1FaQWpPQlJtZjF6djVGTTkzNk1lb1oyYXNvMmx2dWxMcGhXUWMtOXBnVkZPR2o5LTg4emRRVDY3alVGVzB6ZEhnMmRyb18yZlBFQWZoaGhzTllScGVxOTd4T3RwdV9rdkJGVEg5YThHLVhqZ2pIVUNLWFFvSU5EaTI?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 17:42:00 GMT",
-      "location": "Winnipeg",
-      "category": "sports",
-      "fetched_at": "2026-02-03T06:51:23.339953"
+      "fetched_at": "2026-02-03T08:36:12.856808"
     },
     {
       "id": "b3252b3af4a7",
@@ -2676,7 +2664,19 @@
       "published": "Mon, 02 Feb 2026 17:39:36 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2026-02-03T06:51:21.657460"
+      "fetched_at": "2026-02-03T08:36:04.651357"
+    },
+    {
+      "id": "326c18959e2f",
+      "title": "Trump says he plans to lower tariffs on India to 18% after India agreed to stop buying Russian oil - Castanet",
+      "description": "Trump says he plans to lower tariffs on India to 18% after India agreed to stop buying Russian oil&nbsp;&nbsp;CastanetHope and uncertainty as India and US strike long-delayed trade deal&nbsp;&nbsp;BBCSoy Oil Market Shows First Sign of Optimism on US Trade to India&nbsp;&nbsp;BloombergUS to cut tarif",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0RHVWFuRFFQNEdFeWUxaEFMSXg1QmozLVh1Z3hEU1h5UDY0blVyUUw4SmRzTU9XT0lsWUgtck1YdDRsQ2ljdG5XMWNmbDdkVEFWdzRVajZtSW5QaW9wQTZ2V0dQdElQenk5elhIRFNQQ3RtQlNzMVZQdFBVamc3bWl5OGtxdlRKM0hrR2E4SFo3ZU01R0V0MklMSUZ4OFl4cTRaTzRyeF82M241bzhfdTlJQ0VGOGxUNXhRXzJfRFhnSVpiSmdMdTNJeTBiM1Rka293amtQYw?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 02 Feb 2026 17:34:00 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-02-03T08:36:06.179576"
     },
     {
       "id": "0975b6ec73a8",
@@ -2688,7 +2688,7 @@
       "published": "Mon, 02 Feb 2026 17:28:33 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432680"
+      "fetched_at": "2026-02-03T08:36:07.180232"
     },
     {
       "id": "31d6b0740f57",
@@ -2700,7 +2700,7 @@
       "published": "Mon, 02 Feb 2026 17:27:06 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.392858"
+      "fetched_at": "2026-02-03T08:36:05.706867"
     },
     {
       "id": "d0b0e595a1fc",
@@ -2712,7 +2712,7 @@
       "published": "Mon, 02 Feb 2026 17:27:06 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565388"
+      "fetched_at": "2026-02-03T08:36:12.856831"
     },
     {
       "id": "898309a8bc68",
@@ -2724,19 +2724,19 @@
       "published": "Mon, 02 Feb 2026 17:26:14 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432719"
+      "fetched_at": "2026-02-03T08:36:07.180271"
     },
     {
       "id": "72b6b62b29f5",
       "title": "Darlington nuclear plant refit completed early and under budget - Toronto Star",
-      "description": "Darlington nuclear plant refit completed early and under budget&nbsp;&nbsp;Toronto StarView Full Coverage on Google News",
+      "description": "Darlington nuclear plant refit completed early and under budget&nbsp;&nbsp;Toronto StarDarlington nuclear refurbishment done early and under budget, Ontario says&nbsp;&nbsp;The Globe and MailNuclear refurbishment done and under budget at Ontario's Darlington plant: minister&nbsp;&nbsp;CBCDarlington ",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVkE5Q0VvOHBEeDB3aDA4STc3RTBUQXVFQzFpN1JOS0IycVljSFhQSWY3ck5sQ2dqNUhrSU54N0VVTV9MZkI5WEN5ZWxBZElmRldqbDZjMEdOcVJsN3VIMWNRMFZ4dTA4NWh2RnFOTGJ0WFp0ZUt5SEZER0NiUTY0d3g2U0M5cmpwU1hXbkUyc2RjZlg5a0pxUmdKSU9acHpnaWl1V0FmbkUzUG8zMmMySkhpdDlQY2p4SGppNEtMb2hmb2hzZmdFdi1kLUdJV3BqR3FJbUwyeTVHV1V4cGZjVXpKcEZPalU5RFVnOVdB?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 02 Feb 2026 17:15:00 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946888"
+      "fetched_at": "2026-02-03T08:36:06.465696"
     },
     {
       "id": "a7c382dd05e6",
@@ -2748,7 +2748,7 @@
       "published": "Mon, 02 Feb 2026 17:12:01 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-03T06:51:21.233459"
+      "fetched_at": "2026-02-03T08:36:04.292908"
     },
     {
       "id": "79532d64a4b5",
@@ -2760,7 +2760,7 @@
       "published": "Mon, 02 Feb 2026 17:01:33 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:41.565413"
+      "fetched_at": "2026-02-03T08:36:12.856856"
     },
     {
       "id": "cb2e3f890935",
@@ -2772,7 +2772,7 @@
       "published": "Mon, 02 Feb 2026 17:00:33 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:21.267856"
+      "fetched_at": "2026-02-03T08:36:04.233025"
     },
     {
       "id": "44db630994ac",
@@ -2784,7 +2784,7 @@
       "published": "Mon, 02 Feb 2026 16:58:06 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:22.714622"
+      "fetched_at": "2026-02-03T08:36:05.920868"
     },
     {
       "id": "bbfba70e2864",
@@ -2796,7 +2796,7 @@
       "published": "Mon, 02 Feb 2026 16:54:52 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:21.727394"
+      "fetched_at": "2026-02-03T08:36:04.834512"
     },
     {
       "id": "fded791a5973",
@@ -2808,7 +2808,7 @@
       "published": "Mon, 02 Feb 2026 16:48:34 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:22.946515"
+      "fetched_at": "2026-02-03T08:36:06.465293"
     },
     {
       "id": "18ef5180063d",
@@ -2820,7 +2820,7 @@
       "published": "Mon, 02 Feb 2026 16:31:55 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:22.714601"
+      "fetched_at": "2026-02-03T08:36:05.920848"
     },
     {
       "id": "f1d2e768190f",
@@ -2832,7 +2832,7 @@
       "published": "Mon, 02 Feb 2026 16:29:29 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.438061"
+      "fetched_at": "2026-02-03T08:36:05.811946"
     },
     {
       "id": "89ec904ed8d3",
@@ -2844,7 +2844,7 @@
       "published": "Mon, 02 Feb 2026 16:12:29 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-03T06:51:21.233495"
+      "fetched_at": "2026-02-03T08:36:04.292963"
     },
     {
       "id": "b25d56f1f002",
@@ -2856,7 +2856,7 @@
       "published": "Mon, 02 Feb 2026 16:11:32 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432763"
+      "fetched_at": "2026-02-03T08:36:07.180315"
     },
     {
       "id": "4b520cc8626f",
@@ -2868,7 +2868,7 @@
       "published": "Mon, 02 Feb 2026 15:50:38 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-03T06:51:21.727505"
+      "fetched_at": "2026-02-03T08:36:04.834644"
     },
     {
       "id": "127716e8e5b1",
@@ -2880,19 +2880,7 @@
       "published": "Mon, 02 Feb 2026 15:37:08 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.392894"
-    },
-    {
-      "id": "2de090ed1923",
-      "title": "NHL On Tap: Wild host Canadiens with Hughes on 8-game point streak - NHL.com",
-      "description": "NHL On Tap: Wild host Canadiens with Hughes on 8-game point streak&nbsp;&nbsp;NHL.comKaprizov scores OT winner on power play as Wild clip Canadiens&nbsp;&nbsp;TSNCanadiens @ Wild Top Six Minutes: Montreal fights hard for a point in Minnesota&nbsp;&nbsp;Habs Eyes on the Prize(2-2-26) Wild Vs Canadien",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zdXQ3YXQ3Z0xtNjA3M1dsYTllU1FXckw5MUtxOTlrYnZwOHpDSjRIU0pWd18zZFdKTXlZZzk5TndocEZjS2VkSUJMSEdyNHhJYXBtQzVrUVpkYWtrUkpjd2FReEZHN0pvZHRCV1hQMDVTYlIw?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 02 Feb 2026 15:30:26 GMT",
-      "location": "Montreal",
-      "category": "sports",
-      "fetched_at": "2026-02-03T06:51:23.340068"
+      "fetched_at": "2026-02-03T08:36:05.706889"
     },
     {
       "id": "e285f824f927",
@@ -2904,7 +2892,7 @@
       "published": "Mon, 02 Feb 2026 15:10:48 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.800164"
+      "fetched_at": "2026-02-03T08:36:05.808003"
     },
     {
       "id": "5c5b4dfea869",
@@ -2916,7 +2904,7 @@
       "published": "Mon, 02 Feb 2026 15:06:21 GMT",
       "location": "World",
       "category": "sports",
-      "fetched_at": "2026-02-03T06:51:23.339610"
+      "fetched_at": "2026-02-03T08:36:06.288964"
     },
     {
       "id": "f79579a58c2a",
@@ -2928,7 +2916,7 @@
       "published": "Mon, 02 Feb 2026 15:00:08 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-03T06:51:22.714661"
+      "fetched_at": "2026-02-03T08:36:05.920906"
     },
     {
       "id": "6236873fc6b5",
@@ -2940,7 +2928,7 @@
       "published": "Mon, 02 Feb 2026 14:34:48 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:23.432806"
+      "fetched_at": "2026-02-03T08:36:07.180359"
     },
     {
       "id": "f51839c1bb09",
@@ -2952,7 +2940,7 @@
       "published": "Mon, 02 Feb 2026 14:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-03T06:51:22.438109"
+      "fetched_at": "2026-02-03T08:36:05.812002"
     },
     {
       "id": "3c68a5d68a96",
@@ -2964,7 +2952,7 @@
       "published": "Mon, 02 Feb 2026 13:59:23 GMT",
       "location": "Canada",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.800210"
+      "fetched_at": "2026-02-03T08:36:05.808050"
     },
     {
       "id": "882621ebe343",
@@ -2976,7 +2964,7 @@
       "published": "Mon, 02 Feb 2026 13:57:03 GMT",
       "location": "Ottawa",
       "category": "sports",
-      "fetched_at": "2026-02-03T06:51:23.339194"
+      "fetched_at": "2026-02-03T08:36:06.288467"
     },
     {
       "id": "caa9f3f0c6f0",
@@ -2988,7 +2976,7 @@
       "published": "Mon, 02 Feb 2026 13:08:59 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-03T06:51:22.800252"
+      "fetched_at": "2026-02-03T08:36:05.808091"
     },
     {
       "id": "aedbe2da8011",
@@ -3000,64 +2988,75 @@
       "published": "Mon, 02 Feb 2026 13:00:05 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-03T06:51:40.213658"
+      "fetched_at": "2026-02-03T08:36:21.082045"
+    },
+    {
+      "id": "19fc88334bca",
+      "title": "3 Best Floodlight Security Cameras (2026), Tested and Reviewed",
+      "description": "Light up and secure your driveway, backyard, or porch with a floodlight security camera.",
+      "url": "https://www.wired.com/gallery/best-floodlight-security-cameras/",
+      "source": "Wired",
+      "image": "",
+      "published": "Mon, 02 Feb 2026 13:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-02-03T08:36:04.467294"
     }
   ],
   "sources": [
-    "National Post Politics",
-    "Edmonton Journal",
-    "Financial Post",
     "Google News Canada",
-    "CityNews Ottawa",
-    "CityNews Calgary",
-    "Google News Sports",
-    "The Guardian",
-    "BetaKit",
+    "CityNews Montreal",
+    "Financial Post",
     "Calgary Sun",
+    "Google News Sports",
     "CNN World",
-    "Al Jazeera",
-    "CityNews Vancouver",
-    "Google News Tech",
-    "Ottawa Citizen",
-    "Science Daily",
-    "APTN News",
-    "Wired",
     "Global News",
     "Vancouver Sun",
-    "CityNews Montreal",
-    "Global Politics",
-    "BBC World",
-    "Globe Business",
-    "TechCrunch",
     "Montreal Gazette",
+    "CityNews Ottawa",
+    "CityNews Vancouver",
+    "BetaKit",
+    "National Post Politics",
     "CityNews Toronto",
-    "Google News Business",
+    "Globe Business",
+    "APTN News",
+    "Edmonton Journal",
+    "Google News Tech",
+    "CityNews Edmonton",
+    "CityNews Calgary",
+    "TechCrunch",
+    "Ottawa Citizen",
+    "The Guardian",
+    "Al Jazeera",
+    "BBC World",
+    "Global Politics",
     "National Post",
-    "CityNews Edmonton"
+    "Science Daily",
+    "Google News Business",
+    "Wired"
   ],
   "stats": {
     "by_location": {
-      "World": 112,
+      "World": 113,
       "Canada": 32,
-      "Halifax": 1,
-      "Toronto": 19,
-      "Montreal": 14,
+      "Vancouver": 31,
+      "Toronto": 18,
+      "Montreal": 15,
       "Edmonton": 10,
-      "Winnipeg": 3,
-      "Ottawa": 17,
-      "Vancouver": 28,
-      "Calgary": 14
+      "Winnipeg": 2,
+      "Ottawa": 16,
+      "Calgary": 13
     },
     "by_category": {
       "local": 107,
       "world": 28,
-      "business": 28,
-      "technology": 28,
+      "business": 29,
+      "technology": 27,
       "canada": 29,
-      "politics": 13,
+      "sports": 8,
       "science": 4,
-      "indigenous": 5,
-      "sports": 8
+      "politics": 13,
+      "indigenous": 5
     },
     "source_count": 30
   }
