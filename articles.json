@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T05:32:05.802235",
+  "last_updated": "2026-02-24T07:11:54.042104",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 18 Feb 2026 17:57:22 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:22.014435"
+      "fetched_at": "2026-02-24T06:59:54.631065"
     },
     {
       "id": "fdaadff96d89",
@@ -24,7 +24,7 @@
       "published": "Wed, 18 Feb 2026 12:00:11 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.052010"
+      "fetched_at": "2026-02-24T06:59:56.493633"
     },
     {
       "id": "30bf98e28ac9",
@@ -36,7 +36,139 @@
       "published": "Wed, 18 Feb 2026 12:00:02 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.052043"
+      "fetched_at": "2026-02-24T06:59:56.493662"
+    },
+    {
+      "id": "12a3f0de6f67",
+      "title": "LNG Glut May Pressure Prices But Demand Is Strong, Woodside Says",
+      "description": "A forecast global glut of liquefied natural gas may weigh on prices, but demand growth is strong and supply additions aren’t certain, according to Australia’s biggest LNG producer.",
+      "url": "https://financialpost.com/pmn/business-pmn/lng-glut-may-pressure-prices-but-demand-is-strong-woodside-says",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 06:21:37 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-24T06:59:53.795270"
+    },
+    {
+      "id": "eb5f99c4bfe2",
+      "title": "Devastation and frozen frontlines: Ukraine marks four years of Russia’s war",
+      "description": "Ukrainians are repelled by the prospect of capitulating to Moscow as the war barrels into another year.",
+      "url": "https://www.aljazeera.com/news/2026/2/24/devastation-and-frozen-frontlines-ukraine-marks-four-years-of-russias-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 06:13:27 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-24T06:59:54.539879"
+    },
+    {
+      "id": "f25c4ec03d05",
+      "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
+      "description": "Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders.",
+      "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17ca/live/2f09e430-10d2-11f1-801d-ed3cff6bf876.png",
+      "published": "Tue, 24 Feb 2026 06:02:13 GMT",
+      "location": "Vancouver",
+      "category": "world",
+      "fetched_at": "2026-02-24T06:59:54.889674"
+    },
+    {
+      "id": "d1d56fe3e4ec",
+      "title": "Air France, Accor to Pay Bond Penalty for Missing Climate Goals",
+      "description": "Air France-KLM and hotelier Accor SA will need to cough up financial penalties to bondholders because they failed to meet greenhouse gas targets.",
+      "url": "https://financialpost.com/pmn/business-pmn/air-france-accor-to-pay-bond-penalty-for-missing-climate-goals",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 06:01:03 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-24T06:59:53.795312"
+    },
+    {
+      "id": "ecd5a9ddac39",
+      "title": "Four Years Into Putin’s War, the Ukraine Peace Push Is Stalling",
+      "description": "President Donald Trump’s efforts to end Russia’s invasion of Ukraine are stalling with peace talks deadlocked and the fighting largely at a stalemate after four years of war.",
+      "url": "https://financialpost.com/pmn/business-pmn/four-years-into-putins-war-the-ukraine-peace-push-is-stalling",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 05:56:04 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-24T06:59:53.795346"
+    },
+    {
+      "id": "02af00c435aa",
+      "title": "Trump’s 10% Levy Takes Effect as US Rebuilds Tariff Wall",
+      "description": "Donald Trump’s new 10% global tariffs went into effect on Tuesday, kicking off a White House effort to preserve the president’s trade agenda after the Supreme Court struck down his original sweeping duties.",
+      "url": "https://financialpost.com/pmn/business-pmn/trumps-10-levy-takes-effect-as-us-rebuilds-tariff-wall",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 05:45:44 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-24T06:59:53.800790"
+    },
+    {
+      "id": "b898d699e95b",
+      "title": "Porter becomes latest Canadian airline to restart service to Mexico - Global News",
+      "description": "Porter becomes latest Canadian airline to restart service to Mexico&nbsp;&nbsp;Global News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQW9tYkNfb3diRzFaSDFheU4zblQtSEJiMm1jZjhYOEtUTVlJVDlCTTQ5QzFRY3hqUFRnR19xZVpNN2staE1wdjRiTTNScnN0TURQc0dkNHVnemRzWmM3MzR5WlF3YUkwN0lNWVFWRWdLb1YyV0dzejUyQkFlSXdWTThmbDhTejQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 05:36:51 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-02-24T06:59:55.312997"
+    },
+    {
+      "id": "8b7b9397ff6d",
+      "title": "LIVE: Russia-Ukraine war enters fifth year as strikes hit Zaporizhzhia",
+      "description": "Ukraine officials say infrastructure damaged as Russia strikes Zaporizhzhia on war anniversary.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/2/24/live-russia-ukraine-war-enters-fifth-year-as-strikes-hit-zaporizhzhia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 05:33:49 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-24T06:59:54.539911"
+    },
+    {
+      "id": "fc6704c446bd",
+      "title": "Some airlines resuming Puerto Vallarta flights in wake of Mexico violence that stranded Canadian travellers - CBC",
+      "description": "Some airlines resuming Puerto Vallarta flights in wake of Mexico violence that stranded Canadian travellers&nbsp;&nbsp;CBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aZ1BfSVZQbmlHU0hYSlYzRmhrQzA5WE5iVmM3TkZsNHJkTDBrMDdCV2ZSejlTRndtLTJFVExoTFVWZkhFUzBjWjg2M2phZE9PT1pWX3drek90WGxVaW9WRktuUTlYWEhzTDVMUmdCVWRNUkF5S1ZUc1RQTG1RWlU?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 05:31:14 GMT",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2026-02-24T06:59:55.312926"
+    },
+    {
+      "id": "6d50803197ae",
+      "title": "Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments",
+      "description": "Stripe and PayPal Ventures have participated in Xflow's $16.6 million round that gives it a post-money valuation of $85 million.",
+      "url": "https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 05:30:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-02-24T06:59:53.351490"
+    },
+    {
+      "id": "28598c3acb35",
+      "title": "FedEx sues US government for tariff refund after Supreme Court ruling",
+      "description": "The logistics giant seeks to recoup tariff fees, although the courts have yet to establish a refund process.",
+      "url": "https://www.aljazeera.com/news/2026/2/24/fedex-sues-us-government-for-tariff-refund-after-supreme-court-ruling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 05:08:34 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-24T06:59:54.539939"
     },
     {
       "id": "64aa285eb7c9",
@@ -48,7 +180,7 @@
       "published": "Tue, 24 Feb 2026 05:01:23 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.014646"
+      "fetched_at": "2026-02-24T06:59:56.586436"
     },
     {
       "id": "0536a81bf192",
@@ -60,7 +192,7 @@
       "published": "Tue, 24 Feb 2026 04:44:00 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662590"
+      "fetched_at": "2026-02-24T06:59:53.800848"
     },
     {
       "id": "62c7f2ef14ca",
@@ -72,19 +204,7 @@
       "published": "Tue, 24 Feb 2026 04:29:28 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787424"
-    },
-    {
-      "id": "9bec0ae2b951",
-      "title": "Team Canada athletes welcomed home after 21-medal Olympic performance - National - Global News",
-      "description": "Team Canada athletes welcomed home after 21-medal Olympic performance - National&nbsp;&nbsp;Global News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVklMMHZFVDlIcXBLX3kwNGJsRzk3bVNGMG5uZGhzLVJFMXNPRlMyUFQtMHBvWVNJMXpOeFFLRnlQZFB1MlAxM0p0ZGV0c1FuLXg1Qk9KOTVYUzJMbmg1WVJNMlMtdmhEVVJ3T1dJS2Z0Nno4MkJ6VkU1Y2FqRG5LRnFLQkhjZw?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 24 Feb 2026 04:19:04 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-02-24T05:20:22.690391"
+      "fetched_at": "2026-02-24T06:59:54.539969"
     },
     {
       "id": "d2bb57f36489",
@@ -96,7 +216,7 @@
       "published": "Tue, 24 Feb 2026 04:19:04 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421219"
+      "fetched_at": "2026-02-24T06:59:53.305901"
     },
     {
       "id": "f9d6482679af",
@@ -108,7 +228,7 @@
       "published": "Tue, 24 Feb 2026 04:07:45 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787460"
+      "fetched_at": "2026-02-24T06:59:54.539996"
     },
     {
       "id": "1ac60adf5106",
@@ -120,7 +240,7 @@
       "published": "Tue, 24 Feb 2026 04:06:38 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.715872"
+      "fetched_at": "2026-02-24T06:59:56.745638"
     },
     {
       "id": "e27b9917c1d9",
@@ -132,7 +252,7 @@
       "published": "Tue, 24 Feb 2026 04:06:11 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787489"
+      "fetched_at": "2026-02-24T06:59:54.540040"
     },
     {
       "id": "802a654d9602",
@@ -144,19 +264,7 @@
       "published": "Tue, 24 Feb 2026 04:05:38 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599453"
-    },
-    {
-      "id": "fc6704c446bd",
-      "title": "Some airlines resuming Puerto Vallarta flights in wake of Mexico violence that stranded Canadian travellers - CBC",
-      "description": "Some airlines resuming Puerto Vallarta flights in wake of Mexico violence that stranded Canadian travellers&nbsp;&nbsp;CBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aZ1BfSVZQbmlHU0hYSlYzRmhrQzA5WE5iVmM3TkZsNHJkTDBrMDdCV2ZSejlTRndtLTJFVExoTFVWZkhFUzBjWjg2M2phZE9PT1pWX3drek90WGxVaW9WRktuUTlYWEhzTDVMUmdCVWRNUkF5S1ZUc1RQTG1RWlU?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 24 Feb 2026 04:03:50 GMT",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2026-02-24T05:20:22.689810"
+      "fetched_at": "2026-02-24T06:59:56.169896"
     },
     {
       "id": "7870c44a15d2",
@@ -168,7 +276,7 @@
       "published": "Tue, 24 Feb 2026 04:01:53 +0000",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421253"
+      "fetched_at": "2026-02-24T06:59:53.305929"
     },
     {
       "id": "10452a29be56",
@@ -180,7 +288,7 @@
       "published": "Tue, 24 Feb 2026 03:52:10 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421279"
+      "fetched_at": "2026-02-24T06:59:53.305953"
     },
     {
       "id": "22e1a78807df",
@@ -192,7 +300,7 @@
       "published": "Tue, 24 Feb 2026 03:52:04 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421306"
+      "fetched_at": "2026-02-24T06:59:53.305978"
     },
     {
       "id": "ae69c26ee7f2",
@@ -204,19 +312,19 @@
       "published": "Tue, 24 Feb 2026 03:48:35 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573160"
+      "fetched_at": "2026-02-24T06:59:56.282603"
     },
     {
-      "id": "3ef6d18c5129",
-      "title": "Ex-U.K. ambassador to U.S. arrested amid Epstein probe - Axios",
-      "description": "Ex-U.K. ambassador to U.S. arrested amid Epstein probe&nbsp;&nbsp;AxiosPolice in Britain say former ambassador Mandelson released on bail in probe into Epstein ties&nbsp;&nbsp;CTV NewsMandelson arrest latest: Peer released on bail as Virginia Giuffre’s family react&nbsp;&nbsp;The IndependentLord Man",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzRsR3F6T1luZjgwdlNUMGZQM1pFbjlGNFJfdFlyVWNIemtqRG9RWXdIVmZocmI2UWpHaF9uUlE3enNlRURKUWRVYVYxZVB4MG5uQWNPZVpDX3hHQ3c1RG9taXViSlE1TDBJWGc1WFZTZy1PZy1EMlhMeTQzTHp0V2lVcmhHUF9mU2c?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 24 Feb 2026 03:46:49 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-02-24T05:20:22.203663"
+      "id": "e44018beb8a2",
+      "title": "Probe under way after illness kills 72 tigers in Thai tourist park",
+      "description": "Authorities said samples showed canine distemper virus, but have not confirmed where it came from.",
+      "url": "https://www.bbc.com/news/articles/cly833zjp4po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475d/live/61322190-112a-11f1-88e2-2b2a5a088604.jpg",
+      "published": "Tue, 24 Feb 2026 03:45:47 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-24T06:59:54.889779"
     },
     {
       "id": "9948f69e23bc",
@@ -228,7 +336,7 @@
       "published": "Tue, 24 Feb 2026 03:41:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.845964"
+      "fetched_at": "2026-02-24T06:59:54.889721"
     },
     {
       "id": "17fecdab442b",
@@ -240,19 +348,19 @@
       "published": "Tue, 24 Feb 2026 03:40:11 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.173994"
+      "fetched_at": "2026-02-24T06:59:56.650984"
     },
     {
       "id": "1be7e873c7bc",
       "title": "Quebec Olympians arrive at Trudeau airport wearing their medals and happy to be home",
-      "description": "Speedskater Valérie Maltais was the first athlete to step through the airport's arrivals gate Monday night, followed by Mikaël Kingsbury who said the first thing he plans to do when he gets home is \"barbecue.\"",
+      "description": "Speedskater Valérie Maltais was the first athlete to step through the airport's arrivals gate Monday night, followed by Mikaël Kingsbury, who said the first thing he plans to do when he gets home is \"barbecue.\"",
       "url": "https://montrealgazette.com/news/local-news/team-canadas-quebec-olympians-return-home-from-milano-cortina-games-with-medals-and-memories",
       "source": "Montreal Gazette",
       "image": "",
       "published": "Tue, 24 Feb 2026 03:31:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.071588"
+      "fetched_at": "2026-02-24T06:59:56.441068"
     },
     {
       "id": "d13b90347f94",
@@ -264,7 +372,19 @@
       "published": "Tue, 24 Feb 2026 03:20:58 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.688932"
+      "fetched_at": "2026-02-24T06:59:53.847918"
+    },
+    {
+      "id": "435a528ba95b",
+      "title": "Air Canada to resume flights to Puerto Vallarta Tuesday - Toronto Star",
+      "description": "Air Canada to resume flights to Puerto Vallarta Tuesday&nbsp;&nbsp;Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNzhHNENsd2JkYm5IUjN4aFk4cDd5RE1GaTFVWjFMVnZYWG1sWnY5Ym53ZFNIbFpZQTAybTgxM2FKLUo4WmYxOGhLb0s1UnBVb3NsZFZ4TXdGYnBaWV92QTRsbEl6MzJNOWQtMXlFdm0yTE1SejhiRDRQWWRLVHdMTmlHLWcySXJTa20tREFxMTlSN0ViTnd0WnlVNTYzcFlmVFhKa0JrZ0hVTzdTQThlR3lJZm45cm9QaUtYeUdfWFFQYUZhaXNsYU1oaWF4Y094U0t2YVJiQjdJY1NiMUxzX1FKa0JQUEFZckU3M1lPdnRFNzVsVHd4UTVTSEhpLTJ3UXdQNlhKUlRhUjVGeHc?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 03:16:53 GMT",
+      "location": "Toronto",
+      "category": "canada",
+      "fetched_at": "2026-02-24T06:59:55.313128"
     },
     {
       "id": "332a2a853a18",
@@ -276,19 +396,19 @@
       "published": "Tue, 24 Feb 2026 03:12:25 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662628"
+      "fetched_at": "2026-02-24T06:59:53.800897"
     },
     {
       "id": "19371e050730",
-      "title": "China Targets Japan Defense Companies in Sweeping Export Ban",
-      "description": "China blacklisted 20 Japanese entities including affiliates of Mitsubishi Heavy Industries, escalating the dispute between Asia’s largest economies following Prime Minister Sanae Takaichi’s electoral victory.",
+      "title": "China Presses Takaichi With Hardened Export Curbs on Japan Firms",
+      "description": "China blacklisted 20 Japanese entities and tightened scrutiny on a raft of other firms, signaling Beijing’s pressure campaign on Tokyo isn’t slowing even after Prime Minister Sanae Takaichi’s recent landslide victory.",
       "url": "https://financialpost.com/pmn/business-pmn/china-targets-japan-defense-companies-in-sweeping-export-ban",
       "source": "Financial Post",
       "image": "",
       "published": "Tue, 24 Feb 2026 03:07:09 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662682"
+      "fetched_at": "2026-02-24T06:59:53.800942"
     },
     {
       "id": "5f4b2cf87e41",
@@ -300,7 +420,7 @@
       "published": "Tue, 24 Feb 2026 03:03:58 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787517"
+      "fetched_at": "2026-02-24T06:59:54.540072"
     },
     {
       "id": "189946a55d3c",
@@ -312,7 +432,7 @@
       "published": "Tue, 24 Feb 2026 03:03:25 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421329"
+      "fetched_at": "2026-02-24T06:59:53.305997"
     },
     {
       "id": "ddd53da94cd0",
@@ -324,19 +444,19 @@
       "published": "Tue, 24 Feb 2026 02:57:27 +0000",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421352"
+      "fetched_at": "2026-02-24T06:59:53.306033"
     },
     {
       "id": "ebabfe35847f",
-      "title": "Air Canada joins WestJet, Air Transat in resuming Mexico flights",
-      "description": "The airline says full operations from Toronto, Montreal and Vancouver to the Mexican city will resume Tuesday, while flights from Toronto to Guadalajara will restart Wednesday.",
+      "title": "Porter becomes latest Canadian airline to restart service to Mexico",
+      "description": "The announcement follows similar moves by Air Canada, WestJet and Air Transat on Monday. More than 26,000 Canadians in Mexico have registered with Ottawa.",
       "url": "https://globalnews.ca/news/11680461/westjet-air-transat-resuming-mexico-flights/",
       "source": "Global News",
       "image": "https://globalnews.ca/wp-content/uploads/2024/11/2024111518110-20241115171140-29c242e2dd8d3afe6ab93c0624f275e55ebe51cb2451463eceebc6c7e0c09ca2.jpg?quality=65&strip=all",
       "published": "Tue, 24 Feb 2026 02:52:34 +0000",
-      "location": "Toronto",
+      "location": "Ottawa",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421369"
+      "fetched_at": "2026-02-24T06:59:53.306051"
     },
     {
       "id": "983df2907021",
@@ -348,19 +468,19 @@
       "published": "Tue, 24 Feb 2026 02:46:54 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787542"
+      "fetched_at": "2026-02-24T06:59:54.540097"
     },
     {
       "id": "e5cca6427fcd",
       "title": "Explosion in Moscow kills Russian police officer after attacker detonates device, officials say - The Guardian",
-      "description": "Explosion in Moscow kills Russian police officer after attacker detonates device, officials say&nbsp;&nbsp;The GuardianMoscow policeman killed in bomb attack on Ukraine war anniversary&nbsp;&nbsp;Al JazeeraExplosion near Moscow train station kills police officer&nbsp;&nbsp;BBCOne police officer repo",
+      "description": "Explosion in Moscow kills Russian police officer after attacker detonates device, officials say&nbsp;&nbsp;The GuardianView Full Coverage on Google News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGRqdWp1ajRfY0dfRE8tZHltVVoxeU1yRV9WdE1iYm5KUFMwak1ZVzZyallxN0lSdF9tRjV6VmYwQXNYSHROOTlnVk8tOVBGUTFPdU16YU13eXJpT01WSlEtbUYweEhCZzEyZk8yTm1uM0JralRFQnZMNzJBdEVVVkZ6Rm5pdk1lVG8yWjBpQU1CZWVBcE9kM1dKYmhRbzA?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 24 Feb 2026 02:43:36 GMT",
-      "location": "Vancouver",
+      "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:22.203406"
+      "fetched_at": "2026-02-24T06:59:55.743721"
     },
     {
       "id": "3571d2368fb2",
@@ -372,7 +492,7 @@
       "published": "Tue, 24 Feb 2026 02:33:58 GMT",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:22.690215"
+      "fetched_at": "2026-02-24T06:59:55.313037"
     },
     {
       "id": "7c3e39c1810c",
@@ -384,7 +504,7 @@
       "published": "Tue, 24 Feb 2026 02:27:00 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:22.160844"
+      "fetched_at": "2026-02-24T06:59:55.374648"
     },
     {
       "id": "5a30386ac5e3",
@@ -396,7 +516,7 @@
       "published": "Tue, 24 Feb 2026 02:22:51 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662734"
+      "fetched_at": "2026-02-24T06:59:53.800992"
     },
     {
       "id": "147dccea9c4f",
@@ -408,7 +528,7 @@
       "published": "Tue, 24 Feb 2026 02:19:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599494"
+      "fetched_at": "2026-02-24T06:59:56.169931"
     },
     {
       "id": "847ea87c8510",
@@ -420,7 +540,7 @@
       "published": "Tue, 24 Feb 2026 02:17:46 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573193"
+      "fetched_at": "2026-02-24T06:59:56.282632"
     },
     {
       "id": "892a53f1f2f8",
@@ -432,7 +552,7 @@
       "published": "Tue, 24 Feb 2026 02:16:10 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.922785"
+      "fetched_at": "2026-02-24T06:59:57.566481"
     },
     {
       "id": "f1a3cde0b081",
@@ -444,19 +564,7 @@
       "published": "Tue, 24 Feb 2026 02:10:14 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787571"
-    },
-    {
-      "id": "5f62b558b19f",
-      "title": "Mexico flight cancellations the latest hurdle for Canadian travel this season - Yahoo! Finance Canada",
-      "description": "Mexico flight cancellations the latest hurdle for Canadian travel this season&nbsp;&nbsp;Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQW13SWVfSGxuMHFSd0JzSm5pbFdxWmdham5TcUFYbWRnSnZObG9Zcmp2LUJ0c3Z6bDNvSWkxWFd4cTlvZFRVMFhMSnRGVTFXVGtOWHI5cnlFRjE1RjVnX19GQklENW13MWtQYy1LMXdXN0R0cjh1MHZ2TU0tRV83ZVM3UzB1cFFJTlhROWY0eTR1cmds?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 24 Feb 2026 02:07:00 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-02-24T05:20:22.690493"
+      "fetched_at": "2026-02-24T06:59:54.540127"
     },
     {
       "id": "16821a6c9071",
@@ -468,7 +576,19 @@
       "published": "Tue, 24 Feb 2026 02:05:44 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599533"
+      "fetched_at": "2026-02-24T06:59:56.169968"
+    },
+    {
+      "id": "36268f904f4a",
+      "title": "Bondar Pavilion tent to be re-stitched - SooToday.com",
+      "description": "Bondar Pavilion tent to be re-stitched&nbsp;&nbsp;SooToday.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXAycDFuRU54Z1lnb3NXYVpCaGx2LXhGZmVVZGtRN3BPQ0oyYXZCSktiQndTeHBpWnJHREw0UnpsLTM2UWpEMncyMk9PZHRiMnZOdW9rSzZQcmlGRzhVQ2pKN2ZKLURNeHlsQWRyMFNiYWdnOGYyX1c3dmlEMFBFcWNtRDBiUWlPWEk4?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 02:02:40 GMT",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-02-24T06:59:55.374762"
     },
     {
       "id": "cc69fc5ddffb",
@@ -480,7 +600,7 @@
       "published": "Tue, 24 Feb 2026 01:55:04 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.922839"
+      "fetched_at": "2026-02-24T06:59:57.566523"
     },
     {
       "id": "f26af1da8fb1",
@@ -492,7 +612,7 @@
       "published": "Tue, 24 Feb 2026 01:54:24 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787600"
+      "fetched_at": "2026-02-24T06:59:54.540154"
     },
     {
       "id": "580be1fa7208",
@@ -504,7 +624,7 @@
       "published": "Tue, 24 Feb 2026 01:51:23 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.014680"
+      "fetched_at": "2026-02-24T06:59:56.586463"
     },
     {
       "id": "e38272427632",
@@ -516,7 +636,7 @@
       "published": "Tue, 24 Feb 2026 01:50:16 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.071626"
+      "fetched_at": "2026-02-24T06:59:56.441102"
     },
     {
       "id": "8702d6a965de",
@@ -528,31 +648,31 @@
       "published": "Tue, 24 Feb 2026 01:46:29 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421393"
+      "fetched_at": "2026-02-24T06:59:53.306074"
+    },
+    {
+      "id": "461173789898",
+      "title": "Canadian Union of Postal Workers set to vote on tentative deals in spring - Castanet",
+      "description": "Canadian Union of Postal Workers set to vote on tentative deals in spring&nbsp;&nbsp;CastanetView Full Coverage on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR21nSTRIVThtN195NHFGZS1WWEtDUm1SYVVQZW92MlFhcS0zOGRSVWdaTlktRmFub1VJZ01Mb1c5TE5KZlJCUzVFWHF4UWN0OXhpeDJMMTRJVXl3VkhsQ2JkU3hXazJQU2pjUWd6dklvLTFDYzh5eWV4VC0tMVI4SHpwNWppZk1aMkI1V09Nd0NiSnhOYVFiemVpRVdnaHc2cG1mSVItZ0dlM3FrN0FaTVBpX2lESUs5?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 24 Feb 2026 01:46:00 GMT",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-02-24T06:59:55.374792"
     },
     {
       "id": "7207f730e44a",
       "title": "Oil Edges Higher as Traders Assess Outlook for Iran Nuclear Deal",
-      "description": "Oil rose as traders weighed the prospect for an Iranian nuclear deal, with US President Donald Trump saying he prefers a diplomatic solution but warned of consequences if an agreement wasn’t reached.",
+      "description": "Oil rose as investors weighed the odds of an Iranian nuclear deal, with US President Donald Trump saying he prefers a diplomatic solution but warned of consequences if an agreement wasn’t reached.",
       "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-as-trump-reiterates-preference-for-deal-with-iran",
       "source": "Financial Post",
       "image": "",
       "published": "Tue, 24 Feb 2026 01:45:45 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662803"
-    },
-    {
-      "id": "8ae60735eccb",
-      "title": "Trump hits out at reports that top general flagged risks of attacking Iran",
-      "description": "US president slams reports that General Dan Caine warned him of risks of war with Iran as &#039;100 percent incorrect&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/2/24/trump-hits-out-at-reports-that-top-general-flagged-risks-of-attacking-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 24 Feb 2026 01:41:30 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787626"
+      "fetched_at": "2026-02-24T06:59:53.801042"
     },
     {
       "id": "60b0849ede29",
@@ -564,7 +684,7 @@
       "published": "Tue, 24 Feb 2026 01:40:29 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662835"
+      "fetched_at": "2026-02-24T06:59:53.801070"
     },
     {
       "id": "42d6b1adf5b8",
@@ -576,7 +696,7 @@
       "published": "Tue, 24 Feb 2026 01:40:22 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.715963"
+      "fetched_at": "2026-02-24T06:59:56.745686"
     },
     {
       "id": "844a7aff13ea",
@@ -588,7 +708,7 @@
       "published": "Tue, 24 Feb 2026 01:35:23 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:22.689858"
+      "fetched_at": "2026-02-24T06:59:55.312967"
     },
     {
       "id": "7f86b8388ba2",
@@ -600,7 +720,19 @@
       "published": "Tue, 24 Feb 2026 01:30:08 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.265702"
+      "fetched_at": "2026-02-24T06:59:58.059767"
+    },
+    {
+      "id": "d6b34c421b8d",
+      "title": "Explosion near Moscow rail hub kills police officer",
+      "description": "The unidentified suspect also died and two other officers were injured, Russian officials say.",
+      "url": "https://www.bbc.com/news/articles/czx4pyx9g46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d41/live/b1b3fcd0-111e-11f1-8b3d-a740410c025d.jpg",
+      "published": "Tue, 24 Feb 2026 01:28:05 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-02-24T06:59:54.889837"
     },
     {
       "id": "7c117517dfde",
@@ -612,7 +744,7 @@
       "published": "Tue, 24 Feb 2026 01:25:53 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573227"
+      "fetched_at": "2026-02-24T06:59:56.282664"
     },
     {
       "id": "5b4279c3e59d",
@@ -624,7 +756,7 @@
       "published": "Tue, 24 Feb 2026 01:23:32 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:21.669278"
+      "fetched_at": "2026-02-24T06:59:54.232740"
     },
     {
       "id": "f6ab1c17dcda",
@@ -636,7 +768,7 @@
       "published": "Tue, 24 Feb 2026 01:19:39 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.954807"
+      "fetched_at": "2026-02-24T06:59:56.089220"
     },
     {
       "id": "c30e4c08459e",
@@ -648,7 +780,7 @@
       "published": "Tue, 24 Feb 2026 01:16:41 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:22.690461"
+      "fetched_at": "2026-02-24T06:59:55.313191"
     },
     {
       "id": "46b30186076f",
@@ -660,7 +792,7 @@
       "published": "Tue, 24 Feb 2026 01:07:31 +0000",
       "location": "Edmonton",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421413"
+      "fetched_at": "2026-02-24T06:59:53.306092"
     },
     {
       "id": "8a4ff77fa43a",
@@ -672,19 +804,19 @@
       "published": "Tue, 24 Feb 2026 01:01:53 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:22.690428"
+      "fetched_at": "2026-02-24T06:59:55.313221"
     },
     {
       "id": "2dd3f7824d27",
       "title": "Ontario’s premier says ‘the walls are closing in’ on Trump after Supreme Court tariff decision - AP News",
-      "description": "Ontario’s premier says ‘the walls are closing in’ on Trump after Supreme Court tariff decision&nbsp;&nbsp;AP NewsAfter latest tariff twist, Doug Ford says he ‘can’t wait’ for U.S. midterms&nbsp;&nbsp;Global NewsWhat the Roberts Court Is Actually Trying to Accomplish&nbsp;&nbsp;The AtlanticTrump warn",
+      "description": "Ontario’s premier says ‘the walls are closing in’ on Trump after Supreme Court tariff decision&nbsp;&nbsp;AP NewsTrump’s scramble to fix his crumbling tariff strategy sows global chaos and confusion&nbsp;&nbsp;The GuardianMorning Bid: Trump fumes against the world as his tariffs come up short&nbsp;&",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGExdzVpZ3dibW5FV0FJdlNlUzY2bXhIcFh3OXc3NUJFdXpTZXF5bThrZGVHSUE4NmZGTmZwWnlEOUdCdjBPWUp6VlhIeENON1RJQ3ljTVJJelRnUkl2QlRyMk5mMEhUZjM4ejhURUFyeDlSYS14bDYzVk5kbWxabGxxV2VrTzE5Rm5vVUQ5aXF0TXdyRnlUWHBTdWR0MGk4SEVVQUhsdS1Ha00?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 24 Feb 2026 01:01:00 GMT",
-      "location": "Vancouver",
+      "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:22.203541"
+      "fetched_at": "2026-02-24T06:59:55.743859"
     },
     {
       "id": "488591a719a1",
@@ -696,7 +828,7 @@
       "published": "Tue, 24 Feb 2026 01:00:50 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.174034"
+      "fetched_at": "2026-02-24T06:59:56.651033"
     },
     {
       "id": "ad8d0d4fdf82",
@@ -708,43 +840,19 @@
       "published": "Tue, 24 Feb 2026 00:57:14 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550306"
+      "fetched_at": "2026-02-24T06:59:53.351527"
     },
     {
       "id": "59d5973e0a07",
       "title": "Canadian Olympians land back at home after Milano Cortina Games - CBC",
-      "description": "Canadian Olympians land back at home after Milano Cortina Games&nbsp;&nbsp;CBCTeam Canada athletes welcomed home after 21-medal Olympic performance - National&nbsp;&nbsp;Global News‘System in decline’: Olympic officials press Ottawa for more sports funding&nbsp;&nbsp;CTV NewsIt’s the final day of th",
+      "description": "Canadian Olympians land back at home after Milano Cortina Games&nbsp;&nbsp;CBCCanada won fewer Olympic medals than past years. Why was 2026 a challenge?&nbsp;&nbsp;Global News‘System in decline’: Olympic officials press Ottawa for more sports funding&nbsp;&nbsp;CTV NewsCanada's tumble in Olympic med",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0JkTUcxUkRrLUNJSHBDVnM0eWJiQmVVN2ZheUs2THdfWkhKNVpYczBHeHdsa0tLNUZROVFhUmVLeFF0VGVmM3lmbnFwS2xKRGFac3N5Z1pON3NjSFN2WTRGNXN0S2VxTFFSZlhuXzh2UHZNdS12SGtvaU9ybHZvRExvNmZPTUphN0VIYjc3cEZSVmZxUjBWZTdjY3luSVZ1QUZXNWoyaGliazhZ?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 24 Feb 2026 00:57:00 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2026-02-24T05:20:22.383092"
-    },
-    {
-      "id": "87db7e4fd10a",
-      "title": "Metrolinx and the city spent nearly $100M on SmartTrack stations that may never be built, documents reveal - Toronto Star",
-      "description": "Metrolinx and the city spent nearly $100M on SmartTrack stations that may never be built, documents reveal&nbsp;&nbsp;Toronto Star",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaEY4WGc2ZVE2RTF4X0RGU0xqajJiWERLalN0SWVyZEU4U2FsTFhGNDhvcmVsLUdHeHFZQVhOQ3FpNE9GMG5hZjJFLTBWMmU5Vi1ySW9BT095S2dRVTJMSlpicmtFTmFVQ3NEQ2dHWkhWaWVMMHB3aFVNaGhMTzJLTnJaRmNWdm9PRUNKdzdMNFhrdjAzcVNka1ktU2tLNklqTUR1cDJxZnpYcnBORm9nTU1lbk1WLVc5UjlhY2dyNnRsczhiRExpYWU2cjR5aF84N1RZd1d1ZXFWSXZzYlVObm42VEY0QlNhZHRnaDVfNzVKUzdaTVF4UXhpaDZKbDg?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Tue, 24 Feb 2026 00:51:00 GMT",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2026-02-24T05:20:22.161069"
-    },
-    {
-      "id": "722aa2eeebbd",
-      "title": "NBC Olympics Double Daily TV Audience to 23.5 Million Viewers",
-      "description": "About 23.5 million people on average tuned in to watch daily coverage of the 2026 Winter Olympics on Comcast Corp.’s NBC network and other company outlets such as Peacock, the most in 12 years and almost double the number who watched four years ago.",
-      "url": "https://financialpost.com/pmn/business-pmn/nbc-olympics-double-daily-tv-audience-to-23-5-million-viewers",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 24 Feb 2026 00:49:27 +0000",
       "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662867"
+      "category": "sports",
+      "fetched_at": "2026-02-24T06:59:55.858750"
     },
     {
       "id": "3d3d8976e09e",
@@ -756,7 +864,7 @@
       "published": "Tue, 24 Feb 2026 00:45:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.954842"
+      "fetched_at": "2026-02-24T06:59:56.089252"
     },
     {
       "id": "ce7f0f28a4f3",
@@ -768,7 +876,7 @@
       "published": "Tue, 24 Feb 2026 00:45:51 +0000",
       "location": "Calgary",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.421432"
+      "fetched_at": "2026-02-24T06:59:53.306108"
     },
     {
       "id": "ae96f39f18b7",
@@ -780,19 +888,19 @@
       "published": "Tue, 24 Feb 2026 00:36:12 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550362"
+      "fetched_at": "2026-02-24T06:59:53.351556"
     },
     {
       "id": "75c97347a478",
       "title": "Iranian Officials to Drop Site: Tehran is Showing “Unbelievable Level of Flexibility\" in Talks to Prevent U.S. War - Drop Site News",
-      "description": "Iranian Officials to Drop Site: Tehran is Showing “Unbelievable Level of Flexibility\" in Talks to Prevent U.S. War&nbsp;&nbsp;Drop Site NewsIran hails ‘encouraging signals’ from US before nuclear talks on Thursday&nbsp;&nbsp;Al JazeeraWashington and Tehran to hold more nuclear talks as protests reig",
+      "description": "Iranian Officials to Drop Site: Tehran is Showing “Unbelievable Level of Flexibility\" in Talks to Prevent U.S. War&nbsp;&nbsp;Drop Site NewsIran hails ‘encouraging signals’ from US before nuclear talks on Thursday&nbsp;&nbsp;Al JazeeraIran’s right to ‘peaceful nuclear enrichment’ must be recognized,",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWG1hcElxeTNMdTdwTGZ5b2xxQVFQT3E3YzdJOFliRjJpTUVmVWtMcUs3RTQ0QmJWQmxpcXk4YThOcWFxSmNjMlFfZWFhbUROOWJQLU80RGpoRXRNcjN4UjgxSWtBNktLSlUxN3FjdlJnaXREV0VnMlhVOW1OSWU0cURMSmRVeXUyNUhRVUw1anFyaVJobngwQmI4bU13VFpxUVNJ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 24 Feb 2026 00:36:10 GMT",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:22.203755"
+      "fetched_at": "2026-02-24T06:59:55.744042"
     },
     {
       "id": "931e2531d55c",
@@ -804,7 +912,7 @@
       "published": "Tue, 24 Feb 2026 00:34:58 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.922870"
+      "fetched_at": "2026-02-24T06:59:57.566552"
     },
     {
       "id": "1613419ab19c",
@@ -816,19 +924,7 @@
       "published": "Tue, 24 Feb 2026 00:34:53 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.954871"
-    },
-    {
-      "id": "57ab19f78931",
-      "title": "Trump Eyes Post-State of the Union Texas Trip Before Key Primary",
-      "description": "President Donald Trump will head to Texas on Friday, promoting the economic and energy policies he’s expected to tout at his State of the Union address in the heart of one of the most hotly contested Senate primary races.",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-eyes-post-state-of-the-union-texas-trip-before-key-primary",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 24 Feb 2026 00:34:10 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662904"
+      "fetched_at": "2026-02-24T06:59:56.089278"
     },
     {
       "id": "b1430dc43398",
@@ -840,7 +936,7 @@
       "published": "Tue, 24 Feb 2026 00:25:30 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:22.014544"
+      "fetched_at": "2026-02-24T06:59:54.631169"
     },
     {
       "id": "98e093669a08",
@@ -852,7 +948,7 @@
       "published": "Tue, 24 Feb 2026 00:22:49 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.071656"
+      "fetched_at": "2026-02-24T06:59:56.441130"
     },
     {
       "id": "6946e0b2c969",
@@ -864,19 +960,7 @@
       "published": "Tue, 24 Feb 2026 00:22:24 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2026-02-24T05:20:20.506788"
-    },
-    {
-      "id": "1888243d35de",
-      "title": "Canadian trapped in Mexico describes ‘terrifying’ unrest after drug lord’s killing",
-      "description": "When Canadian resident Jeffrey Dale booked a vacation to Mexico, he expected the trip to include sunny weather, palm trees and relaxing days on the beach, but when violence broke out over the weekend after authorities killed a notorious cartel leader, Dale found himself sheltering in place at a host",
-      "url": "https://toronto.citynews.ca/2026/02/23/canadian-trapped-in-mexico-describes-terrifying-unrest-after-drug-lords-killing/",
-      "source": "CityNews Toronto",
-      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/02/746ac6428900357cf3289d92775f7c71cc7a81a1b84c2a9eec3e3291dd7dec00-1024x682.jpg",
-      "published": "Tue, 24 Feb 2026 00:15:38 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573272"
+      "fetched_at": "2026-02-24T06:59:53.686958"
     },
     {
       "id": "5614a10bc450",
@@ -888,7 +972,19 @@
       "published": "Tue, 24 Feb 2026 00:15:38 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599576"
+      "fetched_at": "2026-02-24T06:59:56.170007"
+    },
+    {
+      "id": "1888243d35de",
+      "title": "Canadian trapped in Mexico describes ‘terrifying’ unrest after drug lord’s killing",
+      "description": "When Canadian resident Jeffrey Dale booked a vacation to Mexico, he expected the trip to include sunny weather, palm trees and relaxing days on the beach, but when violence broke out over the weekend after authorities killed a notorious cartel leader, Dale found himself sheltering in place at a host",
+      "url": "https://toronto.citynews.ca/2026/02/23/canadian-trapped-in-mexico-describes-terrifying-unrest-after-drug-lords-killing/",
+      "source": "CityNews Toronto",
+      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/02/746ac6428900357cf3289d92775f7c71cc7a81a1b84c2a9eec3e3291dd7dec00-1024x682.jpg",
+      "published": "Tue, 24 Feb 2026 00:15:38 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-02-24T06:59:56.282707"
     },
     {
       "id": "60610c3cc4b8",
@@ -900,19 +996,7 @@
       "published": "Tue, 24 Feb 2026 00:15:38 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.716046"
-    },
-    {
-      "id": "5f548f24223d",
-      "title": "Canadian trapped in Mexico describes ‘terrifying’ unrest after drug lord’s killing",
-      "description": "When Canadian resident Jeffrey Dale booked a vacation to Mexico, he expected the trip to include sunny weather, palm trees and relaxing days on the beach, but when violence broke out over the weekend after authorities killed a notorious cartel leader, Dale found himself sheltering in place at a host",
-      "url": "https://calgary.citynews.ca/2026/02/23/canadian-trapped-in-mexico-describes-terrifying-unrest-after-drug-lords-killing/",
-      "source": "CityNews Calgary",
-      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/02/746ac6428900357cf3289d92775f7c71cc7a81a1b84c2a9eec3e3291dd7dec00-1024x682.jpg",
-      "published": "Tue, 24 Feb 2026 00:15:38 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.922915"
+      "fetched_at": "2026-02-24T06:59:56.745736"
     },
     {
       "id": "d3a9137c855a",
@@ -924,7 +1008,19 @@
       "published": "Tue, 24 Feb 2026 00:15:38 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.000654"
+      "fetched_at": "2026-02-24T06:59:57.143393"
+    },
+    {
+      "id": "5f548f24223d",
+      "title": "Canadian trapped in Mexico describes ‘terrifying’ unrest after drug lord’s killing",
+      "description": "When Canadian resident Jeffrey Dale booked a vacation to Mexico, he expected the trip to include sunny weather, palm trees and relaxing days on the beach, but when violence broke out over the weekend after authorities killed a notorious cartel leader, Dale found himself sheltering in place at a host",
+      "url": "https://calgary.citynews.ca/2026/02/23/canadian-trapped-in-mexico-describes-terrifying-unrest-after-drug-lords-killing/",
+      "source": "CityNews Calgary",
+      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/02/746ac6428900357cf3289d92775f7c71cc7a81a1b84c2a9eec3e3291dd7dec00-1024x682.jpg",
+      "published": "Tue, 24 Feb 2026 00:15:38 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-02-24T06:59:57.566590"
     },
     {
       "id": "e407011715f0",
@@ -936,7 +1032,7 @@
       "published": "Tue, 24 Feb 2026 00:15:38 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.265806"
+      "fetched_at": "2026-02-24T06:59:58.059825"
     },
     {
       "id": "2f861b1fcce3",
@@ -948,7 +1044,7 @@
       "published": "Tue, 24 Feb 2026 00:13:24 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.954899"
+      "fetched_at": "2026-02-24T06:59:56.089303"
     },
     {
       "id": "f8557ffd7dfd",
@@ -960,7 +1056,7 @@
       "published": "Tue, 24 Feb 2026 00:08:47 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.174063"
+      "fetched_at": "2026-02-24T06:59:56.651060"
     },
     {
       "id": "1710d90b0c47",
@@ -972,19 +1068,7 @@
       "published": "Tue, 24 Feb 2026 00:08:10 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.174091"
-    },
-    {
-      "id": "225b52f2d356",
-      "title": "Shale Giant Diamondback Says Threat of Oil Glut Is Receding",
-      "description": "Fears of a global oil glut that had been expected to crater crude prices are fading amid resilient energy demand, according to Permian Basin driller Diamondback Energy Inc.",
-      "url": "https://financialpost.com/pmn/business-pmn/shale-giant-diamondback-says-threat-of-oil-glut-is-receding",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 24 Feb 2026 00:03:30 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662932"
+      "fetched_at": "2026-02-24T06:59:56.651085"
     },
     {
       "id": "b82cd573bb0f",
@@ -996,7 +1080,7 @@
       "published": "Tue, 24 Feb 2026 00:00:47 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.954933"
+      "fetched_at": "2026-02-24T06:59:56.089334"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -1008,7 +1092,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.899595"
+      "fetched_at": "2026-02-24T06:59:54.651560"
     },
     {
       "id": "05ea19344a14",
@@ -1020,7 +1104,7 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.899663"
+      "fetched_at": "2026-02-24T06:59:54.651615"
     },
     {
       "id": "7c4d5edfa218",
@@ -1032,7 +1116,7 @@
       "published": "Tue, 17 Feb 2026 12:01:38 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.052079"
+      "fetched_at": "2026-02-24T06:59:56.493695"
     },
     {
       "id": "4964781e4a38",
@@ -1044,7 +1128,7 @@
       "published": "Tue, 17 Feb 2026 11:01:02 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:22.014493"
+      "fetched_at": "2026-02-24T06:59:54.631120"
     },
     {
       "id": "a2b7282df523",
@@ -1056,7 +1140,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.899690"
+      "fetched_at": "2026-02-24T06:59:54.651635"
     },
     {
       "id": "9223923489b4",
@@ -1068,7 +1152,7 @@
       "published": "Thu, 19 Feb 2026 21:56:12 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:21.841170"
+      "fetched_at": "2026-02-24T06:59:54.526985"
     },
     {
       "id": "59bfdfa3ed4d",
@@ -1080,7 +1164,7 @@
       "published": "Thu, 19 Feb 2026 17:59:17 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:22.014333"
+      "fetched_at": "2026-02-24T06:59:54.630955"
     },
     {
       "id": "1dffb73c401c",
@@ -1092,7 +1176,7 @@
       "published": "Thu, 19 Feb 2026 14:39:41 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:22.014382"
+      "fetched_at": "2026-02-24T06:59:54.631003"
     },
     {
       "id": "ae83b002c7d1",
@@ -1104,7 +1188,7 @@
       "published": "Thu, 19 Feb 2026 12:00:44 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.051971"
+      "fetched_at": "2026-02-24T06:59:56.493598"
     },
     {
       "id": "a3777a8bac7b",
@@ -1116,7 +1200,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.899535"
+      "fetched_at": "2026-02-24T06:59:54.651520"
     },
     {
       "id": "e675f1504c38",
@@ -1128,19 +1212,19 @@
       "published": "Sun, 22 Feb 2026 22:12:57 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.014922"
+      "fetched_at": "2026-02-24T06:59:56.586603"
     },
     {
       "id": "58b532669ec3",
       "title": "Hellebuyck was ‘beyond belief’ for Team USA in gold medal game, Richter says - NHL.com",
-      "description": "Hellebuyck was ‘beyond belief’ for Team USA in gold medal game, Richter says&nbsp;&nbsp;NHL.comJets rave about but are unsurprised by Hellebuyck’s gold-medal game outing for U.S.&nbsp;&nbsp;The Globe and MailConnor Hellebuyck had one of the best goaltending performances of all-time in gold medal gam",
+      "description": "Hellebuyck was ‘beyond belief’ for Team USA in gold medal game, Richter says&nbsp;&nbsp;NHL.comConnor Hellebuyck had one of the best goaltending performances of all-time in gold medal game&nbsp;&nbsp;Daily FaceoffJets rave about goaltender Connor Hellebuyck’s gold-medal game outing for U.S.&nbsp;&nb",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSkMtSTdiSjk4cUYtNVE5OXFvaEVabjFyTmFHUnc1VGVtNGI5TWR0c0djcVNmemgtWS1ybUJYa1FmUTBkeGNFeUlnY1g1QTFEQ0dOOHlydjNQMWNVME9JUVJiZ2RVSm1GSVNZQm54S3RUa0JRRExkNFVlVFItcGdEcWdDaDBxeGx1SWt6WHdCcGd0R0E?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Sun, 22 Feb 2026 21:17:07 GMT",
       "location": "Winnipeg",
       "category": "sports",
-      "fetched_at": "2026-02-24T05:20:22.383171"
+      "fetched_at": "2026-02-24T06:59:55.859231"
     },
     {
       "id": "7e4a9b8ddb0b",
@@ -1152,7 +1236,19 @@
       "published": "Sun, 22 Feb 2026 21:13:16 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.014950"
+      "fetched_at": "2026-02-24T06:59:56.586625"
+    },
+    {
+      "id": "3ccb55c58f48",
+      "title": "Jack Hughes becomes U.S. hockey hero by scoring 'Golden Goal' against Canada - NHL.com",
+      "description": "Jack Hughes becomes U.S. hockey hero by scoring 'Golden Goal' against Canada&nbsp;&nbsp;NHL.com'I thought it was going to turn out different': The agony of what ifs for Canadian men's hockey team&nbsp;&nbsp;CBCCanada's Jon Cooper Blasts OT Format After Gold Medal Game: 'There's A Reason Why 3-On-3 I",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnR3TTdnTjhnY1l0TmhJekJKRlNlVlJfSV96SnB6cmdzZlNQeDg3V1dtR0NDbFBJcENoNVdVSU1fMnl4eHJSa0NmSnFkYmwzMVNKcXRVT0pZZGZaRXpOTUdRaFlaYlpvYWlOdXhRb00yTDRXRHNpUEFEUWxUQ0JuQjZmTDRvYnhmR1d0ejQtYW1HR0FtMHo0?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Sun, 22 Feb 2026 21:04:17 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-02-24T06:59:55.858863"
     },
     {
       "id": "7d77037e80d8",
@@ -1164,19 +1260,31 @@
       "published": "Sun, 22 Feb 2026 20:43:33 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.014995"
+      "fetched_at": "2026-02-24T06:59:56.586650"
+    },
+    {
+      "id": "30c7d38d9b17",
+      "title": "Civil organisations rally in Budapest to mark four years of Russia's full-scale invasion of Ukraine - Euronews.com",
+      "description": "Civil organisations rally in Budapest to mark four years of Russia's full-scale invasion of Ukraine&nbsp;&nbsp;Euronews.com4 years of war in Ukraine: by the numbers&nbsp;&nbsp;CBCTown's Ukrainian community on four years of war&nbsp;&nbsp;BBCHow Russia’s fatalities compare with Ukraine’s&nbsp;&nbsp;T",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3dhcmJoMUJhSmhDSzZWaXF4S2VkSVRrY2sxaTZiQ3hZT2swR05iaDB2WkRvOTk3dEp4SDNuVEljS2plRDVqSldfUlBmd0wwYTdzNEg5LVdER05lV2FtbF9NZ1lVZzVYRkpxdVVBcHFOQnR2a1RSME5KTV9xY29wcVdwa2ZXZjliM0oydXYzWDJlbmlFVHdVaVd3UFBpRWduVWlSQ21zUE1vTDZkNzUtaDZOcm83d0ZrX2RCbXYxWmJBenRy?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Sun, 22 Feb 2026 20:17:17 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-02-24T06:59:55.743915"
     },
     {
       "id": "4fc6fabb14e6",
       "title": "Eileen Gu learns of grandmother’s death after winning Olympic gold as Chinese star pays tribute - The Independent",
-      "description": "Eileen Gu learns of grandmother’s death after winning Olympic gold as Chinese star pays tribute&nbsp;&nbsp;The IndependentEileen Gu told of grandmother's death after winning Olympic gold&nbsp;&nbsp;ESPNWinter Olympics 2026 freestyle skiing: Eileen Gu defends halfpipe title as Zoe Atkin wins bronze&n",
+      "description": "Eileen Gu learns of grandmother’s death after winning Olympic gold as Chinese star pays tribute&nbsp;&nbsp;The IndependentEileen Gu told of grandmother's death after winning Olympic gold&nbsp;&nbsp;ESPNChina’s Eileen Gu soars to ski halfpipe gold but controversy surrounds Zoe Atkin’s bronze&nbsp;&nb",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmNaMHRaWUh6Ny1DSUpBdEZOZ3lEZFhxcFkySGVJX2V1VGQzeGlCZEVlX2hualRnbkdZejQtbXRDUDUtbEtGNndfQS1YaUltbXYyQ1FnQ0JHcE0xZkJEdlNtTHNVZ2w4aEVaR3FHSkloOUFxaVc5aTJHdlMzdGd1eUpxWk84TUR0SzR3LUNfYW90eEJsN0prZkdrQlpJMlRMOW5jREpQVnRMZm5HQ1VUTXdpYTU?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Sun, 22 Feb 2026 15:12:00 GMT",
-      "location": "Vancouver",
+      "location": "World",
       "category": "sports",
-      "fetched_at": "2026-02-24T05:20:22.383575"
+      "fetched_at": "2026-02-24T06:59:55.859169"
     },
     {
       "id": "1442d822fafb",
@@ -1188,7 +1296,7 @@
       "published": "Sun, 22 Feb 2026 13:00:24 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.781764"
+      "fetched_at": "2026-02-24T06:59:54.281100"
     },
     {
       "id": "4a376d59bd54",
@@ -1200,7 +1308,7 @@
       "published": "Sun, 22 Feb 2026 12:00:38 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.051823"
+      "fetched_at": "2026-02-24T06:59:56.493466"
     },
     {
       "id": "f3f3a031c517",
@@ -1212,7 +1320,7 @@
       "published": "Sun, 22 Feb 2026 11:56:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.705867"
+      "fetched_at": "2026-02-24T06:59:53.598708"
     },
     {
       "id": "6d2cb7e79582",
@@ -1224,7 +1332,7 @@
       "published": "Sun, 22 Feb 2026 09:00:28 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.781791"
+      "fetched_at": "2026-02-24T06:59:54.281122"
     },
     {
       "id": "48332101e695",
@@ -1236,7 +1344,7 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.899623"
+      "fetched_at": "2026-02-24T06:59:54.651581"
     },
     {
       "id": "b4030201562a",
@@ -1248,7 +1356,7 @@
       "published": "Sat, 21 Feb 2026 21:26:27 +0000",
       "location": "Ottawa",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.434717"
+      "fetched_at": "2026-02-24T06:59:53.307967"
     },
     {
       "id": "eb16048c4969",
@@ -1260,7 +1368,7 @@
       "published": "Sat, 21 Feb 2026 13:13:10 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.434785"
+      "fetched_at": "2026-02-24T06:59:53.307985"
     },
     {
       "id": "e37361f3aaea",
@@ -1272,7 +1380,7 @@
       "published": "Sat, 21 Feb 2026 12:00:45 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.051862"
+      "fetched_at": "2026-02-24T06:59:56.493501"
     },
     {
       "id": "be1fd6a50a62",
@@ -1284,7 +1392,7 @@
       "published": "Sat, 21 Feb 2026 12:00:05 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.051894"
+      "fetched_at": "2026-02-24T06:59:56.493530"
     },
     {
       "id": "e059c9f3f862",
@@ -1296,7 +1404,7 @@
       "published": "Sat, 21 Feb 2026 08:43:47 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-02-24T05:20:21.173523"
+      "fetched_at": "2026-02-24T06:59:54.388184"
     },
     {
       "id": "737c07fc4fb2",
@@ -1308,7 +1416,7 @@
       "published": "Sat, 21 Feb 2026 06:17:29 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-02-24T05:20:21.173562"
+      "fetched_at": "2026-02-24T06:59:54.388215"
     },
     {
       "id": "228a095581b7",
@@ -1320,19 +1428,7 @@
       "published": "Sat, 21 Feb 2026 00:00:32 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-24T05:20:20.507099"
-    },
-    {
-      "id": "c4f5076c0a18",
-      "title": "Relative of Tumbler Ridge shooter arrested, charged in Alberta",
-      "description": "Jacob Van Rootselaar, who is related to Tumbler Ridge shooter Jesse Van Rootselaar, has been arrested in Alberta.",
-      "url": "https://toronto.citynews.ca/2026/02/23/relative-tumbler-ridge-shooter-arrested-charged-alberta/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 23:59:51 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573301"
+      "fetched_at": "2026-02-24T06:59:53.687239"
     },
     {
       "id": "ee42694ede8b",
@@ -1344,7 +1440,19 @@
       "published": "Mon, 23 Feb 2026 23:59:51 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599604"
+      "fetched_at": "2026-02-24T06:59:56.170043"
+    },
+    {
+      "id": "c4f5076c0a18",
+      "title": "Relative of Tumbler Ridge shooter arrested, charged in Alberta",
+      "description": "Jacob Van Rootselaar, who is related to Tumbler Ridge shooter Jesse Van Rootselaar, has been arrested in Alberta.",
+      "url": "https://toronto.citynews.ca/2026/02/23/relative-tumbler-ridge-shooter-arrested-charged-alberta/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Mon, 23 Feb 2026 23:59:51 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-02-24T06:59:56.282732"
     },
     {
       "id": "ed3957f618bd",
@@ -1356,19 +1464,7 @@
       "published": "Mon, 23 Feb 2026 23:59:51 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.716100"
-    },
-    {
-      "id": "84c12912037f",
-      "title": "Relative of Tumbler Ridge shooter arrested, charged in Alberta",
-      "description": "Jacob Van Rootselaar, who is related to Tumbler Ridge shooter Jesse Van Rootselaar, has been arrested in Alberta.",
-      "url": "https://calgary.citynews.ca/2026/02/23/relative-tumbler-ridge-shooter-arrested-charged-alberta/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 23:59:51 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.922943"
+      "fetched_at": "2026-02-24T06:59:56.745766"
     },
     {
       "id": "a534116cca40",
@@ -1380,7 +1476,19 @@
       "published": "Mon, 23 Feb 2026 23:59:51 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.000689"
+      "fetched_at": "2026-02-24T06:59:57.143424"
+    },
+    {
+      "id": "84c12912037f",
+      "title": "Relative of Tumbler Ridge shooter arrested, charged in Alberta",
+      "description": "Jacob Van Rootselaar, who is related to Tumbler Ridge shooter Jesse Van Rootselaar, has been arrested in Alberta.",
+      "url": "https://calgary.citynews.ca/2026/02/23/relative-tumbler-ridge-shooter-arrested-charged-alberta/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 23 Feb 2026 23:59:51 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-02-24T06:59:57.566615"
     },
     {
       "id": "4e2e1a2f504e",
@@ -1392,7 +1500,7 @@
       "published": "Mon, 23 Feb 2026 23:59:51 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.265848"
+      "fetched_at": "2026-02-24T06:59:58.059861"
     },
     {
       "id": "e6002db46edc",
@@ -1404,19 +1512,7 @@
       "published": "Mon, 23 Feb 2026 23:58:48 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599636"
-    },
-    {
-      "id": "40d87f4c64f5",
-      "title": "Woodside Shares Rise as Dividend Lift Outweighs Profit Drop",
-      "description": "Woodside Energy Group Ltd.’s shares advanced after Australia’s largest oil and gas company raised its dividend, despite a slump in profit.",
-      "url": "https://financialpost.com/pmn/business-pmn/woodside-shares-rise-as-dividend-lift-outweighs-profit-drop",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 23:58:34 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-02-24T05:20:20.662961"
+      "fetched_at": "2026-02-24T06:59:56.170073"
     },
     {
       "id": "c57bf88007cf",
@@ -1428,7 +1524,7 @@
       "published": "Mon, 23 Feb 2026 23:47:56 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.922983"
+      "fetched_at": "2026-02-24T06:59:57.566650"
     },
     {
       "id": "a9e2d49d074a",
@@ -1440,7 +1536,7 @@
       "published": "Mon, 23 Feb 2026 23:47:56 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.265902"
+      "fetched_at": "2026-02-24T06:59:58.059909"
     },
     {
       "id": "508c18b590df",
@@ -1452,7 +1548,7 @@
       "published": "Mon, 23 Feb 2026 23:41:45 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.265946"
+      "fetched_at": "2026-02-24T06:59:58.059950"
     },
     {
       "id": "da1e9453cd79",
@@ -1464,7 +1560,7 @@
       "published": "Mon, 23 Feb 2026 23:31:11 GMT",
       "location": "Calgary",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:22.160762"
+      "fetched_at": "2026-02-24T06:59:55.374713"
     },
     {
       "id": "54cdfa0449b5",
@@ -1476,7 +1572,7 @@
       "published": "Mon, 23 Feb 2026 23:31:05 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.174118"
+      "fetched_at": "2026-02-24T06:59:56.651110"
     },
     {
       "id": "f0fed163baa7",
@@ -1488,7 +1584,7 @@
       "published": "Mon, 23 Feb 2026 23:26:43 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.954960"
+      "fetched_at": "2026-02-24T06:59:56.089359"
     },
     {
       "id": "f2da740d0f69",
@@ -1500,7 +1596,7 @@
       "published": "Mon, 23 Feb 2026 23:19:15 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:22.690272"
+      "fetched_at": "2026-02-24T06:59:55.313066"
     },
     {
       "id": "02782ca3cbf6",
@@ -1512,7 +1608,7 @@
       "published": "Mon, 23 Feb 2026 23:18:38 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.923016"
+      "fetched_at": "2026-02-24T06:59:57.566680"
     },
     {
       "id": "1fb60c327b7d",
@@ -1524,7 +1620,7 @@
       "published": "Mon, 23 Feb 2026 23:13:32 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:22.690316"
+      "fetched_at": "2026-02-24T06:59:55.313162"
     },
     {
       "id": "746877eaf1c0",
@@ -1536,7 +1632,7 @@
       "published": "Mon, 23 Feb 2026 23:11:41 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.705420"
+      "fetched_at": "2026-02-24T06:59:53.598508"
     },
     {
       "id": "bd88ad86f1b6",
@@ -1548,19 +1644,7 @@
       "published": "Mon, 23 Feb 2026 23:02:05 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-02-24T05:20:21.173201"
-    },
-    {
-      "id": "d9bc709959d3",
-      "title": "Immigration Department helping Canadian military recruit foreign military members",
-      "description": "HALIFAX — The head of Canadian Armed Forces says a policy aimed at attracting highly skilled foreign military members is getting a boost from the federal Immigration Department as the military scrambles to fill jobs amid a protracted personnel shortage. Gen. Jennie Carignan, chief of defence staff, ",
-      "url": "https://toronto.citynews.ca/2026/02/23/immigration-department-helping-canadian-military-recruit-foreign-military-members/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 23:00:58 +0000",
-      "location": "Halifax",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573346"
+      "fetched_at": "2026-02-24T06:59:54.387925"
     },
     {
       "id": "b807818ef14c",
@@ -1572,7 +1656,19 @@
       "published": "Mon, 23 Feb 2026 23:00:58 +0000",
       "location": "Halifax",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599678"
+      "fetched_at": "2026-02-24T06:59:56.170111"
+    },
+    {
+      "id": "d9bc709959d3",
+      "title": "Immigration Department helping Canadian military recruit foreign military members",
+      "description": "HALIFAX — The head of Canadian Armed Forces says a policy aimed at attracting highly skilled foreign military members is getting a boost from the federal Immigration Department as the military scrambles to fill jobs amid a protracted personnel shortage. Gen. Jennie Carignan, chief of defence staff, ",
+      "url": "https://toronto.citynews.ca/2026/02/23/immigration-department-helping-canadian-military-recruit-foreign-military-members/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Mon, 23 Feb 2026 23:00:58 +0000",
+      "location": "Halifax",
+      "category": "local",
+      "fetched_at": "2026-02-24T06:59:56.282774"
     },
     {
       "id": "7ba36604373d",
@@ -1584,19 +1680,7 @@
       "published": "Mon, 23 Feb 2026 23:00:58 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.716181"
-    },
-    {
-      "id": "9be48fb3ece3",
-      "title": "Immigration Department helping Canadian military recruit foreign military members",
-      "description": "HALIFAX — The head of Canadian Armed Forces says a policy aimed at attracting specialized foreign military members is getting a boost from the federal Immigration Department as the military scrambles to fill jobs amid a protracted personnel shortage. Gen. Jenni Carignan, chief of defence staff, says",
-      "url": "https://calgary.citynews.ca/2026/02/23/immigration-department-helping-canadian-military-recruit-foreign-military-members/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 23:00:58 +0000",
-      "location": "Halifax",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.923059"
+      "fetched_at": "2026-02-24T06:59:56.745808"
     },
     {
       "id": "e22f72cf9984",
@@ -1608,7 +1692,19 @@
       "published": "Mon, 23 Feb 2026 23:00:58 +0000",
       "location": "Halifax",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.000753"
+      "fetched_at": "2026-02-24T06:59:57.143471"
+    },
+    {
+      "id": "9be48fb3ece3",
+      "title": "Immigration Department helping Canadian military recruit foreign military members",
+      "description": "HALIFAX — The head of Canadian Armed Forces says a policy aimed at attracting specialized foreign military members is getting a boost from the federal Immigration Department as the military scrambles to fill jobs amid a protracted personnel shortage. Gen. Jenni Carignan, chief of defence staff, says",
+      "url": "https://calgary.citynews.ca/2026/02/23/immigration-department-helping-canadian-military-recruit-foreign-military-members/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 23 Feb 2026 23:00:58 +0000",
+      "location": "Halifax",
+      "category": "local",
+      "fetched_at": "2026-02-24T06:59:57.566717"
     },
     {
       "id": "e3bf59c8a0ac",
@@ -1620,7 +1716,7 @@
       "published": "Mon, 23 Feb 2026 23:00:58 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.265997"
+      "fetched_at": "2026-02-24T06:59:58.059996"
     },
     {
       "id": "0903208cfb16",
@@ -1632,7 +1728,7 @@
       "published": "Mon, 23 Feb 2026 23:00:19 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-24T05:20:20.506847"
+      "fetched_at": "2026-02-24T06:59:53.687006"
     },
     {
       "id": "94faed9cffe6",
@@ -1644,19 +1740,7 @@
       "published": "Mon, 23 Feb 2026 22:56:00 GMT",
       "location": "Canada",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:22.014594"
-    },
-    {
-      "id": "be09d7dfc1bb",
-      "title": "Canadian Union of Postal Workers set to vote on tentative deals in spring",
-      "description": "OTTAWA — The Canadian Union of Postal Workers says its members will hold a ratification vote on tentative agreements with Canada Post between April 20 and May 30. The deals with two bargaining units were reached in late December, after nearly two years of labour strife. Workers were out on the picke",
-      "url": "https://toronto.citynews.ca/2026/02/23/canadian-union-of-postal-workers-set-to-vote-on-tentative-deals-in-spring/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 22:55:54 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573385"
+      "fetched_at": "2026-02-24T06:59:54.631217"
     },
     {
       "id": "d143c910360b",
@@ -1668,7 +1752,19 @@
       "published": "Mon, 23 Feb 2026 22:55:54 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599714"
+      "fetched_at": "2026-02-24T06:59:56.170146"
+    },
+    {
+      "id": "be09d7dfc1bb",
+      "title": "Canadian Union of Postal Workers set to vote on tentative deals in spring",
+      "description": "OTTAWA — The Canadian Union of Postal Workers says its members will hold a ratification vote on tentative agreements with Canada Post between April 20 and May 30. The deals with two bargaining units were reached in late December, after nearly two years of labour strife. Workers were out on the picke",
+      "url": "https://toronto.citynews.ca/2026/02/23/canadian-union-of-postal-workers-set-to-vote-on-tentative-deals-in-spring/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Mon, 23 Feb 2026 22:55:54 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-02-24T06:59:56.282807"
     },
     {
       "id": "c9119f89e658",
@@ -1680,19 +1776,7 @@
       "published": "Mon, 23 Feb 2026 22:55:54 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.716262"
-    },
-    {
-      "id": "c891f365de12",
-      "title": "Canadian Union of Postal Workers set to vote on tentative deals in spring",
-      "description": "OTTAWA — The Canadian Union of Postal Workers says its members will hold a ratification vote on tentative agreements with Canada Post between April 20 and May 30. The deals with two bargaining units were reached in late December, after nearly two years of labour strife. Workers were out on the picke",
-      "url": "https://calgary.citynews.ca/2026/02/23/canadian-union-of-postal-workers-set-to-vote-on-tentative-deals-in-spring/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 22:55:54 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.923097"
+      "fetched_at": "2026-02-24T06:59:56.745850"
     },
     {
       "id": "63619dfeed42",
@@ -1704,7 +1788,19 @@
       "published": "Mon, 23 Feb 2026 22:55:54 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.000797"
+      "fetched_at": "2026-02-24T06:59:57.143508"
+    },
+    {
+      "id": "c891f365de12",
+      "title": "Canadian Union of Postal Workers set to vote on tentative deals in spring",
+      "description": "OTTAWA — The Canadian Union of Postal Workers says its members will hold a ratification vote on tentative agreements with Canada Post between April 20 and May 30. The deals with two bargaining units were reached in late December, after nearly two years of labour strife. Workers were out on the picke",
+      "url": "https://calgary.citynews.ca/2026/02/23/canadian-union-of-postal-workers-set-to-vote-on-tentative-deals-in-spring/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 23 Feb 2026 22:55:54 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-02-24T06:59:57.566751"
     },
     {
       "id": "2eec23078b70",
@@ -1716,19 +1812,19 @@
       "published": "Mon, 23 Feb 2026 22:55:54 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.266044"
+      "fetched_at": "2026-02-24T06:59:58.060051"
     },
     {
       "id": "330d21b239d3",
       "title": "French minister moves to block US envoy Kushner from government access",
-      "description": "The minister says Charles Kushner, father of Trump's son-in-law Jared, had failed to explain US comments about violence in France.",
+      "description": "The minister says Charles Kushner, father of Trump's son-in-law Jared, failed to explain comments about violence in France.",
       "url": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7937/live/f3179140-1106-11f1-801d-ed3cff6bf876.jpg",
       "published": "Mon, 23 Feb 2026 22:55:06 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.846053"
+      "fetched_at": "2026-02-24T06:59:54.889741"
     },
     {
       "id": "c1f27c3f87d8",
@@ -1740,7 +1836,19 @@
       "published": "Mon, 23 Feb 2026 22:54:20 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599775"
+      "fetched_at": "2026-02-24T06:59:56.170173"
+    },
+    {
+      "id": "3685f6644d65",
+      "title": "Peter Attia resigns from CBS News following Epstein backlash - CNN",
+      "description": "Peter Attia resigns from CBS News following Epstein backlash&nbsp;&nbsp;CNNLongevity Doctor Peter Attia Is Out at CBS News After Epstein Revelations&nbsp;&nbsp;WSJMedical influencer Attia resigns post at CBS News after name included in multiple Epstein files&nbsp;&nbsp;AP NewsLongevity expert Peter ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclJmRGR2ZHQ5UVRQTFRGUXNudHh1anpUdjlmaFMyaWtnaXEwNDFhYVFnbUhVOWYyVXFCelhVdVpHeFQzazBBREVEZnVUQ1V1OVFuS2QwbVVsdnlFTVFzci00d2ZxZERmVkFWajJWWUxVZkRmVVl3eUdLdjBTMVFHczJIMFJIZGM1ejlmMVNwX2dvWmNza0E1VnBJV19temJxNHc?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 23 Feb 2026 22:53:20 GMT",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-02-24T06:59:55.744141"
     },
     {
       "id": "95eea3dbbadb",
@@ -1752,7 +1860,7 @@
       "published": "Mon, 23 Feb 2026 22:41:14 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:21.669342"
+      "fetched_at": "2026-02-24T06:59:54.232795"
     },
     {
       "id": "1883263a7be5",
@@ -1764,7 +1872,7 @@
       "published": "Mon, 23 Feb 2026 22:38:50 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.689013"
+      "fetched_at": "2026-02-24T06:59:53.847957"
     },
     {
       "id": "7bc22d1badf5",
@@ -1776,7 +1884,7 @@
       "published": "Mon, 23 Feb 2026 22:36:15 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.705461"
+      "fetched_at": "2026-02-24T06:59:53.598531"
     },
     {
       "id": "bb82df616513",
@@ -1788,7 +1896,7 @@
       "published": "Mon, 23 Feb 2026 22:35:46 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.266084"
+      "fetched_at": "2026-02-24T06:59:58.060088"
     },
     {
       "id": "c34afb1ffb4a",
@@ -1800,7 +1908,7 @@
       "published": "Mon, 23 Feb 2026 22:32:48 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:21.669364"
+      "fetched_at": "2026-02-24T06:59:54.232814"
     },
     {
       "id": "6cf0fa6fd57c",
@@ -1812,7 +1920,7 @@
       "published": "Mon, 23 Feb 2026 22:32:14 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-24T05:20:20.506893"
+      "fetched_at": "2026-02-24T06:59:53.687057"
     },
     {
       "id": "5732505f5f53",
@@ -1824,7 +1932,7 @@
       "published": "Mon, 23 Feb 2026 22:31:52 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.174150"
+      "fetched_at": "2026-02-24T06:59:56.651139"
     },
     {
       "id": "3673a3ea7200",
@@ -1836,7 +1944,7 @@
       "published": "Mon, 23 Feb 2026 22:31:22 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.599820"
+      "fetched_at": "2026-02-24T06:59:56.170206"
     },
     {
       "id": "4f47c289ec41",
@@ -1848,7 +1956,7 @@
       "published": "Mon, 23 Feb 2026 22:29:36 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-24T05:20:20.506935"
+      "fetched_at": "2026-02-24T06:59:53.687096"
     },
     {
       "id": "1233a6271757",
@@ -1860,7 +1968,7 @@
       "published": "Mon, 23 Feb 2026 22:25:30 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:21.669385"
+      "fetched_at": "2026-02-24T06:59:54.232833"
     },
     {
       "id": "97bbbe170597",
@@ -1872,7 +1980,7 @@
       "published": "Mon, 23 Feb 2026 22:20:32 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-24T05:20:20.506976"
+      "fetched_at": "2026-02-24T06:59:53.687131"
     },
     {
       "id": "5808cdb1da21",
@@ -1884,7 +1992,7 @@
       "published": "Mon, 23 Feb 2026 22:19:41 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.434415"
+      "fetched_at": "2026-02-24T06:59:53.307832"
     },
     {
       "id": "b56806ec9128",
@@ -1896,7 +2004,7 @@
       "published": "Mon, 23 Feb 2026 22:16:17 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:22.160797"
+      "fetched_at": "2026-02-24T06:59:55.374676"
     },
     {
       "id": "78ec23a57fae",
@@ -1908,7 +2016,7 @@
       "published": "Mon, 23 Feb 2026 22:15:46 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-24T05:20:20.507019"
+      "fetched_at": "2026-02-24T06:59:53.687169"
     },
     {
       "id": "7b32ab3d6286",
@@ -1920,7 +2028,7 @@
       "published": "Mon, 23 Feb 2026 22:11:57 GMT",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:22.160664"
+      "fetched_at": "2026-02-24T06:59:55.374606"
     },
     {
       "id": "0cb1b56efeb5",
@@ -1932,7 +2040,7 @@
       "published": "Mon, 23 Feb 2026 22:07:18 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.174183"
+      "fetched_at": "2026-02-24T06:59:56.651170"
     },
     {
       "id": "573d7877bf10",
@@ -1944,7 +2052,7 @@
       "published": "Mon, 23 Feb 2026 22:00:46 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.923127"
+      "fetched_at": "2026-02-24T06:59:57.566777"
     },
     {
       "id": "1bdae094e1bf",
@@ -1956,7 +2064,7 @@
       "published": "Mon, 23 Feb 2026 22:00:46 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.266119"
+      "fetched_at": "2026-02-24T06:59:58.060120"
     },
     {
       "id": "e2b34ed4df7b",
@@ -1968,7 +2076,7 @@
       "published": "Mon, 23 Feb 2026 21:51:49 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573412"
+      "fetched_at": "2026-02-24T06:59:56.282832"
     },
     {
       "id": "2c0d2eb48f72",
@@ -1980,7 +2088,7 @@
       "published": "Mon, 23 Feb 2026 21:47:51 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.174208"
+      "fetched_at": "2026-02-24T06:59:56.651193"
     },
     {
       "id": "f0cea96f7258",
@@ -1992,7 +2100,7 @@
       "published": "Mon, 23 Feb 2026 21:46:41 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550415"
+      "fetched_at": "2026-02-24T06:59:53.351582"
     },
     {
       "id": "3e37aee3a984",
@@ -2004,7 +2112,7 @@
       "published": "Mon, 23 Feb 2026 21:45:24 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.014725"
+      "fetched_at": "2026-02-24T06:59:56.586488"
     },
     {
       "id": "b807cb0b0001",
@@ -2016,7 +2124,7 @@
       "published": "Mon, 23 Feb 2026 21:42:50 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.014777"
+      "fetched_at": "2026-02-24T06:59:56.586510"
     },
     {
       "id": "4b700127d448",
@@ -2028,19 +2136,19 @@
       "published": "Mon, 23 Feb 2026 21:37:32 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:21.840760"
+      "fetched_at": "2026-02-24T06:59:54.526622"
     },
     {
       "id": "af53d3bfafba",
       "title": "Who was ‘El Mencho,’ the Mexican drug lord whose death sparked violence? - Global News",
-      "description": "Who was ‘El Mencho,’ the Mexican drug lord whose death sparked violence?&nbsp;&nbsp;Global NewsAirlines to resume operations to Mexico’s Puerto Vallarta from Tuesday&nbsp;&nbsp;CTV NewsA cartel crackdown carries political risks for Trump&nbsp;&nbsp;CNNWho is ‘El Mencho’? Violence sparked by cartel l",
+      "description": "Who was ‘El Mencho,’ the Mexican drug lord whose death sparked violence?&nbsp;&nbsp;Global NewsAirlines to resume operations to Mexico’s Puerto Vallarta from Tuesday&nbsp;&nbsp;CTV NewsWinnipeggers in Puerto Vallarta say violence has dampened, but vacation plans remain uncertain&nbsp;&nbsp;CBCMexico",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWZiZVpjWFdIVUZtcDVyQnVxQlA4UmVxU3ZUUTdpY1RUVHNfeFdDZU9xNWhhcmFuc1FoVkRlbmZVOVlsZ2ZVY1h4M1pvT1ROM1Q5VTRWTWZuckNsTVduZ000YllFMWJreUZFQkUwcTdCZ3ZDejZtTlNsWUlJMEtvWFJxQXBxQ3c?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 23 Feb 2026 21:36:47 GMT",
-      "location": "Toronto",
+      "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:22.203474"
+      "fetched_at": "2026-02-24T06:59:55.743792"
     },
     {
       "id": "85e94c717ac0",
@@ -2052,31 +2160,19 @@
       "published": "Mon, 23 Feb 2026 21:36:46 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.689083"
-    },
-    {
-      "id": "41bbc9000c5e",
-      "title": "Where Trump sees big 'ugly' windmills, Canada sees opportunity - CBC",
-      "description": "Where Trump sees big 'ugly' windmills, Canada sees opportunity&nbsp;&nbsp;CBCTrump said wind power is for ‘stupid people.’ Here’s what European countries did 5 days later&nbsp;&nbsp;CNNThe Danish company Orsted is installing a 65-turbine wind farm off the coast of Rhode Island.&nbsp;&nbsp;Yahoo News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xME9uTUxXb3V5dU15NDNZU0M5NklPR0p3ckE2NkNXdFA1UUVGUGttZFpWMnVKX0QtYnNtRnpFUnkwdnE4RXFOM1p1OVl3MXNERWg3RDhtRlZNc3ZXYnVRQVBJa3VGVEsxcTc2clNzNWg0eHM?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 21:31:26 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-02-24T05:20:22.161034"
+      "fetched_at": "2026-02-24T06:59:53.847986"
     },
     {
       "id": "fc92977c27da",
       "title": "Man shot dead on Trump’s Florida estate ‘wouldn’t hurt an ant,’ says cousin - Global News",
-      "description": "Man shot dead on Trump’s Florida estate ‘wouldn’t hurt an ant,’ says cousin&nbsp;&nbsp;Global NewsFBI identifies gunman shot dead at entrance of Trump's Florida estate&nbsp;&nbsp;CBCNew details emerge about armed man shot and killed at Trump’s Mar-a-Lago&nbsp;&nbsp;The GuardianArmed Man Shot Dead at",
+      "description": "Man shot dead on Trump’s Florida estate ‘wouldn’t hurt an ant,’ says cousin&nbsp;&nbsp;Global NewsFBI identifies gunman shot dead at entrance of Trump's Florida estate&nbsp;&nbsp;CBCNew details emerge about armed man shot and killed at Trump’s Mar-a-Lago&nbsp;&nbsp;The GuardianArmed man killed by Se",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlBpcXFpa0wtcERUc1RQV1lETzUxX3RfUlF1SXM4dktMUk1zdGRoSHVnbnJENXJXT2huM3pOaTVKRzBPSkhmOVVRVms3dEltc0ZwMEJWM0g4Q2xmMEpuWHhqbVNCVVgxT2JiZDVnUWdDSUUzSUNwODVubjZQMXlEZWx1bDhKNUFYdjM1VTNkQQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 23 Feb 2026 21:23:02 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:22.203946"
+      "fetched_at": "2026-02-24T06:59:55.744194"
     },
     {
       "id": "c17c8764bdfa",
@@ -2088,7 +2184,7 @@
       "published": "Mon, 23 Feb 2026 21:21:35 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.000834"
+      "fetched_at": "2026-02-24T06:59:57.143543"
     },
     {
       "id": "ec83a8fe8d5d",
@@ -2100,7 +2196,7 @@
       "published": "Mon, 23 Feb 2026 21:19:27 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.174249"
+      "fetched_at": "2026-02-24T06:59:56.651231"
     },
     {
       "id": "73dd463dde8a",
@@ -2112,7 +2208,7 @@
       "published": "Mon, 23 Feb 2026 21:19:15 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573439"
+      "fetched_at": "2026-02-24T06:59:56.282855"
     },
     {
       "id": "05fb18ecf15a",
@@ -2124,7 +2220,7 @@
       "published": "Mon, 23 Feb 2026 21:17:49 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.954983"
+      "fetched_at": "2026-02-24T06:59:56.089378"
     },
     {
       "id": "e8f1aaba8268",
@@ -2136,7 +2232,7 @@
       "published": "Mon, 23 Feb 2026 21:17:14 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.689145"
+      "fetched_at": "2026-02-24T06:59:53.848013"
     },
     {
       "id": "0afebe1deb5c",
@@ -2148,7 +2244,7 @@
       "published": "Mon, 23 Feb 2026 21:12:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.845935"
+      "fetched_at": "2026-02-24T06:59:54.889699"
     },
     {
       "id": "40d38cb6da8f",
@@ -2160,7 +2256,7 @@
       "published": "Mon, 23 Feb 2026 21:12:43 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.846097"
+      "fetched_at": "2026-02-24T06:59:54.889819"
     },
     {
       "id": "23854eca5d5c",
@@ -2172,7 +2268,7 @@
       "published": "Mon, 23 Feb 2026 21:09:50 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.689206"
+      "fetched_at": "2026-02-24T06:59:53.848055"
     },
     {
       "id": "da681b09e7ac",
@@ -2184,7 +2280,7 @@
       "published": "Mon, 23 Feb 2026 21:03:19 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.434467"
+      "fetched_at": "2026-02-24T06:59:53.307857"
     },
     {
       "id": "939e955d41b4",
@@ -2196,7 +2292,7 @@
       "published": "Mon, 23 Feb 2026 21:00:35 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.071685"
+      "fetched_at": "2026-02-24T06:59:56.441157"
     },
     {
       "id": "7edf3f987990",
@@ -2208,19 +2304,7 @@
       "published": "Mon, 23 Feb 2026 21:00:05 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.689260"
-    },
-    {
-      "id": "de6fb1b09718",
-      "title": "Are the US and Iran moving closer to war?",
-      "description": "Diplomacy continues despite the significant United States military build-up.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/2/23/are-the-us-and-iran-moving-closer-to-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 20:58:54 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787650"
+      "fetched_at": "2026-02-24T06:59:53.848082"
     },
     {
       "id": "6b5017820659",
@@ -2232,7 +2316,7 @@
       "published": "Mon, 23 Feb 2026 20:58:38 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.716313"
+      "fetched_at": "2026-02-24T06:59:56.745891"
     },
     {
       "id": "ebacb0073ce7",
@@ -2244,19 +2328,7 @@
       "published": "Mon, 23 Feb 2026 20:57:11 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.266163"
-    },
-    {
-      "id": "c2a128ab4a4b",
-      "title": "Slovakia halts emergency power supplies to Ukraine over Russian oil dispute",
-      "description": "Slovakia had issued a two-day ultimatum to Ukraine to reopen the Soviet-era Druzhba pipeline.",
-      "url": "https://www.aljazeera.com/news/2026/2/23/slovakia-halts-emergency-power-supplies-to-ukraine-over-russian-oil-dispute?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 20:54:04 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.787675"
+      "fetched_at": "2026-02-24T06:59:58.060159"
     },
     {
       "id": "f4609d9a2676",
@@ -2268,7 +2340,7 @@
       "published": "Mon, 23 Feb 2026 20:38:46 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.174277"
+      "fetched_at": "2026-02-24T06:59:56.651255"
     },
     {
       "id": "e01aeb9c984f",
@@ -2280,7 +2352,7 @@
       "published": "Mon, 23 Feb 2026 20:35:06 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550472"
+      "fetched_at": "2026-02-24T06:59:53.351608"
     },
     {
       "id": "4856d94922b7",
@@ -2292,7 +2364,7 @@
       "published": "Mon, 23 Feb 2026 20:26:34 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.689310"
+      "fetched_at": "2026-02-24T06:59:53.848106"
     },
     {
       "id": "f4589a2fc6c1",
@@ -2304,7 +2376,7 @@
       "published": "Mon, 23 Feb 2026 20:20:50 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.573479"
+      "fetched_at": "2026-02-24T06:59:56.282891"
     },
     {
       "id": "74b29333ab4e",
@@ -2316,7 +2388,7 @@
       "published": "Mon, 23 Feb 2026 20:20:01 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.716355"
+      "fetched_at": "2026-02-24T06:59:56.745928"
     },
     {
       "id": "190d42457a1e",
@@ -2328,7 +2400,7 @@
       "published": "Mon, 23 Feb 2026 20:08:31 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:22.014648"
+      "fetched_at": "2026-02-24T06:59:54.631269"
     },
     {
       "id": "52f60835cb32",
@@ -2340,7 +2412,7 @@
       "published": "Mon, 23 Feb 2026 20:08:11 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.716392"
+      "fetched_at": "2026-02-24T06:59:56.745961"
     },
     {
       "id": "e04f1b83cb03",
@@ -2352,7 +2424,7 @@
       "published": "Mon, 23 Feb 2026 20:08:11 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.000874"
+      "fetched_at": "2026-02-24T06:59:57.143578"
     },
     {
       "id": "f7b2fb1318b8",
@@ -2364,7 +2436,7 @@
       "published": "Mon, 23 Feb 2026 20:01:40 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.689364"
+      "fetched_at": "2026-02-24T06:59:53.848132"
     },
     {
       "id": "25d70b7c88b9",
@@ -2376,7 +2448,7 @@
       "published": "Mon, 23 Feb 2026 19:57:27 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550536"
+      "fetched_at": "2026-02-24T06:59:53.351640"
     },
     {
       "id": "26790ada588b",
@@ -2388,7 +2460,7 @@
       "published": "Mon, 23 Feb 2026 19:54:22 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550595"
+      "fetched_at": "2026-02-24T06:59:53.351666"
     },
     {
       "id": "bd7e3ca21d48",
@@ -2400,7 +2472,7 @@
       "published": "Mon, 23 Feb 2026 19:38:58 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:21.669299"
+      "fetched_at": "2026-02-24T06:59:54.232757"
     },
     {
       "id": "814cda25246f",
@@ -2412,7 +2484,7 @@
       "published": "Mon, 23 Feb 2026 19:36:24 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:22.716445"
+      "fetched_at": "2026-02-24T06:59:56.745990"
     },
     {
       "id": "632b460d49dc",
@@ -2424,7 +2496,7 @@
       "published": "Mon, 23 Feb 2026 19:36:24 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.000900"
+      "fetched_at": "2026-02-24T06:59:57.143603"
     },
     {
       "id": "2b896ad41d30",
@@ -2436,19 +2508,7 @@
       "published": "Mon, 23 Feb 2026 19:28:13 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.705508"
-    },
-    {
-      "id": "3fdae41cb92e",
-      "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
-      "description": "The suspect was carrying a shotgun and fuel can when he was killed, officers say, while Trump was in Washington DC at the time.",
-      "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a550/live/c7902e10-1002-11f1-909d-47e99fcb7a58.jpg",
-      "published": "Mon, 23 Feb 2026 19:26:32 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.846138"
+      "fetched_at": "2026-02-24T06:59:53.598558"
     },
     {
       "id": "631aafdd87c8",
@@ -2460,7 +2520,7 @@
       "published": "Mon, 23 Feb 2026 19:24:08 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.689416"
+      "fetched_at": "2026-02-24T06:59:53.848157"
     },
     {
       "id": "319b906c349f",
@@ -2472,7 +2532,7 @@
       "published": "Mon, 23 Feb 2026 19:22:30 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.000942"
+      "fetched_at": "2026-02-24T06:59:57.143640"
     },
     {
       "id": "7f5ced932e48",
@@ -2484,7 +2544,7 @@
       "published": "Mon, 23 Feb 2026 19:18:42 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550650"
+      "fetched_at": "2026-02-24T06:59:53.351691"
     },
     {
       "id": "b0955e6c7632",
@@ -2496,7 +2556,7 @@
       "published": "Mon, 23 Feb 2026 19:17:11 GMT",
       "location": "Vancouver",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.846030"
+      "fetched_at": "2026-02-24T06:59:54.889759"
     },
     {
       "id": "0b3ffeb29f72",
@@ -2508,7 +2568,7 @@
       "published": "Mon, 23 Feb 2026 19:08:55 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.845988"
+      "fetched_at": "2026-02-24T06:59:54.889799"
     },
     {
       "id": "ab1d52e4413d",
@@ -2520,7 +2580,7 @@
       "published": "Mon, 23 Feb 2026 18:56:44 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:21.669233"
+      "fetched_at": "2026-02-24T06:59:54.232699"
     },
     {
       "id": "250bc15a2e78",
@@ -2532,7 +2592,7 @@
       "published": "Mon, 23 Feb 2026 18:52:59 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.071718"
+      "fetched_at": "2026-02-24T06:59:56.441187"
     },
     {
       "id": "ab2965b11bb8",
@@ -2544,7 +2604,7 @@
       "published": "Mon, 23 Feb 2026 18:52:45 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.000976"
+      "fetched_at": "2026-02-24T06:59:57.143674"
     },
     {
       "id": "56c06bba84b2",
@@ -2556,7 +2616,7 @@
       "published": "Mon, 23 Feb 2026 18:50:23 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-02-24T05:20:20.689468"
+      "fetched_at": "2026-02-24T06:59:53.853562"
     },
     {
       "id": "a63868c9573d",
@@ -2568,19 +2628,19 @@
       "published": "Mon, 23 Feb 2026 18:49:49 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550695"
+      "fetched_at": "2026-02-24T06:59:53.351714"
     },
     {
       "id": "77c7c6a66c86",
       "title": "Toronto Blue Jays third baseman Kazuma Okamoto launches first Grapefruit League home run - TSN",
-      "description": "Toronto Blue Jays third baseman Kazuma Okamoto launches first Grapefruit League home run&nbsp;&nbsp;TSNKazuma Okamoto clubs first home run as Blue Jay in spring training loss to Mets&nbsp;&nbsp;SportsnetOkamoto hits first home run in Blue Jays’ loss to Mets&nbsp;&nbsp;TSNOkamoto shines even as Blue ",
+      "description": "Toronto Blue Jays third baseman Kazuma Okamoto launches first Grapefruit League home run&nbsp;&nbsp;TSNKazuma Okamoto clubs first home run as Blue Jay in spring training loss to Mets&nbsp;&nbsp;SportsnetMLB Spring Training: Okamoto homers in Blue Jays 4-3 loss to Mets in pre-season play&nbsp;&nbsp;C",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3MzeDBjVXB6U1NFWk5LZDdxVE5ZbjAxZ0JXemZJd251NFU0b3h4Q1VwZU5weUVPX195eW1WaFpOX205NU9aQ2c1bmZSRjBxSDg0UHdZOEFtRHZyQXhRWFJHMkNkV0xMWFRqMnp2US1nTGFXeGdLZklfcHcwSU43OXlKbkljTXl2?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 23 Feb 2026 18:46:09 GMT",
       "location": "Toronto",
       "category": "sports",
-      "fetched_at": "2026-02-24T05:20:22.383231"
+      "fetched_at": "2026-02-24T06:59:55.858810"
     },
     {
       "id": "d53b9bc071c2",
@@ -2592,7 +2652,7 @@
       "published": "Mon, 23 Feb 2026 18:37:02 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.781718"
+      "fetched_at": "2026-02-24T06:59:54.281079"
     },
     {
       "id": "513562f520c9",
@@ -2604,7 +2664,7 @@
       "published": "Mon, 23 Feb 2026 18:33:59 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.955007"
+      "fetched_at": "2026-02-24T06:59:56.089399"
     },
     {
       "id": "d82eb6abfba8",
@@ -2616,7 +2676,7 @@
       "published": "Mon, 23 Feb 2026 18:33:24 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.955032"
+      "fetched_at": "2026-02-24T06:59:56.089420"
     },
     {
       "id": "1c4fbd2fc9ad",
@@ -2628,7 +2688,7 @@
       "published": "Mon, 23 Feb 2026 18:21:32 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.001019"
+      "fetched_at": "2026-02-24T06:59:57.143713"
     },
     {
       "id": "1c07e578380a",
@@ -2640,19 +2700,7 @@
       "published": "Mon, 23 Feb 2026 18:17:03 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-02-24T05:20:20.507062"
-    },
-    {
-      "id": "6a64191f19e3",
-      "title": "State Department orders nonessential US diplomats to leave Lebanon as tensions with Iran soar - AP News",
-      "description": "State Department orders nonessential US diplomats to leave Lebanon as tensions with Iran soar&nbsp;&nbsp;AP NewsU.S. tells some of its diplomats and their families to leave Lebanon amid Iran tensions&nbsp;&nbsp;CBCUS partially evacuates Beirut embassy amid rising Iran tensions&nbsp;&nbsp;BBCU.S. pul",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQzNqdmJvUmJBNkxvcXlNM0FBbGsyOXhRa282N2NmOGRyM3ZNbFpnNWJuWW54cHl5aUdMOGs4Mk4td0FycFRGVHRLV0JzdGZ2NFdpRl92ZTlweDNLRVZZOEFqRnl4UUVabTJrUElob1dHcjFuZXdMNTI5b2tRbElwNGZOWC01Y1BPXy1ScVFPOA?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 18:13:00 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-02-24T05:20:22.203997"
+      "fetched_at": "2026-02-24T06:59:53.687206"
     },
     {
       "id": "e6cfdfaf7713",
@@ -2664,19 +2712,7 @@
       "published": "Mon, 23 Feb 2026 18:11:08 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550755"
-    },
-    {
-      "id": "c6f5f8475c6e",
-      "title": "Guide Labs debuts a new kind of interpretable LLM",
-      "description": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
-      "url": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 17:53:28 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.550799"
+      "fetched_at": "2026-02-24T06:59:53.351737"
     },
     {
       "id": "0256f7863567",
@@ -2688,7 +2724,7 @@
       "published": "Mon, 23 Feb 2026 17:52:38 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:21.669255"
+      "fetched_at": "2026-02-24T06:59:54.232719"
     },
     {
       "id": "d061533cefa3",
@@ -2700,7 +2736,7 @@
       "published": "Mon, 23 Feb 2026 17:44:05 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.434519"
+      "fetched_at": "2026-02-24T06:59:53.307882"
     },
     {
       "id": "72f87b5d1a14",
@@ -2712,7 +2748,19 @@
       "published": "Mon, 23 Feb 2026 17:33:11 +0000",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:21.840820"
+      "fetched_at": "2026-02-24T06:59:54.526664"
+    },
+    {
+      "id": "3ef6d18c5129",
+      "title": "Ex-U.K. ambassador to U.S. arrested amid Epstein probe - Axios",
+      "description": "Ex-U.K. ambassador to U.S. arrested amid Epstein probe&nbsp;&nbsp;AxiosPolice in Britain say former ambassador Mandelson released on bail in probe into Epstein ties&nbsp;&nbsp;CTV NewsLord Mandelson arrested on suspicion of misconduct in public office&nbsp;&nbsp;BBCPeter Mandelson arrested on suspic",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzRsR3F6T1luZjgwdlNUMGZQM1pFbjlGNFJfdFlyVWNIemtqRG9RWXdIVmZocmI2UWpHaF9uUlE3enNlRURKUWRVYVYxZVB4MG5uQWNPZVpDX3hHQ3c1RG9taXViSlE1TDBJWGc1WFZTZy1PZy1EMlhMeTQzTHp0V2lVcmhHUF9mU2c?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 23 Feb 2026 17:31:05 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-02-24T06:59:55.743965"
     },
     {
       "id": "b1c85875de4e",
@@ -2724,7 +2772,7 @@
       "published": "Mon, 23 Feb 2026 17:18:23 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.071770"
+      "fetched_at": "2026-02-24T06:59:56.441212"
     },
     {
       "id": "5544aea39b9e",
@@ -2736,19 +2784,19 @@
       "published": "Mon, 23 Feb 2026 17:08:14 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.434574"
+      "fetched_at": "2026-02-24T06:59:53.307903"
     },
     {
       "id": "bd3e2423186f",
       "title": "Australia backs removing Andrew from royal line of succession - BBC",
-      "description": "Australia backs removing Andrew from royal line of succession&nbsp;&nbsp;BBCWhy removing Andrew from the line of succession is not as easy as it sounds&nbsp;&nbsp;CBC‘We’ve been paying for happy endings for Andrew for years’: the inside story of a royal disgrace, by his biographer&nbsp;&nbsp;The Gua",
+      "description": "Australia backs removing Andrew from royal line of succession&nbsp;&nbsp;BBCWhy removing Andrew from the line of succession is not as easy as it sounds&nbsp;&nbsp;CBCNew Zealand backs removing Andrew from royal line of succession&nbsp;&nbsp;BBCAs Andrew fell, Queen Elizabeth II held out hope, and Ch",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FS2xVeTN0cmdGN1pkOFd4Rk5TVnFXNWVVajNOMDVsMkd6RHBnY0hGRDhpU213al82bDRjRTlmc3NaWDFwNUlSLWd1d2UyZGdPM0IzMVdzNmVlUQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 23 Feb 2026 17:02:46 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:22.203822"
+      "fetched_at": "2026-02-24T06:59:55.744089"
     },
     {
       "id": "a27bf1ac01b6",
@@ -2758,21 +2806,9 @@
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 23 Feb 2026 17:02:28 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2026-02-24T05:20:22.383510"
-    },
-    {
-      "id": "4fcd37d575c6",
-      "title": "The 2026 Mazda CX-5, driven: It got bigger; plus, radical tech upgrade - Ars Technica",
-      "description": "The 2026 Mazda CX-5, driven: It got bigger; plus, radical tech upgrade&nbsp;&nbsp;Ars TechnicaHow the 2026 Mazda CX-5 Escalates a Sibling Rivalry&nbsp;&nbsp;Car and Driver2026 Mazda CX-5: One Step Back, One Step Forward&nbsp;&nbsp;Le Guide de l'autoReview: Third-generation Mazda CX-5 is bigger, room",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMjZlMlFBVUt3Vzk1dG9ldTZ3UUlJMDkwLVVKM01CVGJkRnUyaGlhM2RaT3IydmZWbXJudkhqLS1OZk0tU0NoUHdRdDJZSTdyNEVrd1BoVlZBMjl6N2JqdkxkMmlSMF8xbi01NkZpSUxTcVNaUzhvYTc3NkZfY3g5RWhuR3dHaGZ5TkxvNGhHSmZYd2xVWWNYc1p1aDB4M21VLVNxZTU0bw?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 17:00:02 GMT",
       "location": "Canada",
-      "category": "business",
-      "fetched_at": "2026-02-24T05:20:22.160897"
+      "category": "sports",
+      "fetched_at": "2026-02-24T06:59:55.859042"
     },
     {
       "id": "078f1bace50e",
@@ -2784,7 +2820,7 @@
       "published": "Mon, 23 Feb 2026 16:57:27 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:21.669321"
+      "fetched_at": "2026-02-24T06:59:54.232777"
     },
     {
       "id": "10e0de81e1cc",
@@ -2796,7 +2832,7 @@
       "published": "Mon, 23 Feb 2026 16:44:19 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-02-24T05:20:20.434619"
+      "fetched_at": "2026-02-24T06:59:53.307923"
     },
     {
       "id": "0eed6b9544a3",
@@ -2808,7 +2844,7 @@
       "published": "Mon, 23 Feb 2026 16:35:22 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.705551"
+      "fetched_at": "2026-02-24T06:59:53.598581"
     },
     {
       "id": "66587234a842",
@@ -2820,19 +2856,7 @@
       "published": "Mon, 23 Feb 2026 16:34:01 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.705605"
-    },
-    {
-      "id": "d841e8e916c9",
-      "title": "Rob Jetten becomes Netherlands' youngest ever PM",
-      "description": "The 38-year-old is sworn in as premier after clinching a narrow victory in October's election.",
-      "url": "https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7587/live/6ff2c730-10b6-11f1-801d-ed3cff6bf876.jpg",
-      "published": "Mon, 23 Feb 2026 16:33:33 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.846075"
+      "fetched_at": "2026-02-24T06:59:53.598604"
     },
     {
       "id": "15f2946970a5",
@@ -2844,7 +2868,7 @@
       "published": "Mon, 23 Feb 2026 16:25:18 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.955052"
+      "fetched_at": "2026-02-24T06:59:56.089438"
     },
     {
       "id": "677afb816eb2",
@@ -2856,7 +2880,7 @@
       "published": "Mon, 23 Feb 2026 15:30:56 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.071802"
+      "fetched_at": "2026-02-24T06:59:56.441237"
     },
     {
       "id": "d3db92fed657",
@@ -2868,7 +2892,7 @@
       "published": "Mon, 23 Feb 2026 14:14:48 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:21.846117"
+      "fetched_at": "2026-02-24T06:59:54.889855"
     },
     {
       "id": "70914a192bbf",
@@ -2880,7 +2904,7 @@
       "published": "Mon, 23 Feb 2026 14:00:00 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:21.840867"
+      "fetched_at": "2026-02-24T06:59:54.526705"
     },
     {
       "id": "e49ce0a8f888",
@@ -2892,19 +2916,31 @@
       "published": "Mon, 23 Feb 2026 13:48:51 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-02-24T05:20:22.014279"
+      "fetched_at": "2026-02-24T06:59:54.630904"
+    },
+    {
+      "id": "af7e507c4aac",
+      "title": "City of Ottawa to buy downtown hotel for $45 million - CTV News",
+      "description": "City of Ottawa to buy downtown hotel for $45 million&nbsp;&nbsp;CTV News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSElFcFBqb1gyVGh0M3ByMG5hLVJOVlNVYjhyVk5fQ1F4RHVQaW5WeEdxYUVCN0xubjdpbk5BMTR3MHp5TmxIRlR3eDBqVmVqRGR2THYzQ09SS1d3Slo5TEZmSEdsR2djX1ZPb29falVZQ2gtRWpPRm1QTTFLRUlZdVpONGtTX0lMT0ZoMVI0STZUYTgw?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 23 Feb 2026 13:45:04 GMT",
+      "location": "Ottawa",
+      "category": "business",
+      "fetched_at": "2026-02-24T06:59:55.374737"
     },
     {
       "id": "6b2047a725df",
       "title": "Loblaw to spend $2.4-billion in 2026 building new stores, renovating others - The Globe and Mail",
-      "description": "Loblaw to spend $2.4-billion in 2026 building new stores, renovating others&nbsp;&nbsp;The Globe and MailLoblaws looks to invest $2.4B in 2026, open 15 new stores in Quebec&nbsp;&nbsp;CityNews MontrealLoblaw to Add Discount Stores as Food Costs Continue to Shape Canadian Shopping Habits&nbsp;&nbsp;W",
+      "description": "Loblaw to spend $2.4-billion in 2026 building new stores, renovating others&nbsp;&nbsp;The Globe and MailLoblaw to Add Discount Stores as Food Costs Continue to Shape Canadian Shopping Habits&nbsp;&nbsp;WSJLoblaws looks to invest $2.4B in 2026, open 15 new stores in Quebec&nbsp;&nbsp;CityNews Montre",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXRnRzNiRmIzVWlXelFBUFlzc3NHeTBGTGdHc0JqYzYxUU1CTUNoYmtPV3ZzbUgtMzhPVzJZOXJWdC1NdDlrdC1VWHFhbG9LN3M4dkZNeFlYUTZfLXhadDBOZzNzNGxwZXZCYk9jMVlHcFdzNEFrdUVjcGd4d3hVWFozdzdqR3d5cldSeHVoRXJBR1VzN2JOZXpCWmZnX0lwSEhKTWUxUjJoQQ?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 23 Feb 2026 13:03:04 GMT",
       "location": "Montreal",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:22.160628"
+      "fetched_at": "2026-02-24T06:59:55.374540"
     },
     {
       "id": "c544986427ce",
@@ -2916,7 +2952,7 @@
       "published": "Mon, 23 Feb 2026 13:00:32 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.014822"
+      "fetched_at": "2026-02-24T06:59:56.586531"
     },
     {
       "id": "134759099ac2",
@@ -2928,7 +2964,7 @@
       "published": "Mon, 23 Feb 2026 13:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:20.705650"
+      "fetched_at": "2026-02-24T06:59:53.598624"
     },
     {
       "id": "6b949695c3a3",
@@ -2940,7 +2976,7 @@
       "published": "Mon, 23 Feb 2026 13:00:00 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:21.840915"
+      "fetched_at": "2026-02-24T06:59:54.526748"
     },
     {
       "id": "962f948d96ef",
@@ -2952,7 +2988,7 @@
       "published": "Mon, 23 Feb 2026 12:59:28 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-02-24T05:20:22.203888"
+      "fetched_at": "2026-02-24T06:59:55.744253"
     },
     {
       "id": "a22d5f3cc440",
@@ -2964,96 +3000,60 @@
       "published": "Mon, 23 Feb 2026 12:50:12 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-02-24T05:20:21.669179"
-    },
-    {
-      "id": "6273870f9203",
-      "title": "Seniors' residence evacuated after fire ravages historic church in Sud-Ouest borough",
-      "description": "A food bank operating out of the church \"lost everything\" in the fire.",
-      "url": "https://montrealgazette.com/news/local-news/five-alarm-fire-church-sud-ouest-borough",
-      "source": "Montreal Gazette",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 12:21:53 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.071828"
-    },
-    {
-      "id": "c348427ddca6",
-      "title": "Bruce MacKinnon: Nation stunned as Team Canada can't complete Italian job - PNI Atlantic News",
-      "description": "Bruce MacKinnon: Nation stunned as Team Canada can't complete Italian job&nbsp;&nbsp;PNI Atlantic NewsMacKinnon: 'You be the judge of who was the better team'&nbsp;&nbsp;theScore.comNathan MacKinnon and the Myth of the Sore Loser&nbsp;&nbsp;Yahoo Sports CanadaWhy we’re so heartbroken over hockey at ",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZkdJYXpmSjF1b3lrTVdZUmx6RUdoUzBMY2k0Sm4yUFVOR2I3LTV0bGRMMDNpMmhTUmVoZWNvaENQTzJlRHZ1Y21DS1lYblptbHBEdTdJVjNaejB4R1NNbm1XaWowWExsYnJuVV8xbGhJRUFoczR0NENRY2VEUWNUTC1xcV8zSkVvaFVfMDF2QnozN2Nqazh2S1VVMDZxMDJqX3RPLTJ5UlBIWGhHX2M3blBWczFQTmliQlg2bUFHM2NqdDNCMWFkSWVreXY?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 12:15:38 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2026-02-24T05:20:22.383457"
-    },
-    {
-      "id": "1c77734d2dd4",
-      "title": "Man found unconscious in Ville-Marie borough",
-      "description": "Montreal police say the man was taken to a hospital in critical condition.",
-      "url": "https://montrealgazette.com/news/local-news/montreal-unconscious-man-ville-marie-borough",
-      "source": "Montreal Gazette",
-      "image": "",
-      "published": "Mon, 23 Feb 2026 12:09:05 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-02-24T05:20:23.071850"
+      "fetched_at": "2026-02-24T06:59:54.232649"
     }
   ],
   "sources": [
-    "Calgary Sun",
-    "Wired",
-    "APTN News",
-    "National Post",
-    "Vancouver Sun",
-    "The Guardian",
-    "Ottawa Citizen",
-    "Al Jazeera",
-    "CityNews Edmonton",
-    "CityNews Ottawa",
     "Global Politics",
-    "Globe Business",
-    "BetaKit",
-    "Google News Sports",
-    "Edmonton Journal",
-    "CityNews Vancouver",
-    "Google News Tech",
     "CityNews Montreal",
-    "CityNews Calgary",
+    "Wired",
     "CNN World",
-    "Global News",
-    "Financial Post",
+    "National Post Politics",
+    "Globe Business",
+    "Science Daily",
+    "BBC World",
+    "APTN News",
+    "Al Jazeera",
+    "Google News Tech",
+    "Google News Sports",
+    "National Post",
     "CityNews Toronto",
     "Google News Business",
-    "BBC World",
-    "National Post Politics",
+    "Vancouver Sun",
+    "Edmonton Journal",
+    "Calgary Sun",
     "Google News Canada",
-    "Science Daily",
+    "CityNews Calgary",
+    "CityNews Ottawa",
     "Montreal Gazette",
-    "TechCrunch"
+    "Financial Post",
+    "Global News",
+    "Ottawa Citizen",
+    "TechCrunch",
+    "CityNews Vancouver",
+    "CityNews Edmonton",
+    "The Guardian",
+    "BetaKit"
   ],
   "stats": {
     "by_location": {
-      "World": 126,
+      "World": 130,
       "Calgary": 7,
-      "Ottawa": 16,
+      "Vancouver": 19,
       "Canada": 35,
-      "Toronto": 14,
-      "Montreal": 12,
-      "Vancouver": 20,
+      "Ottawa": 18,
+      "Toronto": 10,
+      "Montreal": 11,
       "Edmonton": 15,
       "Winnipeg": 1,
       "Halifax": 4
     },
     "by_category": {
-      "world": 32,
-      "local": 104,
+      "world": 33,
+      "local": 102,
       "business": 27,
       "canada": 29,
-      "technology": 31,
+      "technology": 32,
       "sports": 6,
       "indigenous": 8,
       "politics": 10,
