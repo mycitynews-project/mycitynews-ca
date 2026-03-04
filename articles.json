@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T04:26:41.869645",
+  "last_updated": "2026-03-04T06:58:08.713442",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 25 Feb 2026 12:00:48 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.218430"
+      "fetched_at": "2026-03-04T06:46:27.265182"
     },
     {
       "id": "4e21b910fe79",
@@ -24,19 +24,331 @@
       "published": "Wed, 25 Feb 2026 12:00:38 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.218464"
+      "fetched_at": "2026-03-04T06:46:27.265215"
+    },
+    {
+      "id": "62ed3db90932",
+      "title": "Double flash followed by loud booms reported around Metro Vancouver Tuesday night",
+      "description": "American Meteor Society received several fireball reports from B.C. at around 9:15 p.m.",
+      "url": "https://vancouversun.com/news/local-news/double-flash-followed-by-loud-booms-reported-around-metro-vancouver-tuesday-night",
+      "source": "Vancouver Sun",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 06:23:52 +0000",
+      "location": "Vancouver",
+      "category": "local",
+      "fetched_at": "2026-03-04T06:46:29.972330"
+    },
+    {
+      "id": "c2f0bea29111",
+      "title": "South Korea’s stock market in meltdown amid US-Iran war",
+      "description": "Benchmark index plummets as much as 12.2 percent, eclipsing single-day plunge after 9/11 attacks in 2001.",
+      "url": "https://www.aljazeera.com/economy/2026/3/4/south-koreas-stock-market-in-meltdown-amid-us-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 06:19:27 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-03-04T06:46:25.500839"
+    },
+    {
+      "id": "5d43be12165b",
+      "title": "The Iran strikes could become a midterm reckoning – for Trump and Israel",
+      "description": "Conservative dissent over the war is fracturing the GOP and testing the durability of US support for Israel.",
+      "url": "https://www.aljazeera.com/opinions/2026/3/4/the-iran-strikes-could-become-a-midterm-reckoning-for-trump-and-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 06:18:26 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-03-04T06:46:25.500893"
+    },
+    {
+      "id": "2392f2012035",
+      "title": "MMG Profit More Than Triples on Copper Rally, Strong Output",
+      "description": "MMG Ltd. said profit more than tripled last year, buoyed by higher commodity prices and strong output at key mines, though still fell short of analyst estimates.",
+      "url": "https://financialpost.com/pmn/business-pmn/mmg-profit-more-than-triples-on-copper-rally-strong-output",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 06:14:50 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063196"
+    },
+    {
+      "id": "1031f2853073",
+      "title": "Indonesia, India Support Local Currencies as Iran War Hits EMs",
+      "description": "Central banks in Indonesia and India intervened in the foreign-exchange markets to support their respective currencies as emerging market assets came under pressure following the Iran war.",
+      "url": "https://financialpost.com/pmn/business-pmn/indonesia-india-support-local-currencies-as-iran-war-hits-ems",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 06:14:38 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063231"
+    },
+    {
+      "id": "0760aeaf88ed",
+      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+      "description": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
+      "url": "https://www.wired.com/story/barkbox-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 06:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-03-04T06:46:24.468419"
+    },
+    {
+      "id": "68b5055edfb6",
+      "title": "Oil Jumps Again as US Escort Plan for Hormuz Fails to Bring Calm",
+      "description": "Oil extended gains as fresh attacks flared in the Middle East and traders weighed a US plan to insure and escort tankers passing through the Strait of Hormuz, with traffic in the vital waterway all but halted.",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-jumps-again-as-us-escort-plan-for-hormuz-fails-to-bring-calm",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:59:17 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063261"
+    },
+    {
+      "id": "cca711b02153",
+      "title": "Reeves’ Say-Nothing Moment Left Britain’s Big Challenges Unanswered",
+      "description": "Rachel Reeves had promised to deliver a nothing-to-see-here spring forecast this week, an event to be celebrated for its uneventfulness. After war erupted in the Middle East, however, Tuesday’s statement was more striking for what the UK’s Chancellor of the Exchequer failed to say.",
+      "url": "https://financialpost.com/pmn/business-pmn/reeves-say-nothing-moment-left-britains-big-challenges-unanswered",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:49:29 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063299"
+    },
+    {
+      "id": "5f68fad9b989",
+      "title": "Barclays Bankers Warn Distressed Valuations Can Hit Clean Energy",
+      "description": "In an age dominated by war, inflation and AI, investors may be underestimating the risks now associated with renewable energy assets.",
+      "url": "https://financialpost.com/pmn/business-pmn/barclays-bankers-warn-distressed-valuations-can-hit-clean-energy",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:49:16 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063328"
+    },
+    {
+      "id": "a90356a5e222",
+      "title": "Panic Sweeps Korean Stocks in Biggest One-Day Crash Since 2008",
+      "description": "Panic swept across trading desks in South Korea as eocal stocks, by far the hottest in the world over the past year, extended their freefall into Wednesday.",
+      "url": "https://financialpost.com/pmn/business-pmn/panic-sweeps-korean-stocks-in-biggest-one-day-crash-since-2008",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:49:00 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063355"
+    },
+    {
+      "id": "8d5a3b0ad323",
+      "title": "Trump’s Hormuz Assurances Are Only a Partial Fix, Shippers Say",
+      "description": "President Donald Trump says the US will ensure the free flow of energy through the Persian Gulf with insurance guarantees and even naval escorts. But the shipping industry sees it — at best — as only a partial solution to a historic crisis.",
+      "url": "https://financialpost.com/pmn/business-pmn/trumps-hormuz-assurances-are-only-a-partial-fix-shippers-say",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:43:53 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063389"
+    },
+    {
+      "id": "66e55d013441",
+      "title": "South Korea woman and doctors guilty of murder of newborn baby",
+      "description": "The case has gripped South Korea, where there is no regulation on how far into pregnancy an abortion can take place.",
+      "url": "https://www.bbc.com/news/articles/c2k88j5x9wdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2153/live/540ef910-1761-11f1-88d2-67d07890e17a.jpg",
+      "published": "Wed, 04 Mar 2026 05:43:03 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-03-04T06:46:25.368211"
+    },
+    {
+      "id": "3863e9350378",
+      "title": "PM Carney: Canada’s support for U.S. striking Iran came ‘with regret’ - Toronto Star",
+      "description": "PM Carney: Canada’s support for U.S. striking Iran came ‘with regret’&nbsp;&nbsp;Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSEYzRTlENERkU3BRY3ltdl90NGw3T1NwMTQ4aXRoMWV6M05UTS1FY2dHU3dVS3FrNUpzUkFpcjI1SGhhQThyZU1aV1NyQktaNkpMYUR3YTUydFJlV2c1em1xclotTl9OUExCeDlnWERnS1lhc1k1UHZSQVNBNWNmLTM2OWZVb011SlFKX2d5ZVZxWTdOVFJITWpDUUdldEtuQmVaZW82VWM5WFJ3VGZ6WjlEQUxZU1JMSlRWYk91SHV6eUlJSFAwYk5qdFBWaVo1dExpVzZ0TzBCdlRLWWxyeDZYUnRJdlhvSFRB?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:40:05 GMT",
+      "location": "Toronto",
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:26.533966"
+    },
+    {
+      "id": "c88074dd1221",
+      "title": "Australia, Canada Pensions Sign First Deal to Boost Investment",
+      "description": "More than a dozen Canadian and Australian pension giants have signed a first-of-its-kind agreement to ramp up investment between the countries, home to two of the world’s largest retirement systems.",
+      "url": "https://financialpost.com/pmn/business-pmn/australia-canada-pensions-sign-first-deal-to-boost-investment",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:28:29 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063421"
+    },
+    {
+      "id": "bf6d8861d754",
+      "title": "Won Hit by ‘VaR Shock’ May Face Even More Losses, Banks Say",
+      "description": "South Korea’s tumbling won looks set for further declines as higher energy prices threaten growth in the world’s eighth-largest oil consumer, according to forecasters at some of the biggest global banks.",
+      "url": "https://financialpost.com/pmn/business-pmn/won-hit-by-var-shock-may-face-even-more-losses-banks-say",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:23:31 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063452"
+    },
+    {
+      "id": "d4cbc4852134",
+      "title": "Stocks Sink Across Asia as Winning Trades Unravel: Markets Wrap",
+      "description": "Asian stocks plunged the most in nearly a year, led by the biggest South Korean crash since the global financial crisis in 2008, as mounting concerns over the Iran war triggered an exodus from some of the world’s best-performing markets.",
+      "url": "https://financialpost.com/pmn/business-pmn/stocks-sink-across-asia-as-winning-trades-unravel-markets-wrap",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:18:32 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:25.063483"
+    },
+    {
+      "id": "ed26d640ecc8",
+      "title": "Ottawa Senators third period collapse turns out costly in 5-4 OT loss to Edmonton Oilers",
+      "description": "The Senators are six points out of the final wildcard spot in the East with 22 games left after this loss",
+      "url": "https://ottawacitizen.com/ottawa-senators/ottawa-senators-third-period-collapse-turns-out-costly-in-5-4-ot-loss-to-edmonton-oilers",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:09:51 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-03-04T06:46:27.355811"
+    },
+    {
+      "id": "aa52d7aa3b25",
+      "title": "Edmonton Oilers overcome another shaky defensive effort to stun Ottawa 5-4 in OT: Cult of Hockey Player Grades",
+      "description": "The Edmonton Oilers edged to within just two points out of the Pacific Division lead Tuesday after a 5-4, come-from-behind OT win over the Ottawa Senators. The Oilers traded a pair of goals with the Sens in the first. Then, Edmonton’s defensive struggled continues with two goals on broken plays in t",
+      "url": "https://edmontonjournal.com/sports/hockey/nhl/cult-of-hockey/edmonton-oilers-overcome-another-shaky-defensive-effort-to-stun-ottawa-5-4-in-ot-cult-of-hockey-player-grades",
+      "source": "Edmonton Journal",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:01:19 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-03-04T06:46:27.679247"
+    },
+    {
+      "id": "67cb5fa8b988",
+      "title": "Draisaitl, Bouchard lead Oilers to 5-4 OT win over Senators",
+      "description": "Leon Draisaitl had two goals and three assists and Evan Bouchard scored the overtime winner as the&#160;Edmonton&#160;Oilers overcame a two-goal deficit through 40 minutes to emerge with a badly-needed 5-4 victory over the Ottawa Senators on Tuesday. With Brady Tkachuk in the penalty box for tacklin",
+      "url": "https://edmonton.citynews.ca/2026/03/03/draisaitl-bouchard-lead-oilers-to-5-4-ot-win-over-senators/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 05:00:55 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-03-04T06:46:27.823798"
+    },
+    {
+      "id": "e59ceba03330",
+      "title": "Draisaitl, Bouchard lead Oilers to OT win",
+      "description": "Leon Draisaitl had two goals and three assists and Evan Bouchard scored the overtime winner as the Edmonton Oilers overcame a two-goal deficit through 40 minutes to emerge with a badly-needed 5-4 victory over the Ottawa Senators on Tuesday.",
+      "url": "https://globalnews.ca/news/11715566/draisaitl-bouchard-lead-oilers-to-ot-win/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/03/2d080da1fd0d9005f3fd085de5baf20c088af7fbf0ec58aee4ff0de4acd9794c.jpg?quality=65&strip=all",
+      "published": "Wed, 04 Mar 2026 04:56:36 +0000",
+      "location": "Ottawa",
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:24.289991"
+    },
+    {
+      "id": "3ef71325c4ad",
+      "title": "After the Rupture: Positioning BC and Canada in a Changing Global Trade Landscape - The University of British Columbia",
+      "description": "After the Rupture: Positioning BC and Canada in a Changing Global Trade Landscape&nbsp;&nbsp;The University of British Columbia",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmZjcGdVV0FhSTVQOElVZEluX1lrR3N4cjg2WVREd2Q3bnVwdzNvendjMmc0d2lXLVR5ZXlHZkNzb2pER2pBb1BZbERjNlJWdFhDYmFqZWI3VDRTUUFrQU9ZZHRiT196WWJTZG02cUFUaUdkQUN6Vi03WjNrc1dVTE9IY1RHWW1rQnc?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 04:52:54 GMT",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:26.533649"
+    },
+    {
+      "id": "ef5e728ab6f0",
+      "title": "Ottawa Senators left stunned after patented Edmonton Oilers comeback",
+      "description": "It’s not how they drew it up in practice. And it’s not the kind of game they’ve been promising to play for weeks. But on another one of those nights when the Edmonton Oilers fell back on their own habits and dug themselves a precarious hole, they dug in and outscored their mistakes 5-4 in",
+      "url": "https://edmontonjournal.com/sports/hockey/nhl/edmonton-oilers/ottawa-senators-left-stunned-after-patented-edmonton-oilers-comeback",
+      "source": "Edmonton Journal",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 04:47:59 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-03-04T06:46:27.679290"
+    },
+    {
+      "id": "cf5d5d315364",
+      "title": "Air Canada, WestJet offer free changes during the airspace closure in the Middle East - Vancouver Is Awesome",
+      "description": "Air Canada, WestJet offer free changes during the airspace closure in the Middle East&nbsp;&nbsp;Vancouver Is Awesome",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVk9KQjVFQXhEV0lfTlJYaWRfa3BRT1QxdS01dzRiM0hBd19zLXRUTHVXWWh4a2pwcGN2dkx6RE41N2FTZzNZdUdoRlJPbWtwa1FjNWZ0UEZjeEtfczRmUmo0U0JfWTdTSndkWHk1VFNQZXVsYmYzbzRSWktZem80LTlXb2MwSC1SZTItUHF6WG03bDNMcDNhMFJ6NW4zOTdoajVQcFdR?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 04:46:51 GMT",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:26.533789"
+    },
+    {
+      "id": "44e7c77e5dcb",
+      "title": "Scheifele scores OT winner as Winnipeg Jets down Blackhawks 3-2",
+      "description": "Cole Perfetti tied the game with 39.6 seconds left before Mark Scheifele scored his 18th career overtime goal as the Jets began an eight-game homestand on a high note.",
+      "url": "https://globalnews.ca/news/11715397/scheifele-scores-ot-winner-as-winnipeg-jets-down-blackhawks-3-2/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/03/CP175915669.jpg?quality=65&strip=all",
+      "published": "Wed, 04 Mar 2026 04:23:38 +0000",
+      "location": "Winnipeg",
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:24.290043"
+    },
+    {
+      "id": "6b471a9a2b49",
+      "title": "Murphy eager to jump into defensive role with Oilers",
+      "description": "Defenceman Connor Murphy had just finished a spa day in chilly Winnipeg Monday with his Chicago Blackhawks teammates, taking a road trip breather to enjoy the thermal baths and massages when told he was going to the Edmonton Oilers. Certainly some added wellness in the standings going from a lottery",
+      "url": "https://edmontonjournal.com/sports/hockey/nhl/edmonton-oilers/murphy-eager-to-jump-into-defensive-role-with-oilers",
+      "source": "Edmonton Journal",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 04:21:32 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-03-04T06:46:27.679325"
+    },
+    {
+      "id": "9719bd9e6ab6",
+      "title": "US and Ecuador forces launch operation to fight drug trafficking",
+      "description": "Washington says the two countries are combatting what the US calls designated terrorist organisations in the South American country.",
+      "url": "https://www.bbc.com/news/articles/cgjzz4gn64zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee99/live/0c571a80-177a-11f1-801d-ed3cff6bf876.jpg",
+      "published": "Wed, 04 Mar 2026 04:07:37 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-03-04T06:46:25.368146"
     },
     {
       "id": "73ca39f60905",
       "title": "US military launches operation in Ecuador to combat drug trafficking",
-      "description": "US Southern Command said joint mission with Ecuadorian forces involves ‘decisive action’ against narco-terroristsThe US military’s Southern Command said on Tuesday that Ecuadorian and US forces launched operations against what it said were designated terrorist organizations in Ecuador.The US militar",
+      "description": "US Southern Command said joint mission with Ecuadorian forces involves ‘decisive action’ against narco-terroristsUS and Ecuadorian forces have launched joint operations to combat drug trafficking, the US Southern Command said on Tuesday, but neither side gave more details.Southern Command, which enc",
       "url": "https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador",
       "source": "The Guardian",
       "image": "https://i.guim.co.uk/img/media/5915f06f01eeb66996d1fc39d8ac9386f80da65c/223_0_2545_2036/master/2545.jpg?width=140&quality=85&auto=format&fit=max&s=deeb303ee255dfed04b9bdd35b4178c2",
       "published": "Wed, 04 Mar 2026 04:06:48 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.328466"
+      "fetched_at": "2026-03-04T06:46:25.824870"
     },
     {
       "id": "12b9ece102c1",
@@ -48,7 +360,19 @@
       "published": "Wed, 04 Mar 2026 04:00:01 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467580"
+      "fetched_at": "2026-03-04T06:46:26.605354"
+    },
+    {
+      "id": "6e969c4317e4",
+      "title": "John Cornyn and Ken Paxton will advance to a runoff in Texas’ US Senate Republican primary, CNN projects - CNN",
+      "description": "John Cornyn and Ken Paxton will advance to a runoff in Texas’ US Senate Republican primary, CNN projects&nbsp;&nbsp;CNNThe Latest: Texas GOP Senate race heads to runoff. Democrats too early to call&nbsp;&nbsp;Toronto StarTexas warning signs: 4 takeaways from the first primaries of 2026&nbsp;&nbsp;Ax",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1JXVm0tWkZtRzUzVm8wdEhfV1RxOVE4MXY4QlVhc0RPa2NUNmdFeTVCdEFoQmdHQmlLWThzOWgwazlRMDdwNkRmX285Y0o4eGE3RGU4aHlKQ29VeHZXdHpleGtXMTZhenpsdWNMWEZ3aEMwTl9KeTdyZDByYnhtS1BJWFBnNDJBb08taW5jRmhUa0dI?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 03:51:00 GMT",
+      "location": "Toronto",
+      "category": "technology",
+      "fetched_at": "2026-03-04T06:46:26.882219"
     },
     {
       "id": "ced4c684ff77",
@@ -60,19 +384,7 @@
       "published": "Wed, 04 Mar 2026 03:49:39 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.357840"
-    },
-    {
-      "id": "05ca1e2d65f7",
-      "title": "Bunker Hill Announces Effective Date of Reverse Stock Split and Update to C$30 Million LIFE Offering",
-      "description": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES. KELLOGG, Idaho and VANCOUVER, British Columbia, March 03, 2026 (GLOBE NEWSWIRE) &#8212; Bunker Hill Mining Corp. (“Bunker Hill” or the “Company”) (TSX-V: BNKR &#124; OTCQB: BHLL), announces, further t",
-      "url": "https://financialpost.com/globe-newswire/bunker-hill-announces-effective-date-of-reverse-stock-split-and-update-to-c30-million-life-offering",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 03:44:50 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738172"
+      "fetched_at": "2026-03-04T06:46:25.368294"
     },
     {
       "id": "b165dad9d88a",
@@ -84,19 +396,7 @@
       "published": "Wed, 04 Mar 2026 03:21:50 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.331964"
-    },
-    {
-      "id": "cf5d5d315364",
-      "title": "Air Canada, WestJet offer free changes during the airspace closure in the Middle East - Vancouver Is Awesome",
-      "description": "Air Canada, WestJet offer free changes during the airspace closure in the Middle East&nbsp;&nbsp;Vancouver Is Awesome",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVk9KQjVFQXhEV0lfTlJYaWRfa3BRT1QxdS01dzRiM0hBd19zLXRUTHVXWWh4a2pwcGN2dkx6RE41N2FTZzNZdUdoRlJPbWtwa1FjNWZ0UEZjeEtfczRmUmo0U0JfWTdTSndkWHk1VFNQZXVsYmYzbzRSWktZem80LTlXb2MwSC1SZTItUHF6WG03bDNMcDNhMFJ6NW4zOTdoajVQcFdR?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 03:14:54 GMT",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153579"
+      "fetched_at": "2026-03-04T06:46:27.250529"
     },
     {
       "id": "2f1514f9f647",
@@ -108,7 +408,7 @@
       "published": "Wed, 04 Mar 2026 03:05:37 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020364"
+      "fetched_at": "2026-03-04T06:46:24.290072"
     },
     {
       "id": "abd833f1eb0b",
@@ -120,7 +420,19 @@
       "published": "Wed, 04 Mar 2026 03:05:36 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020404"
+      "fetched_at": "2026-03-04T06:46:24.290113"
+    },
+    {
+      "id": "293c07a600d0",
+      "title": "Canada Reinforces India as Priority Talent Source With New Scholarships, Tech Jobs and University Partnerships - immigration.ca",
+      "description": "Canada Reinforces India as Priority Talent Source With New Scholarships, Tech Jobs and University Partnerships&nbsp;&nbsp;immigration.ca",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSGtVZEJMQXdvRlktX3B0bm55aWIzMC1heWpRbm9LM3hPNC1DLUlUSi01QU1sMzhOT2hBT1RWOHJUeldFWF9HZ1k1ZUQ4eDRLcEt3MTNyZHEzV01KemxvOW94UnNrN3B1aF9JUWllTEVOeGllQW43SnMyYkdxcm5fdVFYTmZsaUFyX2plT2wxUGd5ZW5HOTNlQm5lZk9rSzVqNjBKTy1HX1otQ2k4TmtuVldrZk1USXRhTk9JVHNoSG9jV2c2NjI5Q0RYdUtIZw?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 03:04:44 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:26.533935"
     },
     {
       "id": "d71d20d7e5bf",
@@ -132,7 +444,7 @@
       "published": "Wed, 04 Mar 2026 03:03:12 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275496"
+      "fetched_at": "2026-03-04T06:46:25.500928"
     },
     {
       "id": "6da2b77decfb",
@@ -144,19 +456,7 @@
       "published": "Wed, 04 Mar 2026 03:00:24 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638490"
-    },
-    {
-      "id": "ab09c9b4c17d",
-      "title": "Why most Canadians will keep daylight saving time changes as B.C. stops - Global News",
-      "description": "Why most Canadians will keep daylight saving time changes as B.C. stops&nbsp;&nbsp;Global News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tbndOVUJ0SWtycUx1aFZ0ckp6VmNMdFN3dWJmeTZCa2RNdlhKVkF1QjZFNGNHVVBRZ2FqeE1CMkxJWGxIZnBSemtHZTh1OVBGQlV2RGVOdWczSFlwaGtONkE5cVhac0I2TnczTElkaDZKMnpZdGw4?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 02:50:40 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153639"
+      "fetched_at": "2026-03-04T06:46:27.679359"
     },
     {
       "id": "f4aecec54749",
@@ -168,19 +468,19 @@
       "published": "Wed, 04 Mar 2026 02:48:51 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.887784"
+      "fetched_at": "2026-03-04T06:46:26.544188"
     },
     {
       "id": "0ee06faf2ffa",
-      "title": "Liveblog: Canadiens and Sharks tied 1-1 after first period",
-      "description": "Cole Caufield and Nick Suzuki teamed up for five points on Saturday. Kirby Dach is also heating up with six points in his last six games.",
+      "title": "Liveblog replay: Habs erase three-goal deficit, but lose 7-5 to Sharks",
+      "description": "Alex Newhook scored two goals in the loss.",
       "url": "https://montrealgazette.com/sports/hockey/montreal-canadiens/liveblog-canadiens-play-final-game-before-trade-deadline-vs-sharks",
       "source": "Montreal Gazette",
       "image": "",
       "published": "Wed, 04 Mar 2026 02:45:52 +0000",
-      "location": "Canada",
+      "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249412"
+      "fetched_at": "2026-03-04T06:46:27.077042"
     },
     {
       "id": "13ebab8830fc",
@@ -192,7 +492,7 @@
       "published": "Wed, 04 Mar 2026 02:45:43 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275529"
+      "fetched_at": "2026-03-04T06:46:25.500957"
     },
     {
       "id": "c42d9bf592df",
@@ -204,7 +504,7 @@
       "published": "Wed, 04 Mar 2026 02:43:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153483"
+      "fetched_at": "2026-03-04T06:46:26.533760"
     },
     {
       "id": "7e71e4632fcb",
@@ -216,7 +516,7 @@
       "published": "Wed, 04 Mar 2026 02:42:06 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903335"
+      "fetched_at": "2026-03-04T06:46:29.972359"
     },
     {
       "id": "90be9a7753ed",
@@ -228,7 +528,7 @@
       "published": "Wed, 04 Mar 2026 02:37:51 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275562"
+      "fetched_at": "2026-03-04T06:46:25.500988"
     },
     {
       "id": "8bdebe974b6f",
@@ -240,7 +540,7 @@
       "published": "Wed, 04 Mar 2026 02:32:53 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275589"
+      "fetched_at": "2026-03-04T06:46:25.501014"
     },
     {
       "id": "87bedc25ef0d",
@@ -252,19 +552,31 @@
       "published": "Wed, 04 Mar 2026 02:22:28 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.332015"
+      "fetched_at": "2026-03-04T06:46:27.250582"
     },
     {
-      "id": "3863e9350378",
-      "title": "PM Carney: Canada’s support for U.S. striking Iran came ‘with regret’ - Toronto Star",
-      "description": "PM Carney: Canada’s support for U.S. striking Iran came ‘with regret’&nbsp;&nbsp;Toronto Star",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSEYzRTlENERkU3BRY3ltdl90NGw3T1NwMTQ4aXRoMWV6M05UTS1FY2dHU3dVS3FrNUpzUkFpcjI1SGhhQThyZU1aV1NyQktaNkpMYUR3YTUydFJlV2c1em1xclotTl9OUExCeDlnWERnS1lhc1k1UHZSQVNBNWNmLTM2OWZVb011SlFKX2d5ZVZxWTdOVFJITWpDUUdldEtuQmVaZW82VWM5WFJ3VGZ6WjlEQUxZU1JMSlRWYk91SHV6eUlJSFAwYk5qdFBWaVo1dExpVzZ0TzBCdlRLWWxyeDZYUnRJdlhvSFRB?oc=5",
+      "id": "fa07d03ddd1a",
+      "title": "Commandant of Canadian Army Command and Staff College removed from post",
+      "description": "KINGSTON — The commandant of a Canadian Army college in Ontario has been removed from his post. Col. Fraser Auld was commandant of the Canadian Army Command and Staff College in Kingston. A spokesperson for the Department of National Defence says the commander of the Canadian Army decided on Feb. 23",
+      "url": "https://toronto.citynews.ca/2026/03/03/commandant-of-canadian-army-command-and-staff-college-removed-from-post/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 02:16:58 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-03-04T06:46:26.544237"
+    },
+    {
+      "id": "1442aff0669e",
+      "title": "Carney won't say if there's Indian interference in Canada after cutting deals with Modi - CBC",
+      "description": "Carney won't say if there's Indian interference in Canada after cutting deals with Modi&nbsp;&nbsp;CBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SWXVEaE5ielFWRHNDdTg0N0luZDF0NGRRbWpQZWg4emxwZ2d5WjE1R2NkTXpSRmo2YlJUbFdNcm5FeC0wek05MWRlTDJMTzJOVmJ0ZjY4R0RycFlJQ3dudks2dWFxX0VuSnRoTzExei1xWjV5NnR6NXl6c3Atcjg?oc=5",
       "source": "Google News Canada",
       "image": "",
-      "published": "Wed, 04 Mar 2026 02:07:11 GMT",
-      "location": "Toronto",
+      "published": "Wed, 04 Mar 2026 02:00:00 GMT",
+      "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153694"
+      "fetched_at": "2026-03-04T06:46:26.533720"
     },
     {
       "id": "92b5880d6bf9",
@@ -276,7 +588,7 @@
       "published": "Wed, 04 Mar 2026 01:57:36 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020429"
+      "fetched_at": "2026-03-04T06:46:24.290152"
     },
     {
       "id": "3b656f930c90",
@@ -288,7 +600,7 @@
       "published": "Wed, 04 Mar 2026 01:56:31 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275614"
+      "fetched_at": "2026-03-04T06:46:25.501040"
     },
     {
       "id": "d6601f679618",
@@ -300,7 +612,7 @@
       "published": "Wed, 04 Mar 2026 01:53:13 +0000",
       "location": "Ottawa",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.753034"
+      "fetched_at": "2026-03-04T06:46:24.577703"
     },
     {
       "id": "b4de3a9741d3",
@@ -312,7 +624,7 @@
       "published": "Wed, 04 Mar 2026 01:52:42 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467613"
+      "fetched_at": "2026-03-04T06:46:26.605386"
     },
     {
       "id": "22ae59b614b7",
@@ -324,19 +636,19 @@
       "published": "Wed, 04 Mar 2026 01:51:10 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:15:29.871734"
+      "fetched_at": "2026-03-04T06:46:24.899245"
     },
     {
       "id": "ddde955ccc4a",
       "title": "Too early to tell 'scope' of Iran strikes, Trump tells Congress - BBC",
-      "description": "Too early to tell 'scope' of Iran strikes, Trump tells Congress&nbsp;&nbsp;BBCNo quick victory leaves Trump scrambling to define success in Iran&nbsp;&nbsp;Al JazeeraTrump news at a glance: Rubio and his boss can’t seem to agree on why US attacked Iran&nbsp;&nbsp;The GuardianTrump, Rubio offer confl",
+      "description": "Too early to tell 'scope' of Iran strikes, Trump tells Congress&nbsp;&nbsp;BBCIran live news: Trump under fire from Democrats, Israel pounds Lebanon&nbsp;&nbsp;Al JazeeraTrump Says War Could Last Weeks and Offers Contradictory Visions of New Regime&nbsp;&nbsp;The New York TimesTrump news at a glance",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DeHRIU3VEUV9qSWJFemk2bm9GRGdNUHFWQkEtdGpIRk9kQk83RUYwRktTdERUbkJlTTZLcXZXRjRrZWRISFNKajZSMTFLLVdHRVVESFJuLUlRUQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Wed, 04 Mar 2026 01:46:40 GMT",
-      "location": "Toronto",
+      "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:48.407924"
+      "fetched_at": "2026-03-04T06:46:26.882446"
     },
     {
       "id": "9c7194a9ec82",
@@ -348,19 +660,31 @@
       "published": "Wed, 04 Mar 2026 01:45:42 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275639"
+      "fetched_at": "2026-03-04T06:46:25.501066"
     },
     {
       "id": "7d6b4b5ec90c",
       "title": "Roy Cooper and Michael Whatley will advance to a marquee North Carolina matchup for US Senate, CNN projects - CNN",
-      "description": "Roy Cooper and Michael Whatley will advance to a marquee North Carolina matchup for US Senate, CNN projects&nbsp;&nbsp;CNNNorth Carolina Primary Election 2026: Live Results&nbsp;&nbsp;The New York TimesRoy Cooper and Michael Whatley clinch US Senate in North Carolina, setting up high-stakes fall fig",
+      "description": "Roy Cooper and Michael Whatley will advance to a marquee North Carolina matchup for US Senate, CNN projects&nbsp;&nbsp;CNNTexas Republican candidates for US Senate head to runoff as Democratic candidates await results – as it happened&nbsp;&nbsp;The Guardian2026 primary election results and highligh",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWFHRlMtSmVGMzY1bURmN0ZSVUx1LTJORXdQaWpxcW9TOXJucEdyNW1uVGtBMmRIUFdqb0lDTjNKekRTX1R2WVEwaGhaM0E1eExHUXhlc01HX2pmeDBwZ0JweFc3LUpiZVZPcjhLMlVaRmNCUk1RbjE5UmRiSzlIbVdZcGRScnZKeTdjOW10UlR6dTN1ak9lSldRblI?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Wed, 04 Mar 2026 01:40:00 GMT",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-03-04T06:46:26.882514"
+    },
+    {
+      "id": "4f2ade71729b",
+      "title": "Hezbollah fires on Tel Aviv as Israel threatens Iranian officers in Lebanon - The Times of Israel",
+      "description": "Hezbollah fires on Tel Aviv as Israel threatens Iranian officers in Lebanon&nbsp;&nbsp;The Times of IsraelIsrael sends troops to southern Lebanon, as Hezbollah vows it's ready for 'open war'&nbsp;&nbsp;CBCIran war live: Israeli strike kills four in Lebanon, US names its first casualties&nbsp;&nbsp;R",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjRROTYtdW53QkVjbDN0TGUyOU85UUpPTURpc0NmLWU1cWxmdlB5RWczWkZGbTBVNW9qYkdxeWloS2RNNHU5QWxzekFqLXJNY0FhQWpyODA2eUpYdmhzNFRRZFROT2xDSEp6OE5aVzdZMUZueXBGQXFEUkR5VHpQcWhXUjFtZ1hPNEEyaW5wR05QZ2JOVnRLbW81djYyZmdoLUZFM3Q1a2JjZ9IBrwFBVV95cUxOTWN6Q21kaFE3XzVEWGxoXzBnc3dzdXR1MDUycnhNb2VzOEdERWxoQWRucUFqc2QyXzFhNGtCWU90R3A3QmRNcERzNS1jMnVvTVdjMHFRT3lCVmt6Y19reEs1ZWN3TzM5OVBBVVMtd3Y0QW1ydTQ5YmE3SkhVMUFFSzZQalRXcGRtV1NmeXJ6VlVBQktZMS1WbzhZUUtiVW1FQ1NWQVBSWXRBMXBhWUlR?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 01:38:44 GMT",
       "location": "Toronto",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:48.407980"
+      "fetched_at": "2026-03-04T06:46:26.882575"
     },
     {
       "id": "3c9240c13760",
@@ -372,7 +696,7 @@
       "published": "Wed, 04 Mar 2026 01:25:58 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275662"
+      "fetched_at": "2026-03-04T06:46:25.501090"
     },
     {
       "id": "c0e21b4512a3",
@@ -384,7 +708,7 @@
       "published": "Wed, 04 Mar 2026 01:25:10 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020450"
+      "fetched_at": "2026-03-04T06:46:24.290190"
     },
     {
       "id": "ed39ae3678f7",
@@ -396,7 +720,7 @@
       "published": "Wed, 04 Mar 2026 01:21:05 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903371"
+      "fetched_at": "2026-03-04T06:46:29.972388"
     },
     {
       "id": "a8ab8a41865c",
@@ -408,7 +732,7 @@
       "published": "Wed, 04 Mar 2026 01:18:14 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275687"
+      "fetched_at": "2026-03-04T06:46:25.501115"
     },
     {
       "id": "751fcdfe9b48",
@@ -420,7 +744,7 @@
       "published": "Wed, 04 Mar 2026 01:16:54 +0000",
       "location": "Edmonton",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020476"
+      "fetched_at": "2026-03-04T06:46:24.290232"
     },
     {
       "id": "996288d7b8a8",
@@ -432,11 +756,11 @@
       "published": "Wed, 04 Mar 2026 01:14:56 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903400"
+      "fetched_at": "2026-03-04T06:46:29.972416"
     },
     {
       "id": "ca061179de25",
-      "title": "Pro-Iran ‘hacktivists’ could target Canadian organizations, cybersecurity experts warn",
+      "title": "Pro-Iran ‘hacktivists’ could target Canadian organizations, experts warn",
       "description": "Political activists, journalists and human rights advocates also likely to be targeted, the Canadian Centre for Cyber Security says",
       "url": "https://www.theglobeandmail.com/business/economy/article-pro-iran-hacktivists-could-target-canadian-organizations-cybersecurity/",
       "source": "Globe Business",
@@ -444,7 +768,7 @@
       "published": "Wed, 04 Mar 2026 01:14:18 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.753122"
+      "fetched_at": "2026-03-04T06:46:24.577570"
     },
     {
       "id": "7a91c0410965",
@@ -456,7 +780,7 @@
       "published": "Wed, 04 Mar 2026 01:12:51 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.753098"
+      "fetched_at": "2026-03-04T06:46:24.577744"
     },
     {
       "id": "db0eefc81175",
@@ -468,7 +792,7 @@
       "published": "Wed, 04 Mar 2026 01:09:30 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310359"
+      "fetched_at": "2026-03-04T06:46:27.428135"
     },
     {
       "id": "03fb829cb051",
@@ -480,11 +804,23 @@
       "published": "Wed, 04 Mar 2026 01:06:46 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467645"
+      "fetched_at": "2026-03-04T06:46:26.605418"
+    },
+    {
+      "id": "a14194fbef63",
+      "title": "What to know about the 'two sessions',  China's biggest political meeting",
+      "description": "The carefully choreographed annual meetings signal the priorities of the world's second-largest economy.",
+      "url": "https://www.bbc.com/news/articles/c2lrxyke7kro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/009e31f0-16c2-11f1-826b-351e772587bb.jpg",
+      "published": "Wed, 04 Mar 2026 01:04:48 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-03-04T06:46:25.368169"
     },
     {
       "id": "33e3c2d5953a",
-      "title": "War in the Middle East makes the case for more Canadian energy and expanding the Port of Churchill",
+      "title": "War in the Middle East makes the case for more Canadian energy",
       "description": "Iran war is yet another reminder of why Canada must prioritize long-term projects that increase energy security",
       "url": "https://www.theglobeandmail.com/business/commentary/article-port-churchill-energy-iran-war/",
       "source": "Globe Business",
@@ -492,7 +828,7 @@
       "published": "Wed, 04 Mar 2026 01:03:13 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.753166"
+      "fetched_at": "2026-03-04T06:46:24.577597"
     },
     {
       "id": "e2b986226319",
@@ -504,7 +840,7 @@
       "published": "Wed, 04 Mar 2026 01:02:23 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-03-04T04:14:48.515481"
+      "fetched_at": "2026-03-04T06:46:27.116013"
     },
     {
       "id": "6d050d518d76",
@@ -516,7 +852,7 @@
       "published": "Wed, 04 Mar 2026 00:58:46 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020495"
+      "fetched_at": "2026-03-04T06:46:24.290263"
     },
     {
       "id": "7ce227a05b52",
@@ -528,7 +864,7 @@
       "published": "Wed, 04 Mar 2026 00:55:37 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.289073"
+      "fetched_at": "2026-03-04T06:46:27.355846"
     },
     {
       "id": "304b14b94ec2",
@@ -540,7 +876,7 @@
       "published": "Wed, 04 Mar 2026 00:54:37 +0000",
       "location": "Ottawa",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.753196"
+      "fetched_at": "2026-03-04T06:46:24.577770"
     },
     {
       "id": "46ac09bc3fbf",
@@ -552,19 +888,19 @@
       "published": "Wed, 04 Mar 2026 00:53:47 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903489"
+      "fetched_at": "2026-03-04T06:46:29.972447"
     },
     {
       "id": "70e8d34faea4",
-      "title": "After McDonald's CEO mocked for taking tiny bite of new burger, Burger King weighs in",
+      "title": "After McDonald’s CEO mocked for taking tiny bite of new burger, Burger King weighs in",
       "description": "Online commenters have mocked the McDonald's video as the opposite of genuine and authentic",
       "url": "https://nationalpost.com/news/canada/after-mcdonalds-ceo-mocked-for-taking-tiny-bite-of-new-burger-burger-king-weighs-in",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/03/burger-king-mc-donalds.png",
+      "source": "National Post",
+      "image": "",
       "published": "Wed, 04 Mar 2026 00:53:35 +0000",
       "location": "World",
-      "category": "politics",
-      "fetched_at": "2026-03-04T04:14:47.167256"
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:24.899282"
     },
     {
       "id": "72079a5fb970",
@@ -576,7 +912,19 @@
       "published": "Wed, 04 Mar 2026 00:53:24 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.753075"
+      "fetched_at": "2026-03-04T06:46:24.577722"
+    },
+    {
+      "id": "64c1d549d9a7",
+      "title": "Australian girl, 8, killed in snowmobile accident in Japan",
+      "description": "It is the fourth Australian death at a Japanese ski resort this year.",
+      "url": "https://www.bbc.com/news/articles/c5yk5yw49nqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc34/live/32b23bb0-1775-11f1-a5ef-4971833a915b.jpg",
+      "published": "Wed, 04 Mar 2026 00:53:03 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-03-04T06:46:25.368274"
     },
     {
       "id": "dddf2e8ebe53",
@@ -588,7 +936,7 @@
       "published": "Wed, 04 Mar 2026 00:52:48 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467671"
+      "fetched_at": "2026-03-04T06:46:26.605444"
     },
     {
       "id": "5420edf8f519",
@@ -600,7 +948,7 @@
       "published": "Wed, 04 Mar 2026 00:52:27 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249452"
+      "fetched_at": "2026-03-04T06:46:27.077082"
     },
     {
       "id": "80dfbb8fe24d",
@@ -612,7 +960,7 @@
       "published": "Wed, 04 Mar 2026 00:52:20 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020516"
+      "fetched_at": "2026-03-04T06:46:24.290299"
     },
     {
       "id": "b20febe4f91b",
@@ -624,7 +972,7 @@
       "published": "Wed, 04 Mar 2026 00:52:18 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153551"
+      "fetched_at": "2026-03-04T06:46:26.533849"
     },
     {
       "id": "4f2838b83386",
@@ -636,7 +984,7 @@
       "published": "Wed, 04 Mar 2026 00:52:04 +0000",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020532"
+      "fetched_at": "2026-03-04T06:46:24.290329"
     },
     {
       "id": "70ceff61c331",
@@ -648,7 +996,7 @@
       "published": "Wed, 04 Mar 2026 00:47:50 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903553"
+      "fetched_at": "2026-03-04T06:46:29.972471"
     },
     {
       "id": "c28a7ebc5a4f",
@@ -660,7 +1008,7 @@
       "published": "Wed, 04 Mar 2026 00:42:01 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903615"
+      "fetched_at": "2026-03-04T06:46:29.972499"
     },
     {
       "id": "82753febc048",
@@ -672,31 +1020,7 @@
       "published": "Wed, 04 Mar 2026 00:41:51 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.753056"
-    },
-    {
-      "id": "6b3b3d9ff74c",
-      "title": "NHL Commissioner Gary Bettman visits Calgary to talk about World Cup of Hockey",
-      "description": "With the Flames new arena starting to take shape and Calgary in the running to host the 2028 World Cup of Hockey, NHL Commissioner Gary Bettman visited town on Tuesday.",
-      "url": "https://globalnews.ca/news/11715036/calgary-host-city-2028-world-cup-of-hockey-gary-bettman/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2025/02/7bc7afd3e600e0b50a7d06fe435ee972bed18efa8b988fef687e170bcace12aa_82a5cc.jpg?quality=65&strip=all",
-      "published": "Wed, 04 Mar 2026 00:36:51 +0000",
-      "location": "Calgary",
-      "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020550"
-    },
-    {
-      "id": "910d1e8a62a7",
-      "title": "Pender Growth Fund Provides Financial Highlights and Company Updates",
-      "description": "VANCOUVER, British Columbia, March 03, 2026 (GLOBE NEWSWIRE) &#8212; (TSXV: PTF) Pender Growth Fund Inc. (the “Company”) today announced its financial and operational results for the year ended December 31, 2025. Financial Highlights Net loss was $4,879,423 for the year ended December 31, 2025 (Dece",
-      "url": "https://financialpost.com/globe-newswire/pender-growth-fund-provides-financial-highlights-and-company-updates-20",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 00:36:41 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738214"
+      "fetched_at": "2026-03-04T06:46:24.577619"
     },
     {
       "id": "3cbea57d9183",
@@ -708,31 +1032,19 @@
       "published": "Wed, 04 Mar 2026 00:36:36 +0000",
       "location": "Winnipeg",
       "category": "indigenous",
-      "fetched_at": "2026-03-04T04:14:46.102628"
+      "fetched_at": "2026-03-04T06:46:24.374816"
     },
     {
-      "id": "3123ab2182a5",
-      "title": "Aura Announces Credit Rating Upgrade on Global Scale to ‘BB-‘ From ‘B+’ and on Brazilian National Scale to ‘brAA+’ From ‘brAA’, Both With Outlook Revised to Stable",
-      "description": "ROAD TOWN, British Virgin Islands, March 03, 2026 (GLOBE NEWSWIRE) &#8212; Aura Minerals Inc. (Nasdaq: AUGO) (B3: AURA33) (“Aura” or the “Company”) announced today that its issuer credit rating was upgraded by S&#38;P Global Ratings from ‘B+’ to ‘BB-’, with stable outlook and, on national scale, S&#",
-      "url": "https://financialpost.com/globe-newswire/aura-announces-credit-rating-upgrade-on-global-scale-to-bb-from-b-and-on-brazilian-national-scale-to-braa-from-braa-both-with-outlook-revised-to-stable",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 00:36:31 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738259"
-    },
-    {
-      "id": "3cd255757f4b",
-      "title": "Calgary needs an extra $609M for Bearspaw feeder main, water infrastructure upgrades",
-      "description": "The request for additional funding comes after Calgary city council approved more than $1 billion in funding for water infrastructure in this year's budget.",
-      "url": "https://globalnews.ca/news/11714387/calgary-extra-funding-bearspaw-feeder-main-water-infrastructure/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/03/water-calgary00000001.png",
-      "published": "Wed, 04 Mar 2026 00:34:52 +0000",
-      "location": "Calgary",
-      "category": "canada",
-      "fetched_at": "2026-03-04T04:14:46.020567"
+      "id": "6e00da6c7915",
+      "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
+      "description": "TikTok tells the BBC it won't join rival platforms such as WhatsApp and Messenger in using end-to-end encryption.",
+      "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/642d/live/9816c7c0-1723-11f1-9120-a910fc22c6ac.jpg",
+      "published": "Wed, 04 Mar 2026 00:34:49 GMT",
+      "location": "Vancouver",
+      "category": "world",
+      "fetched_at": "2026-03-04T06:46:25.368189"
     },
     {
       "id": "f7d00435125c",
@@ -744,7 +1056,7 @@
       "published": "Wed, 04 Mar 2026 00:33:39 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903667"
+      "fetched_at": "2026-03-04T06:46:29.972525"
     },
     {
       "id": "3829ce3a21a3",
@@ -756,7 +1068,7 @@
       "published": "Wed, 04 Mar 2026 00:31:25 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.121895"
+      "fetched_at": "2026-03-04T06:46:24.393561"
     },
     {
       "id": "e2702a1f7234",
@@ -768,31 +1080,19 @@
       "published": "Wed, 04 Mar 2026 00:29:51 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2026-03-04T04:14:46.102681"
+      "fetched_at": "2026-03-04T06:46:24.374869"
     },
     {
       "id": "52cda5aa1706",
       "title": "GDB 62.0: The Oilers need to defend better (7 PM MT, SNW) - Oilers Nation",
-      "description": "GDB 62.0: The Oilers need to defend better (7 PM MT, SNW)&nbsp;&nbsp;Oilers NationOilers trade deadline preview: Cup contenders must address defensive woes&nbsp;&nbsp;SportsnetTALKING POINTS: Bowman speaks before Friday's Trade Deadline&nbsp;&nbsp;NHL.comThe State Of The Oilers And Their Playoff Pos",
+      "description": "GDB 62.0: The Oilers need to defend better (7 PM MT, SNW)&nbsp;&nbsp;Oilers NationOilers know defence still not good enough despite win&nbsp;&nbsp;SportsnetTALKING POINTS: Bowman speaks before Friday's Trade Deadline&nbsp;&nbsp;NHL.comOilers’ team approach will fix defensive issues, not ‘magical new",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3k4MXgxR2tob3hXcnpfSEhXUi12YlFHaUwwYlZPUE9XOGhjRzYwakVXdXpqM0dLZ3o0TGRNejFLQU4zQTlySlBraFkyWmY5UTNMal9xYjg1Y3RPWUZ1NUtuZEVNcVAySUFObnBUcWppSFRsNHNDSHcwUnJSMmUzSUlMZw?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Wed, 04 Mar 2026 00:25:00 GMT",
-      "location": "Edmonton",
-      "category": "sports",
-      "fetched_at": "2026-03-04T04:14:48.515758"
-    },
-    {
-      "id": "a2eaf9bd51af",
-      "title": "Rubio claim of Israeli role in US Iran attack reverberates, despite denial",
-      "description": "Commentators across political spectrum, including MAGA base, seize on Rubio&#039;s words amid shifting war justifications.",
-      "url": "https://www.aljazeera.com/news/2026/3/4/rubio-claim-of-israeli-role-in-us-iran-attack-reverberates-despite-denial?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 00:18:27 +0000",
       "location": "World",
-      "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275712"
+      "category": "sports",
+      "fetched_at": "2026-03-04T06:46:27.116343"
     },
     {
       "id": "c3e02479e89a",
@@ -804,7 +1104,7 @@
       "published": "Wed, 04 Mar 2026 00:16:18 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638526"
+      "fetched_at": "2026-03-04T06:46:27.679388"
     },
     {
       "id": "10e04f6653d7",
@@ -816,19 +1116,19 @@
       "published": "Wed, 04 Mar 2026 00:12:00 GMT",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153519"
+      "fetched_at": "2026-03-04T06:46:26.533818"
     },
     {
-      "id": "504c83be5304",
-      "title": "GolfStatus Announces Rewards Program to Better Support Charity Golf Tournaments & Nonprofits",
-      "description": "GolfStatus kicks off the fundraising planning season with two new tools that nonprofits and charities can leverage to maximize the impact of charity golf tournaments LINCOLN, Neb. &#8212; GolfStatus, the industry-leading platform for charity golf tournaments and fundraisers, is proud to announce its",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/golfstatus-announces-rewards-program-to-better-support-charity-golf-tournaments-nonprofits",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 00:11:06 +0000",
+      "id": "9d05317f4439",
+      "title": "US commerce secretary to testify before Congress about Epstein ties",
+      "description": "The cabinet member \"voluntarily\" agreed to be interviewed, weeks after acknowledging that he visited Epstein's island.",
+      "url": "https://www.bbc.com/news/articles/cy7jm7k7pxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51e/live/77332040-175e-11f1-9cb7-a1d533b0457d.jpg",
+      "published": "Wed, 04 Mar 2026 00:11:27 GMT",
       "location": "World",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738296"
+      "category": "world",
+      "fetched_at": "2026-03-04T06:46:25.368232"
     },
     {
       "id": "8a7373425892",
@@ -840,19 +1140,7 @@
       "published": "Wed, 04 Mar 2026 00:09:00 GMT",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:48.407690"
-    },
-    {
-      "id": "7e10bddf100a",
-      "title": "Macron warns Israel against Lebanon invasion",
-      "description": "French President Emmanuel Macron has warned Israel against invading Lebanon.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/4/macron-warns-israel-against-lebanon-invasion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Wed, 04 Mar 2026 00:06:53 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.275735"
+      "fetched_at": "2026-03-04T06:46:26.882262"
     },
     {
       "id": "40dd66d20bf8",
@@ -864,7 +1152,7 @@
       "published": "Wed, 04 Mar 2026 00:01:30 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638550"
+      "fetched_at": "2026-03-04T06:46:27.679410"
     },
     {
       "id": "b2ab2fdcec11",
@@ -876,7 +1164,7 @@
       "published": "Wed, 04 Mar 2026 00:01:19 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903709"
+      "fetched_at": "2026-03-04T06:46:29.972551"
     },
     {
       "id": "25e86400df48",
@@ -888,7 +1176,7 @@
       "published": "Wed, 04 Mar 2026 00:00:43 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249485"
+      "fetched_at": "2026-03-04T06:46:27.077116"
     },
     {
       "id": "12c9fc4c6274",
@@ -900,7 +1188,19 @@
       "published": "Wed, 04 Mar 2026 00:00:11 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.332062"
+      "fetched_at": "2026-03-04T06:46:27.250629"
+    },
+    {
+      "id": "79fee7cc1f27",
+      "title": "Insider Trading: Blues and Sabres engaged in Thomas talks - TSN",
+      "description": "Insider Trading: Blues and Sabres engaged in Thomas talks&nbsp;&nbsp;TSNNHL Rumour Roundup: Blues' Robert Thomas looking increasingly like trade candidate&nbsp;&nbsp;SportsnetCould the Mammoth really acquire Robert Thomas?&nbsp;&nbsp;Daily FaceoffCanadiens Among Group Of Teams Monitoring Robert Thom",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGxmREFkNGYzVl9UcVpybFl5azlOMkpVUk5uVUlCcmY2VjdTVmVkXzlrQUpCQVV2SURTX0luMTh0cXRraGttQS1tRlUtMmFqbzFuVmlwLUlYUGplLXNEUEdOeENmVWFyMnVLV3Nvb2ttcEFRNzgyb2lkM0czUEl2emRkMmZBV1o4SDh5UXI1SXpzQQ?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Wed, 04 Mar 2026 00:00:00 GMT",
+      "location": "Canada",
+      "category": "sports",
+      "fetched_at": "2026-03-04T06:46:27.116284"
     },
     {
       "id": "21964edc0aa7",
@@ -912,7 +1212,7 @@
       "published": "Tue, 24 Feb 2026 20:25:21 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-03-04T04:14:47.167321"
+      "fetched_at": "2026-03-04T06:46:26.228001"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -924,7 +1224,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.382450"
+      "fetched_at": "2026-03-04T06:46:25.722969"
     },
     {
       "id": "05ea19344a14",
@@ -936,7 +1236,7 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.382502"
+      "fetched_at": "2026-03-04T06:46:25.723024"
     },
     {
       "id": "996ff91ad6c0",
@@ -948,19 +1248,19 @@
       "published": "Tue, 03 Mar 2026 23:55:29 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249514"
+      "fetched_at": "2026-03-04T06:46:27.077144"
     },
     {
-      "id": "8fb924c9004c",
-      "title": "Gran Tierra Energy Inc. Announces 2025 Fourth Quarter & Year-End Results",
-      "description": "Achieved Average Working Interest Fourth Quarter Production of 46,344 BOEPD Realized 2025 Adjusted EBITDA1 of $284 Million Delivered Net Cash Provided by Operating Activities of $313 Million, up 31% from 2024 Generated 2025 Funds Flow from Operations1 of $178 Million Seventh Consecutive Year of Sout",
-      "url": "https://financialpost.com/globe-newswire/gran-tierra-energy-inc-announces-2025-fourth-quarter-year-end-results",
-      "source": "Financial Post",
+      "id": "b61f10684eb3",
+      "title": "Passport and travel document fees increase soon - canada.ca",
+      "description": "Passport and travel document fees increase soon&nbsp;&nbsp;canada.ca",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaW5IQ1A4ZEtOZTcxR1lEZmdwVHVHYk9jN0JuYnlmUkFxWkJnNkFNX0lwaWNvdDJUZ3c2Y0VrQ0lHS0tHaWNyeVljN3VuMHVWTGtCSEZQQXBnUTBBUXI5a2QyY0E3NGlEN1EtTFZEWFVtVTFNN3NGQ255UnRSV2p5MWVucFdORFNJUFZWZ1h6LURma2w4RUQ5M2t0ZVR2YXlGMndoMmZneGtmd285RXJ3LXhtbkg?oc=5",
+      "source": "Google News Canada",
       "image": "",
-      "published": "Tue, 03 Mar 2026 23:50:51 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738331"
+      "published": "Tue, 03 Mar 2026 23:52:16 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:26.533689"
     },
     {
       "id": "80d34a99f28f",
@@ -972,7 +1272,7 @@
       "published": "Tue, 03 Mar 2026 23:43:32 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.887835"
+      "fetched_at": "2026-03-04T06:46:26.544282"
     },
     {
       "id": "7ff5fee4b736",
@@ -984,7 +1284,7 @@
       "published": "Tue, 03 Mar 2026 23:43:32 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146216"
+      "fetched_at": "2026-03-04T06:46:27.823860"
     },
     {
       "id": "3c88d34cc162",
@@ -996,43 +1296,7 @@
       "published": "Tue, 03 Mar 2026 23:42:31 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146272"
-    },
-    {
-      "id": "28794fab0b0c",
-      "title": "Pierre Poilievre proposes new anglophone alliance that excludes Trump’s America - Toronto Star",
-      "description": "Pierre Poilievre proposes new anglophone alliance that excludes Trump’s America&nbsp;&nbsp;Toronto StarPoilievre touts 'free trade' between 'free nations' in speech on first foreign trip&nbsp;&nbsp;CBCPierre Poilievre proposes new anglophone alliance that excludes Donald Trump’s America&nbsp;&nbsp;T",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcnd5dXhSeXYtR0pTWTliLUZBVGYxVjVxZEFXbmNEX3pqMXpGTlMyZVZxTWlfd3dRcml3bTh6T2g3a1AzRjRfU0RJTWRSNV8zOWpCQ2J5cTZveWdIcVBVZ3pJRXRIOW9FZHdoY1V3WEpXUXVHQkc5YTVOdGEwazkwM0ZZWk4yS0RZUi0xNncwZjRUWEk4eFJzdXhPbTVOUWU4TS05eEJ4OFdwX19RRDhwUndSV1lkWWJQUlhfOHRrSzZFTkVoMC1DU3pLMnR3d3NYMUZlaVk0ZHdfWWdzUm8zRlFlLWpkVk9vMUVQcDdn?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 23:40:06 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2026-03-04T04:14:48.407869"
-    },
-    {
-      "id": "140e46556610",
-      "title": "Carney says his support for U.S. and Israel's war on Iran 'not a blank cheque' - CBC",
-      "description": "Carney says his support for U.S. and Israel's war on Iran 'not a blank cheque'&nbsp;&nbsp;CBCMark Carney backs U.S.-Israeli strikes on Iran despite his doubts over their legality&nbsp;&nbsp;Toronto StarPM Carney says Canada was ‘not informed in advance’ of U.S.-Israel strikes&nbsp;&nbsp;CTV NewsStat",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kQ2pIcVdNMVQ5enVmUUhYUndEdnBGV3c3cTBuVGNnVTZjX1pxb3Q0cDVvZWc2V3R6LW5LdWwzb1B3djg0UkhkdjFqQkVSbEpZZnBGUnNGUjFoRFU0dXJseThTVDlSX2h2TFE?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 23:35:40 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2026-03-04T04:14:48.407810"
-    },
-    {
-      "id": "5820af27b22b",
-      "title": "U.S. ambassador to Canada requests apology for Globe and Mail column - The Globe and Mail",
-      "description": "U.S. ambassador to Canada requests apology for Globe and Mail column&nbsp;&nbsp;The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2JxLVlJYmVnZTFuZk15eEo0bjB6VERVa0hhdndCdTBUcjdwZlZueUhrcHV2djhOLWt2S3JsQ1A5VW5CZnVLT0FIUVUzLWYyNVVRUHpCWDZfT3VTSlQ1cE1sTkRyYWhDOVIwWk03a0ZnN3hOdERzZFpHcDRyQUNjV3lHTi1fUGp1MFNxVnk1VXQ4c2JRLVhKTW93cw?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 23:33:59 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153610"
+      "fetched_at": "2026-03-04T06:46:27.823930"
     },
     {
       "id": "6879be61ada1",
@@ -1044,19 +1308,7 @@
       "published": "Tue, 03 Mar 2026 23:32:09 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638578"
-    },
-    {
-      "id": "3da141b58816",
-      "title": "TELUS and AST SpaceMobile Partner to Bring Space-Based Cellular Broadband Connectivity to Every Corner of Canada",
-      "description": "TELUS and AST SpaceMobile will deliver satellite-powered text messaging, voice calls and data to expand coverage nationwide using everyday smartphones VANCOUVER, British Columbia &#038; MIDLAND, Texas &#8212; TELUS Corporation (“TELUS”) (TSX: T; NYSE: TU), a world-leading communications technology c",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/telus-and-ast-spacemobile-partner-to-bring-space-based-cellular-broadband-connectivity-to-every-corner-of-canada",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 23:30:29 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738366"
+      "fetched_at": "2026-03-04T06:46:27.679436"
     },
     {
       "id": "62a7c4eae100",
@@ -1068,7 +1320,7 @@
       "published": "Tue, 03 Mar 2026 23:27:31 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.121931"
+      "fetched_at": "2026-03-04T06:46:24.393599"
     },
     {
       "id": "ef44596240f4",
@@ -1080,7 +1332,7 @@
       "published": "Tue, 03 Mar 2026 23:16:36 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.121962"
+      "fetched_at": "2026-03-04T06:46:24.393631"
     },
     {
       "id": "c7120c04ee76",
@@ -1092,7 +1344,7 @@
       "published": "Tue, 03 Mar 2026 23:08:06 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.887879"
+      "fetched_at": "2026-03-04T06:46:26.544326"
     },
     {
       "id": "7637fab6047d",
@@ -1104,7 +1356,7 @@
       "published": "Tue, 03 Mar 2026 23:08:06 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467703"
+      "fetched_at": "2026-03-04T06:46:26.605474"
     },
     {
       "id": "e51daa0912d9",
@@ -1116,7 +1368,7 @@
       "published": "Tue, 03 Mar 2026 23:06:34 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:15:29.871797"
+      "fetched_at": "2026-03-04T06:46:24.899312"
     },
     {
       "id": "56fac46b5189",
@@ -1128,19 +1380,7 @@
       "published": "Tue, 03 Mar 2026 23:00:16 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638610"
-    },
-    {
-      "id": "5c1d02a6b1de",
-      "title": "Alaris Equity Partners Announces Timing of 2025 Q4 Financial Results, Conference Call and Webcast",
-      "description": "NOT FOR DISTRIBUTION IN THE UNITED STATES. FAILURE TO COMPLY WITH THIS RESTRICTION MAY CONSTITUTE A VIOLATION OF UNITED STATES SECURITIES LAW. CALGARY, Alberta, March 03, 2026 (GLOBE NEWSWIRE) &#8212; Alaris Equity Partners Income Trust (&#8220;Alaris&#8221; or the &#8220;Trust&#8220;) (TSX: AD.UN) ",
-      "url": "https://financialpost.com/globe-newswire/alaris-equity-partners-announces-timing-of-2025-q4-financial-results-conference-call-and-webcast",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 22:59:53 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738396"
+      "fetched_at": "2026-03-04T06:46:27.679467"
     },
     {
       "id": "f9f0f2ff855a",
@@ -1152,31 +1392,19 @@
       "published": "Tue, 03 Mar 2026 22:59:47 +0000",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.752981"
+      "fetched_at": "2026-03-04T06:46:24.577660"
     },
     {
       "id": "e1ec6af3960c",
       "title": "Iran war oil price spike could cushion Alberta, Saskatchewan budgets - Global News",
-      "description": "Iran war oil price spike could cushion Alberta, Saskatchewan budgets&nbsp;&nbsp;Global NewsNervous nations calling Canada's energy minister after Iran strikes&nbsp;&nbsp;CBCHere’s when gas prices could rise 6-9 cents a litre in Ottawa&nbsp;&nbsp;CTV NewsOpinion: War in the Middle East makes the case",
+      "description": "Iran war oil price spike could cushion Alberta, Saskatchewan budgets&nbsp;&nbsp;Global NewsNervous nations calling Canada's energy minister after Iran strikes&nbsp;&nbsp;CBCHere’s when gas prices could rise 6-9 cents a litre in Ottawa&nbsp;&nbsp;CTV NewsWar in the Middle East makes the case for more",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ09nc3lSZFpVSS1tWkxzeElOWDlQOGRSOFRMSENlOHdyYkRyTDJiNFVIQjFEOUgtLWlscFFPMGx6N2F2NzdtWjFjbDEtZTQySGJRN055VjU0eldIdVVMWkd1azNDcEFpVmpIMUVDRXlxUE11aFRlM2RlZkwxbU5zMEQxNUg2S0VPVS03eUdsVTJSVEhG?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 03 Mar 2026 22:58:01 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:48.320799"
-    },
-    {
-      "id": "d23fdb000c7a",
-      "title": "NFI Group Hosts Ribbon-Cutting Ceremony to Officially Open New Flyer’s All-Canadian Build Facility in Winnipeg",
-      "description": "New facility strengthens domestic supply chain, creates skilled manufacturing jobs, and supports Canada’s transition to clean transportation WINNIPEG, Manitoba, March 03, 2026 (GLOBE NEWSWIRE) &#8212; (TSX: NFI, OTC: NFYEF, TSX: NFI.DB) NFI Group Inc. (NFI) a leading global manufacturer of buses and",
-      "url": "https://financialpost.com/globe-newswire/nfi-group-hosts-ribbon-cutting-ceremony-to-officially-open-new-flyers-all-canadian-build-facility-in-winnipeg",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 22:49:47 +0000",
-      "location": "Winnipeg",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738434"
+      "fetched_at": "2026-03-04T06:46:26.354149"
     },
     {
       "id": "ea432e23b8ea",
@@ -1188,7 +1416,7 @@
       "published": "Tue, 03 Mar 2026 22:45:13 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-03-04T04:14:46.102722"
+      "fetched_at": "2026-03-04T06:46:24.374947"
     },
     {
       "id": "ca986bd7ac5e",
@@ -1200,7 +1428,7 @@
       "published": "Tue, 03 Mar 2026 22:44:43 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467738"
+      "fetched_at": "2026-03-04T06:46:26.605510"
     },
     {
       "id": "1cc0b86ea317",
@@ -1212,7 +1440,7 @@
       "published": "Tue, 03 Mar 2026 22:40:33 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-03-04T04:14:46.102761"
+      "fetched_at": "2026-03-04T06:46:24.374988"
     },
     {
       "id": "6b37ab171c6a",
@@ -1224,7 +1452,7 @@
       "published": "Tue, 03 Mar 2026 22:38:58 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.121990"
+      "fetched_at": "2026-03-04T06:46:24.393661"
     },
     {
       "id": "e3a25dfb2415",
@@ -1236,7 +1464,7 @@
       "published": "Tue, 03 Mar 2026 22:37:48 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310409"
+      "fetched_at": "2026-03-04T06:46:27.428187"
     },
     {
       "id": "a5e268591521",
@@ -1248,7 +1476,7 @@
       "published": "Tue, 03 Mar 2026 22:37:48 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146325"
+      "fetched_at": "2026-03-04T06:46:27.823984"
     },
     {
       "id": "936915643305",
@@ -1260,19 +1488,7 @@
       "published": "Tue, 03 Mar 2026 22:35:55 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2026-03-04T04:14:46.102796"
-    },
-    {
-      "id": "da0fc4df8b8b",
-      "title": "PDAC 2026: Gold and copper are the go-tos as investors seek tangible assets amid ongoing global uncertainty",
-      "description": "'It’s the beginning of a rotation from growth stories to value stories. And value is metal'",
-      "url": "https://financialpost.com/commodities/mining/gold-copper-go-tos-investors-tangible-assets",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 22:34:28 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738463"
+      "fetched_at": "2026-03-04T06:46:24.375025"
     },
     {
       "id": "46fc5a322f97",
@@ -1284,7 +1500,7 @@
       "published": "Tue, 03 Mar 2026 22:33:57 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.122015"
+      "fetched_at": "2026-03-04T06:46:24.393687"
     },
     {
       "id": "5ee2260a481b",
@@ -1296,7 +1512,7 @@
       "published": "Tue, 03 Mar 2026 22:28:59 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-03-04T04:14:46.102834"
+      "fetched_at": "2026-03-04T06:46:24.375063"
     },
     {
       "id": "3293dc7ee40c",
@@ -1308,7 +1524,7 @@
       "published": "Tue, 03 Mar 2026 22:23:43 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.332106"
+      "fetched_at": "2026-03-04T06:46:27.250677"
     },
     {
       "id": "bc2ca5cafd60",
@@ -1320,7 +1536,7 @@
       "published": "Tue, 03 Mar 2026 22:21:29 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-03-04T04:14:46.065411"
+      "fetched_at": "2026-03-04T06:46:24.315903"
     },
     {
       "id": "b6c6e9ad7c4a",
@@ -1332,7 +1548,7 @@
       "published": "Tue, 03 Mar 2026 22:20:22 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310453"
+      "fetched_at": "2026-03-04T06:46:27.428232"
     },
     {
       "id": "c308713efbf0",
@@ -1344,7 +1560,7 @@
       "published": "Tue, 03 Mar 2026 22:20:22 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146375"
+      "fetched_at": "2026-03-04T06:46:27.824033"
     },
     {
       "id": "a28ac126da96",
@@ -1356,31 +1572,7 @@
       "published": "Tue, 03 Mar 2026 22:16:14 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638657"
-    },
-    {
-      "id": "7dc646e945a6",
-      "title": "CFS-Ontario holds a rally at Queen’s Park against OSAP changes",
-      "description": "TORONTO, ON, March 03, 2026 (GLOBE NEWSWIRE) &#8212; The Canadian Federation of Students-Ontario alongside thousands of post-secondary students from across the province will be rallying against the OSAP changes and 2% tuition fee increase at Queen’s Park. Students will be joined by provincial and lo",
-      "url": "https://financialpost.com/globe-newswire/cfs-ontario-holds-a-rally-at-queens-park-against-osap-changes",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 22:14:15 +0000",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.738492"
-    },
-    {
-      "id": "6ccf1f02ca1e",
-      "title": "European allies rush to bolster Cyprus defences after drones target British base",
-      "description": "The Cypriot government suspects the Iran-backed group Hezbollah in Lebanon targeted the UK's RAF Akrotiri base in Cyprus.",
-      "url": "https://www.bbc.com/news/articles/c4g74npdwnyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5597/live/893ae050-1747-11f1-95f3-4f8508781bec.jpg",
-      "published": "Tue, 03 Mar 2026 22:10:09 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.357765"
+      "fetched_at": "2026-03-04T06:46:27.679505"
     },
     {
       "id": "3167e081fc53",
@@ -1392,7 +1584,7 @@
       "published": "Tue, 03 Mar 2026 22:09:57 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310486"
+      "fetched_at": "2026-03-04T06:46:27.428266"
     },
     {
       "id": "8730e85fd80e",
@@ -1404,19 +1596,19 @@
       "published": "Tue, 03 Mar 2026 22:08:19 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.289126"
+      "fetched_at": "2026-03-04T06:46:27.355873"
     },
     {
       "id": "6ab3cd2f0d5b",
       "title": "Provincial sex offender registry found unconstitutional by Ontario court",
       "description": "The accused's lawyer argued the law is 'overbroad' and grossly disproportionate, infringing on his client's Charter right to liberty",
       "url": "https://nationalpost.com/news/canada/provincial-sex-registry-found-unconstitutional-by-ontario-court",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/03/gettyimages-13974612.co_279286298.jpg",
+      "source": "National Post",
+      "image": "",
       "published": "Tue, 03 Mar 2026 22:06:20 +0000",
       "location": "World",
-      "category": "politics",
-      "fetched_at": "2026-03-04T04:14:47.167342"
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:24.899339"
     },
     {
       "id": "0d17477fc2f0",
@@ -1428,7 +1620,7 @@
       "published": "Tue, 03 Mar 2026 22:05:42 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.289191"
+      "fetched_at": "2026-03-04T06:46:27.355924"
     },
     {
       "id": "bbf740280104",
@@ -1440,7 +1632,7 @@
       "published": "Tue, 03 Mar 2026 22:01:23 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.887908"
+      "fetched_at": "2026-03-04T06:46:26.544355"
     },
     {
       "id": "1e2b7cc79fe3",
@@ -1452,7 +1644,7 @@
       "published": "Tue, 03 Mar 2026 21:59:45 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.332175"
+      "fetched_at": "2026-03-04T06:46:27.250729"
     },
     {
       "id": "1a4815fba3d6",
@@ -1464,7 +1656,19 @@
       "published": "Tue, 03 Mar 2026 21:54:10 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638697"
+      "fetched_at": "2026-03-04T06:46:27.679541"
+    },
+    {
+      "id": "8738e4a9e3b8",
+      "title": "Canada’s Conservative leader floats new Commonwealth alliance to boost leverage with Washington - Politico",
+      "description": "Canada’s Conservative leader floats new Commonwealth alliance to boost leverage with Washington&nbsp;&nbsp;PoliticoPierre Poilievre proposes new anglophone alliance that excludes Donald Trump’s America&nbsp;&nbsp;Toronto StarPoilievre touts 'free trade' between 'free nations' in speech on first fore",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTDFXVUNjMnNhWGdRM1NnMks3TTdsWkVOTHZoRlFMbEI1WGtwRVV4Z0h1WGFMcThvWnJYRGx5dDJDQV9POERFMm5YYm1RNy1IaDdlS0xMOHZGb05yc0R4TzhqVkFoMzBFOFQ3LTk0Unp0ZlM0N3B4cFBBTVkwRmRSX29OdFZuZmtvWGhNLUpwMW9DajhBblFoVHo3VkpNVlI1a1Vsa1ZnZkFIeVJMcHI2OWtZU3kwcE1BYkpvNnVkYk83VWhTREx6d3NlUUFtU0k?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 03 Mar 2026 21:48:47 GMT",
+      "location": "Toronto",
+      "category": "technology",
+      "fetched_at": "2026-03-04T06:46:26.882385"
     },
     {
       "id": "197e5f9c8c02",
@@ -1476,7 +1680,7 @@
       "published": "Tue, 03 Mar 2026 21:48:43 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467774"
+      "fetched_at": "2026-03-04T06:46:26.605539"
     },
     {
       "id": "b6c5990230d4",
@@ -1488,7 +1692,7 @@
       "published": "Tue, 03 Mar 2026 21:48:32 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146415"
+      "fetched_at": "2026-03-04T06:46:27.824072"
     },
     {
       "id": "89b4f66aee19",
@@ -1500,7 +1704,7 @@
       "published": "Tue, 03 Mar 2026 21:46:03 GMT",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:48.320506"
+      "fetched_at": "2026-03-04T06:46:26.353921"
     },
     {
       "id": "2c2cbc621bcf",
@@ -1512,7 +1716,7 @@
       "published": "Tue, 03 Mar 2026 21:44:31 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.357679"
+      "fetched_at": "2026-03-04T06:46:25.368117"
     },
     {
       "id": "d606ff43dc95",
@@ -1524,7 +1728,7 @@
       "published": "Tue, 03 Mar 2026 21:44:09 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-03-04T04:14:46.065438"
+      "fetched_at": "2026-03-04T06:46:24.315936"
     },
     {
       "id": "ea81e7b19c5a",
@@ -1536,7 +1740,7 @@
       "published": "Tue, 03 Mar 2026 21:44:09 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.122046"
+      "fetched_at": "2026-03-04T06:46:24.393719"
     },
     {
       "id": "74d99c77984d",
@@ -1548,7 +1752,7 @@
       "published": "Tue, 03 Mar 2026 21:43:20 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249536"
+      "fetched_at": "2026-03-04T06:46:27.077167"
     },
     {
       "id": "b8946b053a01",
@@ -1560,19 +1764,19 @@
       "published": "Tue, 03 Mar 2026 21:37:28 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.887955"
+      "fetched_at": "2026-03-04T06:46:26.544401"
     },
     {
       "id": "d98166a4afb5",
       "title": "Province Reaches Agreement to Move Bay du Nord Project Forward - VOCM",
-      "description": "Province Reaches Agreement to Move Bay du Nord Project Forward&nbsp;&nbsp;VOCMView Full Coverage on Google News",
+      "description": "Province Reaches Agreement to Move Bay du Nord Project Forward&nbsp;&nbsp;VOCMN.L. reaches deal with Equinor, BP to open the way for construction, production of Bay du Nord&nbsp;&nbsp;CBCBay du Nord oil project hits key milestone as N.L., Equinor sign benefits agreement&nbsp;&nbsp;CTV NewsUPDATED: P",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qczRibEtDOWl1ZnR4dUNYQjFtT01HaHVZc1MyZzdDNzFKZTFESmFmM25TQ0s3VGJCekxZdzQ2N2l5dlI0eWFRdzA2ay1uZ0FEamllN3pmMVBTRldHOHlZ?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 03 Mar 2026 21:35:00 GMT",
-      "location": "World",
+      "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:48.320957"
+      "fetched_at": "2026-03-04T06:46:26.354256"
     },
     {
       "id": "cad83fc4bea2",
@@ -1584,19 +1788,7 @@
       "published": "Tue, 03 Mar 2026 21:34:26 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467801"
-    },
-    {
-      "id": "aca464ef5261",
-      "title": "Germany Olympic teammates Leon Draisaitl and Tim Stutzle goes back to being NHL foes",
-      "description": "'He (Draisaitl) was awesome, he was a great leader. I knew him from before, but obviously not as well as now, spending every day with him,' said Stutzle",
-      "url": "https://edmontonjournal.com/sports/hockey/nhl/edmonton-oilers-leon-draisaitl-ottawa-senators-stutzle-germany-olympics",
-      "source": "Edmonton Journal",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 21:31:50 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638726"
+      "fetched_at": "2026-03-04T06:46:26.605566"
     },
     {
       "id": "7ae47a4aa7e7",
@@ -1608,31 +1800,19 @@
       "published": "Tue, 03 Mar 2026 21:26:58 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-03-04T04:14:46.102878"
+      "fetched_at": "2026-03-04T06:46:24.375102"
     },
     {
-      "id": "ebe18a40b3e8",
-      "title": "Poor road conditions and 'aggressive' driving leads to four deaths on northern Alberta roads: RCMP",
-      "description": "\"This just highlights the fact that people need to drive to the current road conditions\"",
-      "url": "https://edmontonjournal.com/news/local-news/northern-alberta-fatal-collisions-wainwright-morinville-st-paul",
-      "source": "Edmonton Journal",
+      "id": "f27924c14760",
+      "title": "Statement by Prime Minister Carney on the evolving situation in the Middle East - pm.gc.ca",
+      "description": "Statement by Prime Minister Carney on the evolving situation in the Middle East&nbsp;&nbsp;pm.gc.ca",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0loVGFoTkhmSXl4ekM4RkUzUWx4MkxFR25odzl6LWVfM0RjZ3dvZzRYTXFhLXZQeWgyYXVoeDd0cEtvSUVYekM4Y1J5MnNxMGtRb0k3bFlWVGpaYXltVzVGbkgtSUxYRVN4NEExVnV3LUdWMmZveldBRTFOZVoydnA2TzFRU2J3SzV0RC1TUmZvZEljVDdFaHF6TU8yVnBrSzRzZ3RsNUZvWFhqSWhMTDJMYw?oc=5",
+      "source": "Google News Canada",
       "image": "",
-      "published": "Tue, 03 Mar 2026 21:26:14 +0000",
+      "published": "Tue, 03 Mar 2026 21:26:25 GMT",
       "location": "World",
-      "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638751"
-    },
-    {
-      "id": "948639a82f87",
-      "title": "Alberta doctors and province at odds over delayed triage liaison physician role",
-      "description": "A rollout has stalled more than a month after Alberta pledged to reinstate the triage liaison physician role to six of the largest emergency departments in the province amid a growing standoff between the province and frontline doctors. Dr. Warren Thirsk, the head of emergency medicine for the Alber",
-      "url": "https://edmontonjournal.com/news/local-news/alberta-doctors-and-province-at-odds-over-delayed-triage-liaison-physician-role",
-      "source": "Edmonton Journal",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 21:25:56 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.638783"
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:26.533897"
     },
     {
       "id": "acbb396afe54",
@@ -1644,7 +1824,7 @@
       "published": "Tue, 03 Mar 2026 21:25:33 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.357723"
+      "fetched_at": "2026-03-04T06:46:25.368314"
     },
     {
       "id": "f3ffb39518d9",
@@ -1656,19 +1836,19 @@
       "published": "Tue, 03 Mar 2026 21:21:53 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903732"
+      "fetched_at": "2026-03-04T06:46:29.972573"
     },
     {
       "id": "573a53b19df5",
       "title": "Stocks drop, oil gains as traders digest the latest updates in the Iran war - markets.businessinsider.com",
-      "description": "Stocks drop, oil gains as traders digest the latest updates in the Iran war&nbsp;&nbsp;markets.businessinsider.comWall Street, global markets partly recover after early sell-off sparked by war with Iran&nbsp;&nbsp;CBCAsian shares extend losses as the war with Iran widens and oil surges higher&nbsp;&",
+      "description": "Stocks drop, oil gains as traders digest the latest updates in the Iran war&nbsp;&nbsp;markets.businessinsider.comWall Street, global markets partly recover after early sell-off sparked by war with Iran&nbsp;&nbsp;CBCGlobal stock markets tumble as Trump bid to avert oil crisis in strait of Hormuz fa",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTnJSYjBoVXMzOWFoQk5qNWFwNmFWazkwSGFiX2k0Yjk2SjBxVmJja0tDdlR5dkZER2VfSGM3anF1c1ZyMlM3MnZpVnRHQXVITDZkSjJIUkVjQkZOWEhOUkVIZ3ZDZVVJMXRfM3Rwc3QzNEhMTHpOa2FMQkxZVEFnWlNoTEY2clhfYWloblMzSnNoTkFULVF0YlFvMW5mTkRxZDI1MjdsZWFiTFR2RjREdg?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 03 Mar 2026 21:18:00 GMT",
-      "location": "Toronto",
+      "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:48.320596"
+      "fetched_at": "2026-03-04T06:46:26.353780"
     },
     {
       "id": "ea892b91b1cf",
@@ -1680,7 +1860,7 @@
       "published": "Tue, 03 Mar 2026 21:13:02 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200461"
+      "fetched_at": "2026-03-04T06:46:24.468449"
     },
     {
       "id": "b26d40b70154",
@@ -1692,7 +1872,7 @@
       "published": "Tue, 03 Mar 2026 21:09:03 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.332224"
+      "fetched_at": "2026-03-04T06:46:27.250775"
     },
     {
       "id": "ec692c451c3a",
@@ -1704,7 +1884,7 @@
       "published": "Tue, 03 Mar 2026 21:08:57 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:15:29.871851"
+      "fetched_at": "2026-03-04T06:46:24.899367"
     },
     {
       "id": "6400eecd6018",
@@ -1716,19 +1896,7 @@
       "published": "Tue, 03 Mar 2026 21:00:13 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249560"
-    },
-    {
-      "id": "1096c7d350ae",
-      "title": "Opinion: B.C.’s budget gamble: Invest now in flood prevention or pay much more later",
-      "description": "Tyrone McNeil and Lina Azeez: Acknowledging the risk while refusing to fund its mitigation is not a strategy — it is a gamble with public money, public safety, and the livelihoods of communities that have already endured so much",
-      "url": "https://vancouversun.com/opinion/op-ed/opinion-b-c-s-budget-gamble-invest-now-in-flood-prevention-or-pay-much-more-later",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 21:00:11 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.903776"
+      "fetched_at": "2026-03-04T06:46:27.077192"
     },
     {
       "id": "c61b00830ea3",
@@ -1740,7 +1908,7 @@
       "published": "Tue, 03 Mar 2026 20:59:54 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.887988"
+      "fetched_at": "2026-03-04T06:46:26.544434"
     },
     {
       "id": "b08b81374da6",
@@ -1752,7 +1920,7 @@
       "published": "Tue, 03 Mar 2026 20:58:25 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.859931"
+      "fetched_at": "2026-03-04T06:46:27.016814"
     },
     {
       "id": "e853b719d020",
@@ -1764,31 +1932,19 @@
       "published": "Tue, 03 Mar 2026 20:51:32 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.888013"
+      "fetched_at": "2026-03-04T06:46:26.544461"
     },
     {
       "id": "106051c44bdf",
       "title": "Hamilton Mayor Andrea Horwath is suing her city and her ex in effort to demolish her dilapidated home",
       "description": "Ben Leonetti 'has been obstructing access to the property since ... October of 2018,' Andrea Horwath said in court documents",
       "url": "https://nationalpost.com/news/canada/hamilton-mayor-andrea-horwath-lawsuit",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/03/Andrea-Horwath-home-4.jpg",
+      "source": "National Post",
+      "image": "",
       "published": "Tue, 03 Mar 2026 20:46:04 +0000",
       "location": "World",
-      "category": "politics",
-      "fetched_at": "2026-03-04T04:14:47.167194"
-    },
-    {
-      "id": "b1c295f7cb51",
-      "title": "US sends planes to evacuate nationals from Middle East as Iran conflict spreads",
-      "description": "The US State Department says Americans should \"depart now via commercial means\" as strikes continue.",
-      "url": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c63/live/ffedf780-173f-11f1-95f3-4f8508781bec.jpg",
-      "published": "Tue, 03 Mar 2026 20:43:05 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.357905"
+      "category": "canada",
+      "fetched_at": "2026-03-04T06:46:24.899394"
     },
     {
       "id": "dad0b7c99e53",
@@ -1800,7 +1956,7 @@
       "published": "Tue, 03 Mar 2026 20:36:15 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:15:29.871918"
+      "fetched_at": "2026-03-04T06:46:24.899436"
     },
     {
       "id": "d96042950707",
@@ -1812,19 +1968,19 @@
       "published": "Tue, 03 Mar 2026 20:36:13 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.289222"
+      "fetched_at": "2026-03-04T06:46:27.355952"
     },
     {
-      "id": "03c4fc1ce489",
-      "title": "Rising foreign investment in Canada doesn't tell the whole story, economists say - Yahoo! Finance Canada",
-      "description": "Rising foreign investment in Canada doesn't tell the whole story, economists say&nbsp;&nbsp;Yahoo! Finance CanadaView Full Coverage on Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM1EzU2dSX2tmNmJmOVJiR2FZal9mdTdQUnhTZ0hWb0V5ZHBRR0taRDVTS3BOYkF5aUxEZV80RUhWVkFySlAxNXRDRjJSQXJMcTBnWFAtY0EySnVLQUM5SHJITF82TVRhV1JxWlJTQUN6dlpvbDZWTnIyT1dtbENoMThLb1VsdXNNcWNzYjNKNmtpZw?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 20:33:41 GMT",
-      "location": "Canada",
+      "id": "0f523755ed30",
+      "title": "Churchill port signs development and trade partnership with massive Belgian terminal",
+      "description": "Northern Manitoba site to collaborate with Port of Antwerp-Bruges as it plans multibillion-dollar expansion",
+      "url": "https://www.theglobeandmail.com/business/article-churchill-port-antwerp-manitoba-partnership-belgium/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TAPN5VZ7EBGHNN5L6HBUWG4WTY.JPG?auth=37ca10983ef811d3028fbf265c09cb047d1886d59b4028e3a34b294992a4de6c&smart=true&width=4000&height=2857",
+      "published": "Tue, 03 Mar 2026 20:34:17 +0000",
+      "location": "World",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:48.321111"
+      "fetched_at": "2026-03-04T06:46:24.577639"
     },
     {
       "id": "6ad93b0b0f45",
@@ -1836,7 +1992,7 @@
       "published": "Tue, 03 Mar 2026 20:29:28 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:47.131529"
+      "fetched_at": "2026-03-04T06:46:25.909350"
     },
     {
       "id": "f91f713d0708",
@@ -1848,7 +2004,7 @@
       "published": "Tue, 03 Mar 2026 20:29:17 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146456"
+      "fetched_at": "2026-03-04T06:46:27.824113"
     },
     {
       "id": "a7b90fb83cc6",
@@ -1860,19 +2016,19 @@
       "published": "Tue, 03 Mar 2026 20:25:25 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467826"
+      "fetched_at": "2026-03-04T06:46:26.605590"
     },
     {
       "id": "2f04c5f4b6ec",
       "title": "World Cup: Ranking all 64 teams in contention with kickoff 100 days away - theScore.com",
-      "description": "World Cup: Ranking all 64 teams in contention with kickoff 100 days away&nbsp;&nbsp;theScore.com100 days until the 2026 World Cup - why it's time to get excited&nbsp;&nbsp;DAZNVancouver readies for FIFA World Cup, with tournament 100 days away&nbsp;&nbsp;CTV NewsWith 100 days to go, World Cup faces ",
+      "description": "World Cup: Ranking all 64 teams in contention with kickoff 100 days away&nbsp;&nbsp;theScore.com100 days until the 2026 World Cup - why it's time to get excited&nbsp;&nbsp;DAZNPreparations continue in Toronto, Vancouver with FIFA World Cup 100 days away&nbsp;&nbsp;TSNWith 100 days to go, World Cup f",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ramVQdC1nR0NMOVBJX0J5blBCclNLQ1NlRTN5QVAxSmZXazdJLThnU25qcUxjVGhQa0pKZVJuMVNQWGFkUUtIbE91SGRZMmg1UkxFWlJES3A3QQ?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 03 Mar 2026 20:21:52 GMT",
       "location": "Toronto",
       "category": "sports",
-      "fetched_at": "2026-03-04T04:14:48.515175"
+      "fetched_at": "2026-03-04T06:46:27.116126"
     },
     {
       "id": "2f90f64e500b",
@@ -1884,7 +2040,19 @@
       "published": "Tue, 03 Mar 2026 20:20:56 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.122074"
+      "fetched_at": "2026-03-04T06:46:24.393753"
+    },
+    {
+      "id": "8f1c1088acb3",
+      "title": "New Flyer unveils Winnipeg facility for all-Canadian-built electric transit buses - CBC",
+      "description": "New Flyer unveils Winnipeg facility for all-Canadian-built electric transit buses&nbsp;&nbsp;CBCNew Flyer’s bus-building expansion a Canadian answer to global instability, say premier, federal industry minister&nbsp;&nbsp;Winnipeg Free PressNFI Group Hosts Ribbon-Cutting Ceremony to Officially Open ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDRMT25oY3JFblI0VUY3anpqZ2ZFR1VxeTdHelloVWpyRUZZYVpSYXJ2OFlMTGdzc3YyXzAtejVJYkxBYzRkM25BbHF3YTFmQnBZZy1yU2IzdlBTUXdsckxhZERfNHZaaGp6ZXFiVERhSXZjaTNPaGVKZHpPbzFQLW5JSGJaUUs1bXVjR2Z0SFU?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 03 Mar 2026 20:09:00 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:26.354094"
     },
     {
       "id": "a8447eebcdbd",
@@ -1896,7 +2064,7 @@
       "published": "Tue, 03 Mar 2026 20:06:45 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.122099"
+      "fetched_at": "2026-03-04T06:46:24.393780"
     },
     {
       "id": "c3bc51b5adb6",
@@ -1908,7 +2076,7 @@
       "published": "Tue, 03 Mar 2026 20:04:16 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.467850"
+      "fetched_at": "2026-03-04T06:46:26.605613"
     },
     {
       "id": "221a61cf5506",
@@ -1920,7 +2088,7 @@
       "published": "Tue, 03 Mar 2026 20:02:10 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.122123"
+      "fetched_at": "2026-03-04T06:46:24.393805"
     },
     {
       "id": "e1b3c67fdaa1",
@@ -1932,7 +2100,7 @@
       "published": "Tue, 03 Mar 2026 20:00:29 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:15:29.871948"
+      "fetched_at": "2026-03-04T06:46:24.899465"
     },
     {
       "id": "ed7cb1d39678",
@@ -1944,19 +2112,7 @@
       "published": "Tue, 03 Mar 2026 19:59:36 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-03-04T04:14:46.984936"
-    },
-    {
-      "id": "72120dbd815f",
-      "title": "Nervous nations calling Canada's energy minister after Iran strikes - CBC",
-      "description": "Nervous nations calling Canada's energy minister after Iran strikes&nbsp;&nbsp;CBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWwzYndRRmpjWXJwb1dWYlByLWUtSWdlemMwMUFlSHN2dUdTSFBBbFZnMThFeHhLYlB0OHNfMWNxQ3hHeF9Od255VzdNbU9NR3lFWk52WXR0LVFtLTg3OHVfSXAxTkxRenFFOXpYYmItNmw1bHYxcmpJb1FtNEFncFdtbXg2UUpZcXlISFpVM3FXN2hKWWFj?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 19:47:08 GMT",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153666"
+      "fetched_at": "2026-03-04T06:46:25.218273"
     },
     {
       "id": "2ab7f62f3526",
@@ -1968,7 +2124,7 @@
       "published": "Tue, 03 Mar 2026 19:47:08 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:15:29.871973"
+      "fetched_at": "2026-03-04T06:46:24.899489"
     },
     {
       "id": "9d7cbd946141",
@@ -1980,7 +2136,7 @@
       "published": "Tue, 03 Mar 2026 19:44:09 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-03-04T04:15:29.871998"
+      "fetched_at": "2026-03-04T06:46:24.899513"
     },
     {
       "id": "4d6431846565",
@@ -1992,31 +2148,7 @@
       "published": "Tue, 03 Mar 2026 19:44:08 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310511"
-    },
-    {
-      "id": "1a84605663c7",
-      "title": "Texas votes in high-stakes primaries in test of appetite for change under Trump - The Guardian",
-      "description": "Texas votes in high-stakes primaries in test of appetite for change under Trump&nbsp;&nbsp;The GuardianNational Primary Elections 2026: Live Results and Map&nbsp;&nbsp;NBC NewsJohn Cornyn and Ken Paxton advance to runoff in Republican primary for Texas US Senate seat&nbsp;&nbsp;Toronto StarTexas Sen",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHBqV0hCRHJkUEI3c212Um4wN1o2UER1N1l4WDF3SzRoTVlpT08wbXBHTklLUzcwT3hlS0NlMkpxZlh4czhzNG1IZFBUbFplMnF5ek0xdlgxTkFXOXRLTnE1d2pBdTdnX0p1cGF5elp1OEZfd05HcjJCcmdsMlk0ZjNiS3JDWVBHMGFzbmFMUXBQM2ZkQlE?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 19:42:00 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2026-03-04T04:14:48.407751"
-    },
-    {
-      "id": "ba7e0dc3ef92",
-      "title": "Sabres Making Aggressive Push For Robert Thomas - NHL Rumors - ProHockeyRumors.com",
-      "description": "Sabres Making Aggressive Push For Robert Thomas&nbsp;&nbsp;NHL Rumors - ProHockeyRumors.comInsider Trading: Blues and Sabres engaged in Thomas talks&nbsp;&nbsp;TSNNHL Rumour Roundup: Blues' Robert Thomas looking increasingly like trade candidate&nbsp;&nbsp;SportsnetCould the Mammoth really acquire R",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcllWeVFFbG1CallQb0E1ZUNVUlJrMlZhRFdSQjRLdTZkYlJ5eHl5anpxM1RWbV9uMmttb2hlb3lzXzBvaHlSRFRCZGpuTTBxNElkNXQ4NVNqbmRiWWNCajJoYWRvc3A3NE5BZWlUQVV1THhfSmlCeGZvMGpnVjdKSVdrbmM2Zi04RW50Vm9XUGtXZ2lpQTdJ?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 19:33:21 GMT",
-      "location": "Canada",
-      "category": "sports",
-      "fetched_at": "2026-03-04T04:14:48.515813"
+      "fetched_at": "2026-03-04T06:46:27.428291"
     },
     {
       "id": "30c90a146deb",
@@ -2028,7 +2160,7 @@
       "published": "Tue, 03 Mar 2026 19:33:16 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249586"
+      "fetched_at": "2026-03-04T06:46:27.077217"
     },
     {
       "id": "0b099e49eb6d",
@@ -2040,7 +2172,7 @@
       "published": "Tue, 03 Mar 2026 19:31:22 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.888057"
+      "fetched_at": "2026-03-04T06:46:26.544504"
     },
     {
       "id": "2470cc6ec547",
@@ -2052,7 +2184,7 @@
       "published": "Tue, 03 Mar 2026 19:30:24 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310544"
+      "fetched_at": "2026-03-04T06:46:27.428325"
     },
     {
       "id": "4894ea95480a",
@@ -2064,7 +2196,7 @@
       "published": "Tue, 03 Mar 2026 19:30:24 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146496"
+      "fetched_at": "2026-03-04T06:46:27.824154"
     },
     {
       "id": "06101935efe2",
@@ -2076,7 +2208,7 @@
       "published": "Tue, 03 Mar 2026 19:22:26 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.289255"
+      "fetched_at": "2026-03-04T06:46:27.355985"
     },
     {
       "id": "193b2a919ddf",
@@ -2088,7 +2220,7 @@
       "published": "Tue, 03 Mar 2026 19:07:21 +0000",
       "location": "Toronto",
       "category": "politics",
-      "fetched_at": "2026-03-04T04:14:47.167358"
+      "fetched_at": "2026-03-04T06:46:26.228045"
     },
     {
       "id": "bc785a6bbb5f",
@@ -2100,19 +2232,7 @@
       "published": "Tue, 03 Mar 2026 19:05:59 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-03-04T04:14:46.102916"
-    },
-    {
-      "id": "ed0f904a7931",
-      "title": "Iran’s war is not distant for Canada: Joe Varner in the Western Standard - The Macdonald-Laurier Institute",
-      "description": "Iran’s war is not distant for Canada: Joe Varner in the Western Standard&nbsp;&nbsp;The Macdonald-Laurier Institute",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUFvUUtITFY1RWc3WVl6emw2TnprdmwyTmJpeUJoS1VMaWlWY1Z2VHVVbzF4ZDRPMWV2SUs0N3BoOUEyOEZBX3g3TG5FTVZvSkFmRTlodkttZkVCXy1oMDY0S2lVdW1aZlVvUzdtLTdUVlRHbXktVVo1dWVxc25lWGNJNVNjOU9PbUo1VmszNGZaOFdMNFE5TzRlakp2a3VG?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 19:05:47 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153761"
+      "fetched_at": "2026-03-04T06:46:24.375139"
     },
     {
       "id": "bb9a3cb374aa",
@@ -2124,7 +2244,7 @@
       "published": "Tue, 03 Mar 2026 19:01:35 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200489"
+      "fetched_at": "2026-03-04T06:46:24.468474"
     },
     {
       "id": "5ee53ce48ff0",
@@ -2136,7 +2256,7 @@
       "published": "Tue, 03 Mar 2026 19:00:11 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249615"
+      "fetched_at": "2026-03-04T06:46:27.077246"
     },
     {
       "id": "d32f8fbd9b28",
@@ -2148,19 +2268,7 @@
       "published": "Tue, 03 Mar 2026 19:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.122187"
-    },
-    {
-      "id": "28e9566200f7",
-      "title": "New charges for son of Norway's crown princess on trial for rape",
-      "description": "Marius Borg Høiby now faces a total of 40 charges at his trial and denies the most serious allegations.",
-      "url": "https://www.bbc.com/news/articles/c0e5r28y3xqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38b4/live/b6ff8070-1726-11f1-b048-c9424b2cf5fd.jpg",
-      "published": "Tue, 03 Mar 2026 18:59:39 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.357974"
+      "fetched_at": "2026-03-04T06:46:24.393834"
     },
     {
       "id": "fb47993d43bb",
@@ -2172,19 +2280,7 @@
       "published": "Tue, 03 Mar 2026 18:58:34 +0000",
       "location": "Ottawa",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:47.131578"
-    },
-    {
-      "id": "02203bdefc2b",
-      "title": "‘The concert ticket industry is broken,’ justice department says as Ticketmaster trial begins - The Guardian",
-      "description": "‘The concert ticket industry is broken,’ justice department says as Ticketmaster trial begins&nbsp;&nbsp;The GuardianLive Nation's antitrust trial is underway in the U.S. What could it mean for Canada?&nbsp;&nbsp;CBCThe U.S. Justice Department’s suit against Live Nation heads to court this week. Her",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNME1iWlppTjhPQ09yMGM1VFp3SGNJak5jZ0RmcmIxRThvYlliZ0F6YkE2M3YzeDNJRGZFa29HSVJBZGVUM0ZqQXNZdXRkM0YyWHhCR2lEc2tDbkotaGliYTAxZF9uMlFndk9mNWNfeGViVlRFZVFDX2s4ZzM4dXNHaHh6N0w1MFpkcW1DUjU1RXV4UW9K?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 18:56:00 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:48.326447"
+      "fetched_at": "2026-03-04T06:46:25.909400"
     },
     {
       "id": "c96a5b753856",
@@ -2196,19 +2292,19 @@
       "published": "Tue, 03 Mar 2026 18:55:20 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.289281"
+      "fetched_at": "2026-03-04T06:46:27.356010"
     },
     {
       "id": "3508dde1275a",
       "title": "Three teams have reported trade interest on Canucks' Elias Pettersson - Daily Hive Vancouver",
-      "description": "Three teams have reported trade interest on Canucks' Elias Pettersson&nbsp;&nbsp;Daily Hive VancouverPettersson ignoring trade rumors, 'just trying to play a good game' for Canucks&nbsp;&nbsp;NHL.comCanucks: Elias Pettersson's struggles pain him. Is his future here?&nbsp;&nbsp;The Province'I Haven't",
+      "description": "Three teams have reported trade interest on Canucks' Elias Pettersson&nbsp;&nbsp;Daily Hive VancouverPettersson ignoring trade rumors, 'just trying to play a good game' for Canucks&nbsp;&nbsp;NHL.com'I Haven't Lived Up To Expectations Of The Contract, & I'll Be The First One To Say It': Canucks Elia",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWVQ5aGE4aUplOU9mbWEyRVU3Y1gzQXFOWl9VQnZWOXZXUlJkcnlIbWFra2J5OUwxRzV1eUZBLTJuS2xYZTZsU0c2VDR3Nm5FMXVGeThhWmZWV3VOcDJFZnFiM0g5UlE4ZndobFRSSW1GMm55X2dtRjVqUVVGbDFJdFRfVERZZUZlcTBZQmZCZ1RvTl9QRTlr?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 03 Mar 2026 18:54:00 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-03-04T04:14:48.515622"
+      "fetched_at": "2026-03-04T06:46:27.116396"
     },
     {
       "id": "e0e9cfce0469",
@@ -2220,7 +2316,7 @@
       "published": "Tue, 03 Mar 2026 18:49:14 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249640"
+      "fetched_at": "2026-03-04T06:46:27.077271"
     },
     {
       "id": "d8ece9e8f020",
@@ -2232,7 +2328,7 @@
       "published": "Tue, 03 Mar 2026 18:45:47 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310572"
+      "fetched_at": "2026-03-04T06:46:27.428353"
     },
     {
       "id": "8bb1646b3adb",
@@ -2244,7 +2340,7 @@
       "published": "Tue, 03 Mar 2026 18:45:47 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146530"
+      "fetched_at": "2026-03-04T06:46:27.824188"
     },
     {
       "id": "22ec093f743d",
@@ -2256,7 +2352,7 @@
       "published": "Tue, 03 Mar 2026 18:45:00 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:48.408034"
+      "fetched_at": "2026-03-04T06:46:26.882627"
     },
     {
       "id": "b053911692f1",
@@ -2268,7 +2364,7 @@
       "published": "Tue, 03 Mar 2026 18:40:40 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.332270"
+      "fetched_at": "2026-03-04T06:46:27.250821"
     },
     {
       "id": "2d8bb58d25eb",
@@ -2280,7 +2376,7 @@
       "published": "Tue, 03 Mar 2026 18:36:27 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200508"
+      "fetched_at": "2026-03-04T06:46:24.468494"
     },
     {
       "id": "696340c90b55",
@@ -2292,7 +2388,7 @@
       "published": "Tue, 03 Mar 2026 18:36:03 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:47.131621"
+      "fetched_at": "2026-03-04T06:46:25.909443"
     },
     {
       "id": "648b63ee46cc",
@@ -2304,7 +2400,7 @@
       "published": "Tue, 03 Mar 2026 18:35:30 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.859976"
+      "fetched_at": "2026-03-04T06:46:27.016859"
     },
     {
       "id": "e1ab593f32c6",
@@ -2316,7 +2412,7 @@
       "published": "Tue, 03 Mar 2026 18:20:59 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-03-04T04:14:46.102959"
+      "fetched_at": "2026-03-04T06:46:24.375180"
     },
     {
       "id": "2769df924d28",
@@ -2328,19 +2424,7 @@
       "published": "Tue, 03 Mar 2026 18:17:33 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.888082"
-    },
-    {
-      "id": "207b089dafe6",
-      "title": "Scherzer calls daughter's letter to Blue Jays 'the cutest thing you can possibly imagine' - TSN",
-      "description": "Scherzer calls daughter's letter to Blue Jays 'the cutest thing you can possibly imagine'&nbsp;&nbsp;TSNTrust between Max Scherzer, John Schneider essential to Blue Jays' success&nbsp;&nbsp;SportsnetBlue Jays veteran Max Scherzer shares inside story behind his daughter’s viral letter&nbsp;&nbsp;Toro",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNERiaXhLa25IWVVhWGVjYVBtaG52YzZ2WHdEdnVUeWIwZWJmOTMzcEh2cFNCSVFOM2ktTWQtT0dBZmZRUkZyRFRMSm9SWjBvOWtzaHJvdlBmQXFKU3NDaUE1Z212dFd0bEYtQ2Z5RC1tcFhFbS03Y0hQbHlyekpKTGYwYmNjenJvZVBfY0llS0ZVcUlxS21hOXU2d0M5NVlRUGxNbG5RaFJ3LTFNZmszbkRKT2Zaekt2YkE?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 18:10:29 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2026-03-04T04:14:48.515241"
+      "fetched_at": "2026-03-04T06:46:26.544530"
     },
     {
       "id": "a8f497dc80c2",
@@ -2352,31 +2436,19 @@
       "published": "Tue, 03 Mar 2026 18:08:52 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.289304"
-    },
-    {
-      "id": "994772a6d3b7",
-      "title": "3 Toronto residents charged in $360K Markham fraud scheme involving fake invoices: police",
-      "description": "York Regional Police (YRP) have charged three Toronto residents in an alleged long‑running fraud scheme that investigators say siphoned more than $360,000 from a Markham business through falsified invoices and shell companies. The investigation began after the victimized business uncovered suspiciou",
-      "url": "https://toronto.citynews.ca/2026/03/03/toronto-residents-charged-360-thousand-markham-fraud/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 18:05:28 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2026-03-04T04:14:48.888113"
+      "fetched_at": "2026-03-04T06:46:27.356033"
     },
     {
       "id": "b532d36a10c2",
       "title": "Hacked traffic cameras and US intelligence: How a plot to kill Iran’s supreme leader came together - CNN",
-      "description": "Hacked traffic cameras and US intelligence: How a plot to kill Iran’s supreme leader came together&nbsp;&nbsp;CNNWho will lead Iran now that Khamenei is gone? It's not clear&nbsp;&nbsp;CBCRussia, China raise diplomatic voices against US-Israeli attacks on Iran&nbsp;&nbsp;Al JazeeraTrump Opens the Pa",
+      "description": "Hacked traffic cameras and US intelligence: How a plot to kill Iran’s supreme leader came together&nbsp;&nbsp;CNNRussia, China raise diplomatic voices against US-Israeli attacks on Iran&nbsp;&nbsp;Al JazeeraWho will lead Iran now that Khamenei is gone? It's not clear&nbsp;&nbsp;CBCTrump Opens the Pa",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXlKOHlNMUlOUl9sMzU3VEhUWEVNWmplZEd2MFpPeHU2VmZUMWpDLVRQeGxGaVJWc2Vfem1hakc2UzI3ZEZLZWdLS0puWktRUWZjWmJWWWV2M2JMVFZkblhlZXBiOVhRYmw5TnBmN0ctVUVHVUF6cy1rOXA1Y1NyU0Vhcm9NRV9oSlFsTTB2QQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 03 Mar 2026 17:59:45 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:48.408168"
+      "fetched_at": "2026-03-04T06:46:26.882686"
     },
     {
       "id": "248058ec482f",
@@ -2388,7 +2460,7 @@
       "published": "Tue, 03 Mar 2026 17:55:46 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-03-04T04:14:46.984891"
+      "fetched_at": "2026-03-04T06:46:25.218230"
     },
     {
       "id": "46983497596f",
@@ -2400,19 +2472,19 @@
       "published": "Tue, 03 Mar 2026 17:55:05 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.860012"
+      "fetched_at": "2026-03-04T06:46:27.016940"
     },
     {
       "id": "ccc0732b0adc",
       "title": "'Radio silence' after flights to London cancelled amid Middle East conflict - BBC",
-      "description": "'Radio silence' after flights to London cancelled amid Middle East conflict&nbsp;&nbsp;BBCThe hole in the sky: How Middle East airspace closures are reshaping global aviation&nbsp;&nbsp;CNN‘Need to get some support’: Families in Simcoe County wait for loved ones to return home from Middle East&nbsp;",
+      "description": "'Radio silence' after flights to London cancelled amid Middle East conflict&nbsp;&nbsp;BBCThe hole in the sky: How Middle East airspace closures are reshaping global aviation&nbsp;&nbsp;CNNThe Iran war has sparked travel chaos. How will flights be rerouted and can other airports meet the surge in de",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43a2FlcmsxN0V5YzZ4aEczSFFqWGg3YVNxdG5KMXh4N0FicGFCM0NVSHQ4dkMyUkpGTFo5RGg1RzhlamZjNk03S016WF9CcXVxSWY3M3d1YV9Kdw?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 03 Mar 2026 17:29:50 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:48.408234"
+      "fetched_at": "2026-03-04T06:46:26.882746"
     },
     {
       "id": "ca233f73c66c",
@@ -2424,7 +2496,7 @@
       "published": "Tue, 03 Mar 2026 17:17:31 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-03-04T04:14:47.167299"
+      "fetched_at": "2026-03-04T06:46:26.227977"
     },
     {
       "id": "b31d01151c62",
@@ -2436,7 +2508,7 @@
       "published": "Tue, 03 Mar 2026 17:16:30 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.332314"
+      "fetched_at": "2026-03-04T06:46:27.250868"
     },
     {
       "id": "795358668d4f",
@@ -2448,7 +2520,7 @@
       "published": "Tue, 03 Mar 2026 17:14:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.249664"
+      "fetched_at": "2026-03-04T06:46:27.077296"
     },
     {
       "id": "a359e79f9cb6",
@@ -2460,7 +2532,7 @@
       "published": "Tue, 03 Mar 2026 17:14:21 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.358013"
+      "fetched_at": "2026-03-04T06:46:25.368253"
     },
     {
       "id": "264f0d86309f",
@@ -2472,19 +2544,7 @@
       "published": "Tue, 03 Mar 2026 17:13:03 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146569"
-    },
-    {
-      "id": "5cc32d044705",
-      "title": "EDGE stats: 5 players to watch before 2026 NHL Trade Deadline - NHL.com",
-      "description": "EDGE stats: 5 players to watch before 2026 NHL Trade Deadline&nbsp;&nbsp;NHL.comDeals we'd like to see before the 2026 NHL trade deadline&nbsp;&nbsp;ESPNNHL's Top Four Goalie Trade Candidates Ahead Of Deadline&nbsp;&nbsp;The Hockey NewsIs there a stunning blockbuster trade in the works for this week",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVdnb3k1U1BUN29CTTJjR29GVmgzT0tUeEkyc1JTSmFPNjAzVWt6ZnRaOTVVT2N1OFY5ejY3ZnJLUFY5cFJJRTFQdEVoUDctRFJkekpudHVOcnZsTndqN3JsY24xekczVC0xR0tCbXA5dmQ1UDNvZWZ5ZDY3amE0RmIyeDJWVmxVZ1dvZ1FnOA?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 17:12:12 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2026-03-04T04:14:48.515310"
+      "fetched_at": "2026-03-04T06:46:27.824227"
     },
     {
       "id": "742d337d905f",
@@ -2496,7 +2556,7 @@
       "published": "Tue, 03 Mar 2026 17:11:51 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310598"
+      "fetched_at": "2026-03-04T06:46:27.428379"
     },
     {
       "id": "b27d16a4025d",
@@ -2508,7 +2568,19 @@
       "published": "Tue, 03 Mar 2026 17:10:07 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-03-04T04:14:47.167379"
+      "fetched_at": "2026-03-04T06:46:26.228069"
+    },
+    {
+      "id": "4b4fdb116888",
+      "title": "All of Toronto’s water meter transmission units will fail by September, and it will take over $100M to fix them - NOW Toronto",
+      "description": "All of Toronto’s water meter transmission units will fail by September, and it will take over $100M to fix them&nbsp;&nbsp;NOW TorontoToronto reveals steep cost to deal with failing water meters&nbsp;&nbsp;Toronto StarCity will replace all Toronto water meters because they are ‘failing earlier than ",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkw3M19EUDdkZjZhaUlkNWpRc2RyVFdoY1dhUkx1ZUF2RWFTU1ctOFN4ZW5IZEw2M0pJQXg4a21jNlBTbUk3SXJuanhYemVUM3o0ZnRoalU0Mkh3VDk0TWxCRGwxZ1JES3VmYVNKNDdYZDVDenJBZUVzRURPTUJrRkdDdDJhdzU1OENuYWFFN0NUZ3dHWTkydWNoQlRiMDl1ZVJyamptd1RFcGFVTzBOWjJMQnBDS1FadUZj?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 03 Mar 2026 17:07:58 GMT",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:26.354031"
     },
     {
       "id": "ba23112531bf",
@@ -2520,7 +2592,7 @@
       "published": "Tue, 03 Mar 2026 16:55:26 +0000",
       "location": "Toronto",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:47.131660"
+      "fetched_at": "2026-03-04T06:46:25.909481"
     },
     {
       "id": "f932b608f5f1",
@@ -2532,7 +2604,7 @@
       "published": "Tue, 03 Mar 2026 16:48:54 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-03-04T04:14:46.065462"
+      "fetched_at": "2026-03-04T06:46:24.315965"
     },
     {
       "id": "e5159f4ffed3",
@@ -2544,7 +2616,19 @@
       "published": "Tue, 03 Mar 2026 16:47:19 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-03-04T04:14:46.065487"
+      "fetched_at": "2026-03-04T06:46:24.316004"
+    },
+    {
+      "id": "3ad4eb60ae0b",
+      "title": "Jacobs, Koe, Gushue improve to 5-0 at Montana’s Brier - TSN",
+      "description": "Jacobs, Koe, Gushue improve to 5-0 at Montana’s Brier&nbsp;&nbsp;TSNLocals aim for playoff spots at Brier&nbsp;&nbsp;SooToday.comDunstone beats Calvert in all-Manitoba battle at Montana’s Brier&nbsp;&nbsp;Global NewsKevin Koe stays unbeaten at Brier with 7-6 win over Matt Dunstone&nbsp;&nbsp;The Glo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzBQUHJJd05lTmw1dWV6U1ZhR0FvU1VRdVdabE9LQU5SUlZDYVBfa1hna2VOdFNFbkVja2VGZWwtbktxRXhCNVF5TlBha2lpYTJSdklXWXdMVEl6RzVleG11NXlrRFFkUHEtcW0zZllSMlQ4bUNxVVVlSFRjT3pWQi1jWUY4dTRFN1NaMUUtMl9xY1lZT2ZlVFV1M2JzdDF4bzRic01rTE8?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 03 Mar 2026 16:41:54 GMT",
+      "location": "Calgary",
+      "category": "sports",
+      "fetched_at": "2026-03-04T06:46:27.115846"
     },
     {
       "id": "64a6d6d3a6d5",
@@ -2556,19 +2640,7 @@
       "published": "Tue, 03 Mar 2026 16:26:31 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310625"
-    },
-    {
-      "id": "b2009f0e1e08",
-      "title": "Why Europe's leaders have struggled to speak as one on Iran",
-      "description": "European nations say they want to work better together but have differing priorities",
-      "url": "https://www.bbc.com/news/articles/cn8z5zvlz5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9501/live/baa675c0-16e1-11f1-801d-ed3cff6bf876.jpg",
-      "published": "Tue, 03 Mar 2026 16:26:21 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.357873"
+      "fetched_at": "2026-03-04T06:46:27.428406"
     },
     {
       "id": "104d9a5aba13",
@@ -2580,31 +2652,7 @@
       "published": "Tue, 03 Mar 2026 15:49:36 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.328243"
-    },
-    {
-      "id": "a053af354cb8",
-      "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
-      "description": "Its attack on Israel in support of Iran has led to fresh mass displacements and Israeli bombing, to the fury of many Lebanese.",
-      "url": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de46/live/08ad24c0-170b-11f1-801d-ed3cff6bf876.jpg",
-      "published": "Tue, 03 Mar 2026 15:42:28 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.357804"
-    },
-    {
-      "id": "aa4958661be0",
-      "title": "Carney’s Iran Trap: How Trump’s War Could Become Canada’s Problem - Policy Magazine",
-      "description": "Carney’s Iran Trap: How Trump’s War Could Become Canada’s Problem&nbsp;&nbsp;Policy Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR19HVDhqeWhudEctNVlPWGtqSDZTLXdrUEs1V01hSVBlQVpDVXlwN2tHZ3dwVl9YdGR0WGRXTnZCTWxQZW1SakpoOV9ZQ3pIaFFsUU1lcDVZSEVNTHdHd2tzU0t1Q3paQ0N6N0pZN2t6NEtjNDJXNXlNNXJ0UlZBLWt1S04ydkFYakliQTY0S2FLZjdYdHpJ?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 15:38:41 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-03-04T04:14:48.153727"
+      "fetched_at": "2026-03-04T06:46:25.813207"
     },
     {
       "id": "7d8655bd8dfc",
@@ -2616,7 +2664,7 @@
       "published": "Tue, 03 Mar 2026 15:34:46 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:47.131700"
+      "fetched_at": "2026-03-04T06:46:25.909518"
     },
     {
       "id": "bd128363c145",
@@ -2628,31 +2676,19 @@
       "published": "Tue, 03 Mar 2026 15:32:46 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.310651"
+      "fetched_at": "2026-03-04T06:46:27.428432"
     },
     {
       "id": "d951b62dff62",
       "title": "Global energy prices soar as Iran crisis disrupts shipping, oil and gas production - BNN Bloomberg",
-      "description": "Global energy prices soar as Iran crisis disrupts shipping, oil and gas production&nbsp;&nbsp;BNN BloombergEnergy markets face global supply shock as Middle East war widens&nbsp;&nbsp;The Globe and MailHow Iran is strangling the world's oil supply | About That&nbsp;&nbsp;CBCWhat to know about the St",
+      "description": "Global energy prices soar as Iran crisis disrupts shipping, oil and gas production&nbsp;&nbsp;BNN BloombergIran’s IRGC say they have ‘complete control’ over Strait of Hormuz&nbsp;&nbsp;The Times of IsraelEnergy markets face global supply shock as Middle East war widens&nbsp;&nbsp;The Globe and MailI",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMVpPOXl1OVdmazc4NWdnd1BjaElmWDByUVZBWXlCM1NPWGNLN3BvNjNCNUx0alRMTHE3Qy0xUW56anlPY2diaFFfWFN5X081c1JhalF5NmVINGtPRUtZMHlUbkFfY0lmMEhFNmdsbnJ0V19mWmlod2M3TENveTllSWFuRUJ6M0M4SS1zY2h4dFNrQkRaNk1ZOTk2VUVZVGVoSW1DVTFZTjFrSnRqVjk5ZU9MekI5bkh6V3ltUUJ6NG16bmgxWnZWSEIwTGE?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 03 Mar 2026 15:07:37 GMT",
-      "location": "Vancouver",
+      "location": "World",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:48.320422"
-    },
-    {
-      "id": "246e6b117e49",
-      "title": "S&P/TSX composite down more than 800 points, price of oil climbs higher",
-      "description": "TORONTO — Canada&#8217;s main stock index dived, then pared back some of its losses in early-afternoon trading as investors worried about a widening of the war between Iran and the United States and Israel. The cost of crude oil was up as Iran launched a series of retaliatory attacks, including a dr",
-      "url": "https://montreal.citynews.ca/2026/03/03/sp-tsx-composite-down-over-1000-points-price-of-oil-rises/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 14:53:43 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.332352"
+      "fetched_at": "2026-03-04T06:46:26.353857"
     },
     {
       "id": "4fa768672bb2",
@@ -2664,19 +2700,19 @@
       "published": "Tue, 03 Mar 2026 14:53:43 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.860046"
+      "fetched_at": "2026-03-04T06:46:27.016980"
     },
     {
-      "id": "d48bceefcae2",
+      "id": "246e6b117e49",
       "title": "S&P/TSX composite down more than 800 points, price of oil climbs higher",
       "description": "TORONTO — Canada&#8217;s main stock index dived, then pared back some of its losses in early-afternoon trading as investors worried about a widening of the war between Iran and the United States and Israel. The cost of crude oil was up as Iran launched a series of retaliatory attacks, including a dr",
-      "url": "https://edmonton.citynews.ca/2026/03/03/sp-tsx-composite-down-over-1000-points-price-of-oil-rises/",
-      "source": "CityNews Edmonton",
+      "url": "https://montreal.citynews.ca/2026/03/03/sp-tsx-composite-down-over-1000-points-price-of-oil-rises/",
+      "source": "CityNews Montreal",
       "image": "",
       "published": "Tue, 03 Mar 2026 14:53:43 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:50.146607"
+      "fetched_at": "2026-03-04T06:46:27.250928"
     },
     {
       "id": "eb1cdb918b81",
@@ -2688,7 +2724,19 @@
       "published": "Tue, 03 Mar 2026 14:45:03 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200533"
+      "fetched_at": "2026-03-04T06:46:24.468521"
+    },
+    {
+      "id": "a322e05a21d5",
+      "title": "Prediction market bets on Iran strikes spur allegations of insider trading - CBC",
+      "description": "Prediction market bets on Iran strikes spur allegations of insider trading&nbsp;&nbsp;CBCHow Anonymous Bettors Cashed In on the Iran Strike, Just Hours Before It Happened&nbsp;&nbsp;The New York TimesPrediction market trader 'Magamyman' made $553,000 on death of Iran's supreme leader&nbsp;&nbsp;NPRA",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWxidXZyeVljTmY5Wmc4UTFIcEdNNlRWY3FmTk9JNkRoRVltdGk1LVh0V293ckpSNTAxUm0wZWs0RW1kamNKemNiWHY4R1NRWDhHZFVBUVM2RVRtZWpOeHlwcDVDTm5Ya3czNkNDUFZ2WjdiSXJyaS0wOEFYMmZ3cy04WE9NU3VGZ1djZk5mUEY5MUZxQjY2RzVna3hnQVdTVTlqNTREV3drZw?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Tue, 03 Mar 2026 14:40:04 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-03-04T06:46:26.353974"
     },
     {
       "id": "c1ed4ac9e4a7",
@@ -2700,7 +2748,7 @@
       "published": "Tue, 03 Mar 2026 14:21:44 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.860080"
+      "fetched_at": "2026-03-04T06:46:27.017016"
     },
     {
       "id": "7039e27807a9",
@@ -2712,7 +2760,7 @@
       "published": "Tue, 03 Mar 2026 14:00:00 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:47.131756"
+      "fetched_at": "2026-03-04T06:46:25.909564"
     },
     {
       "id": "48bb32954551",
@@ -2724,31 +2772,19 @@
       "published": "Tue, 03 Mar 2026 13:57:39 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.332393"
+      "fetched_at": "2026-03-04T06:46:27.250971"
     },
     {
-      "id": "2b943fdf8a87",
-      "title": "Zelensky fears Trump's Iran war could hurt Ukraine",
-      "description": "Ukraine fears what soaring oil prices and a shortage in air defences could mean for them.",
-      "url": "https://www.bbc.com/news/articles/clyv10dre79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/338cbb70-16ec-11f1-a08f-e920bb46cb87.jpg",
-      "published": "Tue, 03 Mar 2026 13:41:43 GMT",
+      "id": "9871370974dd",
+      "title": "Breaking down every NHL team’s draft pick situation ahead of 2026 NHL Trade Deadline - Daily Faceoff",
+      "description": "Breaking down every NHL team’s draft pick situation ahead of 2026 NHL Trade Deadline&nbsp;&nbsp;Daily FaceoffDeals we'd like to see before the 2026 NHL trade deadline&nbsp;&nbsp;ESPNPlayers to watch ahead of Deadline include O'Reilly, Stamkos, Myers&nbsp;&nbsp;NHL.comIs there a stunning blockbuster ",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmVWcDVHWUlxTXdZNlgyQUt1Mk9ZRFExVkxCSVZDY2pqWVU3UlptSHdJQUozODNfYy1OZGRLUnkwRERpMi0yTVRWYzhBMWQyQTJYTE1WR1lfNU9taVR5LWJ0NzVFTjFDbnJQdU1OQWtadlVtVHd0VlFyUXRWalkyS0hqQnVUc3BGcm93X1pjUEY0MVRrSW5yd2FZamhVRlB0NG5meERMNkJ0TWlfZVBtc2tzdkJPSk1JYUE?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 03 Mar 2026 13:47:00 GMT",
       "location": "World",
-      "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.357936"
-    },
-    {
-      "id": "a1246230f62d",
-      "title": "Thousands of travellers left stranded in the Middle East as Iran war complicates routes home",
-      "description": "More than 19,000 of roughly 51,600 flights have been cancelled, according to aviation analytics firm Cirium",
-      "url": "https://www.theglobeandmail.com/world/article-us-iran-war-travel-flights-middle-east-conflict/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/5K67Y4HJENAX7DLWRMOWM5XM2Y.JPG?auth=9fa3e5711bd464a8d3cbf9dbd52ee6d3eb61de23823fddd143f2c1e007cdceba&smart=true&width=5613&height=3987",
-      "published": "Tue, 03 Mar 2026 13:37:22 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.753217"
+      "category": "sports",
+      "fetched_at": "2026-03-04T06:46:27.116077"
     },
     {
       "id": "85f2a307f317",
@@ -2760,7 +2796,7 @@
       "published": "Tue, 03 Mar 2026 13:31:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200556"
+      "fetched_at": "2026-03-04T06:46:24.468544"
     },
     {
       "id": "7a8340bb0262",
@@ -2772,7 +2808,7 @@
       "published": "Tue, 03 Mar 2026 13:22:31 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.860126"
+      "fetched_at": "2026-03-04T06:46:27.017064"
     },
     {
       "id": "29dc02762a71",
@@ -2784,7 +2820,7 @@
       "published": "Tue, 03 Mar 2026 13:11:17 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-03-04T04:14:47.328298"
+      "fetched_at": "2026-03-04T06:46:25.813264"
     },
     {
       "id": "efea0b3e3fa8",
@@ -2796,7 +2832,7 @@
       "published": "Tue, 03 Mar 2026 13:10:50 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-03-04T04:14:46.985153"
+      "fetched_at": "2026-03-04T06:46:25.218477"
     },
     {
       "id": "1f3f2c505a20",
@@ -2808,7 +2844,7 @@
       "published": "Tue, 03 Mar 2026 13:02:24 GMT",
       "location": "Toronto",
       "category": "sports",
-      "fetched_at": "2026-03-04T04:14:48.515533"
+      "fetched_at": "2026-03-04T06:46:27.116231"
     },
     {
       "id": "9271b9df847d",
@@ -2820,7 +2856,7 @@
       "published": "Tue, 03 Mar 2026 12:31:18 EST",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-03-04T04:14:46.985202"
+      "fetched_at": "2026-03-04T06:46:25.218519"
     },
     {
       "id": "55f022232b5e",
@@ -2832,7 +2868,7 @@
       "published": "Tue, 03 Mar 2026 12:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200598"
+      "fetched_at": "2026-03-04T06:46:24.468566"
     },
     {
       "id": "057ddb74cd01",
@@ -2844,19 +2880,7 @@
       "published": "Tue, 03 Mar 2026 12:25:06 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.860182"
-    },
-    {
-      "id": "fdeec493a9a6",
-      "title": "Skidding Leafs trying to stay positive as season slips away: ‘It’s a tough time for our group’ - TSN",
-      "description": "Skidding Leafs trying to stay positive as season slips away: ‘It’s a tough time for our group’&nbsp;&nbsp;TSNResignation replacing frustration as Maple Leafs drop fourth straight&nbsp;&nbsp;SportsnetThe only thing left to cheer for in Toronto? Embracing the Maple Leafs tank&nbsp;&nbsp;The New York T",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUhnM0xQNm9uUGlyUW8yamJ1RTdDRHJpd3FVek9nSG9ydlNESnVVM3UxWVRYMl9EajRoa1J1ME1zVkJqdldHNGNOc3MtOHRNekQwWGo5M2FDRTJDeno2QjVnajAxR2dsXzlPaGVna3ViNTRrN0RHeWhoZ2ZwLS0za1lfdVlCR0hNS3ZRMGpvMm94TjZGWVNSUVQyejlJQU9QSEJ1d0lzSm1LVkJhaDN2dy1kdXo1cnZhcVNfN3dSaw?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 12:21:46 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2026-03-04T04:14:48.515704"
+      "fetched_at": "2026-03-04T06:46:27.017099"
     },
     {
       "id": "af0d73a8a3e2",
@@ -2868,7 +2892,7 @@
       "published": "Tue, 03 Mar 2026 12:01:31 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.218111"
+      "fetched_at": "2026-03-04T06:46:27.264850"
     },
     {
       "id": "c4d276f0c780",
@@ -2880,7 +2904,7 @@
       "published": "Tue, 03 Mar 2026 12:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200625"
+      "fetched_at": "2026-03-04T06:46:24.468587"
     },
     {
       "id": "7240ce0e636c",
@@ -2892,7 +2916,7 @@
       "published": "Tue, 03 Mar 2026 12:00:00 +0000",
       "location": "Toronto",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:47.131791"
+      "fetched_at": "2026-03-04T06:46:25.909600"
     },
     {
       "id": "fe4d8c955bae",
@@ -2904,7 +2928,7 @@
       "published": "Tue, 03 Mar 2026 11:30:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200646"
+      "fetched_at": "2026-03-04T06:46:24.468608"
     },
     {
       "id": "33ded158d72f",
@@ -2916,19 +2940,19 @@
       "published": "Tue, 03 Mar 2026 11:25:59 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-03-04T04:14:47.167232"
+      "fetched_at": "2026-03-04T06:46:26.227899"
     },
     {
       "id": "ef9ffe27165c",
       "title": "Northern Ontario pavilion at PDAC highlights 110 exhibits and years of growth - SooToday.com",
-      "description": "Northern Ontario pavilion at PDAC highlights 110 exhibits and years of growth&nbsp;&nbsp;SooToday.comPDAC 2026: Gold and copper are the go-tos as investors seek tangible assets amid ongoing global uncertainty&nbsp;&nbsp;Yahoo! Finance Canada‘Saskatchewan Day’ showcases province’s world-class mining ",
+      "description": "Northern Ontario pavilion at PDAC highlights 110 exhibits and years of growth&nbsp;&nbsp;SooToday.comPDAC 2026: Gold and copper are the go-tos as investors seek tangible assets amid ongoing global uncertainty&nbsp;&nbsp;Financial PostCritical minerals in focus as major Toronto mining conference unde",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmg5NWRteUdoYUhUNTFrWGhLd3AzaFdHMlVRVkMyNkMyX1dwREFzT1ZyX1ZhbWlKU21TTHdYS2NZc3VNbmVQNzhwVExWcW54b28wT3NpN293bGd4bmg4dEFQTDJsUmktUTc5aEI3SllkNTNCSFJsTTBBR05ENW1LX3dRZ2Zrc2Z4SHlmZlJFZk9hQzdCN3ZFWEsyNG1Va1FtQzRYRnBhTklQX1ZuRVFUTW05X2pWV1ZtX1BHZU5wMA?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Tue, 03 Mar 2026 11:19:32 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:48.320903"
+      "fetched_at": "2026-03-04T06:46:26.354309"
     },
     {
       "id": "239a01be6cf4",
@@ -2940,7 +2964,7 @@
       "published": "Tue, 03 Mar 2026 11:00:08 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-03-04T04:14:49.860217"
+      "fetched_at": "2026-03-04T06:46:27.017250"
     },
     {
       "id": "d4430fe66aa4",
@@ -2952,7 +2976,7 @@
       "published": "Tue, 03 Mar 2026 11:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200666"
+      "fetched_at": "2026-03-04T06:46:24.468629"
     },
     {
       "id": "6a91036c6137",
@@ -2964,99 +2988,75 @@
       "published": "Tue, 03 Mar 2026 11:00:00 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-03-04T04:14:46.753011"
+      "fetched_at": "2026-03-04T06:46:24.577683"
     },
     {
-      "id": "0567cb7ddd7d",
-      "title": "Intelligence emerges when the whole brain works as one",
-      "description": "For decades, scientists have mapped attention, memory, language, and reasoning to separate brain networks — yet one big mystery remained: why does the mind feel like a single, unified system? Researchers at the University of Notre Dame now suggest that intelligence doesn’t live in one “smart” region",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260303050632.htm",
-      "source": "Science Daily",
+      "id": "388c0cf65551",
+      "title": "Raptors vs Knicks Prediction 3/3/26 NBA Picks Today | Sports Chat Place - Sports Chat Place",
+      "description": "Raptors vs Knicks Prediction 3/3/26 NBA Picks Today | Sports Chat Place&nbsp;&nbsp;Sports Chat PlaceKnicks loss proves Raptors can't compete with East's best&nbsp;&nbsp;SportsnetDouble-doubles from Brunson and Towns power Knicks’ 111-95 win over Raptors&nbsp;&nbsp;The Globe and MailRaps look to snap",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEppN28tWlBPbmROUmJHQmx6VVhadHVpWmJ5VUlrcDRiUFhNejZkTmQwT0VuS2VKMG4teHdBX1FiWVZEeks5RWo0NjBmVDFweVU1dlJrcTFEQmdjb29yajFnQktNMm1KdF9QQ1JJYjY5bnpfaVpyYWRCV2RpTGp4b1NmUUZLOWhhd2J1VEtVRFNXRWJ40gGaAUFVX3lxTE94OVpJazFzX3dMWS02TXFUZUdjU3ZXVldFaE5TaTRBVm5UMHd0MzR6bUpaZzl5cmZaZGtBMlBkU1lQYXM1aHY4T3YyUWlCVHA3R1Z0VHlCTHRBd1NxcEd0QmtRRFM4RDBHeU8yUENSTVM5cm5PSmFDeDUwVzdLTmR3R2dqUlR5NnpjTXZDalhIcG9tNFh3NjBhcmc?oc=5",
+      "source": "Google News Sports",
       "image": "",
-      "published": "Tue, 03 Mar 2026 10:32:13 EST",
+      "published": "Tue, 03 Mar 2026 10:38:56 GMT",
       "location": "World",
-      "category": "science",
-      "fetched_at": "2026-03-04T04:14:46.985055"
-    },
-    {
-      "id": "be75c9c97ee3",
-      "title": "Best Pajamas for Women (2026), WIRED Tested and Reviewed",
-      "description": "After testing 100-plus sets, these are the sleepwear brands that earned permanent spots in my closet and my bed.",
-      "url": "https://www.wired.com/story/the-best-pajamas-brands-for-women/",
-      "source": "Wired",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 10:30:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-03-04T04:14:46.200684"
-    },
-    {
-      "id": "eb059ec69603",
-      "title": "Before the Bell: What every Canadian investor needs to know today - The Globe and Mail",
-      "description": "Before the Bell: What every Canadian investor needs to know today&nbsp;&nbsp;The Globe and MailS&amp;P/TSX composite down over 1,000 points, price of oil rises&nbsp;&nbsp;CityNews VancouverTSX, Dow drop more than 300 points in Iran conflict fallout&nbsp;&nbsp;Financial PostTSX rises amid gain in oil",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMVVzS0ZNS0hoMlZMYmhiMnRBbzM5UEZKa2ZQUFYyYnl6ODhTajRjQkxEN0s1TmRtdnZZU0xpNUZ4Y1dCTVp2Ti1EREZiMndEaXRYTkxmUWFIMGRjTVY5bF9EUjNNd0lEZlFCZVFLdlR4TUxGbG5BQzJtX0hnR05EWDF1U3dpYTMtMzhWbHkxTGllOGYzVXlGNUVKeEI5cXRZNjh3V3hPblM2dEZIYWotMFN4SU1TQkxWOVduMEVmYlR4U2tuY1pyXzhBVk16RWVOVlV5aU9yd3VCN3hMTmpF?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Tue, 03 Mar 2026 10:29:05 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-03-04T04:14:48.321054"
+      "category": "sports",
+      "fetched_at": "2026-03-04T06:46:27.115948"
     }
   ],
   "sources": [
-    "Edmonton Journal",
-    "Google News Tech",
-    "The Guardian",
-    "CityNews Toronto",
-    "CityNews Edmonton",
-    "BBC World",
-    "CityNews Montreal",
-    "Al Jazeera",
-    "Google News Sports",
-    "BetaKit",
-    "Calgary Sun",
-    "TechCrunch",
-    "CityNews Vancouver",
-    "Global News",
-    "Google News Canada",
-    "CNN World",
-    "Montreal Gazette",
-    "CityNews Ottawa",
+    "CityNews Calgary",
+    "Science Daily",
     "Google News Business",
-    "Financial Post",
+    "Google News Canada",
+    "National Post Politics",
+    "CityNews Ottawa",
+    "CityNews Montreal",
+    "Google News Tech",
+    "Wired",
     "Vancouver Sun",
     "Ottawa Citizen",
-    "Globe Business",
-    "APTN News",
-    "Science Daily",
-    "Wired",
-    "National Post",
-    "National Post Politics",
+    "CityNews Edmonton",
+    "Edmonton Journal",
+    "CityNews Vancouver",
+    "BetaKit",
+    "TechCrunch",
     "Global Politics",
-    "CityNews Calgary"
+    "Globe Business",
+    "CNN World",
+    "Google News Sports",
+    "Financial Post",
+    "Global News",
+    "BBC World",
+    "Calgary Sun",
+    "The Guardian",
+    "Montreal Gazette",
+    "National Post",
+    "Al Jazeera",
+    "APTN News",
+    "CityNews Toronto"
   ],
   "stats": {
     "by_location": {
-      "World": 116,
-      "Vancouver": 28,
-      "Toronto": 26,
+      "World": 120,
+      "Vancouver": 29,
+      "Toronto": 19,
+      "Canada": 31,
+      "Ottawa": 16,
+      "Winnipeg": 2,
       "Edmonton": 17,
-      "Canada": 33,
       "Montreal": 9,
-      "Ottawa": 11,
-      "Calgary": 8,
-      "Winnipeg": 2
+      "Calgary": 7
     },
     "by_category": {
-      "local": 98,
+      "local": 99,
       "world": 25,
       "business": 29,
-      "canada": 27,
       "technology": 36,
+      "canada": 30,
       "sports": 9,
-      "politics": 12,
       "indigenous": 9,
-      "science": 5
+      "politics": 9,
+      "science": 4
     },
     "source_count": 30
   }
