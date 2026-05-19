@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T03:42:38.751096",
+  "last_updated": "2026-05-19T07:55:50.610474",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 13 May 2026 23:00:46 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:53.721174"
+      "fetched_at": "2026-05-19T07:43:49.004951"
     },
     {
       "id": "77b531a617e1",
@@ -24,7 +24,7 @@
       "published": "Wed, 13 May 2026 21:03:15 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:53.721210"
+      "fetched_at": "2026-05-19T07:43:49.004982"
     },
     {
       "id": "776c5dfa20f4",
@@ -36,7 +36,7 @@
       "published": "Wed, 13 May 2026 20:53:00 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:53.721249"
+      "fetched_at": "2026-05-19T07:43:49.005014"
     },
     {
       "id": "adf5e1ce7985",
@@ -48,7 +48,7 @@
       "published": "Wed, 13 May 2026 17:44:09 +0000",
       "location": "Ottawa",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:53.721283"
+      "fetched_at": "2026-05-19T07:43:49.005042"
     },
     {
       "id": "87b1c8b2f2c0",
@@ -60,7 +60,7 @@
       "published": "Wed, 13 May 2026 11:00:59 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.070981"
+      "fetched_at": "2026-05-19T07:43:51.794878"
     },
     {
       "id": "820d5e4b9d88",
@@ -72,7 +72,7 @@
       "published": "Wed, 13 May 2026 11:00:02 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.071038"
+      "fetched_at": "2026-05-19T07:43:51.794925"
     },
     {
       "id": "156158691898",
@@ -84,7 +84,7 @@
       "published": "Wed, 13 May 2026 03:00:07 +0000",
       "location": "Ottawa",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:53.721324"
+      "fetched_at": "2026-05-19T07:43:49.005077"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -96,7 +96,499 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.991665"
+      "fetched_at": "2026-05-19T07:43:50.415580"
+    },
+    {
+      "id": "bb686a489403",
+      "title": "Berlin Kicks Off Uniper Sale as It Eyes Utility Mega-Deal",
+      "description": "Germany launched the privatization of energy provider Uniper SE, opening the door to what could become Europe’s biggest utility deal this year.",
+      "url": "https://financialpost.com/pmn/business-pmn/berlin-kicks-off-uniper-sale-as-it-eyes-utility-mega-deal",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 07:35:40 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439396"
+    },
+    {
+      "id": "754c9e093402",
+      "title": "Global Bond Selloff Threatens Turmoil in Weakest Asian Economies",
+      "description": "Three of Asia’s most vulnerable economies are showing rising strains as their central banks come under pressure to tighten policy even as the economic hit from the Iran-war oil shock deepens.",
+      "url": "https://financialpost.com/pmn/business-pmn/global-bond-selloff-threatens-turmoil-in-weakest-asian-economies",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 07:35:32 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439434"
+    },
+    {
+      "id": "cb9e9a464c09",
+      "title": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+      "description": "US president says he held off a scheduled attack on Iran after pressure from Gulf allies as renewed talks gain momentum.",
+      "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 19 May 2026 07:26:51 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.289626"
+    },
+    {
+      "id": "b0b1380f1fd2",
+      "title": "Two dead in Spain shooting, with babies reportedly among injured",
+      "description": "Police say a 25-year-old man is suspected of killing his parents and injuring four others in southern Spain.",
+      "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e71a/live/7393cf90-534d-11f1-a3a3-4f3d94e2e5c7.jpg",
+      "published": "Tue, 19 May 2026 07:17:15 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.204866"
+    },
+    {
+      "id": "3cdedf79b903",
+      "title": "India-Nordic summit: Why is Modi wooing Northern Europe?",
+      "description": "Technology, green transition, geopolitics and India&#039;s role in the Arctic region are among key topics on the agenda.",
+      "url": "https://www.aljazeera.com/news/2026/5/19/india-nordic-summit-why-is-modi-wooing-northern-europe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 19 May 2026 07:15:36 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.289670"
+    },
+    {
+      "id": "e789c5010a0e",
+      "title": "Kenya Cuts Diesel Prices After Deadly Protests Over Fuel Costs",
+      "description": "Kenya cut diesel prices after deadly protests over surging fuel costs, seeking to ease pressure on transport operators and households as unrest over the rising cost of living intensifies.",
+      "url": "https://financialpost.com/pmn/business-pmn/kenya-cuts-diesel-prices-after-deadly-protests-over-fuel-costs",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 07:15:03 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439462"
+    },
+    {
+      "id": "eb8b661fea0a",
+      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+      "description": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/805e0a80-5328-11f1-8b8c-6d33e1d5abb6.jpg",
+      "published": "Tue, 19 May 2026 07:07:55 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.204744"
+    },
+    {
+      "id": "3ec585b749fc",
+      "title": "The Alberta-Ottawa pipeline agreement gets Canada off the starting blocks - The Hub | More Signal. Less Noise.",
+      "description": "The Alberta-Ottawa pipeline agreement gets Canada off the starting blocks&nbsp;&nbsp;The Hub | More Signal. Less Noise.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDlZOHdSd2dNTm9IcWl2eXBMZDF4dFQzZkFUZlZ2MmRBZ09UWmszdUl4b0RyOUZybmlwblBFaEJaZU5zZnFlN3FRenNJTFBqZkItcUJWb205TDJWWW9yLXg4UkVtVGF3NFMtdzMzc0tScU9OcnNYdGRKWjNHQTU2N25Nb1lBeHUtTkNMd1k5TGRtSlV4WHJta25CSDlPUU9Xc0lwTk9R?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 19 May 2026 07:00:56 GMT",
+      "location": "Ottawa",
+      "category": "canada",
+      "fetched_at": "2026-05-19T07:43:50.889140"
+    },
+    {
+      "id": "4716465eab86",
+      "title": "Singapore Stocks Reclaim Record High on Haven Demand in Iran War",
+      "description": "Singapore stocks climbed to a record as investors sought defensive havens during volatility sparked by the Iran war.",
+      "url": "https://financialpost.com/pmn/business-pmn/singapore-stocks-reclaim-record-high-on-haven-demand-in-iran-war",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 06:59:41 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439487"
+    },
+    {
+      "id": "7d97f39064bc",
+      "title": "Montreal police maintain heavy presence following Game 7 watch party at Bell Centre; at least two detained amid scattered incidents",
+      "description": "Police maintained a heavy presence around the Bell Centre on Sunday night as crowds gathered following a watch party for Game 7 of a playoff series between the Montreal Canadiens and the Buffalo Sabres. A large number of officers were deployed to manage the crowd. According to police, most of the cr",
+      "url": "https://montreal.citynews.ca/2026/05/19/montreal-police-detained-incidents/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Tue, 19 May 2026 06:52:56 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:51.842174"
+    },
+    {
+      "id": "5ed073578f1e",
+      "title": "UK Job Cuts Accelerate as Iran War Casts Shadow on Outlook",
+      "description": "UK employers slashed jobs by the most since the start of the pandemic in April, suggesting demand for workers is weakening as the Iran war pushes up energy costs and saps business confidence.",
+      "url": "https://financialpost.com/pmn/business-pmn/uk-job-cuts-accelerate-as-iran-war-casts-shadow-on-outlook",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 06:49:45 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439514"
+    },
+    {
+      "id": "d4e331f6a802",
+      "title": "Thailand Defies Court Challenge to Push Through Crisis Borrowing",
+      "description": "Thailand’s government is pushing ahead with a controversial 400 billion baht ($12 billion) emergency borrowing plan despite a court challenge that threatens to complicate its response to surging energy costs and slowing economic growth.",
+      "url": "https://financialpost.com/pmn/business-pmn/thailand-defies-court-challenge-to-push-through-crisis-borrowing",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 06:49:29 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439547"
+    },
+    {
+      "id": "632dd6717a04",
+      "title": "Global Building Emissions Tick Up as Urbanization Accelerates",
+      "description": "Gains in energy efficiency aren’t enough to offset the impact of new construction as built-up areas expand.",
+      "url": "https://financialpost.com/pmn/business-pmn/global-building-emissions-tick-up-as-urbanization-accelerates",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 06:34:30 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439574"
+    },
+    {
+      "id": "aac95b0665ed",
+      "title": "Japan’s Takaichi Meets Korea’s Lee Amid Iran, China Uncertainty",
+      "description": "Japanese Prime Minister Sanae Takaichi and South Korean President Lee Jae Myung are meeting Tuesday, seeking stronger economic ties amid increasing geopolitical uncertainty set off by the war in Iran and shifting dynamics between the US and China.",
+      "url": "https://financialpost.com/pmn/business-pmn/japans-takaichi-meets-koreas-lee-amid-iran-china-uncertainty",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 06:34:12 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439605"
+    },
+    {
+      "id": "8a9fb0608ccf",
+      "title": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
+      "description": "Starbucks withdrew the campaign for its drink tumblers after many said it referenced a bloody crackdown.",
+      "url": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb8/live/0f644f40-532a-11f1-9c13-5d0b58370758.jpg",
+      "published": "Tue, 19 May 2026 06:03:52 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.204946"
+    },
+    {
+      "id": "d5e1ad0a852a",
+      "title": "Wembanyama scores 41 as Spurs upset Thunder in Game 1 thriller",
+      "description": "French centre dominates as San Antonio steal a crucial 122–115 road win against defending NBA champions.",
+      "url": "https://www.aljazeera.com/sports/2026/5/19/wembanyama-scores-41-as-spurs-upset-thunder-in-game-1-thriller?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:57:00 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.289715"
+    },
+    {
+      "id": "67e554abf999",
+      "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
+      "description": "\"There's a common refrain among people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
+      "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:50:49 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.024264"
+    },
+    {
+      "id": "2e36c6caf286",
+      "title": "India Set for Record Central Bank Dividend to Cushion War Shock",
+      "description": "India’s central bank may transfer a record surplus of nearly 3 trillion rupees ($31.2 billion) this week to the government, economists estimated, providing Asia’s third-largest economy a vital buffer as the Iran war escalates energy prices.",
+      "url": "https://financialpost.com/pmn/business-pmn/india-set-for-record-central-bank-dividend-to-cushion-war-shock",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:38:28 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439637"
+    },
+    {
+      "id": "e0ae7e41950a",
+      "title": "At least 131 dead in Ebola outbreak in DR Congo, official says",
+      "description": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg",
+      "published": "Tue, 19 May 2026 05:23:57 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.204777"
+    },
+    {
+      "id": "7d1bc66a49a4",
+      "title": "Hidden Game: Alex Newhook’s overtime winner propels Canadiens to Eastern Conference final",
+      "description": "Montreal 3, Buffalo 2 (OT). \"We just got luckier,\" Dobes says. The post Hidden Game: Alex Newhook&#8217;s overtime winner propels Canadiens to Eastern Conference final appeared first on Montreal Gazette.",
+      "url": "https://montrealgazette.com/sports/hockey/montreal-canadiens/hidden-game-alex-newhooks-overtime-winner-propels-canadiens-to-eastern-conference-final/",
+      "source": "Montreal Gazette",
+      "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/05/051826-buf-spts-sabres-habs-p407_303226997.jpg",
+      "published": "Tue, 19 May 2026 05:17:36 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:51.498350"
+    },
+    {
+      "id": "282988f327e2",
+      "title": "Cowan: Canadiens bounce to Carolina with OT Game 7 victory over Sabres",
+      "description": "Alex Newhook scores in overtime for 3-2 win and goalie Jakub Dobes makes 37 saves as Habs advance to Eastern Conference final. The post Cowan: Canadiens bounce to Carolina with OT Game 7 victory over Sabres appeared first on Montreal Gazette.",
+      "url": "https://montrealgazette.com/sports/hockey/montreal-canadiens/cowan-canadiens-bounce-to-carolina-with-ot-game-7-victory-over-sabres/",
+      "source": "Montreal Gazette",
+      "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/05/051826-buf-spts-sabres-p104_303224455.jpg",
+      "published": "Tue, 19 May 2026 05:02:10 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:51.498400"
+    },
+    {
+      "id": "887343faf454",
+      "title": "Norton Coupon Codes: Up to 58% Off",
+      "description": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
+      "url": "https://www.wired.com/story/norton-coupon-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212407"
+    },
+    {
+      "id": "9766b1e277f2",
+      "title": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
+      "description": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
+      "url": "https://www.wired.com/story/tempo-meals-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212431"
+    },
+    {
+      "id": "b69a3f2e64ad",
+      "title": "HBO Max Promo Code: 50% Off | May",
+      "description": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
+      "url": "https://www.wired.com/story/max-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212451"
+    },
+    {
+      "id": "39bf5d56171b",
+      "title": "Limited Time: TurboTax Full Service Coupons This May",
+      "description": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212475"
+    },
+    {
+      "id": "1d61a1102f16",
+      "title": "Booking.com Promo Codes: 20% Off | May 2026",
+      "description": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212494"
+    },
+    {
+      "id": "9732e4492087",
+      "title": "Lenovo Coupon Codes and Deals in May 2026",
+      "description": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212517"
+    },
+    {
+      "id": "cd1a2f13f003",
+      "title": "50% Off Home Depot Promo Codes | May 2026",
+      "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212564"
+    },
+    {
+      "id": "ca19db7b805c",
+      "title": "iRobot Promo Code: 15% Off",
+      "description": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
+      "url": "https://www.wired.com/story/irobot-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212585"
+    },
+    {
+      "id": "0760aeaf88ed",
+      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+      "description": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
+      "url": "https://www.wired.com/story/barkbox-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212607"
+    },
+    {
+      "id": "ce0d2a00842c",
+      "title": "30% Off Tempur-Pedic Promo Codes | May 2026",
+      "description": "Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.",
+      "url": "https://www.wired.com/story/tempur-pedic-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 19 May 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:49.212629"
+    },
+    {
+      "id": "aa1bda72b71f",
+      "title": "Bolivian miners clash with police demanding president resign",
+      "description": "Bolivian miners clash with police demanding that President Paz resign.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/bolivian-miners-clash-with-police-demanding-president-resign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 19 May 2026 04:58:41 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.289750"
+    },
+    {
+      "id": "533ba0449b94",
+      "title": "Australia Has Big Shale Gas Advantage, Texas-Based Investor Says",
+      "description": "Australia’s vast shale gas resources give the nation an edge in the global energy sector, especially at a time when the Iran war is constraining supplies across the world, according to Texas-based investor Bryan Sheffield.",
+      "url": "https://financialpost.com/pmn/business-pmn/australia-has-big-shale-gas-advantage-texas-based-investor-says",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 19 May 2026 04:57:35 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:49.439668"
+    },
+    {
+      "id": "a3e909e3c731",
+      "title": "Helicopters douse flames threatening hillside homes in California",
+      "description": "Video shows helicopters dumping water on a fast-moving wildfire in southern California’s Simi Valley.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/aje-onl-nf_helicopters-douse-flames-in-california-190526?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 19 May 2026 04:51:42 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.289790"
+    },
+    {
+      "id": "58ef01411894",
+      "title": "Montreal deploys riot cops after Canadiens’ Game 7 win",
+      "description": "A small group of fans had an \"altercation\" with officers, Montreal police said. The post Montreal deploys riot cops after Canadiens&#8217; Game 7 win appeared first on Montreal Gazette.",
+      "url": "https://montrealgazette.com/news/montreal-deploys-riot-cops-after-canadiens-game-7-win/",
+      "source": "Montreal Gazette",
+      "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/05/0519-city-habs-fans-8039_303227550.jpg",
+      "published": "Tue, 19 May 2026 04:36:39 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:51.498436"
+    },
+    {
+      "id": "77ce9ec55aa2",
+      "title": "Tasmanian government apologises over stolen body parts scandal",
+      "description": "An investigation found that 177 human specimens from dozens of bodies were secretly kept by a museum.",
+      "url": "https://www.bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/596d/live/184278c0-534e-11f1-b682-cf91850925ea.jpg",
+      "published": "Tue, 19 May 2026 04:19:37 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.204895"
+    },
+    {
+      "id": "f22c503571bd",
+      "title": "How Philadelphia’s Democratic primary tests the bounds of US progressivism",
+      "description": "The race for Pennsylvania&#039;s third congressional district reveals divisions between Democrats closely aligned on policy.",
+      "url": "https://www.aljazeera.com/news/2026/5/19/how-philadelphias-democratic-primary-tests-the-bounds-of-us-progressivism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 19 May 2026 04:09:18 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.289833"
+    },
+    {
+      "id": "670793636323",
+      "title": "Deeper reading insights unlocked: Rakuten Kobo and StoryGraph announce integration",
+      "description": "Coming in June, Kobo users can track their reading progress easier than ever with automatic StoryGraph sync TORONTO, May 19, 2026 (GLOBE NEWSWIRE) &#8212; Rakuten Kobo, a global leader in digital reading, and StoryGraph, the community-driven platform for book lovers, announce a seamless reading inte",
+      "url": "https://montrealgazette.com/press-releases/globe-newswire/deeper-reading-insights-unlocked-rakuten-kobo-and-storygraph-announce-integration/",
+      "source": "Montreal Gazette",
+      "image": "https://www.globenewswire.com/newsroom/ti?nf=OTcyMTY0NyM3NjA2ODU2IzIzMTE5Mjc=",
+      "published": "Tue, 19 May 2026 04:03:09 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:51.498476"
+    },
+    {
+      "id": "293e828999e6",
+      "title": "‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC",
+      "description": "Prosecution is seen as landmark step towards justice over abuses of refugees trying to reach Europe from AfricaA former militia commander accused of overseeing murder, rape, enslavement and torture in Libyan detention centres will appear at the international criminal court on Tuesday for a hearing t",
+      "url": "https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court",
+      "source": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/a5f3ce2be2d4d44dbc19c79ce98d8171a1b445b9/260_323_3075_2461/master/3075.jpg?width=140&quality=85&auto=format&fit=max&s=ad236fe4d7c7bb3a5c9f9243517e7a7c",
+      "published": "Tue, 19 May 2026 04:00:02 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.276630"
+    },
+    {
+      "id": "670660383f35",
+      "title": "Charge force Game 4 in Walter Cup Finals with dramatic comeback - Sportsnet",
+      "description": "Charge force Game 4 in Walter Cup Finals with dramatic comeback&nbsp;&nbsp;SportsnetWith her team 1 win away from 1st Walter Cup, Marie-Philip Poulin's legend continues to grow&nbsp;&nbsp;CBCLeslie scores late, Charge stay alive with win over Victoire&nbsp;&nbsp;Daily FaceoffResilient Leslie plays h",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW94bFRrd2tSYW1CcXRPMTBRRnJyRndJUk5sVGM5U0JqXzhpbmRPZHNXTFRtUnVwLVZTX0RjRktTQ0l0ZTEzUzBhWW52R0RlbWpENC1yZGtiYmtIWHhoeGd6Mk4yV0swWUJudzNCZTZfWTRkWXpUNnVnMUZiZjFNSnZuT19jQWx5dXM5QlREZlJYYmRUUm9rb1VZTEcxeDI3bWs0NQ?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 19 May 2026 03:29:00 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-05-19T07:43:51.305207"
+    },
+    {
+      "id": "956e9142c79d",
+      "title": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+      "description": "Foad Izadi says US President Trump&#039;s repeated threats of renewed full-scale war are a sign of weakness.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 19 May 2026 03:27:50 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-05-19T07:43:50.289875"
     },
     {
       "id": "d7ed57b19e31",
@@ -108,7 +600,19 @@
       "published": "Tue, 19 May 2026 03:21:53 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.344746"
+      "fetched_at": "2026-05-19T07:43:51.498504"
+    },
+    {
+      "id": "aef69ae1a041",
+      "title": "Hurricanes to play Canadiens in Eastern Conference Final - NHL.com",
+      "description": "Hurricanes to play Canadiens in Eastern Conference Final&nbsp;&nbsp;NHL.com2026 Stanley Cup Playoffs conference finals schedule&nbsp;&nbsp;NHL.comCanadiens vs. Hurricanes Eastern Conference Final schedule&nbsp;&nbsp;Montreal GazetteHow to buy Montreal Canadiens vs. Carolina Hurricanes 2026 NHL playo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0pWN3ZvdlB1ZmhLMnliSVVBcXR5bGJYSzd5S3lMbVRkcXkzcE5FbFZlT25wMzFWN0F4MWwyT3RnOFd5SXNpR1ljRGlXTVg5QWM0a1pEQnZPWGJsNmVYTzBSTjl3LVppbzZreUlha1JVQmE2Y2RXMDFlaUZBemZRSUtKdlpGNlJSQ19JWFJEcw?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 19 May 2026 03:14:16 GMT",
+      "location": "Montreal",
+      "category": "sports",
+      "fetched_at": "2026-05-19T07:43:51.305711"
     },
     {
       "id": "aa8a36048386",
@@ -120,7 +624,7 @@
       "published": "Tue, 19 May 2026 03:10:46 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.622782"
+      "fetched_at": "2026-05-19T07:43:50.289935"
     },
     {
       "id": "94d1f271bc0b",
@@ -132,7 +636,7 @@
       "published": "Tue, 19 May 2026 03:09:24 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.622819"
+      "fetched_at": "2026-05-19T07:43:50.289976"
     },
     {
       "id": "299bfd403d8d",
@@ -144,31 +648,43 @@
       "published": "Tue, 19 May 2026 03:05:20 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.019480"
+      "fetched_at": "2026-05-19T07:43:52.962688"
     },
     {
-      "id": "0f234cefdefa",
-      "title": "Canadiens top Sabres in Game 7, advance to Eastern Conference Final - Sportsnet",
-      "description": "Canadiens top Sabres in Game 7, advance to Eastern Conference Final&nbsp;&nbsp;SportsnetNewhook’s overtime winner powers Canadiens over Sabres in Game 7&nbsp;&nbsp;TSNCanadiens advance to Eastern Conference final with OT win over Sabres in Game 7&nbsp;&nbsp;CBCCanadiens advance to Eastern Conference",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXhYRkNxTnB1NUxSTWFrcV9XMlRfREljUWFrZFUxVW0xMFhVTEl5Qk04dnNmZ3lMM1NGNjJqTEoycVk4b0NQU004UGZDREhKVFNqV0hXNi1tTzFIX2JJYnRSRWZOMmo2a3VCcTU5MnZrSG83QW1yMmZYaS1ZbjRxYUhoQmw4aGJCS3dLTDAwdG93S0pJV1dNUXp2cjVwb0NsOUJ1MnVyTQ?oc=5",
+      "id": "ed008566f99f",
+      "title": "A pet-owner’s guide to a cleaner home: Your top 5 questions, answered",
+      "description": "Home expert Melissa Maker answers your top questions on caring for a home with pets—from removing stubborn pet hair to tackling accident stains on carpets.",
+      "url": "https://globalnews.ca/the-curator/11814004/your-pet-questions-answered/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/04/Frame-447-3.png",
+      "published": "Tue, 19 May 2026 03:00:14 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-05-19T07:43:48.994287"
+    },
+    {
+      "id": "c23841d7e1ed",
+      "title": "Canadiens advance to Eastern Conference final with OT win over Sabres in Game 7 - CBC",
+      "description": "Canadiens advance to Eastern Conference final with OT win over Sabres in Game 7&nbsp;&nbsp;CBCHidden Game: Alex Newhook's overtime winner propels Canadiens to Eastern Conference final&nbsp;&nbsp;Montreal GazetteCanadiens leading Sabres through two periods in decisive Game 7&nbsp;&nbsp;TSNCanadiens b",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXJCMHNZWnhaaWpmOEVWUUJSYmlycXB0SFdlYnNiRVg3Uy1MX0FaQlZxdnNzYmF2WlR6c0RkYmxBcEVWeDZ6V2taSVlQel8yZHIyXy1rTzJqVHFHREh0RFVvaUFudnNTXzF5Z3lodGkxUmNZdmFDSmV1M21LVmVuN3JfN2VPZ3JkemZlMzJn?oc=5",
       "source": "Google News Sports",
       "image": "",
-      "published": "Tue, 19 May 2026 03:02:00 GMT",
+      "published": "Tue, 19 May 2026 02:52:00 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-05-19T03:30:55.328712"
+      "fetched_at": "2026-05-19T07:43:51.305143"
     },
     {
-      "id": "9d10c9027600",
-      "title": "Chinese Embassy in Canada denounces MP Chong’s visit to Taiwan - Toronto Star",
-      "description": "Chinese Embassy in Canada denounces MP Chong’s visit to Taiwan&nbsp;&nbsp;Toronto Star",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWFnMlNhb1ZBNU5xdW9RRFdkakdNMWdrNFhuVjdaU09YQUJwM3BGNm94SXJENEQ2UnhXOFhjaU9pSC1oTVZKT0w4aTM3VmJNTzFvQVg1QjdWUlJEakNRYmo4VHZyTFh1ZVZJOFFVN3FKQm1LWEZmQU9HTXNkYWhzdzZyZzVXTDBDTnRaWXVJNktqejVqLURfeEt1bDJqcGxoTzFCVENQUTExNkJ2ZzZ3UGo3QXFNWlUtWHduYTdNN0pQYWtRSy1uX1lQQUc5S1BkMmR6QVZ6RGxQblRUeTFrZQ?oc=5",
+      "id": "ffbf75748351",
+      "title": "Cut before qualifying: Inside Cycling Canada’s team pursuit controversy - Escape Collective",
+      "description": "Cut before qualifying: Inside Cycling Canada’s team pursuit controversy&nbsp;&nbsp;Escape Collective",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQm9KSmJ5RzFBcW5jZ2ZaUzB3VjdmOGlZQ2NWeVd6VGg5b2FSVnpSWVA2Sk9FRG5nOG1wMjFzdkF6cHVjTkNRSTk3UndqM2VFZ2EtczJnNTlGM0tILWl6SGtWQ1Jiclpoa2lvZ0dNSWJZSlM0VDR6Z0VDWGhjUFN3bThGNElidzJLWVltamhnRl9kZF9LZ3RGU2dzVDVhM1BM?oc=5",
       "source": "Google News Canada",
       "image": "",
-      "published": "Tue, 19 May 2026 02:38:42 GMT",
-      "location": "Toronto",
+      "published": "Tue, 19 May 2026 02:39:45 GMT",
+      "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650311"
+      "fetched_at": "2026-05-19T07:43:50.889287"
     },
     {
       "id": "38a51e6b28b2",
@@ -180,7 +696,7 @@
       "published": "Tue, 19 May 2026 02:03:51 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.348723"
+      "fetched_at": "2026-05-19T07:43:51.547037"
     },
     {
       "id": "01cc08149863",
@@ -192,55 +708,19 @@
       "published": "Tue, 19 May 2026 02:02:56 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.348757"
-    },
-    {
-      "id": "5304d7cd2cdd",
-      "title": "Chinese Embassy in Canada denounces MP Chong’s visit to Taiwan - NanaimoNewsNOW",
-      "description": "Chinese Embassy in Canada denounces MP Chong’s visit to Taiwan&nbsp;&nbsp;NanaimoNewsNOW",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX01aQk5jVk9TUm9wT0hTTXZ5Zk1kQTNncmpVckQ3U2lzVW81NUJ4TFZ5WkVNSHZhbFo2SUdKbGZUTll5RWF4cE1HYWhhWFNSUzd5RHN6Z1ZJMVVOUDkzUXl2Z0plbTZpd2JlWlcyN2E2aUNFV0dxcldUYV9CaWN5bDVUY21VeF80Y3pFNXpMUnl6azZFcWYtNHlJaHA3eW1EUnc?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 19 May 2026 02:02:44 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650446"
+      "fetched_at": "2026-05-19T07:43:51.547070"
     },
     {
       "id": "c7a9d096fbfd",
       "title": "Teenage gunmen open fire on San Diego mosque, killing 3 men and then themselves - CTV News",
-      "description": "Teenage gunmen open fire on San Diego mosque, killing 3 men and then themselves&nbsp;&nbsp;CTV News3 adults killed in shooting at Islamic Center of San Diego; both suspects dead&nbsp;&nbsp;Yahoo News CanadaWhat to know about a deadly attack by teen gunmen on a San Diego mosque&nbsp;&nbsp;CityNews Ha",
+      "description": "Teenage gunmen open fire on San Diego mosque, killing 3 men and then themselves&nbsp;&nbsp;CTV NewsLive updates: 3 killed in shooting at San Diego’s largest mosque&nbsp;&nbsp;CNNPolice were searching for teens behind San Diego mosque shooting before the bloodshed began&nbsp;&nbsp;CityNews Halifax3 k",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVF4YkpMMGFSZGk4cFluQ1JBMm9ScGxjYUFYcHpacllaNmctdURhbmZmc0xLdVRXTUU5bUZDZWFqQXR3Vjl2U0wyMG9MVHhJWHZIQmdUZlpfLWR6UHBBMFEtMUpCaXZpN0VTV21kaTlsQXFRckU2azZHMVc2cmhFRUlLTjl2U1kwWF9nTkVtcTNmY0RfTVJIWlA0V1RqNVFBNnE3Ujh4eWdiSGhpU29MREZCb1E1ZzA?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 19 May 2026 01:41:00 GMT",
-      "location": "Halifax",
+      "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.183711"
-    },
-    {
-      "id": "eb8b661fea0a",
-      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-      "description": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
-      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/805e0a80-5328-11f1-8b8c-6d33e1d5abb6.jpg",
-      "published": "Tue, 19 May 2026 01:35:30 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727496"
-    },
-    {
-      "id": "dd400be26b53",
-      "title": "A US Bill Wants To Recast Canada’s Online Streaming Act As Trade Harm - thedeepdive.ca",
-      "description": "A US Bill Wants To Recast Canada’s Online Streaming Act As Trade Harm&nbsp;&nbsp;thedeepdive.ca",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yTV9MVUR3UWpJZDgyUktKRk44ZDFtdWpTTFdwUVA1STdjbEg5T19MX1VKX0FmbmV3cWo5Q3ZTWVFhQzNzNkFMNWxIMmwybUc4VzR2SEtOa3hCZlZSWkZXTXZzdjZwbFU?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 19 May 2026 01:18:11 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650409"
+      "fetched_at": "2026-05-19T07:43:51.192927"
     },
     {
       "id": "74fafc97d4d8",
@@ -252,7 +732,7 @@
       "published": "Tue, 19 May 2026 01:14:29 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.019513"
+      "fetched_at": "2026-05-19T07:43:52.962717"
     },
     {
       "id": "b2fb0a24f6ac",
@@ -264,7 +744,7 @@
       "published": "Tue, 19 May 2026 00:49:39 +0000",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.622847"
+      "fetched_at": "2026-05-19T07:43:50.290010"
     },
     {
       "id": "c558f5057886",
@@ -276,7 +756,7 @@
       "published": "Tue, 19 May 2026 00:47:52 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.344796"
+      "fetched_at": "2026-05-19T07:43:51.498540"
     },
     {
       "id": "ad74c701ceed",
@@ -288,31 +768,19 @@
       "published": "Tue, 19 May 2026 00:45:38 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713285"
-    },
-    {
-      "id": "e28c2ae0dc1f",
-      "title": "Ottawa Charge stave off elimination after comeback victory over Montreal Victoire in Walter Cup final - CBC",
-      "description": "Ottawa Charge stave off elimination after comeback victory over Montreal Victoire in Walter Cup final&nbsp;&nbsp;CBCWith her team 1 win away from 1st Walter Cup, Marie-Philip Poulin's legend continues to grow&nbsp;&nbsp;CBCResilient Leslie plays hero and lifesaver for Charge in 2-1 win over Victoire",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQnZKbmpzWndhS2hSUFU4WFNhNnY2N3l5OHBNYmdKRUQzQkswSm14NW1kWHlWOW5xX3ZwR21jbmdvcEJ3ZDNhZXY1RWV1Ukh4Ym5mWlNwT1pxNmtFbmhwYUZtUUstc0o1dXN2UUJ4NEFfSXZjQzMzczZWcWtTZElWaG5XOEpucmNSeE1SUnJ2U3pnN0Z1RmE0?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 19 May 2026 00:44:00 GMT",
-      "location": "Vancouver",
-      "category": "sports",
-      "fetched_at": "2026-05-19T03:30:55.328775"
+      "fetched_at": "2026-05-19T07:43:51.842231"
     },
     {
       "id": "03579b4876f8",
       "title": "Brampton’s Chinguacousy Park closed on Victoria Day due to ‘unsafe gatherings’ and fireworks",
-      "description": "Officials in Brampton have made the decision to close the city’s Chinguacousy Park on the last day of the long weekend. In a social media post shared just before 8 p.m., Peel Regional Police said the park is closed on Victoria Day due to “large, unsafe gatherings and use of fireworks.” “Effective im",
+      "description": "Officials in Brampton have made the decision to close the city’s Chinguacousy Park on the last day of the long weekend. In a social media post shared just before 8 p.m., Peel Regional Police (PRP) said the park is closed on Victoria Day due to “large, unsafe gatherings and use of fireworks.” “Effect",
       "url": "https://toronto.citynews.ca/2026/05/18/bramptons-chinguacousy-park-closed-on-victoria-day-due-to-unsafe-gatherings-and-fireworks/",
       "source": "CityNews Toronto",
       "image": "",
       "published": "Tue, 19 May 2026 00:33:37 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.348794"
+      "fetched_at": "2026-05-19T07:43:51.547104"
     },
     {
       "id": "5683e104d155",
@@ -324,7 +792,7 @@
       "published": "Tue, 19 May 2026 00:22:13 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650242"
+      "fetched_at": "2026-05-19T07:43:50.889175"
     },
     {
       "id": "d5a29e2037ca",
@@ -336,19 +804,31 @@
       "published": "Tue, 19 May 2026 00:22:13 +0000",
       "location": "Ottawa",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:53.950993"
+      "fetched_at": "2026-05-19T07:43:49.352816"
     },
     {
       "id": "79c7ed3c960d",
-      "title": "Photos: Canadiens at Sabres Game 7",
-      "description": "The Canadiens must win in enemy territory to continue its Stanley Cup dream. The post Photos: Canadiens at Sabres Game 7 appeared first on Montreal Gazette.",
+      "title": "Photos: Canadiens beat Sabres in Game 7",
+      "description": "The Canadiens must win in enemy territory to continue its Stanley Cup dream. The post Photos: Canadiens beat Sabres in Game 7 appeared first on Montreal Gazette.",
       "url": "https://montrealgazette.com/sports/hockey/montreal-canadiens/photos-canadiens-at-sabres-game-7/",
       "source": "Montreal Gazette",
       "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/05/051826-buf-news-sabres-plaza-p026_303223461.jpg",
       "published": "Tue, 19 May 2026 00:17:29 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.344833"
+      "fetched_at": "2026-05-19T07:43:51.498570"
+    },
+    {
+      "id": "01fac7a3844e",
+      "title": "A strange ripple in spacetime could be the first fingerprint of dark matter",
+      "description": "Black holes crashing together may be revealing clues about dark matter hidden across the universe. Physicists created a new model predicting how dark matter could subtly distort gravitational waves produced during black hole mergers. When they tested the method on real LIGO data, one signal stood ou",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041429.htm",
+      "source": "Science Daily",
+      "image": "",
+      "published": "Tue, 19 May 2026 00:12:59 EDT",
+      "location": "World",
+      "category": "science",
+      "fetched_at": "2026-05-19T07:43:49.742919"
     },
     {
       "id": "f667c4575015",
@@ -360,43 +840,31 @@
       "published": "Tue, 19 May 2026 00:09:42 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.344895"
-    },
-    {
-      "id": "b2b654cb64a8",
-      "title": "Hitachi Announces Strategic Partnership With Anthropic to Strengthen ‘Lumada 3.0’ Through Frontier AI",
-      "description": "Combining Hitachi’s 110+ years of domain expertise with frontier AI will advance safe real-world deployment of physical AI and strengthen customer AI transformation Deploying advanced AI across all business processes for approximately 290,000 employees to enhance productivity at scale Developing 100",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hitachi-announces-strategic-partnership-with-anthropic-to-strengthen-lumada-3-0-through-frontier-ai",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 19 May 2026 00:09:39 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417148"
+      "fetched_at": "2026-05-19T07:43:51.498630"
     },
     {
       "id": "7753c86d94cb",
       "title": "IN PHOTOS: Fans pack the Bell Centre for Montreal Canadiens–Buffalo Sabres Game 7 watch party",
-      "description": "Hockey fans are filling the Bell Centre in Montreal, turning the downtown arena into a major playoff viewing gathering for Game 7 between the Montreal Canadiens and the Buffalo Sabres. The Canadiens are away for the decisive game, while fans in Montreal gather inside the Bell Centre to take in every",
+      "description": "Hockey fans packed the Bell Centre in Montreal for a massive playoff watch party, turning the downtown arena into a full-scale celebration as they gathered for Game 7 between the Montreal Canadiens and the Buffalo Sabres. With the Canadiens on the road for the decisive game, supporters filled every ",
       "url": "https://montreal.citynews.ca/2026/05/18/montreal-buffalo-game-7-watch-party/",
       "source": "CityNews Montreal",
       "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2026/05/Image-2026-05-18T181027.507.jpg",
       "published": "Tue, 19 May 2026 00:04:13 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713344"
+      "fetched_at": "2026-05-19T07:43:51.842281"
     },
     {
-      "id": "19250ff18876",
-      "title": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
-      "description": "Al Jazeera&#039;s correspondent in Tehran says Iran&#039;s leaders are &#039;projecting defiance&#039; and rejecting &#039;pressure&#039; from the US.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "c6f477a008e6",
+      "title": "String theory suddenly emerged from simple physics rules",
+      "description": "Physicists may have uncovered a surprising new clue that string theory—the idea that the universe is built from unimaginably tiny vibrating strings—could be more than just a mathematical fantasy. Instead of assuming strings existed from the start, researchers began with a few simple rules about how ",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041424.htm",
+      "source": "Science Daily",
       "image": "",
-      "published": "Tue, 19 May 2026 00:00:00 +0000",
+      "published": "Tue, 19 May 2026 00:02:37 EDT",
       "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.622876"
+      "category": "science",
+      "fetched_at": "2026-05-19T07:43:49.742970"
     },
     {
       "id": "05ea19344a14",
@@ -408,7 +876,7 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.991723"
+      "fetched_at": "2026-05-19T07:43:50.415637"
     },
     {
       "id": "371d06b3ba69",
@@ -420,7 +888,7 @@
       "published": "Tue, 12 May 2026 19:34:03 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:53.721364"
+      "fetched_at": "2026-05-19T07:43:49.005114"
     },
     {
       "id": "0881b24d3a9d",
@@ -432,7 +900,7 @@
       "published": "Tue, 12 May 2026 11:01:42 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.071076"
+      "fetched_at": "2026-05-19T07:43:51.794953"
     },
     {
       "id": "a2b7282df523",
@@ -444,7 +912,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.991746"
+      "fetched_at": "2026-05-19T07:43:50.415658"
     },
     {
       "id": "787831706d00",
@@ -456,7 +924,7 @@
       "published": "Thu, 14 May 2026 23:35:49 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-05-19T03:30:53.675274"
+      "fetched_at": "2026-05-19T07:43:49.067975"
     },
     {
       "id": "c996f01f3cbb",
@@ -468,7 +936,7 @@
       "published": "Thu, 14 May 2026 23:13:23 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-05-19T03:30:53.675320"
+      "fetched_at": "2026-05-19T07:43:49.068020"
     },
     {
       "id": "8b7dac16273c",
@@ -480,7 +948,7 @@
       "published": "Thu, 14 May 2026 21:36:53 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.049848"
+      "fetched_at": "2026-05-19T07:43:50.195406"
     },
     {
       "id": "38e423a43aa5",
@@ -492,7 +960,7 @@
       "published": "Thu, 14 May 2026 21:26:22 +0000",
       "location": "Toronto",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.049889"
+      "fetched_at": "2026-05-19T07:43:50.195463"
     },
     {
       "id": "6d08e63a50ac",
@@ -504,7 +972,7 @@
       "published": "Thu, 14 May 2026 20:43:37 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.049928"
+      "fetched_at": "2026-05-19T07:43:50.195519"
     },
     {
       "id": "98fd34af6309",
@@ -516,7 +984,7 @@
       "published": "Thu, 14 May 2026 20:18:01 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.049969"
+      "fetched_at": "2026-05-19T07:43:50.195580"
     },
     {
       "id": "287b9fcfb06e",
@@ -528,7 +996,7 @@
       "published": "Thu, 14 May 2026 18:57:25 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:53.721098"
+      "fetched_at": "2026-05-19T07:43:49.004861"
     },
     {
       "id": "7763716fa489",
@@ -540,7 +1008,7 @@
       "published": "Thu, 14 May 2026 18:25:57 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.050055"
+      "fetched_at": "2026-05-19T07:43:50.203231"
     },
     {
       "id": "a8dc403add43",
@@ -552,7 +1020,7 @@
       "published": "Thu, 14 May 2026 16:56:43 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:53.721133"
+      "fetched_at": "2026-05-19T07:43:49.004893"
     },
     {
       "id": "b098875771ba",
@@ -564,7 +1032,7 @@
       "published": "Thu, 14 May 2026 16:24:03 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.050110"
+      "fetched_at": "2026-05-19T07:43:50.203309"
     },
     {
       "id": "77f968f2bd1f",
@@ -576,7 +1044,7 @@
       "published": "Thu, 14 May 2026 11:00:26 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.070872"
+      "fetched_at": "2026-05-19T07:43:51.794775"
     },
     {
       "id": "17bf31d2c6cb",
@@ -588,7 +1056,7 @@
       "published": "Thu, 14 May 2026 11:00:25 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.070910"
+      "fetched_at": "2026-05-19T07:43:51.794811"
     },
     {
       "id": "1c2c63a46032",
@@ -600,7 +1068,7 @@
       "published": "Thu, 14 May 2026 11:00:11 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.070947"
+      "fetched_at": "2026-05-19T07:43:51.794846"
     },
     {
       "id": "a3777a8bac7b",
@@ -612,7 +1080,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.991620"
+      "fetched_at": "2026-05-19T07:43:50.415539"
     },
     {
       "id": "48332101e695",
@@ -624,7 +1092,7 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.991688"
+      "fetched_at": "2026-05-19T07:43:50.415602"
     },
     {
       "id": "284635f47c8a",
@@ -636,7 +1104,7 @@
       "published": "Sun, 17 May 2026 23:38:02 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.019717"
+      "fetched_at": "2026-05-19T07:43:52.962925"
     },
     {
       "id": "4d89a80d5ade",
@@ -648,19 +1116,19 @@
       "published": "Sun, 17 May 2026 22:45:00 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.141109"
+      "fetched_at": "2026-05-19T07:43:51.983654"
     },
     {
       "id": "bd0459406b08",
       "title": "Blue Bombers Training Camp | Day 8 - Winnipeg Blue Bombers",
-      "description": "Blue Bombers Training Camp | Day 8&nbsp;&nbsp;Winnipeg Blue BombersTait’s Take | Blue Bombers Training Camp Day 9&nbsp;&nbsp;Winnipeg Blue BombersTempers flare, homecoming hopes crushed, at Bombers camp&nbsp;&nbsp;Winnipeg SunWinnipeg Blue Bombers rule Jovan Santos-Knox out for 2026 season&nbsp;&nbs",
+      "description": "Blue Bombers Training Camp | Day 8&nbsp;&nbsp;Winnipeg Blue BombersBlue Bombers Training Camp | Day 9&nbsp;&nbsp;Winnipeg Blue BombersTempers flare, homecoming hopes crushed, at Bombers camp&nbsp;&nbsp;Winnipeg SunCan injection of free-agent talent get Bombers back to Grey Cup?&nbsp;&nbsp;TSNWinnipe",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41blcxaEJoX2ZCNjhwekgxWE9pR3FfbGt3d3NWc1FVV2RGa0hOclgtWE5vOF9qT0xpdEltOHFsOGk3RDhHQkZ0R3JEamxoX3g3eG5HaDIwXzBPSVJOTUcxTmpqZ1VSSFkxV3VRTklrVTEwUmNsOUM5RFp1UHM?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Sun, 17 May 2026 22:08:21 GMT",
       "location": "Winnipeg",
       "category": "sports",
-      "fetched_at": "2026-05-19T03:30:55.328898"
+      "fetched_at": "2026-05-19T07:43:51.305435"
     },
     {
       "id": "eb54127e60ec",
@@ -672,7 +1140,7 @@
       "published": "Sun, 17 May 2026 22:07:58 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:53.951167"
+      "fetched_at": "2026-05-19T07:43:49.352977"
     },
     {
       "id": "58a939cc02f5",
@@ -684,7 +1152,7 @@
       "published": "Sun, 17 May 2026 21:14:43 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-05-19T03:30:54.719543"
+      "fetched_at": "2026-05-19T07:43:49.743099"
     },
     {
       "id": "a394702b2946",
@@ -696,31 +1164,7 @@
       "published": "Sun, 17 May 2026 20:44:03 +0000",
       "location": "Toronto",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:54.634667"
-    },
-    {
-      "id": "5ffbcd2eae2e",
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Sun, 17 May 2026 20:15:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:53.825542"
-    },
-    {
-      "id": "345b2098516c",
-      "title": "Canada captures 3x3 Women's Series basketball title in Shanghai in OT thriller - CBC",
-      "description": "Canada captures 3x3 Women's Series basketball title in Shanghai in OT thriller&nbsp;&nbsp;CBCSee more headlines & perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUJMNG5yR3JHQ3J5Uk1ONS01NmZBdGdOWkJ2TkZOWE5NYktCSDlpUGc4VkZKVVVjMnluZEF2aUx6N1JqcTBxLU95cjFLYmlheDdFNy10Tm51Y1lHRklBM3JUNUJGWFE1eEczcnh5SHRKUGI3b1FxQzlsX3d6bWR4Mk96WGMxRGpkU0VVNFBocXA5SnJQWUY0alRuWTY3SldEcFVad2FhYVQ5UmxDNElCTGF5d2ZqNjct?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Sun, 17 May 2026 19:53:56 GMT",
-      "location": "Vancouver",
-      "category": "sports",
-      "fetched_at": "2026-05-19T03:30:55.329265"
+      "fetched_at": "2026-05-19T07:43:49.801413"
     },
     {
       "id": "223d5a8be265",
@@ -732,7 +1176,7 @@
       "published": "Sun, 17 May 2026 18:47:13 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.019744"
+      "fetched_at": "2026-05-19T07:43:52.962950"
     },
     {
       "id": "ccb02f0a3344",
@@ -744,19 +1188,7 @@
       "published": "Sun, 17 May 2026 17:00:00 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:53.951187"
-    },
-    {
-      "id": "e01a3a366cef",
-      "title": "Saskatchewan Roughriders give QB Jack Coan start in preseason opener versus Calgary - 3DownNation",
-      "description": "Saskatchewan Roughriders give QB Jack Coan start in preseason opener versus Calgary&nbsp;&nbsp;3DownNationPre-season preview: Waiting game ends today for Siaosi Mariner&nbsp;&nbsp;Saskatchewan RoughridersStamps Down Riders In Pre-season Opener&nbsp;&nbsp;Calgary StampedersEvery Scoring Play from Cal",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3ZuUlJtWDFKSk5kdW1QUmJBLWtQMFotcFRGQnBHUEtValNQYjF2VUNnRTBJX0ZHN0h3aENzN1FvVmpXeUxuTmxVcHBwdHJjS1FGdG5WZVU5cXhfaFFaUnNhRGIydkMwNG1PWG5Cd2tUOFk2QjF0R0MzUWFia1JHRl95QnlOS3E4WHNyS2ZxM1NIT0VWcExuZmFET1MyVTNuZll5VDk2dFQ0eVhBeEFOSlJield4WTBTel9J?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Sun, 17 May 2026 16:31:54 GMT",
-      "location": "Calgary",
-      "category": "sports",
-      "fetched_at": "2026-05-19T03:30:55.328954"
+      "fetched_at": "2026-05-19T07:43:49.352994"
     },
     {
       "id": "9ff1cf8eeee1",
@@ -768,7 +1200,7 @@
       "published": "Sun, 17 May 2026 16:13:58 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.141142"
+      "fetched_at": "2026-05-19T07:43:51.983698"
     },
     {
       "id": "a91d2df7507a",
@@ -780,7 +1212,7 @@
       "published": "Sun, 17 May 2026 15:00:44 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.261124"
+      "fetched_at": "2026-05-19T07:43:51.601376"
     },
     {
       "id": "61f1f27a663a",
@@ -792,7 +1224,7 @@
       "published": "Sun, 17 May 2026 15:00:12 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.261153"
+      "fetched_at": "2026-05-19T07:43:51.601419"
     },
     {
       "id": "f35e48f39599",
@@ -804,7 +1236,7 @@
       "published": "Sun, 17 May 2026 13:00:59 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.261181"
+      "fetched_at": "2026-05-19T07:43:51.601446"
     },
     {
       "id": "d4356df55288",
@@ -816,7 +1248,7 @@
       "published": "Sun, 17 May 2026 13:00:51 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.261207"
+      "fetched_at": "2026-05-19T07:43:51.601470"
     },
     {
       "id": "3d72d1166778",
@@ -828,7 +1260,7 @@
       "published": "Sun, 17 May 2026 13:00:17 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:54.634740"
+      "fetched_at": "2026-05-19T07:43:49.801486"
     },
     {
       "id": "d323c23ee195",
@@ -840,7 +1272,7 @@
       "published": "Sun, 17 May 2026 13:00:17 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.261232"
+      "fetched_at": "2026-05-19T07:43:51.601495"
     },
     {
       "id": "66fc8bbd8dbb",
@@ -852,7 +1284,7 @@
       "published": "Sun, 17 May 2026 11:00:58 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:54.634714"
+      "fetched_at": "2026-05-19T07:43:49.801461"
     },
     {
       "id": "235bc552fc26",
@@ -864,7 +1296,7 @@
       "published": "Sun, 17 May 2026 11:00:43 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.070762"
+      "fetched_at": "2026-05-19T07:43:51.794645"
     },
     {
       "id": "900f70a4728c",
@@ -876,7 +1308,7 @@
       "published": "Sun, 17 May 2026 11:00:28 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:54.634763"
+      "fetched_at": "2026-05-19T07:43:49.801507"
     },
     {
       "id": "39a792aa9327",
@@ -888,7 +1320,7 @@
       "published": "Sun, 17 May 2026 11:00:04 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.141174"
+      "fetched_at": "2026-05-19T07:43:51.983743"
     },
     {
       "id": "c81760ae3de6",
@@ -900,7 +1332,7 @@
       "published": "Sun, 17 May 2026 07:11:34 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-05-19T03:30:54.719716"
+      "fetched_at": "2026-05-19T07:43:49.743253"
     },
     {
       "id": "84aba3f3e012",
@@ -912,7 +1344,7 @@
       "published": "Sun, 17 May 2026 06:00:22 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.141211"
+      "fetched_at": "2026-05-19T07:43:51.983778"
     },
     {
       "id": "147cafaf00c3",
@@ -924,7 +1356,7 @@
       "published": "Sun, 17 May 2026 05:00:29 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.935555"
+      "fetched_at": "2026-05-19T07:43:50.277198"
     },
     {
       "id": "3c52ddd92560",
@@ -936,7 +1368,7 @@
       "published": "Sat, 16 May 2026 21:55:30 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-05-19T03:30:54.634691"
+      "fetched_at": "2026-05-19T07:43:49.801438"
     },
     {
       "id": "98516528be1f",
@@ -948,7 +1380,7 @@
       "published": "Sat, 16 May 2026 19:00:59 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.141242"
+      "fetched_at": "2026-05-19T07:43:51.983807"
     },
     {
       "id": "83158487e8fc",
@@ -960,19 +1392,7 @@
       "published": "Sat, 16 May 2026 11:00:59 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.070806"
-    },
-    {
-      "id": "4879645b469b",
-      "title": "Scientists reversed memory loss by recharging the brain’s tiny engines",
-      "description": "Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance i",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515234803.htm",
-      "source": "Science Daily",
-      "image": "",
-      "published": "Sat, 16 May 2026 09:30:59 EDT",
-      "location": "World",
-      "category": "science",
-      "fetched_at": "2026-05-19T03:30:54.719801"
+      "fetched_at": "2026-05-19T07:43:51.794683"
     },
     {
       "id": "0fd0a504a476",
@@ -984,31 +1404,7 @@
       "published": "Sat, 16 May 2026 09:15:10 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-05-19T03:30:54.719758"
-    },
-    {
-      "id": "be767ebeee85",
-      "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety",
-      "description": "A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the dis",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515234759.htm",
-      "source": "Science Daily",
-      "image": "",
-      "published": "Sat, 16 May 2026 08:41:30 EDT",
-      "location": "World",
-      "category": "science",
-      "fetched_at": "2026-05-19T03:30:54.719838"
-    },
-    {
-      "id": "26179978fe6e",
-      "title": "Stunning fossil discovery in Ethiopia rewrites human origins",
-      "description": "A stunning fossil discovery in Ethiopia shows that early Homo and a previously unknown Australopithecus species lived together around 2.6 to 2.8 million years ago. The find overturns the classic “ape-to-human” progression and paints human evolution as a crowded, branching tree with multiple species ",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515234644.htm",
-      "source": "Science Daily",
-      "image": "",
-      "published": "Sat, 16 May 2026 07:20:39 EDT",
-      "location": "World",
-      "category": "science",
-      "fetched_at": "2026-05-19T03:30:54.719880"
+      "fetched_at": "2026-05-19T07:43:49.743291"
     },
     {
       "id": "d03a553d54ba",
@@ -1020,7 +1416,7 @@
       "published": "Sat, 16 May 2026 04:56:24 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.935283"
+      "fetched_at": "2026-05-19T07:43:50.276970"
     },
     {
       "id": "b650d7229c46",
@@ -1032,7 +1428,7 @@
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.991643"
+      "fetched_at": "2026-05-19T07:43:50.415561"
     },
     {
       "id": "7892aa23219a",
@@ -1044,19 +1440,7 @@
       "published": "Mon, 18 May 2026 23:58:23 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.344934"
-    },
-    {
-      "id": "e73c2b542021",
-      "title": "From Medical Tourism to Casinos, Oil Shock Hits Southeast Asia",
-      "description": "A growing list of companies in Southeast Asia are sounding the warning bell over rising energy costs and weakening consumer demand as the conflict in the Middle East drags into its third month.",
-      "url": "https://financialpost.com/pmn/business-pmn/from-medical-tourism-to-casinos-oil-shock-hits-southeast-asia",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 18 May 2026 23:57:10 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417186"
+      "fetched_at": "2026-05-19T07:43:51.498664"
     },
     {
       "id": "2cda95b2a08f",
@@ -1068,31 +1452,7 @@
       "published": "Mon, 18 May 2026 23:42:23 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650074"
-    },
-    {
-      "id": "4b84e81b11ff",
-      "title": "Gold Extends Gain as Hopes for Iran Truce Ease Inflation Fears",
-      "description": "Gold extended a gain as the prospect of a US-Iran ceasefire deal eased some inflationary concerns that have weighed on bullion.",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-extends-gain-as-hopes-for-iran-truce-ease-inflation-fears",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 18 May 2026 23:41:35 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417216"
-    },
-    {
-      "id": "2e3a84e2827c",
-      "title": "US suspends joint defence effort with Canada dating back to World War II",
-      "description": "The Trump administration has frequently accused US allies of failing to live up to mutual defence obligations.",
-      "url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 18 May 2026 23:40:16 +0000",
-      "location": "Canada",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.622903"
+      "fetched_at": "2026-05-19T07:43:50.889047"
     },
     {
       "id": "30114779248c",
@@ -1104,7 +1464,7 @@
       "published": "Mon, 18 May 2026 23:39:41 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.260963"
+      "fetched_at": "2026-05-19T07:43:51.601260"
     },
     {
       "id": "39ac9057d884",
@@ -1116,7 +1476,7 @@
       "published": "Mon, 18 May 2026 23:34:15 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.344980"
+      "fetched_at": "2026-05-19T07:43:51.498708"
     },
     {
       "id": "ddce170f716f",
@@ -1128,7 +1488,7 @@
       "published": "Mon, 18 May 2026 23:32:10 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492144"
+      "fetched_at": "2026-05-19T07:43:51.822522"
     },
     {
       "id": "407a3c47be4a",
@@ -1140,91 +1500,19 @@
       "published": "Mon, 18 May 2026 23:24:37 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714551"
-    },
-    {
-      "id": "bfab985eb926",
-      "title": "A packed race for governor: What to know about Oregon’s primary elections",
-      "description": "The primaries should winnow down the nearly two dozen candidates seeking to challenge incumbent Governor Tina Kotek.",
-      "url": "https://www.aljazeera.com/news/2026/5/18/a-packed-race-for-governor-what-to-know-about-oregons-primary-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 18 May 2026 23:23:16 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.622932"
-    },
-    {
-      "id": "1af1501a6fa0",
-      "title": "Putin Aims to Unlock Gas Pipeline Project to China in Xi Talks",
-      "description": "Vladimir Putin is set to travel on Tuesday to Beijing for talks with President Xi Jinping in his first foreign visit of the year, with the war in Iran offering an opportunity for Russia to deepen energy links with China.",
-      "url": "https://financialpost.com/pmn/business-pmn/putin-aims-to-unlock-gas-pipeline-project-to-china-in-xi-talks",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 18 May 2026 23:21:16 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417245"
+      "fetched_at": "2026-05-19T07:43:48.994334"
     },
     {
       "id": "8bf34d293c39",
       "title": "Elon Musk loses US lawsuit against OpenAI - Al Jazeera",
-      "description": "Elon Musk loses US lawsuit against OpenAI&nbsp;&nbsp;Al JazeeraCalifornia jury in Elon Musk lawsuit unanimously sides with OpenAI&nbsp;&nbsp;CBCMusk slams Altman trial verdict as a 'technicality,' vows to appeal&nbsp;&nbsp;CNBCOpenAI defeats Elon Musk's lawsuit, removes obstacle to IPO&nbsp;&nbsp;Re",
+      "description": "Elon Musk loses US lawsuit against OpenAI&nbsp;&nbsp;Al JazeeraElon Musk just lost another lawsuit. Will he keep fighting?&nbsp;&nbsp;BBCJury hands victory to Sam Altman and OpenAI in battle with Elon Musk&nbsp;&nbsp;The GuardianMusk slams Altman trial verdict as a 'technicality,' vows to appeal&nbs",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb0RzTHY5RGEwX0d3dFJhMHBueGpPNk1TTWFvVTNkRjdaVng1d1Qyb0RzTTJSYmlRbmpjOXFtMzFFTVJ6bjk5dlRhaGlwd1gyaTQyQURsVGZ2OThod0JjRndJUFhrZ2VmM3VvUHNBZXhtM09GWlh4ME9qNUJqbkNoSFp0UUp3UdIBiwFBVV95cUxQVjduZEFDdHR1NVFYZ25aZlZPQ1gxVng3TlJQZndwQWt0T2QtZ3M4REV1R0JhZ0h4eXVnMTlodnJEdU1jYk1wMmxjbnZidi0xMlJudGsyUk9lUktMTWh3amRKR1pYVEstQUpPWmItWGN0Z19iLWFSTVlvTmlkdWYxRVh2d2dzNGhLdG9Z?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 18 May 2026 23:20:36 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:55.686330"
-    },
-    {
-      "id": "61bd1be59dab",
-      "title": "East Coast Power Surges as Heat Spurs Emergency Grid Alert",
-      "description": "Wholesale power prices surged as heat descended on the US East, prompting the region’s grid operator to declare a low-level emergency for Tuesday.",
-      "url": "https://financialpost.com/pmn/business-pmn/east-coast-power-prices-surge-as-heat-spurs-emergency-grid-alert",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 18 May 2026 23:16:06 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417275"
-    },
-    {
-      "id": "e060edf77cf2",
-      "title": "Game 7 Liveblog replay: Canadiens win 3-2 in overtime to eliminate Sabres",
-      "description": "The winner will take on the Carolina Hurricanes in the Eastern Conference final. The post Game 7 Liveblog replay: Canadiens win 3-2 in overtime to eliminate Sabres appeared first on Montreal Gazette.",
-      "url": "https://montrealgazette.com/sports/hockey/montreal-canadiens/game-7-liveblog-canadiens-at-sabres/",
-      "source": "Montreal Gazette",
-      "image": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/05/051826-buf-spts-sabres-p106_303224453.jpg",
-      "published": "Mon, 18 May 2026 23:15:00 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.345042"
-    },
-    {
-      "id": "b179ebbc0cdc",
-      "title": "Scientists discover over 1,100 new marine species in landmark Ocean Census",
-      "description": "World’s largest mission to accelerate species discovery reveals extraordinary new life forms from some of Earth’s most extreme and unexplored environments Scientists have found 1,121 previously unknown species, fast-tracking discovery and marking a 54% jump in annual identification. Discoveries from",
-      "url": "https://montrealgazette.com/press-releases/globe-newswire/scientists-discover-over-1100-new-marine-species-in-landmark-ocean-census/",
-      "source": "Montreal Gazette",
-      "image": "https://www.globenewswire.com/newsroom/ti?nf=OTcyMjM0NCM3NjA4OTg4IzUwMDEzMzQ2OQ==",
-      "published": "Mon, 18 May 2026 23:03:20 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.345116"
-    },
-    {
-      "id": "82ed569dccf2",
-      "title": "Scientists discover over 1,100 new marine species in landmark Ocean Census",
-      "description": "World’s largest mission to accelerate species discovery reveals extraordinary new life forms from some of Earth’s most extreme and unexplored environments Scientists have found 1,121 previously unknown species, fast-tracking discovery and marking a 54% jump in annual identification. Discoveries from",
-      "url": "https://financialpost.com/globe-newswire/scientists-discover-over-1100-new-marine-species-in-landmark-ocean-census",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 18 May 2026 23:03:15 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417315"
+      "fetched_at": "2026-05-19T07:43:50.591999"
     },
     {
       "id": "7b57815904a7",
@@ -1236,19 +1524,7 @@
       "published": "Mon, 18 May 2026 23:00:42 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714583"
-    },
-    {
-      "id": "e20577883845",
-      "title": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting - CNBC",
-      "description": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting&nbsp;&nbsp;CNBCDonald Trump’s Nixon Moment That Wasn’t&nbsp;&nbsp;The AtlanticTrump claims 'fantastic trade deals' with China. What really happened?&nbsp;&nbsp;CBCAfter the Trump-Xi summit, China, not America, is on",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjBPdGctQURSd3VoY0RMcXExWXdLUmpTSWYyWGxFdkQ2eVlONHVXMmUzY0xQS3cwNDZzNGRwUlVkVjFCQXo0TjB0V3dWcWJVbmpDUFJzcGJPM19nVGFudDRRa2dTV3JkX0xmMXNvX1VKMUxTbmdXTnpVbEZIWE5hcHBDeHlaaVVB0gGOAUFVX3lxTFBwa1dURHMxYkhKUFpoc0FSdVJZU29uNkJwellnelJGUUg5ZFZRM3g0Z0dwNFM4VENPWm1XMGFLTFhyQ1lQbjhmczNrWWdIZ1dqY1JuUUFJSUV2MW1WcWdLM0dsNmktb3RHMk1CaFZNTkdGbHNLMlhlMWRCU3hMOVg2ckhybEtXZUVYLVg3eGc?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 18 May 2026 23:00:01 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.184279"
+      "fetched_at": "2026-05-19T07:43:48.994370"
     },
     {
       "id": "cd1f70190cd0",
@@ -1260,7 +1536,7 @@
       "published": "Mon, 18 May 2026 22:58:18 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.260996"
+      "fetched_at": "2026-05-19T07:43:51.601288"
     },
     {
       "id": "3d07fc7460f0",
@@ -1272,31 +1548,19 @@
       "published": "Mon, 18 May 2026 22:57:05 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492182"
-    },
-    {
-      "id": "79d494cf84ea",
-      "title": "Stocks Drop as Iran Optimism Fades, Oil Declines: Markets Wrap",
-      "description": "Stocks headed for a third day of declines as little progress on de-escalating the situation in Iran kept inflation concerns front and center, with oil prices and bond yields remaining elevated.",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-slips-as-trump-spurs-optimism-over-iran-deal-markets-wrap",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 18 May 2026 22:56:02 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417343"
+      "fetched_at": "2026-05-19T07:43:51.822556"
     },
     {
       "id": "661be2309326",
       "title": "Canadians aboard a fleet of ships heading to Gaza detained by Israel, organizer says - CP24",
-      "description": "Canadians aboard a fleet of ships heading to Gaza detained by Israel, organizer says&nbsp;&nbsp;CP24Government ‘urgently seeking’ status of 11 Australian Gaza flotilla activists detained by Israel&nbsp;&nbsp;The GuardianCanadians among activists detained on Gaza flotilla after Israeli interception&n",
+      "description": "Canadians aboard a fleet of ships heading to Gaza detained by Israel, organizer says&nbsp;&nbsp;CP24See more headlines & perspectives on Google News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXpYX2d5U25JUjJsalJ5bzJfcEtkb3ZlWkxzdTRueWdUTXpzdUMyZ1RRMUxaYWotWS1GZTA2VGhCbS1tU0t2NTZHN19PV0U4M2hxVFB1b0MxNUZnRWJkT0dsV0diYkQwQjdhUDA5VmNHQ1JqdWI1TlV3QThKMk93MlJMNzhBd29NZHVjTnFnUkpCSjA5MmJLbnI2X1J6cHpqWnptR1hjV19fd3RoeVdsWFRwcXkzQQ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 18 May 2026 22:50:49 GMT",
-      "location": "Vancouver",
+      "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.183906"
+      "fetched_at": "2026-05-19T07:43:51.192972"
     },
     {
       "id": "a95a69aff763",
@@ -1308,7 +1572,7 @@
       "published": "Mon, 18 May 2026 22:48:22 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973203"
+      "fetched_at": "2026-05-19T07:43:52.392093"
     },
     {
       "id": "587e7ef2091c",
@@ -1320,19 +1584,19 @@
       "published": "Mon, 18 May 2026 22:38:56 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.140900"
+      "fetched_at": "2026-05-19T07:43:51.983452"
     },
     {
       "id": "c616ea25b325",
-      "title": "Alex Newhook wins Game 7 in overtime, Canadiens advance to round 3",
-      "description": "Alex Newhook was the overtime hero for the Montreal Canadiens, scoring the series-winning goal in overtime in Game 7. The Canadiens would also get goals from Phillip Danault and Zachary Bolduc as they weathered the Sabres&#8217; comeback attempt. With the win, the Canadiens will move on to the third",
+      "title": "Montreal Canadiens defeat Buffalo Sabres 3-2 in OT in Game 7 to advance to Eastern Conference Final",
+      "description": "The Montreal Canadiens are headed to the Eastern Conference Final for the first time since 2015 after Alex Newhook scored the overtime winner in a 3-2 Game 7 victory over the Buffalo Sabres on Monday night. In a series defined by resilience, the Canadiens once again found a way to answer adversity. ",
       "url": "https://montreal.citynews.ca/2026/05/18/canadiens-sabres-game-7/",
       "source": "CityNews Montreal",
-      "image": "",
+      "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2026/05/CP176316435-1024x683.jpg",
       "published": "Mon, 18 May 2026 22:33:23 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713393"
+      "fetched_at": "2026-05-19T07:43:51.842320"
     },
     {
       "id": "f83614fa0482",
@@ -1340,83 +1604,23 @@
       "description": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
       "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7abc/live/e242fd30-530c-11f1-8b8c-6d33e1d5abb6.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10f1/live/2adaf760-5348-11f1-8b8c-6d33e1d5abb6.jpg",
       "published": "Mon, 18 May 2026 22:30:58 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727466"
+      "fetched_at": "2026-05-19T07:43:50.204702"
     },
     {
-      "id": "7f85b6c35fb2",
-      "title": "Brazil call up Neymar to World Cup 2026 squad",
-      "description": "Brazil&#039;s all-time leading scorer Neymar called up for World Cup 2026 as Carlo Ancelotti turns to forward for first time.",
-      "url": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 18 May 2026 22:30:54 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.622958"
-    },
-    {
-      "id": "f1c189fc11ec",
-      "title": "Apex Announces Brokered LIFE Offering of up to $10,001,600",
-      "description": "NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, May 18, 2026 (GLOBE NEWSWIRE) &#8212; Apex Critical Metals Corp. (CSE: APXC) (OTCQX: APXCF) (FWB: KL9) (“Apex” or the “Company”), a Canadian mineral exploration company focused on the id",
-      "url": "https://montrealgazette.com/press-releases/globe-newswire/apex-announces-brokered-life-offering-of-up-to-10001600/",
-      "source": "Montreal Gazette",
-      "image": "https://www.globenewswire.com/newsroom/ti?nf=OTcyMjU4NSM3NjA5ODk4IzUwMDE2Mjc2Ng==",
-      "published": "Mon, 18 May 2026 22:22:29 +0000",
+      "id": "813c727ae935",
+      "title": "WATCH: Global News Hour at 6 BC: May 18",
+      "description": "Watch the online edition of Global News Hour at 6 BC.",
+      "url": "https://globalnews.ca/news/1149299/watch-news-hour/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/10/GLOBALNEWS_BC-show-thumbnail-NEW.jpg?quality=65&strip=all",
+      "published": "Mon, 18 May 2026 22:00:41 +0000",
       "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.345170"
-    },
-    {
-      "id": "72e9833bafd9",
-      "title": "Apex Announces Brokered LIFE Offering of up to $10,001,600",
-      "description": "NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, May 18, 2026 (GLOBE NEWSWIRE) &#8212; Apex Critical Metals Corp. (CSE: APXC) (OTCQX: APXCF) (FWB: KL9) (“Apex” or the “Company”), a Canadian mineral exploration company focused on the id",
-      "url": "https://financialpost.com/globe-newswire/apex-announces-brokered-life-offering-of-up-to-10001600",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 18 May 2026 22:22:27 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417374"
-    },
-    {
-      "id": "08b07b3e0c2f",
-      "title": "Oil Declines After Trump Says He Called Off Strike on Iran",
-      "description": "Oil fell after President Donald Trump said he’d called off a strike on Iran planned for Tuesday following an appeal by Persian Gulf allies.",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-declines-after-trump-says-he-called-off-strike-on-iran",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 18 May 2026 22:20:05 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417404"
-    },
-    {
-      "id": "808eec3ae82f",
-      "title": "A redistricting re-do? What to know about Alabama’s primary elections",
-      "description": "Voters may have to return to the polls in August as state seeks to implement a previously blocked redistricting push.",
-      "url": "https://www.aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 18 May 2026 22:13:22 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.622987"
-    },
-    {
-      "id": "0ab94a623870",
-      "title": "U.S. slaps duties on fresh Canadian mushrooms over subsidy claims - Global News",
-      "description": "U.S. slaps duties on fresh Canadian mushrooms over subsidy claims&nbsp;&nbsp;Global NewsSee more headlines & perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vTnNLbkNCU1ZZV0xzdklreU0telZKRHRoOTNSTldNTFdTLU5mYnhfdk55TmQ4NGl4UUdSX1BHbXE2U1o3T3kybG4yVkZKU1kxRURFQzVENlVOS3A3bFhiVDZYME5FV3p4VEJ1WWMxYkM?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 18 May 2026 21:57:33 GMT",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:55.686367"
+      "category": "canada",
+      "fetched_at": "2026-05-19T07:43:48.994393"
     },
     {
       "id": "45fa088018e5",
@@ -1428,19 +1632,7 @@
       "published": "Mon, 18 May 2026 21:57:33 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714606"
-    },
-    {
-      "id": "6a77f511ac0b",
-      "title": "Is the US trying to force regime change in Cuba?",
-      "description": "As its blockade causes a fuel crisis in Cuba, the US is offering aid but only if it can dictate Cuba&#039;s future.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 18 May 2026 21:57:08 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.623034"
+      "fetched_at": "2026-05-19T07:43:48.994424"
     },
     {
       "id": "aa49efd3ff83",
@@ -1452,7 +1644,7 @@
       "published": "Mon, 18 May 2026 21:55:02 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:53.825229"
+      "fetched_at": "2026-05-19T07:43:49.024318"
     },
     {
       "id": "c9f93f2c4105",
@@ -1464,35 +1656,11 @@
       "published": "Mon, 18 May 2026 21:50:23 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:53.951073"
-    },
-    {
-      "id": "316949f77b3a",
-      "title": "Global Water Resources Reports Results of Director Election",
-      "description": "PHOENIX, May 18, 2026 (GLOBE NEWSWIRE) &#8212; Global Water Resources Inc., (&#8220;the Company&#8221;), (NASDAQ: GWRS), a pure-play water resource management company, announced that the nominees listed in the Proxy Statement, dated March 31, 2026, for the 2026 Annual Meeting of Stockholders (&#8220",
-      "url": "https://montrealgazette.com/press-releases/globe-newswire/global-water-resources-reports-results-of-director-election/",
-      "source": "Montreal Gazette",
-      "image": "https://www.globenewswire.com/newsroom/ti?nf=OTcyMjU0OCM3NjA5ODc1IzIwODEwMDU=",
-      "published": "Mon, 18 May 2026 21:46:57 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.345224"
-    },
-    {
-      "id": "b738b74904f5",
-      "title": "Global Water Resources Reports Results of Director Election",
-      "description": "PHOENIX, May 18, 2026 (GLOBE NEWSWIRE) &#8212; Global Water Resources Inc., (&#8220;the Company&#8221;), (NASDAQ: GWRS), a pure-play water resource management company, announced that the nominees listed in the Proxy Statement, dated March 31, 2026, for the 2026 Annual Meeting of Stockholders (&#8220",
-      "url": "https://financialpost.com/globe-newswire/global-water-resources-reports-results-of-director-election-6",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 18 May 2026 21:46:56 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:54.417438"
+      "fetched_at": "2026-05-19T07:43:49.352862"
     },
     {
       "id": "519dd48f62c7",
-      "title": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
+      "title": "The Republican who stood up to Trump is hoping for a big win against president",
       "description": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday.",
       "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -1500,19 +1668,7 @@
       "published": "Mon, 18 May 2026 21:39:45 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727566"
-    },
-    {
-      "id": "9457c18ee313",
-      "title": "Guardiola on verge of Manchester City exit at end of Premier League season",
-      "description": "Manchester City manager Pep Guardiola is understood to be stepping down at end of season after 17 years at EPL club.",
-      "url": "https://www.aljazeera.com/sports/2026/5/18/guardiola-on-verge-of-manchester-city-exit-at-end-of-premier-league-season?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Mon, 18 May 2026 21:37:13 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.623067"
+      "fetched_at": "2026-05-19T07:43:50.204836"
     },
     {
       "id": "a66c64b01cf5",
@@ -1524,7 +1680,7 @@
       "published": "Mon, 18 May 2026 21:35:03 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973271"
+      "fetched_at": "2026-05-19T07:43:52.392151"
     },
     {
       "id": "d8859cfa6328",
@@ -1536,7 +1692,7 @@
       "published": "Mon, 18 May 2026 21:29:31 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:53.825271"
+      "fetched_at": "2026-05-19T07:43:49.024364"
     },
     {
       "id": "d6139c528831",
@@ -1548,7 +1704,7 @@
       "published": "Mon, 18 May 2026 21:21:06 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713444"
+      "fetched_at": "2026-05-19T07:43:51.842364"
     },
     {
       "id": "d3d87599c6de",
@@ -1560,19 +1716,19 @@
       "published": "Mon, 18 May 2026 21:09:07 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727543"
+      "fetched_at": "2026-05-19T07:43:50.204806"
     },
     {
-      "id": "8c71aa9e8600",
-      "title": "Pentagon walks away from Canada-U.S. defence board - CBC",
-      "description": "Pentagon walks away from Canada-U.S. defence board&nbsp;&nbsp;CBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3ctOUd1S0xXQlFFc3hVcm4zQWI4dG8xS19Mc3JCS3A5SzBZY1NiSHIwbkNvQzdBdDBjZlZHLTBwRUhCV3NUV0RXejVNeHl0Y3VjUjRCMHhBR3hBakRMSnNrNEYwakZTREk4N1ZqTEEwaFlPLVRibHVUMEp6VmRjYkwzVkk?oc=5",
-      "source": "Google News Canada",
+      "id": "11dc3ecea332",
+      "title": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
+      "description": "NASA’s Nancy Grace Roman Space Telescope is now aiming for an earlier launch in September 2026. Designed to explore dark matter, dark energy, and distant exoplanets, the telescope will capture massive, ultra-detailed surveys of the cosmos using infrared vision. Scientists expect Roman to uncover hun",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041345.htm",
+      "source": "Science Daily",
       "image": "",
-      "published": "Mon, 18 May 2026 20:59:10 GMT",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650150"
+      "published": "Mon, 18 May 2026 21:01:24 EDT",
+      "location": "World",
+      "category": "science",
+      "fetched_at": "2026-05-19T07:43:49.743013"
     },
     {
       "id": "ad5d71e79937",
@@ -1584,7 +1740,7 @@
       "published": "Mon, 18 May 2026 20:56:33 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492214"
+      "fetched_at": "2026-05-19T07:43:51.822587"
     },
     {
       "id": "126c8ef5cf47",
@@ -1596,7 +1752,7 @@
       "published": "Mon, 18 May 2026 20:55:38 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.019550"
+      "fetched_at": "2026-05-19T07:43:52.962752"
     },
     {
       "id": "d055ff90e59d",
@@ -1608,7 +1764,19 @@
       "published": "Mon, 18 May 2026 20:55:02 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714628"
+      "fetched_at": "2026-05-19T07:43:48.994457"
+    },
+    {
+      "id": "2e523d25e7d5",
+      "title": "Race for the Roster: Johnston locked in again to Canada’s starting XI - TSN",
+      "description": "Race for the Roster: Johnston locked in again to Canada’s starting XI&nbsp;&nbsp;TSN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYndGSHVQb0VEbXNvMy0tRUVJUFd5b1BTdWRPSm82VWtVZE9VRkN3bDBGMHoxWWNnOXI4QnEyZ0dHZDBfMjFuU3l5WjhseU1wRXNYWlhPN1Nic2YxQVN0SG90M0taVVlqOWd3THRLTWJabjdVeGJuTkZ0X2RMaFNjNWRyVE1CbEppUzVkc2hyNkZOVmRTQnlhbC1BdzZGaGJMblV1cEJfbDhSYWxpWWZRNXIwSGIzMS1I?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Mon, 18 May 2026 20:53:30 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-05-19T07:43:50.889004"
     },
     {
       "id": "cf84496fd09c",
@@ -1620,7 +1788,7 @@
       "published": "Mon, 18 May 2026 20:41:40 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.348836"
+      "fetched_at": "2026-05-19T07:43:51.547143"
     },
     {
       "id": "84be87dc3486",
@@ -1632,7 +1800,7 @@
       "published": "Mon, 18 May 2026 20:41:40 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492253"
+      "fetched_at": "2026-05-19T07:43:51.822624"
     },
     {
       "id": "88062bc1e4f5",
@@ -1644,31 +1812,7 @@
       "published": "Mon, 18 May 2026 20:41:40 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713492"
-    },
-    {
-      "id": "671b0dfed326",
-      "title": "Chinese embassy in Canada denounces MP Chong’s visit to Taiwan",
-      "description": "OTTAWA — China&#8217;s embassy in Canada says a Canadian MP&#8217;s visit to Taiwan crosses a &#8220;red line&#8221; for Ottawa&#8217;s relationship with Beijing. Conservative MP Michael Chong is in Taiwan this week to meet with Taiwanese officials and assert Canadian sovereignty after China&#8217;s",
-      "url": "https://calgary.citynews.ca/2026/05/18/chinese-embassy-in-canada-denounces-mp-chongs-visit-to-taiwan/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 18 May 2026 20:41:40 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.834512"
-    },
-    {
-      "id": "369cf606aade",
-      "title": "Chinese embassy in Canada denounces MP Chong’s visit to Taiwan",
-      "description": "OTTAWA — China&#8217;s embassy in Canada says a Canadian MP&#8217;s visit to Taiwan crosses a &#8220;red line&#8221; for Ottawa&#8217;s relationship with Beijing. Conservative MP Michael Chong is in Taiwan this week to meet with Taiwanese officials and assert Canadian sovereignty after China&#8217;s",
-      "url": "https://edmonton.citynews.ca/2026/05/18/chinese-embassy-in-canada-denounces-mp-chongs-visit-to-taiwan/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 18 May 2026 20:41:40 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973325"
+      "fetched_at": "2026-05-19T07:43:51.842408"
     },
     {
       "id": "d55878fa523c",
@@ -1680,7 +1824,31 @@
       "published": "Mon, 18 May 2026 20:41:40 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.282384"
+      "fetched_at": "2026-05-19T07:43:52.001140"
+    },
+    {
+      "id": "671b0dfed326",
+      "title": "Chinese embassy in Canada denounces MP Chong’s visit to Taiwan",
+      "description": "OTTAWA — China&#8217;s embassy in Canada says a Canadian MP&#8217;s visit to Taiwan crosses a &#8220;red line&#8221; for Ottawa&#8217;s relationship with Beijing. Conservative MP Michael Chong is in Taiwan this week to meet with Taiwanese officials and assert Canadian sovereignty after China&#8217;s",
+      "url": "https://calgary.citynews.ca/2026/05/18/chinese-embassy-in-canada-denounces-mp-chongs-visit-to-taiwan/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 18 May 2026 20:41:40 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.077456"
+    },
+    {
+      "id": "369cf606aade",
+      "title": "Chinese embassy in Canada denounces MP Chong’s visit to Taiwan",
+      "description": "OTTAWA — China&#8217;s embassy in Canada says a Canadian MP&#8217;s visit to Taiwan crosses a &#8220;red line&#8221; for Ottawa&#8217;s relationship with Beijing. Conservative MP Michael Chong is in Taiwan this week to meet with Taiwanese officials and assert Canadian sovereignty after China&#8217;s",
+      "url": "https://edmonton.citynews.ca/2026/05/18/chinese-embassy-in-canada-denounces-mp-chongs-visit-to-taiwan/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Mon, 18 May 2026 20:41:40 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.392200"
     },
     {
       "id": "9be51c8ee898",
@@ -1692,7 +1860,7 @@
       "published": "Mon, 18 May 2026 20:38:12 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.019577"
+      "fetched_at": "2026-05-19T07:43:52.962778"
     },
     {
       "id": "7f8a6d93e2e1",
@@ -1704,7 +1872,7 @@
       "published": "Mon, 18 May 2026 20:29:46 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.970882"
+      "fetched_at": "2026-05-19T07:43:50.005275"
     },
     {
       "id": "1b0df11a68ba",
@@ -1716,7 +1884,7 @@
       "published": "Mon, 18 May 2026 20:25:07 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.348868"
+      "fetched_at": "2026-05-19T07:43:51.547172"
     },
     {
       "id": "4ced5f1756e5",
@@ -1728,19 +1896,19 @@
       "published": "Mon, 18 May 2026 20:23:37 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713539"
+      "fetched_at": "2026-05-19T07:43:51.842451"
     },
     {
       "id": "da9a97eec694",
       "title": "Trump says he’s called off planned Iran strikes ahead of new ‘negotiations’ - Global News",
-      "description": "Trump says he’s called off planned Iran strikes ahead of new ‘negotiations’&nbsp;&nbsp;Global NewsIran war live: Trump says Iran attack postponed at request of Gulf allies&nbsp;&nbsp;Al JazeeraTrump says he paused attack on Iran at Gulf leaders' request&nbsp;&nbsp;DW.comTrump says he paused attack o",
+      "description": "Trump says he’s called off planned Iran strikes ahead of new ‘negotiations’&nbsp;&nbsp;Global NewsTrump says he has paused attack on Iran as peace talks stall&nbsp;&nbsp;The Globe and MailIran war day 81: Trump delays attack; Tehran says won’t ‘surrender’&nbsp;&nbsp;Al JazeeraTrump says he called of",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TcWdZZUl4RGxmTmxtT3pSQ1NNQkxwTGpHTVdhcW4yb25wUUZTOVVseS0zWTJkMzJUZkNSVlQwTS1fTzVDNUQ5bGUtNXl5NFFJQXJaWjRITk1YdklIMG5LYUstQ05tSDNadUJzbHBkM3p2Zw?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 18 May 2026 20:22:34 GMT",
-      "location": "World",
+      "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.183981"
+      "fetched_at": "2026-05-19T07:43:51.193100"
     },
     {
       "id": "d07e32d84645",
@@ -1752,7 +1920,7 @@
       "published": "Mon, 18 May 2026 20:22:34 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714678"
+      "fetched_at": "2026-05-19T07:43:48.994493"
     },
     {
       "id": "ba449472cde8",
@@ -1764,7 +1932,7 @@
       "published": "Mon, 18 May 2026 20:18:47 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:55.686413"
+      "fetched_at": "2026-05-19T07:43:50.592101"
     },
     {
       "id": "3a90f117b5da",
@@ -1776,7 +1944,7 @@
       "published": "Mon, 18 May 2026 20:17:28 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.970921"
+      "fetched_at": "2026-05-19T07:43:50.005311"
     },
     {
       "id": "d266ca4a5ab6",
@@ -1788,7 +1956,7 @@
       "published": "Mon, 18 May 2026 20:15:06 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.834565"
+      "fetched_at": "2026-05-19T07:43:52.077487"
     },
     {
       "id": "463dcfacb83b",
@@ -1800,7 +1968,7 @@
       "published": "Mon, 18 May 2026 20:11:42 GMT",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:55.686270"
+      "fetched_at": "2026-05-19T07:43:50.592055"
     },
     {
       "id": "3c0e04462f75",
@@ -1812,7 +1980,7 @@
       "published": "Mon, 18 May 2026 20:11:26 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.348898"
+      "fetched_at": "2026-05-19T07:43:51.547198"
     },
     {
       "id": "9624d7d0ffd9",
@@ -1824,7 +1992,7 @@
       "published": "Mon, 18 May 2026 19:58:26 +0000",
       "location": "Edmonton",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714702"
+      "fetched_at": "2026-05-19T07:43:48.994522"
     },
     {
       "id": "fb4066266c00",
@@ -1836,7 +2004,7 @@
       "published": "Mon, 18 May 2026 19:57:14 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-05-19T03:30:54.719636"
+      "fetched_at": "2026-05-19T07:43:49.743180"
     },
     {
       "id": "78d01fe5e735",
@@ -1848,7 +2016,7 @@
       "published": "Mon, 18 May 2026 19:55:33 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.348942"
+      "fetched_at": "2026-05-19T07:43:51.547240"
     },
     {
       "id": "0a20bc54005e",
@@ -1860,7 +2028,7 @@
       "published": "Mon, 18 May 2026 19:55:33 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492287"
+      "fetched_at": "2026-05-19T07:43:51.822657"
     },
     {
       "id": "c798cf9ee342",
@@ -1872,31 +2040,7 @@
       "published": "Mon, 18 May 2026 19:55:33 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713584"
-    },
-    {
-      "id": "d9bf15900bc5",
-      "title": "U.S. slaps duties on fresh Canadian mushrooms over subsidy claims",
-      "description": "WASHINGTON — The United States has put countervailing duties on fresh mushrooms grown in Canada following a U.S. Department of Commerce investigation which the Canadian industry has called &#8220;deeply flawed.&#8221; The change, posted in the federal register today, will slap most fresh mushrooms w",
-      "url": "https://calgary.citynews.ca/2026/05/18/u-s-slaps-duties-on-fresh-canadian-mushrooms-over-subsidy-claims/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 18 May 2026 19:55:33 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.834636"
-    },
-    {
-      "id": "7ab7142b257a",
-      "title": "U.S. slaps duties on fresh Canadian mushrooms over subsidy claims",
-      "description": "WASHINGTON — The United States has put countervailing duties on fresh mushrooms grown in Canada following a U.S. Department of Commerce investigation which the Canadian industry has called &#8220;deeply flawed.&#8221; The change, posted in the federal register today, will slap most fresh mushrooms w",
-      "url": "https://edmonton.citynews.ca/2026/05/18/u-s-slaps-duties-on-fresh-canadian-mushrooms-over-subsidy-claims/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 18 May 2026 19:55:33 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973375"
+      "fetched_at": "2026-05-19T07:43:51.842493"
     },
     {
       "id": "34ba41f14014",
@@ -1908,7 +2052,31 @@
       "published": "Mon, 18 May 2026 19:55:33 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.282439"
+      "fetched_at": "2026-05-19T07:43:52.001193"
+    },
+    {
+      "id": "d9bf15900bc5",
+      "title": "U.S. slaps duties on fresh Canadian mushrooms over subsidy claims",
+      "description": "WASHINGTON — The United States has put countervailing duties on fresh mushrooms grown in Canada following a U.S. Department of Commerce investigation which the Canadian industry has called &#8220;deeply flawed.&#8221; The change, posted in the federal register today, will slap most fresh mushrooms w",
+      "url": "https://calgary.citynews.ca/2026/05/18/u-s-slaps-duties-on-fresh-canadian-mushrooms-over-subsidy-claims/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 18 May 2026 19:55:33 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.077529"
+    },
+    {
+      "id": "7ab7142b257a",
+      "title": "U.S. slaps duties on fresh Canadian mushrooms over subsidy claims",
+      "description": "WASHINGTON — The United States has put countervailing duties on fresh mushrooms grown in Canada following a U.S. Department of Commerce investigation which the Canadian industry has called &#8220;deeply flawed.&#8221; The change, posted in the federal register today, will slap most fresh mushrooms w",
+      "url": "https://edmonton.citynews.ca/2026/05/18/u-s-slaps-duties-on-fresh-canadian-mushrooms-over-subsidy-claims/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Mon, 18 May 2026 19:55:33 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.392246"
     },
     {
       "id": "8e010c9e963f",
@@ -1920,7 +2088,19 @@
       "published": "Mon, 18 May 2026 19:53:31 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727609"
+      "fetched_at": "2026-05-19T07:43:50.205009"
+    },
+    {
+      "id": "446321c8ca01",
+      "title": "NBA Western Conference Finals preview: Are Spurs ready to steal OKC's thunder? - Sportsnet",
+      "description": "NBA Western Conference Finals preview: Are Spurs ready to steal OKC's thunder?&nbsp;&nbsp;SportsnetAll the NBA Playoffs records Victor Wembanyama shattered in Game 1 vs. Thunder&nbsp;&nbsp;Yahoo Sports CanadaWemby’s night: 41 points, 24 rebounds, and a 1-0 lead in the Western Conference finals&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlNlYno4R2hOUUdpWTUydm96SVpYQklKVWZhTTF1YXZNb2VNMVdoQ1g5YkxhR2V0Y19zbVFkMkk4cFVSX3U4RkRVQlM3bGxPbnV1emFzMHFOVjhib3lndm5yOXBxbDk1SlVMMXNpd3RQd25hckNVZ2FCLXdKWUQtbzFoQXJyVTdvYzN1RUQtR195elF2TDVET0w2QnhtNlQyUnpkRDVOYWlZb1QyZTZfNEhaWQ?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Mon, 18 May 2026 19:53:00 GMT",
+      "location": "Toronto",
+      "category": "sports",
+      "fetched_at": "2026-05-19T07:43:51.305543"
     },
     {
       "id": "4176e15b333d",
@@ -1932,7 +2112,7 @@
       "published": "Mon, 18 May 2026 19:51:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650278"
+      "fetched_at": "2026-05-19T07:43:50.889111"
     },
     {
       "id": "f28fc5447a36",
@@ -1944,7 +2124,7 @@
       "published": "Mon, 18 May 2026 19:44:39 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.019609"
+      "fetched_at": "2026-05-19T07:43:52.962807"
     },
     {
       "id": "01e405c39576",
@@ -1956,7 +2136,7 @@
       "published": "Mon, 18 May 2026 19:44:01 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650198"
+      "fetched_at": "2026-05-19T07:43:50.889080"
     },
     {
       "id": "3db4ce1144cc",
@@ -1968,7 +2148,7 @@
       "published": "Mon, 18 May 2026 19:43:34 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492312"
+      "fetched_at": "2026-05-19T07:43:51.822681"
     },
     {
       "id": "ed7449746d7f",
@@ -1980,7 +2160,7 @@
       "published": "Mon, 18 May 2026 19:36:42 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.348984"
+      "fetched_at": "2026-05-19T07:43:51.547281"
     },
     {
       "id": "b49c72288a82",
@@ -1992,7 +2172,7 @@
       "published": "Mon, 18 May 2026 19:36:42 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492355"
+      "fetched_at": "2026-05-19T07:43:51.822723"
     },
     {
       "id": "3d82cae73719",
@@ -2004,31 +2184,7 @@
       "published": "Mon, 18 May 2026 19:36:42 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713631"
-    },
-    {
-      "id": "4311e619b455",
-      "title": "Shooting at San Diego mosque kills 3 men and both suspects are dead, police say",
-      "description": "SAN DIEGO (AP) — Two teenage gunmen opened fire at an Islamic Center in San Diego on Monday and killed three men before killing themselves a few blocks away, police said. The attack at the Islamic Center of San Diego is being investigated as a hate crime, San Diego Police Chief Scott Wahl said at",
-      "url": "https://calgary.citynews.ca/2026/05/18/san-diego-police-say-they-are-responding-to-an-active-shooter-at-a-local-mosque/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 18 May 2026 19:36:42 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.834706"
-    },
-    {
-      "id": "a5c7269d5043",
-      "title": "Shooting at San Diego mosque kills 3 men and both suspects are dead, police say",
-      "description": "SAN DIEGO (AP) — Two teenage gunmen opened fire at an Islamic Center in San Diego on Monday and killed three men before killing themselves a few blocks away, police said. The attack at the Islamic Center of San Diego is being investigated as a hate crime, San Diego Police Chief Scott Wahl said at Th",
-      "url": "https://edmonton.citynews.ca/2026/05/18/san-diego-police-say-they-are-responding-to-an-active-shooter-at-a-local-mosque/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 18 May 2026 19:36:42 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973426"
+      "fetched_at": "2026-05-19T07:43:51.842537"
     },
     {
       "id": "a4ee1b08045c",
@@ -2040,7 +2196,31 @@
       "published": "Mon, 18 May 2026 19:36:42 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.282488"
+      "fetched_at": "2026-05-19T07:43:52.001239"
+    },
+    {
+      "id": "4311e619b455",
+      "title": "Shooting at San Diego mosque kills 3 men and both suspects are dead, police say",
+      "description": "SAN DIEGO (AP) — Two teenage gunmen opened fire at an Islamic Center in San Diego on Monday and killed three men before killing themselves a few blocks away, police said. The attack at the Islamic Center of San Diego is being investigated as a hate crime, San Diego Police Chief Scott Wahl said at",
+      "url": "https://calgary.citynews.ca/2026/05/18/san-diego-police-say-they-are-responding-to-an-active-shooter-at-a-local-mosque/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 18 May 2026 19:36:42 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.077571"
+    },
+    {
+      "id": "a5c7269d5043",
+      "title": "Shooting at San Diego mosque kills 3 men and both suspects are dead, police say",
+      "description": "SAN DIEGO (AP) — Two teenage gunmen opened fire at an Islamic Center in San Diego on Monday and killed three men before killing themselves a few blocks away, police said. The attack at the Islamic Center of San Diego is being investigated as a hate crime, San Diego Police Chief Scott Wahl said at Th",
+      "url": "https://edmonton.citynews.ca/2026/05/18/san-diego-police-say-they-are-responding-to-an-active-shooter-at-a-local-mosque/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Mon, 18 May 2026 19:36:42 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.392294"
     },
     {
       "id": "8bb7e4024f36",
@@ -2052,7 +2232,7 @@
       "published": "Mon, 18 May 2026 19:36:06 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:53.950968"
+      "fetched_at": "2026-05-19T07:43:49.352793"
     },
     {
       "id": "27e6723dfe9b",
@@ -2064,7 +2244,7 @@
       "published": "Mon, 18 May 2026 19:34:12 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.349052"
+      "fetched_at": "2026-05-19T07:43:51.547326"
     },
     {
       "id": "0d1d88576f12",
@@ -2076,19 +2256,7 @@
       "published": "Mon, 18 May 2026 19:33:22 GMT",
       "location": "Canada",
       "category": "sports",
-      "fetched_at": "2026-05-19T03:30:55.329171"
-    },
-    {
-      "id": "e0ae7e41950a",
-      "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
-      "description": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
-      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg",
-      "published": "Mon, 18 May 2026 19:31:18 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727520"
+      "fetched_at": "2026-05-19T07:43:51.305271"
     },
     {
       "id": "d023da2950a3",
@@ -2100,7 +2268,7 @@
       "published": "Mon, 18 May 2026 19:27:52 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:53.825311"
+      "fetched_at": "2026-05-19T07:43:49.024421"
     },
     {
       "id": "0db77de32661",
@@ -2112,7 +2280,7 @@
       "published": "Mon, 18 May 2026 19:24:12 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713674"
+      "fetched_at": "2026-05-19T07:43:51.842578"
     },
     {
       "id": "be6ddd4764bf",
@@ -2124,7 +2292,7 @@
       "published": "Mon, 18 May 2026 19:19:52 +0000",
       "location": "Calgary",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714722"
+      "fetched_at": "2026-05-19T07:43:48.994549"
     },
     {
       "id": "cd4eb0bd2665",
@@ -2136,7 +2304,7 @@
       "published": "Mon, 18 May 2026 19:15:43 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.349096"
+      "fetched_at": "2026-05-19T07:43:51.547362"
     },
     {
       "id": "2c2cc208cfc5",
@@ -2148,43 +2316,7 @@
       "published": "Mon, 18 May 2026 19:15:43 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492394"
-    },
-    {
-      "id": "9374d5d71cd6",
-      "title": "Trump says he’s called off Iran strike planned for Tuesday at request of Gulf allies",
-      "description": "WASHINGTON (AP) — President Donald Trump said he is holding off on a military strike on Iran planned for Tuesday because “serious negotiations” are underway. Trump’s announcement in a social media post Monday came as he had threated the clock was ticking for Iran to strike a deal or fighting would r",
-      "url": "https://montreal.citynews.ca/2026/05/18/trump-says-hes-called-off-iran-strike-planned-for-tuesday-at-request-of-gulf-allies/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Mon, 18 May 2026 19:15:43 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.713723"
-    },
-    {
-      "id": "39a2e762125c",
-      "title": "Trump says he’s called off Iran strike planned for Tuesday at request of Gulf allies",
-      "description": "WASHINGTON (AP) — President Donald Trump said he is holding off on a military strike on Iran planned for Tuesday because “serious negotiations” are underway. Trump’s announcement in a social media post Monday came as he had threated the clock was ticking for Iran to strike a deal or fighting would r",
-      "url": "https://calgary.citynews.ca/2026/05/18/trump-says-hes-called-off-iran-strike-planned-for-tuesday-at-request-of-gulf-allies/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 18 May 2026 19:15:43 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.834778"
-    },
-    {
-      "id": "041c2193a49e",
-      "title": "Trump says he’s called off Iran strike planned for Tuesday at request of Gulf allies",
-      "description": "WASHINGTON (AP) — President Donald Trump said he is holding off on a military strike on Iran planned for Tuesday because “serious negotiations” are underway. Trump’s announcement in a social media post Monday came as he had threated the clock was ticking for Iran to strike a deal or fighting would r",
-      "url": "https://edmonton.citynews.ca/2026/05/18/trump-says-hes-called-off-iran-strike-planned-for-tuesday-at-request-of-gulf-allies/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 18 May 2026 19:15:43 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973474"
+      "fetched_at": "2026-05-19T07:43:51.822763"
     },
     {
       "id": "be85033e9591",
@@ -2196,7 +2328,31 @@
       "published": "Mon, 18 May 2026 19:15:43 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.282531"
+      "fetched_at": "2026-05-19T07:43:52.001279"
+    },
+    {
+      "id": "39a2e762125c",
+      "title": "Trump says he’s called off Iran strike planned for Tuesday at request of Gulf allies",
+      "description": "WASHINGTON (AP) — President Donald Trump said he is holding off on a military strike on Iran planned for Tuesday because “serious negotiations” are underway. Trump’s announcement in a social media post Monday came as he had threated the clock was ticking for Iran to strike a deal or fighting would r",
+      "url": "https://calgary.citynews.ca/2026/05/18/trump-says-hes-called-off-iran-strike-planned-for-tuesday-at-request-of-gulf-allies/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 18 May 2026 19:15:43 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.077609"
+    },
+    {
+      "id": "041c2193a49e",
+      "title": "Trump says he’s called off Iran strike planned for Tuesday at request of Gulf allies",
+      "description": "WASHINGTON (AP) — President Donald Trump said he is holding off on a military strike on Iran planned for Tuesday because “serious negotiations” are underway. Trump’s announcement in a social media post Monday came as he had threated the clock was ticking for Iran to strike a deal or fighting would r",
+      "url": "https://edmonton.citynews.ca/2026/05/18/trump-says-hes-called-off-iran-strike-planned-for-tuesday-at-request-of-gulf-allies/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Mon, 18 May 2026 19:15:43 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.392339"
     },
     {
       "id": "6718a3d83e67",
@@ -2208,7 +2364,7 @@
       "published": "Mon, 18 May 2026 19:09:19 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.019634"
+      "fetched_at": "2026-05-19T07:43:52.962831"
     },
     {
       "id": "38ce0c546dd6",
@@ -2220,7 +2376,7 @@
       "published": "Mon, 18 May 2026 19:07:56 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.970956"
+      "fetched_at": "2026-05-19T07:43:50.005342"
     },
     {
       "id": "b33b3ec4d2fe",
@@ -2232,7 +2388,7 @@
       "published": "Mon, 18 May 2026 19:00:44 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.970990"
+      "fetched_at": "2026-05-19T07:43:50.005372"
     },
     {
       "id": "4f9e998f4831",
@@ -2244,31 +2400,7 @@
       "published": "Mon, 18 May 2026 18:58:55 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714747"
-    },
-    {
-      "id": "05bf2e5966ee",
-      "title": "Greenland’s prime minister tells Trump’s envoy self-determination cannot be negotiated",
-      "description": "NUUK, Greeland (AP) — Greenland’s Prime Minister Jens-Frederik Nielsen said Monday that he had a respectful and positive meeting with U.S. President Donald Trump ’s special envoy to the Arctic territory, but that he made it clear that the Greenlandic people continue to insist on self-determination. ",
-      "url": "https://calgary.citynews.ca/2026/05/18/greenlands-prime-minister-tells-trumps-envoy-self-determination-cannot-be-negotiated/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 18 May 2026 18:45:14 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.834853"
-    },
-    {
-      "id": "9adf4110d1e8",
-      "title": "Greenland’s prime minister tells Trump’s envoy self-determination cannot be negotiated",
-      "description": "NUUK, Greeland (AP) — Greenland’s Prime Minister Jens-Frederik Nielsen said Monday that he had a respectful and positive meeting with U.S. President Donald Trump ’s special envoy to the Arctic territory, but that he made it clear that the Greenlandic people continue to insist on self-determination. ",
-      "url": "https://edmonton.citynews.ca/2026/05/18/greenlands-prime-minister-tells-trumps-envoy-self-determination-cannot-be-negotiated/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 18 May 2026 18:45:14 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973526"
+      "fetched_at": "2026-05-19T07:43:48.994585"
     },
     {
       "id": "a5799ad2fd0c",
@@ -2280,19 +2412,43 @@
       "published": "Mon, 18 May 2026 18:45:14 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.282576"
+      "fetched_at": "2026-05-19T07:43:52.001323"
+    },
+    {
+      "id": "05bf2e5966ee",
+      "title": "Greenland’s prime minister tells Trump’s envoy self-determination cannot be negotiated",
+      "description": "NUUK, Greeland (AP) — Greenland’s Prime Minister Jens-Frederik Nielsen said Monday that he had a respectful and positive meeting with U.S. President Donald Trump ’s special envoy to the Arctic territory, but that he made it clear that the Greenlandic people continue to insist on self-determination. ",
+      "url": "https://calgary.citynews.ca/2026/05/18/greenlands-prime-minister-tells-trumps-envoy-self-determination-cannot-be-negotiated/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 18 May 2026 18:45:14 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.077652"
+    },
+    {
+      "id": "9adf4110d1e8",
+      "title": "Greenland’s prime minister tells Trump’s envoy self-determination cannot be negotiated",
+      "description": "NUUK, Greeland (AP) — Greenland’s Prime Minister Jens-Frederik Nielsen said Monday that he had a respectful and positive meeting with U.S. President Donald Trump ’s special envoy to the Arctic territory, but that he made it clear that the Greenlandic people continue to insist on self-determination. ",
+      "url": "https://edmonton.citynews.ca/2026/05/18/greenlands-prime-minister-tells-trumps-envoy-self-determination-cannot-be-negotiated/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Mon, 18 May 2026 18:45:14 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.392390"
     },
     {
       "id": "193be86788e5",
       "title": "ICE officer charged with assault in shooting during Minneapolis immigration crackdown - CNN",
-      "description": "ICE officer charged with assault in shooting during Minneapolis immigration crackdown&nbsp;&nbsp;CNNICE Agent Charged in Shooting of a Venezuelan Immigrant in Minnesota&nbsp;&nbsp;The New York TimesICE officer charged over shooting of Venezuelan man in Minnesota&nbsp;&nbsp;The GuardianICE agent char",
+      "description": "ICE officer charged with assault in shooting during Minneapolis immigration crackdown&nbsp;&nbsp;CNNICE Agent Charged in Shooting of a Venezuelan Immigrant in Minnesota&nbsp;&nbsp;The New York TimesICE officer charged with four counts of assault in Minnesota shooting of Venezuelan immigrant&nbsp;&nb",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YUk0zRXQ2dzlMVlFVblJ0aVFWaVdtR29KSGhfYVpDUHlvVWJNM0k5dVdPNmNVVGxjYk4xVkdWR2VHU2tER0ROa3NiX1prSUNUQmdzMGd0WHhaMW9uVTZsTTk1bktkd0V0TC15aEtDQl9Jc3BFSDZXQk5QMjY?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 18 May 2026 18:34:38 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.184218"
+      "fetched_at": "2026-05-19T07:43:51.193433"
     },
     {
       "id": "4ff4b65ba337",
@@ -2304,7 +2460,7 @@
       "published": "Mon, 18 May 2026 18:34:09 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:55.686679"
+      "fetched_at": "2026-05-19T07:43:50.592515"
     },
     {
       "id": "d2390d526eb0",
@@ -2316,7 +2472,7 @@
       "published": "Mon, 18 May 2026 18:33:12 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.935117"
+      "fetched_at": "2026-05-19T07:43:50.276691"
     },
     {
       "id": "ef856f8bf046",
@@ -2328,7 +2484,7 @@
       "published": "Mon, 18 May 2026 18:26:49 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.834904"
+      "fetched_at": "2026-05-19T07:43:52.077681"
     },
     {
       "id": "3b982a258140",
@@ -2340,7 +2496,7 @@
       "published": "Mon, 18 May 2026 18:26:49 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973565"
+      "fetched_at": "2026-05-19T07:43:52.392427"
     },
     {
       "id": "f10b25c5ff1d",
@@ -2352,19 +2508,7 @@
       "published": "Mon, 18 May 2026 18:16:54 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492427"
-    },
-    {
-      "id": "26f15fa6b5f0",
-      "title": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
-      "description": "We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.",
-      "url": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 18 May 2026 18:06:12 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:54.240844"
+      "fetched_at": "2026-05-19T07:43:51.822795"
     },
     {
       "id": "c6c2b309c7c9",
@@ -2376,7 +2520,7 @@
       "published": "Mon, 18 May 2026 18:00:32 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.261049"
+      "fetched_at": "2026-05-19T07:43:51.601315"
     },
     {
       "id": "91ca54639f07",
@@ -2388,31 +2532,7 @@
       "published": "Mon, 18 May 2026 17:53:17 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.492470"
-    },
-    {
-      "id": "f4213bcfe967",
-      "title": "Federal court rejects Elon Musk’s claims against OpenAI, saying he filed his lawsuit too late",
-      "description": "OAKLAND, Calif. (AP) — A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to remain a nonprofit dedicated to guiding artificial intelligence’s development for the good of humanity. Musk, the world’",
-      "url": "https://calgary.citynews.ca/2026/05/18/federal-court-rejects-elon-musks-claims-against-openai-saying-he-filed-his-lawsuit-too-late/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 18 May 2026 17:53:17 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.834983"
-    },
-    {
-      "id": "b638ba0eca03",
-      "title": "Federal court rejects Elon Musk’s claims against OpenAI, saying he filed his lawsuit too late",
-      "description": "OAKLAND, Calif. (AP) — A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to remain a nonprofit dedicated to guiding artificial intelligence’s development for the good of humanity. Musk, the world’",
-      "url": "https://edmonton.citynews.ca/2026/05/18/federal-court-rejects-elon-musks-claims-against-openai-saying-he-filed-his-lawsuit-too-late/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 18 May 2026 17:53:17 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973617"
+      "fetched_at": "2026-05-19T07:43:51.822839"
     },
     {
       "id": "4df3f3078c57",
@@ -2424,7 +2544,31 @@
       "published": "Mon, 18 May 2026 17:53:17 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.282622"
+      "fetched_at": "2026-05-19T07:43:52.001368"
+    },
+    {
+      "id": "f4213bcfe967",
+      "title": "Federal court rejects Elon Musk’s claims against OpenAI, saying he filed his lawsuit too late",
+      "description": "OAKLAND, Calif. (AP) — A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to remain a nonprofit dedicated to guiding artificial intelligence’s development for the good of humanity. Musk, the world’",
+      "url": "https://calgary.citynews.ca/2026/05/18/federal-court-rejects-elon-musks-claims-against-openai-saying-he-filed-his-lawsuit-too-late/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 18 May 2026 17:53:17 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.077725"
+    },
+    {
+      "id": "b638ba0eca03",
+      "title": "Federal court rejects Elon Musk’s claims against OpenAI, saying he filed his lawsuit too late",
+      "description": "OAKLAND, Calif. (AP) — A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to remain a nonprofit dedicated to guiding artificial intelligence’s development for the good of humanity. Musk, the world’",
+      "url": "https://edmonton.citynews.ca/2026/05/18/federal-court-rejects-elon-musks-claims-against-openai-saying-he-filed-his-lawsuit-too-late/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Mon, 18 May 2026 17:53:17 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.392478"
     },
     {
       "id": "e599d9db12ab",
@@ -2436,7 +2580,7 @@
       "published": "Mon, 18 May 2026 17:52:22 GMT",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650340"
+      "fetched_at": "2026-05-19T07:43:50.889230"
     },
     {
       "id": "b71c5fe9d6fe",
@@ -2448,7 +2592,19 @@
       "published": "Mon, 18 May 2026 17:51:06 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.140943"
+      "fetched_at": "2026-05-19T07:43:51.983493"
+    },
+    {
+      "id": "a7eddcdf0ab9",
+      "title": "Ukraine hit Moscow with its biggest drone attack since the start of the war. Russian national TV networks all but ignored it. - Meduza",
+      "description": "Ukraine hit Moscow with its biggest drone attack since the start of the war. Russian national TV networks all but ignored it.&nbsp;&nbsp;MeduzaUkrainian mid-range strikes deal double blow to Russia's war effort&nbsp;&nbsp;ReutersUkraine war briefing: The drones that bombarded Moscow region&nbsp;&nbs",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUWpvVWY4SU1DU05ja1F0bjY2MGYyZjB6QWI4ZUM1VFctMllONzMzMlNvbGhuODhMbkpNOTUzT2JyMy1NSEVLb2RlRmNPbTdfXzVFLVZVeENWU0VVM3JRSzRna0JXRGtpcjZOanJXRGF6b3B4UDYxVjAzbzBtWnlUSUdCN2JnOWE1azZzMUljSWFZS1VXOWQxNnlDS0hHYlNiR01WeGVtbFdlQmZLUHd3WEpZcXhydHVBYzN2ZzZmV2ZMY2NOTTVfLWY1V3ItbGlfcTFLMkVNczF5aWFGdi10dU9lYnRVdE11Rk1fUjZKSzVIdHlWMUHSAfsBQVVfeXFMT3I5SXJIYmkzaUg4eU0zVzFSUVhQUmwxOGEtVThaM1daSU43cXprQmUtLTJ0cUNwSjlyMjJpUG5kVTFsVU1RUy1ZMlJxbEtWUGpkSUNtT0RYZ012VF9UUkp5VWNua2ItX3QyN0hYNmtHUHRHTTFUNWdQWXpveUtvZGthVHJSSF9ZdV91MmxrZFpPMHJBTS1rWWxSSkpoUVJTcWJ4RTVRQ2dfRzhCTk54Q3VUdDdSc053c01DSGwyTjJUbXZxblBtT0R4Q0RlTVJGc0F2ZDV0VE1MRmVQNVQ3eF96Nm05R2VEUUNVMzctUS1BTi1OQWlKVV82SVk?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 18 May 2026 17:47:00 GMT",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:51.193265"
     },
     {
       "id": "b2c9ee77e40b",
@@ -2460,19 +2616,7 @@
       "published": "Mon, 18 May 2026 17:43:19 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:53.951044"
-    },
-    {
-      "id": "0c9424b5410d",
-      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-      "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
-      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 18 May 2026 17:40:30 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:54.240871"
+      "fetched_at": "2026-05-19T07:43:49.352838"
     },
     {
       "id": "f568df07558f",
@@ -2484,7 +2628,7 @@
       "published": "Mon, 18 May 2026 17:34:43 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:53.825343"
+      "fetched_at": "2026-05-19T07:43:49.024464"
     },
     {
       "id": "cf92d17f032c",
@@ -2496,7 +2640,19 @@
       "published": "Mon, 18 May 2026 17:28:16 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:53.951100"
+      "fetched_at": "2026-05-19T07:43:49.352886"
+    },
+    {
+      "id": "ad1ed6e08a16",
+      "title": "US Justice Department drops all criminal charges against Gautam Adani, case closed permanently - The Tribune",
+      "description": "US Justice Department drops all criminal charges against Gautam Adani, case closed permanently&nbsp;&nbsp;The TribuneUS drops fraud charges after billionaire Adani pledges $10bn investment&nbsp;&nbsp;Al JazeeraGautam Adani: US justice department moves to drop criminal fraud charges&nbsp;&nbsp;BBCAft",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWlIOWlLZHI5cVhQSjFiWm00aHBSRDVRdEY5bUFyODJ3bmROcEE5RzhTZ1BzZzlZNm5JaWdabXpvOXU2bjJnS21lRi0wZElubFNIaUxiM21Ud3ppWFgwNmVxYzRfQUV0eWhxQWxab0dybGIwQ1ZMVzkyR2VWM1kyM3lnckhUVy1hLTBOZVdpQTBFZU43Qll5cmt3dXROVE5nbWoyNHNFYWJyT3JpUDVZVnJ2aDZrWWpUMnFrdVdR?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 18 May 2026 17:27:48 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:50.592474"
     },
     {
       "id": "f47b2e5b0760",
@@ -2508,7 +2664,7 @@
       "published": "Mon, 18 May 2026 17:19:39 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.140981"
+      "fetched_at": "2026-05-19T07:43:51.983528"
     },
     {
       "id": "a96e0b9abb2a",
@@ -2520,7 +2676,7 @@
       "published": "Mon, 18 May 2026 17:11:07 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.835069"
+      "fetched_at": "2026-05-19T07:43:52.077754"
     },
     {
       "id": "d094cc0aa327",
@@ -2532,31 +2688,7 @@
       "published": "Mon, 18 May 2026 17:06:10 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.935371"
-    },
-    {
-      "id": "9aea31a8f783",
-      "title": "Six Canadians detained by Israel off coast of Cyprus: flotilla organizer",
-      "description": "A group trying to break Israel’s naval blockage of Gaza to deliver aid says six Canadians are among the activists detained as the Israeli military intercepted boats off the coast of Cyprus. The Global Sumud Flotilla says five of its Canadian members and one from the Freedom Flotilla that is part of ",
-      "url": "https://calgary.citynews.ca/2026/05/18/six-canadians-detained-by-israel-off-coast-of-cyprus-flotilla-organizer/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 18 May 2026 17:05:47 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.835142"
-    },
-    {
-      "id": "b746990441dc",
-      "title": "Six Canadians detained by Israel off coast of Cyprus: flotilla organizer",
-      "description": "A group trying to break Israel’s naval blockage of Gaza to deliver aid says six Canadians are among the activists detained as the Israeli military intercepted boats off the coast of Cyprus. The Global Sumud Flotilla says five of its Canadian members and one from the Freedom Flotilla that is part of ",
-      "url": "https://edmonton.citynews.ca/2026/05/18/six-canadians-detained-by-israel-off-coast-of-cyprus-flotilla-organizer/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 18 May 2026 17:05:47 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:55.973665"
+      "fetched_at": "2026-05-19T07:43:50.277025"
     },
     {
       "id": "c7b2da41e50d",
@@ -2568,7 +2700,31 @@
       "published": "Mon, 18 May 2026 17:05:47 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.282663"
+      "fetched_at": "2026-05-19T07:43:52.001410"
+    },
+    {
+      "id": "9aea31a8f783",
+      "title": "Six Canadians detained by Israel off coast of Cyprus: flotilla organizer",
+      "description": "A group trying to break Israel’s naval blockage of Gaza to deliver aid says six Canadians are among the activists detained as the Israeli military intercepted boats off the coast of Cyprus. The Global Sumud Flotilla says five of its Canadian members and one from the Freedom Flotilla that is part of ",
+      "url": "https://calgary.citynews.ca/2026/05/18/six-canadians-detained-by-israel-off-coast-of-cyprus-flotilla-organizer/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 18 May 2026 17:05:47 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.077793"
+    },
+    {
+      "id": "b746990441dc",
+      "title": "Six Canadians detained by Israel off coast of Cyprus: flotilla organizer",
+      "description": "A group trying to break Israel’s naval blockage of Gaza to deliver aid says six Canadians are among the activists detained as the Israeli military intercepted boats off the coast of Cyprus. The Global Sumud Flotilla says five of its Canadian members and one from the Freedom Flotilla that is part of ",
+      "url": "https://edmonton.citynews.ca/2026/05/18/six-canadians-detained-by-israel-off-coast-of-cyprus-flotilla-organizer/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Mon, 18 May 2026 17:05:47 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-05-19T07:43:52.392524"
     },
     {
       "id": "717d032675f6",
@@ -2578,33 +2734,9 @@
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 18 May 2026 16:58:14 GMT",
-      "location": "Toronto",
+      "location": "Halifax",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:55.686737"
-    },
-    {
-      "id": "b7c114623ce6",
-      "title": "Four killed in protests during Kenyan strikes over high fuel prices",
-      "description": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
-      "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5014/live/54ea3a70-5294-11f1-8a13-e989d3b4b6c8.jpg",
-      "published": "Mon, 18 May 2026 16:49:45 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727674"
-    },
-    {
-      "id": "d0543ed5f959",
-      "title": "U.S. suspends joint defence advisory board with Canada - The Globe and Mail",
-      "description": "U.S. suspends joint defence advisory board with Canada&nbsp;&nbsp;The Globe and Mail‘Failed to make credible progress’: U.S. pausing long-standing military board with Canada&nbsp;&nbsp;CTV News'Dangerous politics': Trump suspends joint defence board with Canada&nbsp;&nbsp;National PostU.S. says it’s",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2pmcXZKRVh3MDZrTXlubVBXOEhjQWcxUzhpZFVwSE03WnBTZEx0M28yS085akh6OFpqdnl4VVBVOW1QS0tuRDhfRlFzXzI5Rm8wQVZhcXdxSjB2QTdaNzZvbW92SFQtb04wbVo3TnJHeTBFNnNsS001Wms0Rlk5SF8zV1FMMFdCa09DWWg4WXE5ajI4WndDbjVCb203eGs?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 18 May 2026 16:44:11 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.184069"
+      "fetched_at": "2026-05-19T07:43:50.592416"
     },
     {
       "id": "243d38ae9654",
@@ -2616,7 +2748,7 @@
       "published": "Mon, 18 May 2026 16:38:05 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.971046"
+      "fetched_at": "2026-05-19T07:43:50.005397"
     },
     {
       "id": "0885ed2446f7",
@@ -2628,7 +2760,7 @@
       "published": "Mon, 18 May 2026 16:35:56 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.971081"
+      "fetched_at": "2026-05-19T07:43:50.005423"
     },
     {
       "id": "019a3bd97120",
@@ -2640,31 +2772,7 @@
       "published": "Mon, 18 May 2026 16:32:33 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:53.825379"
-    },
-    {
-      "id": "1633bdb48a9c",
-      "title": "Challenges and missteps early in Congo's Ebola outbreak likely delayed detection, sources say - CBC",
-      "description": "Challenges and missteps early in Congo's Ebola outbreak likely delayed detection, sources say&nbsp;&nbsp;CBCEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Or",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43LU94cDVHTDVWLUhHbExnT1E4Sll5R2VxMWJVT0t2NzVxQldZVGxTcFY2ZDBGWFFmOWFqZHRfN2VIMEQxRm1FZFdEZV9SM01xdmc0Uk1qMGFNQnRxUkEzYXp0NlpDWHdabFRiTkRKM1FOajRuLW1jV1FB?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 18 May 2026 16:32:29 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.183840"
-    },
-    {
-      "id": "a1a0c6fb4e84",
-      "title": "Monday Bantering: Jays Notes - Bluebird Banter",
-      "description": "Monday Bantering: Jays Notes&nbsp;&nbsp;Bluebird BanterBlue Jays’ bullpen can’t hold late lead against Yankees in opener&nbsp;&nbsp;SportsnetBellinger, Chisholm homer in seventh-inning rally, Yankees hang on to top Blue Jays&nbsp;&nbsp;TSNGame #47 GameThread: Jays @ Yankees&nbsp;&nbsp;Bluebird Bante",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15dFlSclhncnhjTkZYNFg0MGJjdmVwcUNwaHlpTjhtdGs5dm91cDc1cG1QSWplT1JVejY0U1VibUVWYzBuVG95cGpkT2VJMzYwZHlnbEtpY2d1UmV0ZnR0cm9RUkhmSDNSWW1tTTh6dzRHNlZWMWk0Tg?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 18 May 2026 16:18:55 GMT",
-      "location": "World",
-      "category": "sports",
-      "fetched_at": "2026-05-19T03:30:55.329231"
+      "fetched_at": "2026-05-19T07:43:49.024519"
     },
     {
       "id": "3576d4e6bd57",
@@ -2676,7 +2784,7 @@
       "published": "Mon, 18 May 2026 16:16:38 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727588"
+      "fetched_at": "2026-05-19T07:43:50.204978"
     },
     {
       "id": "f883a85b317c",
@@ -2688,43 +2796,31 @@
       "published": "Mon, 18 May 2026 16:16:38 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.184103"
-    },
-    {
-      "id": "f79502cd4ac5",
-      "title": "Justice Department announces $1.7B fund to compensate Trump allies",
-      "description": "The Trump administration said Monday that it is creating a $1.7 billion fund to compensate prosecuted allies of the Republican president.",
-      "url": "https://globalnews.ca/news/11854227/donald-trump-justice-department-lawsuit/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/05/Donald-Trump-Washington-Justice-Department.jpg-e1779119901835.jpg?quality=65&strip=all",
-      "published": "Mon, 18 May 2026 16:01:05 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714786"
-    },
-    {
-      "id": "cf27e718d085",
-      "title": "Sex worker assault allegation behind arrest of Toronto officers in Barcelona",
-      "description": "The force confirmed their arrest in a statement to Global News Monday; it did not say what type of charges they are facing.",
-      "url": "https://globalnews.ca/news/11854220/toronto-police-officers-arrested-barcelona/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/05/Toronto-police-logo.jpg?quality=65&strip=all",
-      "published": "Mon, 18 May 2026 15:52:01 +0000",
-      "location": "Toronto",
-      "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.714804"
+      "fetched_at": "2026-05-19T07:43:51.193131"
     },
     {
       "id": "255d76e0a16d",
       "title": "Swatch x Audemars Piguet Royal Pop Resale Prices Drop Following Frenzied Worldwide Release - WWD",
-      "description": "Swatch x Audemars Piguet Royal Pop Resale Prices Drop Following Frenzied Worldwide Release&nbsp;&nbsp;WWDWhat is the Royal Pop pocket watch and is it worth the hype?&nbsp;&nbsp;BBCShoppers’ Frenzy for ‘Royal Pop’ Pocket Watches Forces Swatch to Shut Stores&nbsp;&nbsp;The New York TimesSwatch and Aud",
+      "description": "Swatch x Audemars Piguet Royal Pop Resale Prices Drop Following Frenzied Worldwide Release&nbsp;&nbsp;WWDWhat is the Royal Pop pocket watch and is it worth the hype?&nbsp;&nbsp;BBCSwatch and Audemars Piguet’s ‘high-low’ collab sparked a frenzy. Who’s the real winner?&nbsp;&nbsp;CNNShoppers’ Frenzy f",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3dqSXhDSHljQXhwbndtd0p5TXBTZFNiZW9PRnU1c2dlWG1NNnpLWktqMkFEcVdWSEUtSTRNWGxaRndXaFl0aXR0cFRZR3RuMkNlUFh6Wll3cDdHNU5iclhSWTc2UEF3d0s2VktScXpsNGF2VW1rVVQxbUI1Yk9adE1fTTZscmdPR0NxSFBNdmdtcVhzM01tamx5dVVYMFNQYVJ2dUR6V1FSSnJQR0E?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 18 May 2026 15:47:38 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:55.686507"
+      "fetched_at": "2026-05-19T07:43:50.592349"
+    },
+    {
+      "id": "d348b3830b39",
+      "title": "Trump drops IRS lawsuit in exchange for $1.7-billion ‘weaponization’ fund to compensate allies - The Globe and Mail",
+      "description": "Trump drops IRS lawsuit in exchange for $1.7-billion ‘weaponization’ fund to compensate allies&nbsp;&nbsp;The Globe and MailTrump administration creates $1.776 billion fund for allies of the president after he drops lawsuit against IRS&nbsp;&nbsp;CNNUS$1.7B fund to compensate Trump allies after pres",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemJwTmVBaFhtb25zbmFTa096MnljRnI1MVhIWl9oaGlzRXNQLUxNcTZvRVJnYk1zRlBkUlBTMkRkLVpRRlIzNW1COTN4T3dXTTJkX3R2Z2xVc3U2ckk2Tmo3SFE3Q1Rrb3poc1UySzlsMS1ndDlNdUFmT2kteEVWZmpLdmE1d0poNVp5Z0NyM053dw?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 18 May 2026 15:45:45 GMT",
+      "location": "Toronto",
+      "category": "technology",
+      "fetched_at": "2026-05-19T07:43:51.193324"
     },
     {
       "id": "c646b29b9090",
@@ -2736,31 +2832,7 @@
       "published": "Mon, 18 May 2026 15:26:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:53.825423"
-    },
-    {
-      "id": "376dc1e2beba",
-      "title": "Chicoutimi tops Moncton to win QMJHL, round out Memorial Cup field - Sportsnet",
-      "description": "Chicoutimi tops Moncton to win QMJHL, round out Memorial Cup field&nbsp;&nbsp;SportsnetA stunning third period for Chicoutimi! Saguenéens 7 Wildcats 6 – LHJMQ&nbsp;&nbsp;Canadian Hockey LeagueChicoutimi looks to claim first QMJHL title since 1994 in Game 6 on TSN&nbsp;&nbsp;TSN2026 Moncton Wildcats ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzJwZDVGN1ZXYmROYVNfYmpsVy1vVGN3QTU4SUw2d3pPbEl5WE1yOGJBWXRYeUxYV0tnRGRkS2NXcThxYTVhUHpRU29maEJqVXNwakVoOERrbWlWNTVONzJVZlctbWZFN19SNVluU0NuMnFvd3I5a0JNWDZpQ3pGdU9taXhUdG1VYi1xamR5b3F6VG1LOTUxM2VtTzlrWjdGWEFoaVRIVG9Kdw?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 18 May 2026 15:14:00 GMT",
-      "location": "Canada",
-      "category": "sports",
-      "fetched_at": "2026-05-19T03:30:55.329109"
-    },
-    {
-      "id": "f8380433fcdd",
-      "title": "Shakira wins £50m tax refund from Spanish government",
-      "description": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\".",
-      "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba5/live/0a252770-52a3-11f1-9ab8-af14435162fc.jpg",
-      "published": "Mon, 18 May 2026 15:08:40 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727652"
+      "fetched_at": "2026-05-19T07:43:49.024567"
     },
     {
       "id": "6bff881124de",
@@ -2772,7 +2844,7 @@
       "published": "Mon, 18 May 2026 15:00:57 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.019660"
+      "fetched_at": "2026-05-19T07:43:52.962856"
     },
     {
       "id": "f002e6f04bc3",
@@ -2784,7 +2856,7 @@
       "published": "Mon, 18 May 2026 15:00:32 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.261077"
+      "fetched_at": "2026-05-19T07:43:51.601336"
     },
     {
       "id": "dd7f3974c847",
@@ -2796,7 +2868,7 @@
       "published": "Mon, 18 May 2026 14:58:45 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.935179"
+      "fetched_at": "2026-05-19T07:43:50.276740"
     },
     {
       "id": "3a9b0386203c",
@@ -2808,7 +2880,7 @@
       "published": "Mon, 18 May 2026 14:56:47 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-05-19T03:30:53.825455"
+      "fetched_at": "2026-05-19T07:43:49.024609"
     },
     {
       "id": "45bb01130929",
@@ -2820,31 +2892,31 @@
       "published": "Mon, 18 May 2026 14:54:49 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.282707"
+      "fetched_at": "2026-05-19T07:43:52.001459"
     },
     {
-      "id": "873cdf1c8cc9",
-      "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
-      "description": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say.",
-      "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55c/live/2dd10fb0-52b5-11f1-8340-4151f348d713.jpg",
-      "published": "Mon, 18 May 2026 14:51:53 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.727630"
+      "id": "8c71aa9e8600",
+      "title": "Pentagon walks away from Canada-U.S. defence board - CBC",
+      "description": "Pentagon walks away from Canada-U.S. defence board&nbsp;&nbsp;CBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3ctOUd1S0xXQlFFc3hVcm4zQWI4dG8xS19Mc3JCS3A5SzBZY1NiSHIwbkNvQzdBdDBjZlZHLTBwRUhCV3NUV0RXejVNeHl0Y3VjUjRCMHhBR3hBakRMSnNrNEYwakZTREk4N1ZqTEEwaFlPLVRibHVUMEp6VmRjYkwzVkk?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Mon, 18 May 2026 14:52:00 GMT",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2026-05-19T07:43:50.889256"
     },
     {
       "id": "bd8bdddf3d6e",
       "title": "New York commuters face rush-hour chaos in first major rail strike in 30 years - BBC",
-      "description": "New York commuters face rush-hour chaos in first major rail strike in 30 years&nbsp;&nbsp;BBCDeal reached to end strike at largest US commuter railroad&nbsp;&nbsp;CNNLive Updates: LIRR Strike Drags Out Monday Commute to and From NYC With No Deal in Sight&nbsp;&nbsp;The New York TimesNegotiators reac",
+      "description": "New York commuters face rush-hour chaos in first major rail strike in 30 years&nbsp;&nbsp;BBCTalks raise hopes of progress in strike at America’s busiest commuter railroad&nbsp;&nbsp;CNNL.I.R.R. Strike Ends After Tens of Thousands Endure Painful Commutes&nbsp;&nbsp;The New York TimesNegotiators reac",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EUG11NUpQcXJ3Y3R0enpLalFNam11RnBneE00VmhZTU1KS1ljV1ZwYVV5NjMwZFU1TGZ5YVU0eEZaOHA4UlVFRGhuUTdjZnU0TnVuTQ?oc=5",
-      "source": "Google News Tech",
+      "source": "Google News Business",
       "image": "",
       "published": "Mon, 18 May 2026 14:48:43 GMT",
       "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.183782"
+      "category": "business",
+      "fetched_at": "2026-05-19T07:43:50.592165"
     },
     {
       "id": "d102caaf580b",
@@ -2856,7 +2928,7 @@
       "published": "Mon, 18 May 2026 14:42:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.935413"
+      "fetched_at": "2026-05-19T07:43:50.277062"
     },
     {
       "id": "9b7a40dd10c6",
@@ -2868,43 +2940,43 @@
       "published": "Mon, 18 May 2026 14:37:38 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.971111"
-    },
-    {
-      "id": "f11f7497be7f",
-      "title": "Leica Cine Play 1 Review: Pricey but Worth Every Penny",
-      "description": "Leica’s first home entertainment projector is pricey, but like the company’s cameras, the image quality is worth the splurge.",
-      "url": "https://www.wired.com/review/review-leica-cine-play-1/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 18 May 2026 14:33:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:54.240898"
+      "fetched_at": "2026-05-19T07:43:50.005450"
     },
     {
       "id": "3b4da88aa809",
       "title": "Environmental Group Warns Federal Electricity Strategy Could ‘Gut’ Clean Energy Regulations - VOCM",
-      "description": "Environmental Group Warns Federal Electricity Strategy Could ‘Gut’ Clean Energy Regulations&nbsp;&nbsp;VOCMPrime Minister Carney announces forthcoming National Electricity Strategy&nbsp;&nbsp;pm.gc.caNew national electricity strategy mentions coal once as Sask. pushes towards revival&nbsp;&nbsp;CTV ",
+      "description": "Environmental Group Warns Federal Electricity Strategy Could ‘Gut’ Clean Energy Regulations&nbsp;&nbsp;VOCMNew national electricity strategy mentions coal once as Sask. pushes towards revival&nbsp;&nbsp;CTV NewsCanada aims to double electricity grid capacity by 2050 as demand soars - National&nbsp;&",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLTGhzaDRNVG5rdnNGTlVBTjNYc2loU0c1OGFCaE5fR2dSMFFad0pkbVNSSElRSFRFa0RsWG9Xc0JORHJ5ZW5BNEhXdw?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 18 May 2026 14:29:00 GMT",
-      "location": "Ottawa",
+      "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-05-19T03:30:55.686635"
+      "fetched_at": "2026-05-19T07:43:50.592291"
+    },
+    {
+      "id": "c930e7154ecf",
+      "title": "Pre-season preview: Waiting game ends today for Siaosi Mariner - Saskatchewan Roughriders",
+      "description": "Pre-season preview: Waiting game ends today for Siaosi Mariner&nbsp;&nbsp;Saskatchewan RoughridersStampeders top Roughriders in CFL pre-season action&nbsp;&nbsp;TSNEvery Scoring Play from Calgary vs. Saskatchewan | CFL Preseason&nbsp;&nbsp;CFL.caGame Highlights | Stamps vs. Riders | 05.18.26&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWZvdTBJQ3JuYmpGUHkyd2pyNTlOUmJKaW5VV2h6VXk3WHBsNDZlX01tX2xCVGtDQU1WalNVNFBDb1NGNzVrM0F5WUxnTmMxTEwza2ZEOG5NMTRUUS01U0JGRUJnd3o4aVFnTEhya1B1OFlsaVNUX3gyTDE4MUU3QkpxSlYxOVRuY0F3WS00alBqX3BLVlRfZWdhMzlGbmJXUGc?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Mon, 18 May 2026 14:28:27 GMT",
+      "location": "Calgary",
+      "category": "sports",
+      "fetched_at": "2026-05-19T07:43:51.305487"
     },
     {
       "id": "d088a13ca88e",
       "title": "Infamous Toronto man alleged to have thrown feces faces new charges following two sexual assault incidents",
       "description": "Samuel Opoku's alleged 2019 spree saw him released on bail after three weeks in police custody in 2019. His lawyer at the time said he poses no threat to the public",
       "url": "https://nationalpost.com/news/canada/toronto-alleged-feces-thrower-arrested-sexual-assault",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/feces-attack_97137456.jpg",
       "published": "Mon, 18 May 2026 14:28:07 +0000",
       "location": "Toronto",
-      "category": "canada",
-      "fetched_at": "2026-05-19T03:30:53.971135"
+      "category": "politics",
+      "fetched_at": "2026-05-19T07:43:49.801342"
     },
     {
       "id": "ad752ac9eb55",
@@ -2916,7 +2988,7 @@
       "published": "Mon, 18 May 2026 14:20:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-05-19T03:30:55.650375"
+      "fetched_at": "2026-05-19T07:43:50.889205"
     },
     {
       "id": "2f1ddc9f901d",
@@ -2928,136 +3000,64 @@
       "published": "Mon, 18 May 2026 14:18:42 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.935234"
-    },
-    {
-      "id": "61af34074f19",
-      "title": "Purple pain: backlash over Mexico City’s ‘axolotlisation’ for World Cup",
-      "description": "Mayor’s attempt to beautify the city with murals of mascot and plum paint jobs criticised as waste of resourcesThe giant purple axolotl peered up at Manuel Martínez from the black bitumen of the street. It was the second such painting of the rare amphibian he had walked past that morning. In recent ",
-      "url": "https://www.theguardian.com/world/2026/may/18/mexico-city-axolotl-murals-purple-mayor-world-cup",
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/a1468731a2783a377fdfb26282c98a592f8eaf20/149_0_4439_3551/master/4439.jpg?width=140&quality=85&auto=format&fit=max&s=54ff82cc729193dc2d2cd593dba3ef03",
-      "published": "Mon, 18 May 2026 14:00:49 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-05-19T03:30:54.935465"
-    },
-    {
-      "id": "ae9c557263f6",
-      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
-      "description": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
-      "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Mon, 18 May 2026 13:42:19 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:53.825484"
-    },
-    {
-      "id": "df65582c7e0f",
-      "title": "The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable",
-      "description": "So why didn’t Swatch do anything to avoid it?",
-      "url": "https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 18 May 2026 13:38:01 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:54.240921"
-    },
-    {
-      "id": "20942af2311a",
-      "title": "US$1.7B fund to compensate Trump allies after president’s lawsuit against IRS dropped: Justice Department - CTV News",
-      "description": "US$1.7B fund to compensate Trump allies after president’s lawsuit against IRS dropped: Justice Department&nbsp;&nbsp;CTV NewsTrump Administration Weighs $1.7 Billion Fund for Allies Investigated Under Biden&nbsp;&nbsp;The New York TimesHouse Democrats accuse Trump of ‘corruption unparalleled’ over I",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSExCQjdPQi1oNV82eEhtdGx0SW5tMWhXQVM2ZXVfemtZWi1aSEhEVU14cF9xWldKTTBacDZ4TWNiUE5HR0xNV2Q4MmZHNGpCZl9PSTdJRzl1cUtmOFJYbmY1NDhGbkRuWDNNQ0tjX3FKVktJREdQOXhhYlB0ZUFxd2x1d1AxS1h3TVdVYXRMTjJHOTJrOWZLNkRpaEJ0emo5SzIxSURIR2NScHUxRHg1V2ptaXN1RXczX3Rkc3RWQ0dfZ0Zna2J5SDQ3alpCUzF4dWc?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 18 May 2026 13:35:36 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2026-05-19T03:30:55.184165"
-    },
-    {
-      "id": "f28c1b68dfb7",
-      "title": "Lululemon says talks with founder Chip Wilson collapsed over escalating demands",
-      "description": "Wilson wanted appointment of three directors chosen by him and quarterly meetings with incoming CEO",
-      "url": "https://www.theglobeandmail.com/business/article-lululemon-proxy-fight-founder-chip-wilson/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/JZBQY2QS4FCA3FKCZB5CFLVTPA.JPG?auth=557cfea5940b27e138c4c69e15917374f1f67b63518c383776314c84c282cb9d&smart=true&width=5072&height=3381",
-      "published": "Mon, 18 May 2026 13:07:19 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-05-19T03:30:53.951122"
-    },
-    {
-      "id": "e6571ef418fe",
-      "title": "600 young singers set to come together for Vancouver Youth Choir finale",
-      "description": "The Vancouver Youth Choir presents its largest concert ever at the Orpheum Theatre",
-      "url": "https://vancouversun.com/entertainment/vancouver-youth-choir-finale-2026",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Mon, 18 May 2026 13:00:01 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2026-05-19T03:30:56.261101"
+      "fetched_at": "2026-05-19T07:43:50.276893"
     }
   ],
   "sources": [
+    "National Post Politics",
+    "Google News Tech",
+    "Google News Business",
     "Google News Canada",
+    "Global News",
     "Ottawa Citizen",
+    "CityNews Ottawa",
+    "Wired",
     "BBC World",
     "The Guardian",
-    "Google News Sports",
-    "TechCrunch",
-    "Edmonton Journal",
-    "National Post",
-    "Global Politics",
-    "Montreal Gazette",
-    "CNN World",
-    "Financial Post",
-    "CityNews Vancouver",
-    "Global News",
-    "Calgary Sun",
     "BetaKit",
-    "CityNews Edmonton",
-    "Al Jazeera",
-    "Globe Business",
-    "National Post Politics",
-    "Google News Business",
-    "Science Daily",
-    "Vancouver Sun",
-    "APTN News",
-    "CityNews Montreal",
-    "Google News Tech",
-    "Wired",
     "CityNews Calgary",
-    "CityNews Ottawa",
-    "CityNews Toronto"
+    "Montreal Gazette",
+    "Edmonton Journal",
+    "CNN World",
+    "CityNews Toronto",
+    "CityNews Vancouver",
+    "CityNews Montreal",
+    "CityNews Edmonton",
+    "TechCrunch",
+    "Global Politics",
+    "APTN News",
+    "Vancouver Sun",
+    "Calgary Sun",
+    "Science Daily",
+    "National Post",
+    "Financial Post",
+    "Google News Sports",
+    "Al Jazeera",
+    "Globe Business"
   ],
   "stats": {
     "by_location": {
-      "World": 125,
-      "Canada": 34,
+      "World": 130,
+      "Canada": 33,
       "Ottawa": 15,
       "Calgary": 5,
-      "Montreal": 21,
-      "Vancouver": 22,
-      "Toronto": 16,
-      "Halifax": 1,
+      "Montreal": 22,
+      "Toronto": 14,
+      "Vancouver": 19,
       "Winnipeg": 1,
-      "Edmonton": 10
+      "Edmonton": 10,
+      "Halifax": 1
     },
     "by_category": {
-      "politics": 13,
-      "local": 103,
+      "politics": 14,
+      "local": 102,
       "world": 34,
-      "sports": 8,
-      "canada": 28,
-      "technology": 29,
       "business": 26,
-      "indigenous": 2,
-      "science": 7
+      "canada": 27,
+      "technology": 31,
+      "sports": 7,
+      "science": 7,
+      "indigenous": 2
     },
     "source_count": 30
   }
