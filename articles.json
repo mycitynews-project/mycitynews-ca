@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T07:48:17.484370",
+  "last_updated": "2026-07-07T11:06:00.290690",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 01 Jul 2026 11:00:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.156338"
+      "fetched_at": "2026-07-07T10:54:16.098251"
     },
     {
       "id": "ed40fecef871",
@@ -24,7 +24,7 @@
       "published": "Wed, 01 Jul 2026 11:00:03 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.156375"
+      "fetched_at": "2026-07-07T10:54:16.098277"
     },
     {
       "id": "eb1c11057f1e",
@@ -36,7 +36,7 @@
       "published": "Tue, 30 Jun 2026 16:18:00 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-07-07T07:36:32.663970"
+      "fetched_at": "2026-07-07T10:54:14.856437"
     },
     {
       "id": "2c1f659001a5",
@@ -48,7 +48,7 @@
       "published": "Tue, 30 Jun 2026 11:00:53 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.156413"
+      "fetched_at": "2026-07-07T10:54:16.098305"
     },
     {
       "id": "e1354c3fcb7b",
@@ -60,7 +60,7 @@
       "published": "Tue, 30 Jun 2026 03:21:06 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-07-07T07:36:32.664012"
+      "fetched_at": "2026-07-07T10:54:14.856468"
     },
     {
       "id": "2928940b5137",
@@ -72,7 +72,7 @@
       "published": "Tue, 30 Jun 2026 02:28:57 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-07-07T07:36:32.664048"
+      "fetched_at": "2026-07-07T10:54:14.856494"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -84,7 +84,7 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.042159"
+      "fetched_at": "2026-07-07T10:54:15.180152"
     },
     {
       "id": "05ea19344a14",
@@ -96,103 +96,763 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.042217"
+      "fetched_at": "2026-07-07T10:54:15.180217"
     },
     {
-      "id": "100872639bbb",
-      "title": "Forced-Labor Hearing Begins, Paving Way for More Trump Tariffs",
-      "description": "A three-day hearing on the US Trade Representative’s latest plan to impose tariffs on major trading partners kicks off in Washington on Tuesday.",
-      "url": "https://financialpost.com/pmn/business-pmn/forced-labor-hearing-begins-paving-way-for-more-trump-tariffs",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 07:23:37 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.460910"
-    },
-    {
-      "id": "a4c3167b9a04",
-      "title": "Bitcoin Suisse Advances Middle East Expansion, Receiving Financial Services Permission in Abu Dhabi",
-      "description": "Premium virtual assets pioneer BTCS (Middle East) Ltd. is now fully authorized by the Financial Services Regulatory Authority (FSRA) of ADGM, enabling regulated institutional services across the UAE. SWITZERLAND, Zug &#038; ABU DHABI, United Arab Emirates &#8212; Building on its position as Switzerl",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/bitcoin-suisse-advances-middle-east-expansion-receiving-financial-services-permission-in-abu-dhabi",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 07:15:50 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.460961"
-    },
-    {
-      "id": "ec0c2d2c27fe",
-      "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
-      "description": "Defence spending and support for Ukraine&#039;s military needs are expected to top the agenda of summit in Turkish capital.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 07:09:27 +0000",
+      "id": "0bf7fda96ff7",
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "description": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0a8/live/174f7230-79da-11f1-a627-714adb4eed6e.jpg",
+      "published": "Tue, 07 Jul 2026 10:50:57 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811611"
+      "fetched_at": "2026-07-07T10:54:15.011297"
     },
     {
-      "id": "e610571ee155",
-      "title": "EcoOnline launches EcoOne for connected intelligence and real-time visibility across safety and sustainability operations",
-      "description": "EcoOne brings operational data into a single view, with AI-powered capabilities that help organisations uncover insights, understand risk, and act faster. LONDON &#038; DALLAS &#8212; EcoOnline, a global provider of software that transforms how organisations protect people and the planet, today intr",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ecoonline-launches-ecoone-for-connected-intelligence-and-real-time-visibility-across-safety-and-sustainability-operations",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 07:05:30 +0000",
+      "id": "5f0e8a0b631d",
+      "title": "Labour talks between Ford, Unifor continue ahead of Friday deadline",
+      "description": "Automaker union’s head says final week ‘critical’ for making progress on key issues, which will serve as starting point for GM, Stellantis negotiations",
+      "url": "https://www.theglobeandmail.com/business/article-union-negotiations-between-unifor-ford-detroit-three/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/XDDCXOV2XRBXLJAT4AIK2ACTJA.jpg?auth=23fe01672e52d4ffc813526fff41e9a9ccf7c9a651c8603b773fdb81984259d4&smart=true&width=6061&height=4040",
+      "published": "Tue, 07 Jul 2026 10:50:06 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.461002"
+      "fetched_at": "2026-07-07T10:54:14.759728"
     },
     {
-      "id": "b23542910db1",
-      "title": "Capvidia Announces 2026 R1 Software Release to Strengthen MBD Readiness, QIF Workflows, and Digital Thread Automation",
-      "description": "Latest release brings MBDReady Check into Creo, expands QIF-based Weld Analysis for NX, improves inspection workflows, and adds STEP AP242 Edition 3 compatibility. CHICAGO &#8212; Capvidia, a provider of Model-Based Definition (MBD), Model-Based Enterprise (MBE), and CAD interoperability software, t",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/capvidia-announces-2026-r1-software-release-to-strengthen-mbd-readiness-qif-workflows-and-digital-thread-automation",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 07:05:22 +0000",
+      "id": "c9d65ae21e41",
+      "title": "Zimbabwean football star survives gun attack in South Africa",
+      "description": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
+      "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/90590610-79de-11f1-a400-b302bc872d47.jpg",
+      "published": "Tue, 07 Jul 2026 10:48:49 GMT",
       "location": "World",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.461038"
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.011343"
     },
     {
-      "id": "3fe3a143be35",
-      "title": "Shell Says Oil, Gas Trading Strong as War Drives Volatility",
-      "description": "Shell Plc said it had another strong oil and gas trading result in the second quarter as it benefited from the market turmoil caused by the Iran war.",
-      "url": "https://financialpost.com/pmn/business-pmn/shell-says-oil-gas-trading-strong-as-war-drives-volatility",
-      "source": "Financial Post",
+      "id": "f2ab9c3f95a9",
+      "title": "The Responsibility to Protect doctrine can be resurrected",
+      "description": "The legal norm has been manipulated and forgotten. But today it is needed more than ever",
+      "url": "https://www.aljazeera.com/opinions/2026/7/7/the-responsibility-to-protect-doctrine-can-be-resurrected?traffic_source=rss",
+      "source": "Al Jazeera",
       "image": "",
-      "published": "Tue, 07 Jul 2026 07:03:13 +0000",
+      "published": "Tue, 07 Jul 2026 10:41:50 +0000",
       "location": "World",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.461068"
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113463"
     },
     {
-      "id": "b768d50c009e",
-      "title": "The EBC App Is Now Live: Professional Mobile Account Management, Built for All Traders",
-      "description": "EBC Financial Group launches the EBC App, a mobile-first account management platform designed to give traders seamless access to multi-account management, fund transfers, copy trading, market updates, and 24/7 multilingual support LONDON, July 07, 2026 (GLOBE NEWSWIRE) &#8212; EBC Financial Group (“",
-      "url": "https://financialpost.com/globe-newswire/the-ebc-app-is-now-live-professional-mobile-account-management-built-for-all-traders",
+      "id": "42cc3658f536",
+      "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
+      "description": "Hillsides collapse at four locations at camps in Cox&#039;s Bazar in southeastern Bangladesh amid monsoon rains.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:41:27 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113488"
+    },
+    {
+      "id": "e9be7f684dd9",
+      "title": "Ukrainian drones hit Russian fuel tankers",
+      "description": "Ukrainian drones hit Russian fuel tankers",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:41:15 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113507"
+    },
+    {
+      "id": "58f7d0cb8c18",
+      "title": "Molson Coors Beverage Company to Webcast 2026 Second Quarter Earnings Conference Call",
+      "description": "GOLDEN, Colo. &#038; MONTREAL &#8212; Molson Coors Beverage Company (NYSE: TAP, TAP.A; TSX: TPX.B, TPX.A) will host a webcast of the Company’s 2026 Second Quarter Earnings Conference Call with investors and financial analysts at 8:30 a.m. Eastern Time on Thursday, August 6, 2026. The Company is expe",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/molson-coors-beverage-company-to-webcast-2026-second-quarter-earnings-conference-call",
       "source": "Financial Post",
       "image": "",
-      "published": "Tue, 07 Jul 2026 07:01:38 +0000",
+      "published": "Tue, 07 Jul 2026 10:39:29 +0000",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.461899"
+      "fetched_at": "2026-07-07T10:54:14.863035"
     },
     {
-      "id": "c977a6561bd2",
-      "title": "SES Space & Defense Wins BPA to Deliver Flexible Satellite Connections",
-      "description": "New agreement makes it easier for all U.S. military branches to buy high-speed, reliable Ku-band satellite services anywhere in the world RESTON, Va. &#8212; SES’ wholly-owned subsidiary, SES Space &#38; Defense, won a five-year Blanket Purchase Agreement (BPA) with the U.S. Space Force’s Space Syst",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ses-space-defense-wins-bpa-to-deliver-flexible-satellite-connections",
+      "id": "c3f7d4a00d4d",
+      "title": "What is the new Gaza administration as Hamas dissolves government?",
+      "description": "The NCAG will oversee civilian affairs such as health and education, as well as security.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:38:03 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113525"
+    },
+    {
+      "id": "31e37574d893",
+      "title": "UK High Court to rule in Prince Harry’s Daily Mail privacy case",
+      "description": "UK High Court to rule on a privacy case brought by Prince Harry against Daily Mail publisher.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/uk-high-court-to-rule-in-prince-harrys-daily-mail-privacy-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:35:33 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113547"
+    },
+    {
+      "id": "a3658a5013f7",
+      "title": "Explosions in Damascus during Macron visit: What we know",
+      "description": "Blasts occur near hotel French president was reportedly staying in shortly after he departs for presidential palace.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:32:51 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113566"
+    },
+    {
+      "id": "11a5b84d9e1a",
+      "title": "Best Indoor Garden Systems: I've Been Testing All Year (2026)",
+      "description": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
+      "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:31:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:14.440969"
+    },
+    {
+      "id": "f25a48ad6989",
+      "title": "Scotiabank teams up with other Canadian companies to meet their AI needs faster, cheaper",
+      "description": "The companies hope the new consortium can resolve common AI-related problems that all companies expect to face",
+      "url": "https://financialpost.com/fp-finance/scotiabank-teams-up-canadian-companies-meet-ai-needs",
       "source": "Financial Post",
       "image": "",
-      "published": "Tue, 07 Jul 2026 06:55:09 +0000",
+      "published": "Tue, 07 Jul 2026 10:30:46 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:14.863070"
+    },
+    {
+      "id": "a84165e697ce",
+      "title": "Orezone Provides 2026 Guidance for Casa Berardi",
+      "description": "VANCOUVER, British Columbia, July 07, 2026 (GLOBE NEWSWIRE) &#8212; Orezone Gold Corporation (TSX: ORE, ASX: ORE, OTCQX: ORZCF) (the “Company” or “Orezone”) is pleased to provide its production and cost guidance for its recently acquired Casa Berardi gold mine. The guidance reflects the Company&#821",
+      "url": "https://financialpost.com/globe-newswire/orezone-provides-2026-guidance-for-casa-berardi",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:30:39 +0000",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:14.863108"
+    },
+    {
+      "id": "f437be2dae25",
+      "title": "Heat wave blamed for nearly 40 Toronto emergency room visits: public health",
+      "description": "Toronto Public Health says nearly 40 heat-related emergency department visits were recorded during last week&#8217;s heat wave that scorched the city. Officials say Toronto hospitals reported a total of 39 heat-related ER visits from June 30 until July 4, when Environment Canada&#8217;s orange-level",
+      "url": "https://toronto.citynews.ca/2026/07/07/toronto-heatwave-weather-warning-er-visits-public-health/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:23:46 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.044074"
+    },
+    {
+      "id": "9154fe8e0da2",
+      "title": "Business Brief: Canada’s EV range busters - The Globe and Mail",
+      "description": "Business Brief: Canada’s EV range busters&nbsp;&nbsp;The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSXN0OHpQS3BUdHM1cGZSaGstaEFZeFZQb2RCWlBGSllmYXl6SjE5M1FyOTBjcU5lZ1d1Ump4T3QtWktzd2dRSDBrUi11Wk4xak9ZSkNtcldjSXpVU0ZjSzRueTlvYVVKVmpMUzEtWHAzRjJWNDJJdHJtZVI1UUZJaWg4M2JEelZMTS1tRE9LQzJ3Nm8?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:23:35 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:15.643207"
+    },
+    {
+      "id": "a51ec43fb92e",
+      "title": "Business Brief: Canada’s EV range busters",
+      "description": "Some drivers are using electric vehicles to tow boats and Airstream trailers across the continent",
+      "url": "https://www.theglobeandmail.com/business/article-business-brief-canadas-ev-range-busters/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/LGBSW5IU3VAGPDBDZDM6YFZCOU.jpg?auth=0ce762125a8aae50c0a9df9eaa4bd66f3d882aa5b413d3181b74647e8b29a931&smart=true&width=5712&height=4284",
+      "published": "Tue, 07 Jul 2026 10:23:35 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:14.759763"
+    },
+    {
+      "id": "1e83f68d00b1",
+      "title": "Germany Plans to Cut €2.1 Billion in Heat Pump Subsidies by 2030",
+      "description": "Germany plans to cut generous subsidies for low-carbon heat pumps by about €2.1 billion ($2.4 billion) in the coming years, as it aims to make some budget savings while raising spending on defense and security.",
+      "url": "https://financialpost.com/pmn/business-pmn/germany-plans-to-cut-e2-1-billion-in-heat-pump-subsidies-by-2030",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:23:26 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.461957"
+      "fetched_at": "2026-07-07T10:54:14.863149"
+    },
+    {
+      "id": "f35d2bb11f69",
+      "title": "Private Department of Sheikh Mohammed bin Khalid Al Nahyan Invests in MidOcean Energy and Forms Strategic Partnership with EIG",
+      "description": "LONDON &#038; WASHINGTON &#8212; The Private Department of Sheikh Mohammed bin Khalid Al Nahyan (the “Private Department”) has today committed to invest $1.13bn in MidOcean Energy (“MidOcean” or the “Company”), a liquefied natural gas (LNG) company formed and managed by EIG. In parallel with the inv",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/private-department-of-sheikh-mohammed-bin-khalid-al-nahyan-invests-in-midocean-energy-and-forms-strategic-partnership-with-eig",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:19:10 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:14.863195"
+    },
+    {
+      "id": "a9ac96568312",
+      "title": "A Once-Great Copper Miner Faces a Reckoning Just as AI Power Demand Soars",
+      "description": "Chile’s Codelco, facing scrutiny for a fatal accident and inflated production figures, is struggling under $25 billion of debt.",
+      "url": "https://financialpost.com/pmn/business-pmn/a-once-great-copper-miner-faces-a-reckoning-just-as-ai-power-demand-soars",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:18:20 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:14.863227"
+    },
+    {
+      "id": "d985c70b0a03",
+      "title": "Syria’s capital rocked by blasts during Macron visit",
+      "description": "Syria’s capital rocked by blasts during Macron visit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/syrias-capital-rocked-by-blasts-during-macron-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:15:44 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113595"
+    },
+    {
+      "id": "28b6b9421f62",
+      "title": "Highlander Silver Showcases Key Development Milestones in Corani Photo Update",
+      "description": "TORONTO, July 07, 2026 (GLOBE NEWSWIRE) &#8212; Highlander Silver Corp. (TSX, NYSE American: HSLV) (“Highlander Silver” or the “Company”) is pleased to provide a photo update showcasing key milestones achieved in the site development of its Corani Silver Project in Peru. Site Development – Key Miles",
+      "url": "https://financialpost.com/globe-newswire/highlander-silver-showcases-key-development-milestones-in-corani-photo-update",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:05:31 +0000",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:14.863259"
+    },
+    {
+      "id": "c6eb90a887d9",
+      "title": "Titan Confirms District-Wide Germanium Enrichment as Critical Mineral Push Expands at Empire State Mines",
+      "description": "GOUVERNEUR, N.Y., July 07, 2026 (GLOBE NEWSWIRE) &#8212; Titan Mining Corporation (NYSE-A:TII, TSX:TI), (“Titan” or the “Company”) an existing zinc concentrate producer in upstate New York and the only end to end producer of natural flake graphite in the U.S., today provided an update on its germani",
+      "url": "https://financialpost.com/globe-newswire/titan-confirms-district-wide-germanium-enrichment-as-critical-mineral-push-expands-at-empire-state-mines",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:05:12 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:14.863307"
+    },
+    {
+      "id": "dc777f577918",
+      "title": "NATO Touts Defense Deals to Show Trump It Is Stepping Up",
+      "description": "NATO allies unveiled $12 billion in key defense industry deals to buy next-generation drones, surveillance planes and military aircraft — and convince US President Donald Trump that Europe is heeding his spending demands.",
+      "url": "https://financialpost.com/pmn/business-pmn/nato-touts-defense-deals-to-show-trump-it-is-stepping-up",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:02:30 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:14.863344"
+    },
+    {
+      "id": "e23090c179e4",
+      "title": "Terry Newman: The Montreal arsonist who claimed he didn’t know it was a synagogue",
+      "description": "Akodad provided few details about who hired and paid him, or where, to commit arson on institutions he claimed he didn’t know were Jewish",
+      "url": "https://nationalpost.com/opinion/terry-newman-the-montreal-arsonist-who-claimed-he-didnt-know-it-was-a-synagogue",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:59 +0000",
+      "location": "Montreal",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.718550"
+    },
+    {
+      "id": "9172bb6e130f",
+      "title": "A former friend who was cruel to me will be at a weekend reunion. How do I handle? | Ask Rebecca",
+      "description": "The right thing to do is treat your former friend the way I treat a stranger sitting beside me on a plane. A smile, maybe. Then I put on my headphones",
+      "url": "https://nationalpost.com/news/canada/cruel-former-friend-at-reunion",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:57 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.718603"
+    },
+    {
+      "id": "e8e3b43cc6ed",
+      "title": "‘Treating pipelines like airports’: Carney relishes being the one to decide",
+      "description": "Energy analyst David Knight Legg discuss what the Alberta-Ottawa deal could mean for Canada's economy",
+      "url": "https://nationalpost.com/opinion/treating-pipelines-like-airports-carney-relishes-being-the-one-to-decide",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:50 +0000",
+      "location": "Ottawa",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.718635"
+    },
+    {
+      "id": "b2816fd5e4a7",
+      "title": "Canadians leaders call on Ottawa to support national youth service programme with military training",
+      "description": "Michael Burns, chair of Enagage Canada, hopes the programme will teach young people new skills while addressing urgent national needs",
+      "url": "https://nationalpost.com/news/canadians-leaders-call-on-federal-government-to-support-national-service-programme",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:47 +0000",
+      "location": "Ottawa",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.718664"
+    },
+    {
+      "id": "9612b6cff79e",
+      "title": "Rick Ekstein: Inside ARC, the global gathering asking whether the West can renew itself",
+      "description": "I returned to Canada more hopeful than when I left",
+      "url": "https://nationalpost.com/opinion/inside-arc-the-global-gathering-asking-whether-the-west-can-renew-itself",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:37 +0000",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.718693"
+    },
+    {
+      "id": "2cc99f73f204",
+      "title": "Amy Hamm: Professor-activists want ‘harm reduction’ for Kindergarteners",
+      "description": "A vague new guideline on drug education for kids insists on anti-stigma approaches for all ages",
+      "url": "https://nationalpost.com/opinion/amy-hamm-professor-activists-want-harm-reduction-for-kindergarteners",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:32 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.718724"
+    },
+    {
+      "id": "8f3581d7e3f4",
+      "title": "Analysts bullish on Apotex as they initiate coverage following Canadian drugmaker’s IPO",
+      "description": "Generics dominance could be leveraged into future higher-margin categories, one analyst says",
+      "url": "https://financialpost.com/investing/analysts-bullish-apotex-initiate-coverage-drugmaker-ipo",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:31 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:14.863374"
+    },
+    {
+      "id": "a59af6bf2f8b",
+      "title": "Ontario gambling helpline struggling under weight of new calls, low funding",
+      "description": "ConnexOntario, which offers listening and advice services for people struggling with gambling addiction, said the number of calls it receives has exploded.",
+      "url": "https://globalnews.ca/news/11955597/connexontario-struggling-new-calls/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/07/CP169892119-e1783373868970.jpg?quality=65&strip=all",
+      "published": "Tue, 07 Jul 2026 10:00:29 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.299796"
+    },
+    {
+      "id": "2d091d8875f7",
+      "title": "Adam Zivo: Why American transgender athletes lost the right to play female sports",
+      "description": "New U.S. Supreme Court decision upheld protections for sex, not gender",
+      "url": "https://nationalpost.com/opinion/adam-zivo-why-american-transgender-athletes-lost-the-right-to-play-female-sports",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:26 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.718752"
+    },
+    {
+      "id": "ddb91beb92c7",
+      "title": "Ask Lisi: Man wants to stay in Canada against parents wishes - Times Colonist",
+      "description": "Ask Lisi: Man wants to stay in Canada against parents wishes&nbsp;&nbsp;Times Colonist",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFhJMWR6ZzNMWm9udXV6R1NzaUU0eTB0TkNyNHZ5ck52NjRqNThSYU9GZ1BHR3ozclhOck9XelFEdG5lcWl5ZERiMnA1RTNRZThuQ19Bd2tDUnRoT2Y3RzN6MkYyOUlkdmEtN09qWnBIY1lGV3o3VjBEcTN2WFB6LVA5RkVURW8xWmRtVE12RE5XcjFNRFBmQlpxUUltQmVUYUlGeWRn?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:00 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:15.643065"
+    },
+    {
+      "id": "a33272ee748b",
+      "title": "FACE arrives in Edmonton for Melamoon 2026, continuing Canada's largest Black-focused, no-equity pitch tour - Newswire Canada",
+      "description": "FACE arrives in Edmonton for Melamoon 2026, continuing Canada's largest Black-focused, no-equity pitch tour&nbsp;&nbsp;Newswire Canada",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb19kbU42T3A4SlRJbUpqZ0dFdGJKSnVOaUVhVV9UNy1OZE1oLTB6VnFqRl9lNDZxbUs2LV9sZFBsVzZwQVJDaWMwaUNnOWlUTVNHNjRUN2dBUUtZQm1ISXFlVDc0UFlhS0hlRjI3WF8yUVBzdTJNdDR2Zzd1QkhRdXBjeGlpb296NkdnT1c0cVE4VWdFY1pxSHRaR214LVdtSWxIWTM2aGpRUmhMenRmMFdQQ3RvMS1Ka3JvdFBWM1NsQ1l4VENreW1OQkFBejNVZGFLa3hhTkIwdjI1cTYxYWVkVW5jZGtHb0NfYlFWTQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:00 GMT",
+      "location": "Edmonton",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:15.643231"
+    },
+    {
+      "id": "8c3e151ebf29",
+      "title": "Pete Holmes Is Not Reading Your Email",
+      "description": "“You can make a living, you can have a life, and leave 55,000 emails unread with a big fuck off.”",
+      "url": "https://www.wired.com/story/pete-holmes-user-behavior/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:14.440989"
+    },
+    {
+      "id": "0e4da19ca593",
+      "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+      "description": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI.",
+      "url": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:14.441008"
+    },
+    {
+      "id": "d3bba78ef02b",
+      "title": "People Used to Control Machines. They Don’t Anymore",
+      "description": "In a world regulated by devices, humanity has become disconnected from the physical world—from stick-shift cars to postcards.",
+      "url": "https://www.wired.com/story/loss-of-physical-world-book-excerpt-the-small-stuff-ian-bogost/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:14.441025"
+    },
+    {
+      "id": "3a6aa9abc4a8",
+      "title": "Q&A: How InBC hopes to redefine its role in BC tech as a more strategic investor",
+      "description": "CIO Thomas Park unpacks InBC’s shifting strategy and its push to fill the university-commercialization gap. The post Q&amp;A: How InBC hopes to redefine its role in BC tech as a more strategic investor first appeared on BetaKit.",
+      "url": "https://betakit.com/qa-how-inbc-is-redefining-its-role-in-bc-tech-as-a-more-strategic-investor/",
+      "source": "BetaKit",
+      "image": "https://cdn.betakit.com/wp-content/uploads/2026/07/InBC-150x150.webp",
+      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:15.063956"
+    },
+    {
+      "id": "920a09983a7d",
+      "title": "British Space Startup Launches Longevity Lab Into Orbit",
+      "description": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+      "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 09:57:12 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:14.441043"
+    },
+    {
+      "id": "6d55af145a88",
+      "title": "Joint Statement on the Launch of FTA Negotiations between Canada and Türkiye - pm.gc.ca",
+      "description": "Joint Statement on the Launch of FTA Negotiations between Canada and Türkiye&nbsp;&nbsp;pm.gc.ca",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFBjM0hsbG1USXBCUWRTSHdIalMxNnVwWFVuUkg4NTFWS2w4QXZIQ25MUGF1VkZGN0NTazExLUljTmpNUzV4MUFZb0lGdFZJeW9pY3otc0VNYWdjdmh0WkY3cjdXbzg3UkNWMFBtcFp0bWFmM2YwSG0xOTZwSHZ1V2hlS0hWU3dTa1NKM1Y2MHJZcWg4SGJfM1RNa2poS3lwc0haWVdoNGMtZlU2WFdGQVRiQk5GcEZQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 09:53:12 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:15.643012"
+    },
+    {
+      "id": "74d1f64fd935",
+      "title": "USA crashes out after 4–1 defeat to Belgium",
+      "description": "Belgium thrashed the USA 4–1 to knock the host nation out of the World Cup, leaving home fans stunned.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/usa-crashes-out-after-4-1-defeat-to?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 09:45:14 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113616"
+    },
+    {
+      "id": "6e8161c5fee3",
+      "title": "Chow holds lead over Bradford as Torontonians give World Cup a thumbs‑up: poll",
+      "description": "Chow's support has barely moved since May, when she sat at 50 per cent. Bradford, however, has climbed from 37 per cent to 40 per cent.",
+      "url": "https://toronto.citynews.ca/2026/07/07/olivia-chow-brad-bradford-toronto-mayoral-race-poll-world-cup/",
+      "source": "CityNews Toronto",
+      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/07/07/2026-07-06-toronto-mayoral-vote-trend-791x1024.png",
+      "published": "Tue, 07 Jul 2026 09:21:33 +0000",
+      "location": "Toronto",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.044100"
+    },
+    {
+      "id": "229c5fd18ae9",
+      "title": "FIFA World Cup: Argentina vs Egypt, Ronaldo exit and Mbappe condemns racism",
+      "description": "Argentina continue their knockout journey against Egypt as Switzerland and Colombia also fight for progression.",
+      "url": "https://www.aljazeera.com/sports/2026/7/7/fifa-world-cup-2026-argentina-egypt-ronaldo-exit-mbappe-racism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 09:05:28 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113635"
+    },
+    {
+      "id": "38ec9c35cf3d",
+      "title": "Has Ottawa Police lost control of the officers under their command? | Opinion",
+      "description": "Mohammed Adam talks about police's use of disproportionate force against Blacks and residents of Middle Eastern origin.",
+      "url": "https://ottawacitizen.com/opinion/has-ottawa-police-lost-control",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 09:00:55 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.145690"
+    },
+    {
+      "id": "731f4394c75d",
+      "title": "Report says traffickers exploit inspection gap at Canada’s Pacific ports",
+      "description": "Vancouver and Prince Rupert move huge cargo volumes with almost no outbound checks, a new report warns, and no single agency owns port security.",
+      "url": "https://nationalpost.com/news/report-traffickers-exploit-inspection-gap-canadas-pacific-ports",
+      "source": "National Post",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 09:00:03 +0000",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.718788"
+    },
+    {
+      "id": "a88205ef5d4e",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "description": "Forterra has deployed more than 100",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 09:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:14.338617"
+    },
+    {
+      "id": "12942faa33ac",
+      "title": "Mortgage B-lender Haventree launches online bank",
+      "description": "Schedule 1 Canadian bank now offers chequing-and-savings accounts and GICs. The post Mortgage B-lender Haventree launches online bank first appeared on BetaKit.",
+      "url": "https://betakit.com/mortgage-b-lender-haventree-launches-online-bank/",
+      "source": "BetaKit",
+      "image": "https://cdn.betakit.com/wp-content/uploads/2026/07/Fern-Large-11-1-1-1-150x150.jpg",
+      "published": "Tue, 07 Jul 2026 09:00:00 +0000",
+      "location": "Canada",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:15.063991"
+    },
+    {
+      "id": "dc0f7dd0c385",
+      "title": "Canada tells UAE it is not ready for its C$70bn investment - Financial Times",
+      "description": "Canada tells UAE it is not ready for its C$70bn investment&nbsp;&nbsp;Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93bzRRMmVLazkwY3JzV3B1bnZRa3FWSGJnQlFkUW1JbXlDNjJ0Ti05YjVIcjNxTnpSYzNIS1d4X3Nfd25FSUxuM0lHYUIwSURQY2piREptTXQyUnlxSmYwTzhmR0taRFYtZlBOSDBWQlU?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:59:40 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:15.643183"
+    },
+    {
+      "id": "d08467f350cd",
+      "title": "Switzerland vs Colombia, World Cup last 16: Prediction, start time and news",
+      "description": "Colombia, the World Cup&#039;s dangerous outsiders, take on Switzerland in Vancouver for a place in the quarterfinals.",
+      "url": "https://www.aljazeera.com/news/2026/7/7/switzerland-colombia-world-cup-munoz-embolo-manzambi-prediction-news-start-time?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:36:10 +0000",
+      "location": "Vancouver",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.113651"
+    },
+    {
+      "id": "7a66ed55009b",
+      "title": "Erika Kirk comes face-to-face in court with husband's alleged killer",
+      "description": "Charlie Kirk's widow was joined by the late US activist's family - all of whom attended court for the first time in the case.",
+      "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10a3/live/54533450-79d5-11f1-a627-714adb4eed6e.jpg",
+      "published": "Tue, 07 Jul 2026 08:25:54 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.011374"
+    },
+    {
+      "id": "c48298ceac93",
+      "title": "Erika Kirk attends hearing for Tyler Robinson, suspect charged with husband's murder - BBC",
+      "description": "Erika Kirk attends hearing for Tyler Robinson, suspect charged with husband's murder&nbsp;&nbsp;BBCMore video expected during hearing in case against man accused of killing Charlie Kirk&nbsp;&nbsp;The SpecFormer officer describes finding a ‘sniper pad’ on nearby rooftop after Charlie Kirk assassinat",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IVmtvZTBFdDRTbkl0b0FmMXpQcFFTVFliQll6VVpDaXBrbEFOSmdRWmNtWEFHeE54VHNUcUZyaWxHZ01Dc3Z4OFFZUF9vLV9mVEpDdGhSN0p0Zw?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:25:54 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:15.584692"
+    },
+    {
+      "id": "5a4f23061b92",
+      "title": "BY THE NUMBERS – A Look at Canada’s Spring Economic Update by the Numbers - EnergyNow",
+      "description": "BY THE NUMBERS – A Look at Canada’s Spring Economic Update by the Numbers&nbsp;&nbsp;EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnZpZUtVNS1NWV9KY19PeTZHZ21HendOQ3E5SVRvSmw1TEVCNHU3TTNYZ1p0dVU2NFRNeEg2MGdVRDVVY3ZWWjRyOHU5bTF5dkctN0ZKODN2eVRYN1VVN1gyU2JCN3F3NDJpZGlieTVCbi1FbHRNT3JJSi04Vm1kaUJqN1ZhMjZyYmxHY2RB?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:14:13 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:15.643115"
+    },
+    {
+      "id": "9bb6c94080a9",
+      "title": "Canada to become world's largest operator of new submarine yet to be launched - Ottawa Citizen",
+      "description": "Canada to become world's largest operator of new submarine yet to be launched&nbsp;&nbsp;Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcktuRVdmR3FyRTZvTzNLdTVkQVIzT1NWOWRJTi1pbE5jZE11NWQ0YTg5N3ozMU4zRWJjVmprSmRsV2VoNmppQ2c4MTlQdnVxSTh6S0tHRWxlVXBvNGFQSkJpeHBVWF9DR0NXZVk3b2lkeWpBdUgycmFEQkhjajdfOXE3bUxxSHhLam1IWFRIYktLTllYREFmcDhORkt6UWszd0Q3WTJnLVJqWFlWQ0pyM0FpbFBGM3JrMkJRTm9iVVVvdUc5OHJEOEcxYw?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:08:48 GMT",
+      "location": "Ottawa",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:15.643139"
+    },
+    {
+      "id": "11d08be77857",
+      "title": "Raptors hold news conference with ‘special guest’",
+      "description": "The Toronto Raptors are hosting a morning news conference with a \"special guest\" for what the team is calling a \"milestone announcement.\"",
+      "url": "https://globalnews.ca/news/11956080/raptors-hold-news-conference-with-special-guest/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/07/c4cf5c8c9fc317a22bf1b2a60ebd28a3cbfd407c875ff31ab4de991dbe7b6b5f.jpg?quality=65&strip=all",
+      "published": "Tue, 07 Jul 2026 08:01:28 +0000",
+      "location": "Toronto",
+      "category": "canada",
+      "fetched_at": "2026-07-07T10:54:14.299813"
+    },
+    {
+      "id": "c08bf01650cc",
+      "title": "Canada to become world's largest operator of new submarine yet to be launched",
+      "description": "The Royal Canadian Navy is sailing into new waters with the purchase of up to 12 submarines of a type yet to sail. Prime Minister Mark Carney announced July 6 in Halifax that Canada will purchase the Type 212CD submarine from Germany’s ThyssenKrupp Marine Systems (TKMS) in what he says is the larges",
+      "url": "https://ottawacitizen.com/public-service/defence-watch/canada-to-become-worlds-largest-operator-of-new-submarine-yet-to-be-launched",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:00:59 +0000",
+      "location": "Halifax",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.145729"
+    },
+    {
+      "id": "743bb9056745",
+      "title": "City continues storm recovery after 4,500 Ottawa households report flooding",
+      "description": "More than 36,000 Ottawa households lost power as residents are left to clean up the damage of basement floods and spoiled food",
+      "url": "https://ottawacitizen.com/news/city-continues-storm-recovery-after-4500-ottawa-households-report-flooding",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:00:49 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.145749"
+    },
+    {
+      "id": "8d18ac911e38",
+      "title": "Switzerland takes on Colombia in Vancouver’s last hurrah at World Cup",
+      "description": "VANCOUVER — Vancouver is set to host its seventh and final World Cup match today, in a final hurrah at BC Place for an event that galvanized the city’s diaspora communities and drew thousands of fans from across the country and the globe. The round-of-16 match between Switzerland and Colombia comes ",
+      "url": "https://toronto.citynews.ca/2026/07/07/switzerland-takes-on-colombia-in-vancouvers-last-hurrah-at-world-cup/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:00:15 +0000",
+      "location": "Vancouver",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.044129"
+    },
+    {
+      "id": "d72d8b2d070b",
+      "title": "B.C. attorney general to provide update on legal options after deadly mass shooting",
+      "description": "VANCOUVER — The British Columbia government says it&#8217;s exploring legal options after the mass shooting where eight people were killed in Tumbler Ridge. Attorney General Niki Sharma is expected to meet with media today about those options, five months after the deadly shooting in the community i",
+      "url": "https://toronto.citynews.ca/2026/07/07/b-c-attorney-general-to-provide-update-on-legal-options-after-deadly-mass-shooting/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:00:14 +0000",
+      "location": "Vancouver",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.044156"
+    },
+    {
+      "id": "57ec96c8ba44",
+      "title": "Funeral for Montreal police officer killed in shooting set to be held today",
+      "description": "MONTREAL — The public memorial for the Montreal police officer killed in a brazen outdoor shooting last month will be held at the Bell Centre today. A procession in Mohamed Lamine Benredouane&#8217;s honour will start at police headquarters at 10 a.m. ET and make its way to the downtown arena, which",
+      "url": "https://toronto.citynews.ca/2026/07/07/funeral-for-montreal-police-officer-killed-in-shooting-set-to-be-held-today/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:00:12 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.044181"
+    },
+    {
+      "id": "4e1eac3693ac",
+      "title": "Rogers’ MLSE play the latest in shift for Canadian sports landscape, experts say",
+      "description": "Sports business experts say Rogers Communications Inc.&#8217;s full takeover of Maple Leaf Sports &#38; Entertainment is the latest sign of a shift in Canada&#8217;s professional sports landscape. The telecom giant announced Monday it will acquire the remaining 25 per cent stake in MLSE it didn&#821",
+      "url": "https://toronto.citynews.ca/2026/07/07/rogers-mlse-play-the-latest-in-shift-for-canadian-sports-landscape-experts-say/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:00:09 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.044210"
+    },
+    {
+      "id": "c4ebeefbeff1",
+      "title": "Many Canadian manufacturers eyeing U.S. move as trade tensions take a toll: KPMG",
+      "description": "A new survey shows trade tensions have some Canadian manufacturers deciding to move production south of the border or delay capital investments. KPMG Canada said on Tuesday that 42 per cent of Canadian manufacturing companies indicated they have or are considering moving production to the United Sta",
+      "url": "https://toronto.citynews.ca/2026/07/07/many-canadian-manufacturers-eyeing-u-s-move-as-trade-tensions-take-a-toll-kpmg/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:00:09 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.044236"
+    },
+    {
+      "id": "421baaf92237",
+      "title": "Canada Day storm just a taste of extreme weather to come | Letters to the Editor",
+      "description": "The Ottawa Citizen's Letters to the Editor, Tuesday, July 7, 2026",
+      "url": "https://ottawacitizen.com/opinion/letters/canada-day-storm-just-a-taste-of-extreme-weather-to-come-letters-to-the-editor",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:00:04 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.145767"
+    },
+    {
+      "id": "1b74cb89d555",
+      "title": "Watch: Moment rare tornado lashes central Chinese cities",
+      "description": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
+      "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc42/live/c494cdb0-79d4-11f1-a627-714adb4eed6e.jpg",
+      "published": "Tue, 07 Jul 2026 07:27:05 GMT",
+      "location": "Vancouver",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.011312"
     },
     {
       "id": "6fc30878cfd6",
@@ -204,7 +864,19 @@
       "published": "Tue, 07 Jul 2026 06:30:31 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.219153"
+      "fetched_at": "2026-07-07T10:54:15.220538"
+    },
+    {
+      "id": "3a48f61f800a",
+      "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
+      "description": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae5/live/6c2d8350-7868-11f1-ab53-3dbca6ef5ee1.jpg",
+      "published": "Tue, 07 Jul 2026 06:28:56 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-07-07T10:54:15.011281"
     },
     {
       "id": "4d204b06fc31",
@@ -216,151 +888,43 @@
       "published": "Tue, 07 Jul 2026 06:23:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.605540"
+      "fetched_at": "2026-07-07T10:54:15.011358"
     },
     {
-      "id": "bfcb32ddefc1",
-      "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
-      "description": "The far-right leader could be prevented from running for president in 2027 if embezzlement charges are upheld.",
-      "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 06:15:40 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811647"
-    },
-    {
-      "id": "3521a06722ce",
-      "title": "NATO summit begins: Who is attending and what is at stake?",
-      "description": "Trump warns NATO members ahead of summit, as European nations prepare to announce record defence spending.",
-      "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 06:12:19 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811676"
-    },
-    {
-      "id": "0e00d0fd82f2",
-      "title": "China sentences former local official to death in $324m corruption case",
-      "description": "Yang Youlin, an ex-official in the eastern city Nanjing, accepted bribes in exchange for business favours, court says.",
-      "url": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 06:01:55 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811703"
-    },
-    {
-      "id": "867897a346e2",
-      "title": "Pulsar Helium Investor Webinar Via Investor Meet Company",
-      "description": "THIS ANNOUNCEMENT AND THE INFORMATION CONTAINED HEREIN IS RESTRICTED AND IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN, INTO OR FROM AUSTRALIA, JAPAN OR THE REPUBLIC OF SOUTH AFRICA OR TO BE TRANSMITTED, DISTRIBUTED TO, OR SENT BY, ANY NATIONAL OR R",
-      "url": "https://financialpost.com/globe-newswire/pulsar-helium-investor-webinar-via-investor-meet-company",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 06:01:08 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.461995"
-    },
-    {
-      "id": "edcf3c1e1faa",
-      "title": "Shell second quarter 2026 update note",
-      "description": "The following is an update to the second quarter 2026 outlook and gives an overview of our current expectations for the second quarter. Outlooks presented may vary from the actual second quarter 2026 results and are subject to finalisation of those results, which are scheduled to be published on Jul",
-      "url": "https://financialpost.com/globe-newswire/shell-second-quarter-2026-update-note",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 06:00:59 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.462029"
-    },
-    {
-      "id": "412bc7145f04",
-      "title": "VertiGIS Neo Enters its Next Phase, Powering Real-Time, AI-Driven Geospatial Workflows",
-      "description": "VertiGIS Neo’s AI-driven capabilities will be showcased at the Esri User Conference, July 13-17 in San Diego Denver, US. 7th July 2026 — VertiGIS, a global leader in geospatial solutions, today announced the next phase of VertiGIS Neo, its cloud-centric, web-based, mobile-ready AI-enabled suite of s",
-      "url": "https://financialpost.com/globe-newswire/vertigis-neo-enters-its-next-phase-powering-real-time-ai-driven-geospatial-workflows",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 06:00:45 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.462071"
-    },
-    {
-      "id": "936d96796854",
-      "title": "Palestine weekly: One thousand days of genocide in Gaza",
-      "description": "Gaza marks 1,000 days of Israel&#039;s genocidal war, with at least 1,072 killed since October &#039;ceasefire&#039;.",
-      "url": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:48:37 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811729"
-    },
-    {
-      "id": "e4d972c1e78a",
-      "title": "Canada wins World Cup qualifying group as Gilgeous-Alexander shines in Hamilton homecoming - Sportsnet.ca",
-      "description": "Canada wins World Cup qualifying group as Gilgeous-Alexander shines in Hamilton homecoming&nbsp;&nbsp;Sportsnet.ca",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGpfUEcxbDZ1R0xFUHR3Rk0xeF9WU053NldvUUVqQS1BVW1NaGltQlJnTkNLMzh2OTJnenFnbGR6T1ZlNnFuRlBrZmxSOEJleVlsLURaUzgycExPZVVPNHp2Z3l6TV9wbTZyVWl4bTlsUUJ1UWl4YmNtWTFaeWVhZHplNVM5bTIweGE3SnFUSHlaYVdaM1hjTldVNFpIdEJVMVhjMUZoOVVVdXNjX0FoLUpvWnFTamczVjh6ck9ZY3RVOWNvWFB5Y0RSTmV1LWhh?oc=5",
+      "id": "c444aa5ee93a",
+      "title": "Canada improves to 6-0 in FIBA World Cup qualifying with win vs. Jamaica - Sportsnet.ca",
+      "description": "Canada improves to 6-0 in FIBA World Cup qualifying with win vs. Jamaica&nbsp;&nbsp;Sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZTdDT2s4NGRQcFNfVDkxRFBBc05PelRCLUJFc3h4N09ScnpMdTB0c3FHbDJxVGlRbkRSbW9zOVR5S2tnaUUwUG5wVjdsc1dKVmg3eTVoUTM2QmZic1IxYXMzMmVuM3N2T2c0RmRqQkRVNWkyel9HUkVJa1pQYXlRbi1nY3FTc1RxZndLb2pNUG90ZnhNUW5VVUt3NkNFbHFEMjRIS0FRSTFTZEVBQnNDVnhKU2JMV2s?oc=5",
       "source": "Google News Canada",
       "image": "",
-      "published": "Tue, 07 Jul 2026 05:36:00 GMT",
+      "published": "Tue, 07 Jul 2026 05:37:00 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713097"
-    },
-    {
-      "id": "bc236e20502d",
-      "title": "Sorry USA riled for World Cup thrashing by Belgium despite Balogun reprieve",
-      "description": "Belgium midfielder Nicolas Raskin said his side’s win felt like a measure of justice after FIFA’s decision on Balogun.",
-      "url": "https://www.aljazeera.com/sports/2026/7/7/sorry-usa-riled-for-world-cup-thrashing-by-belgium-despite-balogun-reprieve?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:32:55 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811761"
-    },
-    {
-      "id": "9ceddde9ff02",
-      "title": "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
-      "description": "Makers of Chauhaan accused of mocking more than 1,000 Kashmiris partially or completely blinded by pellet shotguns.",
-      "url": "https://www.aljazeera.com/news/2026/7/7/limited-damage-upcoming-bollywood-film-angers-kashmir-pellet-gun-victims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:11:53 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811790"
+      "fetched_at": "2026-07-07T10:54:15.643088"
     },
     {
       "id": "f5593e3c93a5",
       "title": "Leading US Democrats withdraw support for Platner after assault allegations - Al Jazeera",
-      "description": "Leading US Democrats withdraw support for Platner after assault allegations&nbsp;&nbsp;Al JazeeraExclusive: Woman who dated Graham Platner says he sexually assaulted her&nbsp;&nbsp;PoliticoWoman alleges Graham Platner raped her in 2021 while they were dating, which he denies&nbsp;&nbsp;CNNWho Might ",
+      "description": "Leading US Democrats withdraw support for Platner after assault allegations&nbsp;&nbsp;Al JazeeraWoman alleges Graham Platner raped her in 2021 while they were dating, which he denies&nbsp;&nbsp;CNNAbandoned by Allies, Platner Faces Pressure to End Senate Campaign&nbsp;&nbsp;The New York TimesKey De",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGxZM2Y5X3YyM0tOMVQ2NEN0Z3VuZG9kaHRNTUktNjRrSXFqNWRVZXlBOEJhaEdIYWNSNmJmMkk2aFE4dDZuYW9JZU0tLU1nejBJMDJMRFN1MkFUR3pxRFl3QTR0R0FFVW1EUWN3eXVCdXp1N3F1RXN1NUYzakNoWFVnRjR6dnNKSENmcW9kU0pEdTN4dV9ja0FkVHVfeXRfMElTMFcxOUg5WnZPcExqZzdORVZFZ9IBuwFBVV95cUxOWmVVRFdGaGxfdG55NFg5cXRUbU5hd1VETGcwX0ZueWwwQTBqb19odHRDMlNITEtQcWFRR2Q4LTVDenYzc0RDYmJtRDZoM3BldFBPaEJRY1NmUThiU1puZGY1Wk9VVTVfRkJiQ19pdk9CTU0tUEFPSnRJdzRrTkZZUkR4X3VYd0QtV0VPOEF6RENWNy16a2FTOTkxVXh4a2c5VnlhN3NRZ1I0RFNkVGd4eEhmWkVJY2l4eEFZ?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Tue, 07 Jul 2026 05:11:34 GMT",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.902973"
+      "fetched_at": "2026-07-07T10:54:15.584492"
     },
     {
-      "id": "96eaf5af07ce",
-      "title": "Egyptians dream of toppling Argentina in historic World Cup match",
-      "description": "Streets lined with flags, conversations centred on one match, and hopes pinned on the team ahead of Egypt vs Argentina.",
-      "url": "https://www.aljazeera.com/sports/2026/7/7/chk_egyptians-dream-of-toppling-argentina-in-historic-world-cup-match?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "7fd741848b98",
+      "title": "NATO unveils billions in arms deals to prove its firepower to Trump",
+      "description": "ANKARA, Turkey (AP) — NATO on Tuesday showcased a series of military projects worth billions of dollars in an attempt to persuade President Donald Trump that U.S. allies are converting fresh defense spending into real firepower. “It’s money well spent,” an energized NATO Secretary-General Mark Rutte",
+      "url": "https://toronto.citynews.ca/2026/07/07/nato-unveils-billions-in-arms-deals-to-prove-its-firepower-to-trump/",
+      "source": "CityNews Toronto",
       "image": "",
-      "published": "Tue, 07 Jul 2026 05:04:18 +0000",
+      "published": "Tue, 07 Jul 2026 05:09:08 +0000",
       "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811816"
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.044274"
     },
     {
       "id": "af77dc720796",
@@ -372,79 +936,7 @@
       "published": "Tue, 07 Jul 2026 05:03:29 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302041"
-    },
-    {
-      "id": "f1530afc8b0a",
-      "title": "Instacart Promo Code: $15 Off | July 2026",
-      "description": "Find the best Instacart promo code for massive savings in July 2026.",
-      "url": "https://www.wired.com/story/instacart-promo/code/",
-      "source": "Wired",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216181"
-    },
-    {
-      "id": "e7811897b86f",
-      "title": "Office Depot Coupons: Save With Promo Codes in July 2026",
-      "description": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "url": "https://www.wired.com/story/office-depot-promo-codes/",
-      "source": "Wired",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216208"
-    },
-    {
-      "id": "81c7b5f466f5",
-      "title": "Loop Earplugs Discount Codes: 40% Off",
-      "description": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "source": "Wired",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216228"
-    },
-    {
-      "id": "f8c9c30a14b1",
-      "title": "20% Off Sephora Promo Code | July 2026",
-      "description": "Earn more points on skincare purchases when you use our Sephora coupon.",
-      "url": "https://www.wired.com/story/sephora-promo-code/",
-      "source": "Wired",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216275"
-    },
-    {
-      "id": "b2de07ad3526",
-      "title": "Nomad Goods Promo Codes: Get 25% Off in July 2026",
-      "description": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more this July.",
-      "url": "https://www.wired.com/story/nomad-discount-code/",
-      "source": "Wired",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216297"
-    },
-    {
-      "id": "53b8cf238944",
-      "title": "Mattress Firm Coupons: Save up to $600",
-      "description": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-      "url": "https://www.wired.com/story/mattress-firm-coupon/",
-      "source": "Wired",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216317"
+      "fetched_at": "2026-07-07T10:54:16.267015"
     },
     {
       "id": "9d42ade5b946",
@@ -456,7 +948,7 @@
       "published": "Tue, 07 Jul 2026 05:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216336"
+      "fetched_at": "2026-07-07T10:54:14.441057"
     },
     {
       "id": "c5ac7295a190",
@@ -468,55 +960,43 @@
       "published": "Tue, 07 Jul 2026 05:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216381"
+      "fetched_at": "2026-07-07T10:54:14.441073"
     },
     {
-      "id": "715fd8c0e520",
-      "title": "Bartesian Discount Codes: 35% Off",
-      "description": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
-      "url": "https://www.wired.com/story/bartesian-discount-code/",
+      "id": "e7811897b86f",
+      "title": "Office Depot Coupons: Save With Promo Codes in July 2026",
+      "description": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
       "source": "Wired",
       "image": "",
       "published": "Tue, 07 Jul 2026 05:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216427"
+      "fetched_at": "2026-07-07T10:54:14.441088"
     },
     {
-      "id": "ae8878d78634",
-      "title": "Target Promo Code: $50 Off | July 2026",
-      "description": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
-      "url": "https://www.wired.com/story/target-promo-code/",
+      "id": "81c7b5f466f5",
+      "title": "Loop Earplugs Discount Codes: 40% Off",
+      "description": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
       "source": "Wired",
       "image": "",
       "published": "Tue, 07 Jul 2026 05:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.216450"
+      "fetched_at": "2026-07-07T10:54:14.441102"
     },
     {
-      "id": "11abbe272989",
-      "title": "Khamenei’s coffin arrives in holy city of Qom",
-      "description": "Tens of thousands of mourners gather in Qom for a funeral service for Iran’s late Supreme Leader Ali Khamenei.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_khameneis-coffin-arrives-in-holy-city-of-qom-070726?traffic_source=rss",
-      "source": "Al Jazeera",
+      "id": "f8c9c30a14b1",
+      "title": "20% Off Sephora Promo Code | July 2026",
+      "description": "Earn more points on skincare purchases when you use our Sephora coupon.",
+      "url": "https://www.wired.com/story/sephora-promo-code/",
+      "source": "Wired",
       "image": "",
-      "published": "Tue, 07 Jul 2026 04:52:37 +0000",
+      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
       "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811845"
-    },
-    {
-      "id": "6d7cb235b425",
-      "title": "Cuba loses power across nation for third time this year",
-      "description": "An island-wide blackout hit nearly 10 million residents in Cuba for the third time in 6 months, on Monday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 04:50:50 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.811871"
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:14.441114"
     },
     {
       "id": "8eb99da2c614",
@@ -528,7 +1008,7 @@
       "published": "Tue, 07 Jul 2026 04:18:19 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.605448"
+      "fetched_at": "2026-07-07T10:54:15.011244"
     },
     {
       "id": "bf5e755a6c62",
@@ -540,7 +1020,19 @@
       "published": "Tue, 07 Jul 2026 04:12:42 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713010"
+      "fetched_at": "2026-07-07T10:54:15.643041"
+    },
+    {
+      "id": "abe63aa0ec87",
+      "title": "It’s decision day in Prince Harry’s final privacy suit against British tabloids",
+      "description": "LONDON (AP) — Prince Harry ′s longtime battle with the British tabloids reaches its climax Tuesday. A judge in London’s High Court will rule on the Duke of Sussex&#8217;s privacy invasion lawsuit against the publisher of the Daily Mail, ending a trio of lawsuits that accused the news media of unlawf",
+      "url": "https://toronto.citynews.ca/2026/07/07/its-decision-day-in-prince-harrys-final-privacy-suit-against-british-tabloids/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 04:11:43 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.044307"
     },
     {
       "id": "2c18587fce0c",
@@ -552,7 +1044,7 @@
       "published": "Tue, 07 Jul 2026 03:41:50 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302075"
+      "fetched_at": "2026-07-07T10:54:16.267039"
     },
     {
       "id": "4afa12000855",
@@ -564,19 +1056,19 @@
       "published": "Tue, 07 Jul 2026 03:28:52 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422437"
+      "fetched_at": "2026-07-07T10:54:16.044328"
     },
     {
-      "id": "41476860494f",
-      "title": "Company behind Crown Royal whisky signs deal to sell Ontario bottling plant",
-      "description": "The company behind Crown Royal whisky says it has agreed to sell its bottling plant in southern Ontario. A spokesperson for Diageo says in a statement that while the agreement for the Amherstburg facility has been signed, details about its buyer won&#8217;t be shared. The statement says more informa",
-      "url": "https://toronto.citynews.ca/2026/07/06/company-behind-crown-royal-whisky-signs-deal-to-sell-ontario-bottling-plant/",
-      "source": "CityNews Toronto",
+      "id": "41bdfa75ad87",
+      "title": "More on reports Iranian forces strike LNG tanker and commercial ships in Strait of Hormuz - investingLive",
+      "description": "More on reports Iranian forces strike LNG tanker and commercial ships in Strait of Hormuz&nbsp;&nbsp;investingLiveTanker struck near Strait of Hormuz as Trump heads to NATO summit&nbsp;&nbsp;CNNTanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei&nbsp;&n",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUVORmtpYXFwdXFUQXItMGltMmFkeFJvd0kzRGZ5Z0NVaUt1UC1Rcnlfb0ZlMGxZUVl2MjdrTlFFQmdzRC1JUVM5cGtMRWhvWDh1LUZnZkl6ejRmVkZOYjNLUDNVeFVCQWFIRm5Ha3Z4d1ZleUpNbGV5c1lfWVduRXQyRks1OGRRVF9mNEZEN0RrSzIxMmJmNkI4eDBydVBzSmVpVW5Kdk9YdGVxdV9xQktXQ3RzQThWa1ZjSTR4NU96a1JVVGZFS3lkb2ZlbXpGYUtz?oc=5",
+      "source": "Google News Tech",
       "image": "",
-      "published": "Tue, 07 Jul 2026 03:15:12 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422486"
+      "published": "Tue, 07 Jul 2026 03:24:08 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:15.584740"
     },
     {
       "id": "fe2e16d2703d",
@@ -588,19 +1080,7 @@
       "published": "Tue, 07 Jul 2026 02:59:10 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634546"
-    },
-    {
-      "id": "7a66ed55009b",
-      "title": "Erika Kirk attends hearing for suspect charged with husband's murder",
-      "description": "The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.",
-      "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10a3/live/54533450-79d5-11f1-a627-714adb4eed6e.jpg",
-      "published": "Tue, 07 Jul 2026 02:33:18 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.605562"
+      "fetched_at": "2026-07-07T10:54:16.342697"
     },
     {
       "id": "aac7554744fd",
@@ -612,7 +1092,7 @@
       "published": "Tue, 07 Jul 2026 02:26:51 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081293"
+      "fetched_at": "2026-07-07T10:54:15.841804"
     },
     {
       "id": "03d3dcb86514",
@@ -624,7 +1104,7 @@
       "published": "Tue, 07 Jul 2026 02:26:21 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973579"
+      "fetched_at": "2026-07-07T10:54:14.299828"
     },
     {
       "id": "cc15cd43bd8a",
@@ -636,43 +1116,19 @@
       "published": "Tue, 07 Jul 2026 02:19:58 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170355"
+      "fetched_at": "2026-07-07T10:54:14.718817"
     },
     {
-      "id": "6bc141f31b9d",
-      "title": "Belgium bounces United States from World Cup in Round of 16",
-      "description": "Belgium is moving on at the FIFA World Cup. The Red Devils defeated the co-host United States 4-1 on Sunday in Seattle to advance to the quarterfinals for the first time since 2018. Charles De Ketelaere scored twice for Belgium in the first half, bookending a goal from American Malik Tillman. Hans V",
-      "url": "https://toronto.citynews.ca/2026/07/06/belgium-bounces-united-states-from-world-cup-in-round-of-16/",
-      "source": "CityNews Toronto",
+      "id": "1b9864a5a551",
+      "title": "Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience - CNBC",
+      "description": "Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience&nbsp;&nbsp;CNBCNato braces for difficult summit as Trump puts pressure on spending&nbsp;&nbsp;The GuardianAfter America’s 250th, Trump will test how far he can push NATO allies&nbsp;&nbsp;The Washington PostLive updates: T",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFlwNVVnZXJMOTJaVXZGZFI2Z3NqWVdUQldEWWd1NXVvdUhteEZkMXNpSXdPLUpOMFV3bGM5N2hrVEVaaDFnRmtkMDRBY2l2cnhuN2VwY0lIZXczbUhDZTVSbUlDRU1vYkVKNEY4a0tnWUFTTm5kcHdjX3F6Mk95M2Eyek7SAYoBQVVfeXFMTVNCbjdRMGN1c0FqUXZyRXNfcVJXeVlOYUR4U1FraW9TR2EyaE15a1FTaUh5NDZzQVhMUWd2ZWJTQTRkUTlpaFVabEFjclZicUJFYjhrZGNPQmdtTVFzVmZrckRrbGhENVAyTmZNT2I5bF8yYVNVMVJNWGNGWk84YWNLREJhLXBIODJR?oc=5",
+      "source": "Google News Tech",
       "image": "",
-      "published": "Tue, 07 Jul 2026 02:08:56 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422523"
-    },
-    {
-      "id": "235961860052",
-      "title": "Belgium bounces United States from World Cup in Round of 16",
-      "description": "Belgium is moving on at the FIFA World Cup. The Red Devils defeated the co-host United States 4-1 on Sunday in Seattle to advance to the quarterfinals for the first time since 2018. Charles De Ketelaere scored twice for Belgium in the first half, bookending a goal from American Malik Tillman. Hans V",
-      "url": "https://vancouver.citynews.ca/2026/07/06/belgium-bounces-united-states-from-world-cup-in-round-of-16/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 02:08:56 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634589"
-    },
-    {
-      "id": "5af974fe5c7b",
-      "title": "Belgium bounces United States from World Cup in Round of 16",
-      "description": "Belgium is moving on at the FIFA World Cup. The Red Devils defeated the co-host United States 4-1 on Sunday in Seattle to advance to the quarterfinals for the first time since 2018. Charles De Ketelaere scored twice for Belgium in the first half, bookending a goal from American Malik Tillman. Hans V",
-      "url": "https://montreal.citynews.ca/2026/07/06/belgium-bounces-united-states-from-world-cup-in-round-of-16/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 02:08:56 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.777890"
+      "published": "Tue, 07 Jul 2026 02:18:00 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:15.584646"
     },
     {
       "id": "8c49d73288b9",
@@ -684,7 +1140,43 @@
       "published": "Tue, 07 Jul 2026 02:08:56 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874482"
+      "fetched_at": "2026-07-07T10:54:16.179304"
+    },
+    {
+      "id": "5af974fe5c7b",
+      "title": "Belgium bounces United States from World Cup in Round of 16",
+      "description": "Belgium is moving on at the FIFA World Cup. The Red Devils defeated the co-host United States 4-1 on Sunday in Seattle to advance to the quarterfinals for the first time since 2018. Charles De Ketelaere scored twice for Belgium in the first half, bookending a goal from American Malik Tillman. Hans V",
+      "url": "https://montreal.citynews.ca/2026/07/06/belgium-bounces-united-states-from-world-cup-in-round-of-16/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 02:08:56 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.299136"
+    },
+    {
+      "id": "235961860052",
+      "title": "Belgium bounces United States from World Cup in Round of 16",
+      "description": "Belgium is moving on at the FIFA World Cup. The Red Devils defeated the co-host United States 4-1 on Sunday in Seattle to advance to the quarterfinals for the first time since 2018. Charles De Ketelaere scored twice for Belgium in the first half, bookending a goal from American Malik Tillman. Hans V",
+      "url": "https://vancouver.citynews.ca/2026/07/06/belgium-bounces-united-states-from-world-cup-in-round-of-16/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 02:08:56 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.342728"
+    },
+    {
+      "id": "ef2d7f1bc9be",
+      "title": "Belgium bounces United States from World Cup in Round of 16",
+      "description": "Belgium is moving on at the FIFA World Cup. The Red Devils defeated the co-host United States 4-1 on Sunday in Seattle to advance to the quarterfinals for the first time since 2018. Charles De Ketelaere scored twice for Belgium in the first half, bookending a goal from American Malik Tillman. Hans V",
+      "url": "https://ottawa.citynews.ca/2026/07/06/belgium-bounces-united-states-from-world-cup-in-round-of-16/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 02:08:56 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.436522"
     },
     {
       "id": "65fc48f8204a",
@@ -696,7 +1188,7 @@
       "published": "Tue, 07 Jul 2026 02:08:56 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.065938"
+      "fetched_at": "2026-07-07T10:54:16.532221"
     },
     {
       "id": "2bc73fae1127",
@@ -708,19 +1200,19 @@
       "published": "Tue, 07 Jul 2026 02:07:16 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.100594"
+      "fetched_at": "2026-07-07T10:54:16.145785"
     },
     {
       "id": "506ab38b79d5",
-      "title": "Belgium thump USA to reach quarter-finals and end co-hosts' World Cup dream - France 24",
-      "description": "Belgium thump USA to reach quarter-finals and end co-hosts' World Cup dream&nbsp;&nbsp;France 24Belgium bounces United States from World Cup in Round of 16&nbsp;&nbsp;Sportsnet.caAmerica rigs the World Cup, then bows out as a laughingstock&nbsp;&nbsp;The Globe and MailUSA vs. Belgium player ratings:",
+      "title": "Belgium thump ragged USA to end co-hosts' World Cup dream and set up Spain clash - France 24",
+      "description": "Belgium thump ragged USA to end co-hosts' World Cup dream and set up Spain clash&nbsp;&nbsp;France 24America rigs the World Cup, then bows out as a laughingstock&nbsp;&nbsp;The Globe and MailWorld Cup Daily: USA humiliated by Belgium, and Ronaldo's World Cup career ends on whimper&nbsp;&nbsp;DAZNWor",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUtsdENmaTJWdVJEMDlpWFplVkNlVVFYNkYtZWtKTGl3QkNRTVMyUnVVRTg4R3kySmRIbUZBdU1xRXdmVXQxYmQxWkVDaFhMREFQSVIwelpqUjVlb2Y2SGJqOUlOaXJVZkxwazdJV2EzdjIxc2l6NTRkdlZGeWprTVJJMExnMUpnWkhXcXhWU2M2LWpXZjFTNVFTM3JVMmFVWkZZVXo3WWkwS3NQN2Nxczg4bzd0UnNR?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 07 Jul 2026 02:01:09 GMT",
-      "location": "World",
+      "location": "Canada",
       "category": "sports",
-      "fetched_at": "2026-07-07T07:36:33.512125"
+      "fetched_at": "2026-07-07T10:54:15.335740"
     },
     {
       "id": "739f99ba8809",
@@ -732,7 +1224,7 @@
       "published": "Tue, 07 Jul 2026 01:57:04 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634616"
+      "fetched_at": "2026-07-07T10:54:16.342747"
     },
     {
       "id": "0279ef2e9c06",
@@ -744,31 +1236,19 @@
       "published": "Tue, 07 Jul 2026 01:56:59 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.100635"
+      "fetched_at": "2026-07-07T10:54:16.145808"
     },
     {
-      "id": "a13a5c47e75d",
-      "title": "Sudden cancellation of Taste of Little Jamaica festival underscores ongoing business challenges in area",
-      "description": "The Taste of Little Jamaica festival was supposed to be held on July 18, but organizers say City of Toronto permit issues affected the event.",
-      "url": "https://toronto.citynews.ca/2026/07/06/taste-of-little-jamaica-festival-cancelled-toronto-line-5-eglinton-crosstown/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 01:50:07 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422554"
-    },
-    {
-      "id": "96b236bcc69b",
+      "id": "e818f5f21514",
       "title": "‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun red card row - Al Jazeera",
-      "description": "‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun red card row&nbsp;&nbsp;Al JazeeraWhy FIFA’s Balogun red card suspension after Trump call is so controversial&nbsp;&nbsp;Al JazeeraBalogun is quiet on pitch after kicking up an international storm&nbsp;&nbsp;ReutersA Very Bad Call&nbsp;&nbsp",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTNRWUpIbXRvZGtKWVhnUUhKYXgtd1dBUDl5QnBKNXlXWkZzWS1OWVpnbXdnWEdMSEEzRHhTYTNHajJBRnkxZkhuZzByVWZmZE9VOVZhZFY1c0t4WTZhOWtUbl9BemU0ZnFabTJJMDlpcEhRYVUtdFFkTnREVEY0ejB6Z2F0RFM5ZjJQVkVRZFpDMjBiT3BlOEhpQjVVcUtxQUlsSDVFa0ZVbFNqSnc?oc=5",
+      "description": "‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun red card row&nbsp;&nbsp;Al JazeeraSo it’s Trump 1, Belgium 4 – and the world rejoices. Nothing like failed chicanery to bring us together, is there?&nbsp;&nbsp;The GuardianThe Global Story | Trump, Fifa and the disappearing red card&nbsp;&nb",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTNRWUpIbXRvZGtKWVhnUUhKYXgtd1dBUDl5QnBKNXlXWkZzWS1OWVpnbXdnWEdMSEEzRHhTYTNHajJBRnkxZkhuZzByVWZmZE9VOVZhZFY1c0t4WTZhOWtUbl9BemU0ZnFabTJJMDlpcEhRYVUtdFFkTnREVEY0ejB6Z2F0RFM5ZjJQVkVRZFpDMjBiT3BlOEhpQjVVcUtxQUlsSDVFa0ZVbFNqSnfSAbMBQVVfeXFMTS1lRWg3MVBMdzQ4NE45UElNTVMxNWNiZmxQMzR4WlVOSEFnQTRlTV9zTHh5czRJTnZBZzRpQWRRNWNtaWMzVHNrb2stY05EbUtDWlVjSlBSQkNna3p6M1ZYQ0wyOWtfbWJvbk43SzJBLXlXblIwbGUyRVFCbTUzMWc4dGRTREhHWFk1S1k3Z0NrMGxRckxrSl90Q1piNEtpRGZOaHY2bmdSRmcwSjRIOEVReTQ?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Tue, 07 Jul 2026 01:48:51 GMT",
-      "location": "World",
+      "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-07-07T07:36:33.512378"
+      "fetched_at": "2026-07-07T10:54:15.335799"
     },
     {
       "id": "83082f7f2433",
@@ -780,19 +1260,7 @@
       "published": "Tue, 07 Jul 2026 01:48:42 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973599"
-    },
-    {
-      "id": "bed87dca8d79",
-      "title": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines - CNBC",
-      "description": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines&nbsp;&nbsp;CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSDh5cHlZblZJMHg5dEdnLXd2OFlVeWNhckJ5WVo2aGlBeEN4Q1hLamw0a2dVWkRqV19LTGdEV2pLemdUdG5qeEFQLVVXM2N2VHdKcWxQNVp1a3JORTRxanRqdFZkZlN0ZC1vWFB2VF9ndzQ3Vnlndk1fQUxGUms2SEpVM0pjc1ZVVE9fddIBkgFBVV95cUxNQlFHX1QxNG5wOXdLMmhTZnNQTXFGdzNiRGdtTkVITVFyMXhETjIxeHBXQmt0YUV2VE43LUFGV0pObmRNSU5GMEc3Q2dEa3BmVUs3NjZwczlsTGtXb1lySk5uY2l1VDdIeDN3cE5OV28wMVVwUnNzS1I3QWRVMHVUWUZZWC1CVWlyX2xJbmVZYmc4QQ?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 01:43:00 GMT",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713338"
+      "fetched_at": "2026-07-07T10:54:14.299840"
     },
     {
       "id": "af7a73acb268",
@@ -804,7 +1272,7 @@
       "published": "Tue, 07 Jul 2026 01:40:45 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170411"
+      "fetched_at": "2026-07-07T10:54:14.718848"
     },
     {
       "id": "1f2bd223b73c",
@@ -816,7 +1284,7 @@
       "published": "Tue, 07 Jul 2026 01:39:51 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-07-07T07:36:32.663941"
+      "fetched_at": "2026-07-07T10:54:14.856416"
     },
     {
       "id": "95bfa26b18e3",
@@ -828,19 +1296,7 @@
       "published": "Tue, 07 Jul 2026 01:31:47 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973621"
-    },
-    {
-      "id": "0ae90b37d366",
-      "title": "Renata Ford, wife of the late Rob Ford, dies",
-      "description": "Renata Ford, the wife of the late Rob Ford and sister-in-law of Premier Doug Ford, has died. She is survived by her two children, Stephanie and Douglas. Her cause of death has not been released. The premier confirmed the news in a statement, saying, &#8220;My heart breaks for Stephanie and Dougie. T",
-      "url": "https://toronto.citynews.ca/2026/07/06/renata-ford-wife-of-the-late-rob-ford-dies/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 01:24:36 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422596"
+      "fetched_at": "2026-07-07T10:54:14.299856"
     },
     {
       "id": "88e8600ac22a",
@@ -852,7 +1308,7 @@
       "published": "Tue, 07 Jul 2026 01:15:14 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973643"
+      "fetched_at": "2026-07-07T10:54:14.299871"
     },
     {
       "id": "b79fb7c7a9d6",
@@ -864,7 +1320,7 @@
       "published": "Tue, 07 Jul 2026 01:12:44 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973665"
+      "fetched_at": "2026-07-07T10:54:14.299886"
     },
     {
       "id": "0966f14c35ab",
@@ -876,7 +1332,7 @@
       "published": "Tue, 07 Jul 2026 00:52:10 +0000",
       "location": "Vancouver",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973682"
+      "fetched_at": "2026-07-07T10:54:14.299899"
     },
     {
       "id": "f64b8ff8f456",
@@ -888,7 +1344,7 @@
       "published": "Tue, 07 Jul 2026 00:52:08 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634644"
+      "fetched_at": "2026-07-07T10:54:16.342767"
     },
     {
       "id": "4df617c27620",
@@ -900,7 +1356,7 @@
       "published": "Tue, 07 Jul 2026 00:47:33 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069462"
+      "fetched_at": "2026-07-07T10:54:14.338662"
     },
     {
       "id": "8d0ed89830fe",
@@ -908,23 +1364,11 @@
       "description": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
       "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91be/live/fc88efc0-7985-11f1-9510-1546718f668b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2b/live/641db2f0-79dc-11f1-a627-714adb4eed6e.jpg",
       "published": "Tue, 07 Jul 2026 00:46:03 GMT",
       "location": "Vancouver",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.605518"
-    },
-    {
-      "id": "8bc7634895c3",
-      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei - BBC",
-      "description": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei&nbsp;&nbsp;BBCIran war live: Khamenei’s funeral under way in Qom; ship attacked in Hormuz&nbsp;&nbsp;Al JazeeraIranian mourners call for revenge on Trump during Khamenei funeral procession&nbsp;&nbsp;The Globe and M",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMnp1VXVZQjRoTHNLMkNQS3BRRWJlbnNaRkRxbEd1dnhkNWtGdGYxbDRfUUNjX1BDUVptek40cWdsX3RNc09KSkRQTk1sQ0dOTjlhZXZaWVZGQQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 00:46:03 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.902854"
+      "fetched_at": "2026-07-07T10:54:15.011327"
     },
     {
       "id": "3721c00f0814",
@@ -936,7 +1380,7 @@
       "published": "Tue, 07 Jul 2026 00:46:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634677"
+      "fetched_at": "2026-07-07T10:54:16.342791"
     },
     {
       "id": "a3a104b104d3",
@@ -948,7 +1392,7 @@
       "published": "Tue, 07 Jul 2026 00:36:16 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.073017"
+      "fetched_at": "2026-07-07T10:54:14.759834"
     },
     {
       "id": "ee19143d043b",
@@ -960,7 +1404,7 @@
       "published": "Tue, 07 Jul 2026 00:26:10 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081331"
+      "fetched_at": "2026-07-07T10:54:15.841838"
     },
     {
       "id": "65d4b077b753",
@@ -972,7 +1416,7 @@
       "published": "Tue, 07 Jul 2026 00:16:10 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.073037"
+      "fetched_at": "2026-07-07T10:54:14.759850"
     },
     {
       "id": "fd21e7f81c64",
@@ -980,23 +1424,11 @@
       "description": "Housing agency head says a market imbalance has created an oversupply in some sectors, such as the nearly collapsed condo market in Toronto and Vancouver",
       "url": "https://www.theglobeandmail.com/business/article-housing-supply-crisis-cmhc-ceo-coleen-volk/",
       "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/ABGZVNUYDNGKDITZSUI3B5K7II.jpg?auth=dc8f3fff6d44338a046630a5ec76ac79561b5c2eeae9732cbb134dcad50763c2&smart=true&width=4600&height=3068",
+      "image": "https://www.theglobeandmail.com/resizer/v2/QTOXKXS66ZHOZIII3XGQYQHJAQ.jpg?auth=2b74055e53154c2abe6ce14cb79be971e5da32d373d56b6ecb0b05d5355e8cea&smart=true&width=6500&height=4305",
       "published": "Tue, 07 Jul 2026 00:08:43 +0000",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.072917"
-    },
-    {
-      "id": "03b504201a73",
-      "title": "Platner reflecting on Maine Senate bid after new sexual assault allegation",
-      "description": "The state's democratic party called on the 41-year-old oysterman to step aside, while several democrats from other states withdrew their support",
-      "url": "https://nationalpost.com/news/platner-reflecting-on-maine-senate-bid-after-new-sexual-assault-allegation",
-      "source": "National Post",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 00:08:27 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170467"
+      "fetched_at": "2026-07-07T10:54:14.759746"
     },
     {
       "id": "0090bfaff4d0",
@@ -1008,7 +1440,7 @@
       "published": "Tue, 07 Jul 2026 00:01:49 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973702"
+      "fetched_at": "2026-07-07T10:54:14.299913"
     },
     {
       "id": "ff7900fbde0d",
@@ -1020,7 +1452,7 @@
       "published": "Tue, 07 Jul 2026 00:00:05 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973719"
+      "fetched_at": "2026-07-07T10:54:14.299926"
     },
     {
       "id": "a2b7282df523",
@@ -1032,7 +1464,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.042271"
+      "fetched_at": "2026-07-07T10:54:15.180241"
     },
     {
       "id": "a3777a8bac7b",
@@ -1044,19 +1476,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.042117"
-    },
-    {
-      "id": "850b5db69400",
-      "title": "Quantum tech firm BTQ to acquire France’s QPerfect",
-      "description": "Vancouver-based BTQ will pay just over $30 million CAD for the French quantum firm. The post Quantum tech firm BTQ to acquire France’s QPerfect first appeared on BetaKit.",
-      "url": "https://betakit.com/quantum-tech-firm-btq-to-acquire-frances-qperfect/",
-      "source": "BetaKit",
-      "image": "https://cdn.betakit.com/wp-content/uploads/2024/02/40645906341_d6c6f6d003_k-150x150.jpg",
-      "published": "Thu, 02 Jul 2026 21:07:51 +0000",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.423616"
+      "fetched_at": "2026-07-07T10:54:15.180106"
     },
     {
       "id": "e1967668eecc",
@@ -1068,7 +1488,7 @@
       "published": "Thu, 02 Jul 2026 11:00:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.156304"
+      "fetched_at": "2026-07-07T10:54:16.098227"
     },
     {
       "id": "48332101e695",
@@ -1080,7 +1500,7 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.042182"
+      "fetched_at": "2026-07-07T10:54:15.180176"
     },
     {
       "id": "f8dd2e8a8a40",
@@ -1092,19 +1512,7 @@
       "published": "Sun, 05 Jul 2026 22:59:38 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:31.955131"
-    },
-    {
-      "id": "96811a52bf2f",
-      "title": "England sees off an immense challenge from Mexico in what may be the best game of the 2026 World Cup - CNN",
-      "description": "England sees off an immense challenge from Mexico in what may be the best game of the 2026 World Cup&nbsp;&nbsp;CNNTuchel claims World Cup refereeing ‘not good enough’ but says England have belief to go all the way&nbsp;&nbsp;The GuardianWorld Cup 2026 tactics: How England beat Mexico in five mini g",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jUTU5YWthQjFvZmhxYnF2Rk43V3JiWHdDYUtZZUR2YzltR1Z5SjktbUEtUkFMWHhMaC1sZGUyYV9nX2dvc3llSzUyVnJwTkhuUGY1cG1JVnc3NDhWRFZ4dTVna3BOcklobEhfZFRfNDFqQzA?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sun, 05 Jul 2026 22:04:46 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.903035"
+      "fetched_at": "2026-07-07T10:54:14.275969"
     },
     {
       "id": "8f23a2f4d4cc",
@@ -1116,19 +1524,7 @@
       "published": "Sun, 05 Jul 2026 21:50:42 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.219609"
-    },
-    {
-      "id": "80916cd1c112",
-      "title": "Super Typhoon Bavi slams islands with 285 km/h winds - The Weather Network",
-      "description": "Super Typhoon Bavi slams islands with 285 km/h winds&nbsp;&nbsp;The Weather NetworkSuper typhoon smacks into US Pacific island territories home to key military bases&nbsp;&nbsp;CNNSuper Typhoon Bavi is one of Earth’s strongest storms in 2026&nbsp;&nbsp;The Weather NetworkEvacuations ordered in prepa",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2tFY0t1cGpBcHJkWi1jd1VNNzlrSTJYOWF3TVY4dGNXa2ZsTXozT1ZjQWtocTFISEhrTEtTSTktVTQycUVlY1lLUEdvQW4wNDZISk5FRWtoTkxXTXpCUVJYRHVNNWVLQ01oZFhfSDhOcUhTUHptalFXVVROeEtWdUR1eTFYeVI3c1VtQ1Q1N0QzaTZ0UjdvellhZjZFQ1BpQ0MwaTI3YU4?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sun, 05 Jul 2026 20:18:00 GMT",
-      "location": "Halifax",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.903230"
+      "fetched_at": "2026-07-07T10:54:15.220824"
     },
     {
       "id": "cd9d7165aff5",
@@ -1140,7 +1536,7 @@
       "published": "Sun, 05 Jul 2026 19:54:38 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.219655"
+      "fetched_at": "2026-07-07T10:54:15.220861"
     },
     {
       "id": "610bf5566f4c",
@@ -1152,7 +1548,7 @@
       "published": "Sun, 05 Jul 2026 15:44:21 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:31.955151"
+      "fetched_at": "2026-07-07T10:54:14.275985"
     },
     {
       "id": "c7a5184e4cce",
@@ -1164,31 +1560,7 @@
       "published": "Sun, 05 Jul 2026 13:23:15 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:31.955179"
-    },
-    {
-      "id": "0896d10c5172",
-      "title": "'He is fortunate to be alive': Inuk man who nearly bludgeoned uncle to death gets 33 months",
-      "description": "Sajuilie Assapa suffered a 'moderate traumatic brain injury, along with multiple facial and skull fractures' after Timothy Assapa, his nephew, attacked him with a metal bar",
-      "url": "https://nationalpost.com/news/canada/crime-quebec-inuk-man",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/04/courthouse-1.jpg",
-      "published": "Sun, 05 Jul 2026 13:21:11 +0000",
-      "location": "World",
-      "category": "politics",
-      "fetched_at": "2026-07-07T07:36:32.363698"
-    },
-    {
-      "id": "cc7fad2cea0c",
-      "title": "Canada is 13th wealthiest nation in the world, according to annual global wealth rankings",
-      "description": "The share of Canada’s adult population with assets above US$100,000 sits at about 55 per cent",
-      "url": "https://nationalpost.com/news/canada/canada-is-13th-wealthiest-nation-in-the-world-according-to-annual-global-wealth-rankings",
-      "source": "National Post Politics",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/05/1213-biz-sl-wealth_289607676.jpg",
-      "published": "Sun, 05 Jul 2026 11:00:20 +0000",
-      "location": "Canada",
-      "category": "politics",
-      "fetched_at": "2026-07-07T07:36:32.363648"
+      "fetched_at": "2026-07-07T10:54:14.276005"
     },
     {
       "id": "866374ef7fc8",
@@ -1200,7 +1572,7 @@
       "published": "Sun, 05 Jul 2026 11:00:12 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.156123"
+      "fetched_at": "2026-07-07T10:54:16.098118"
     },
     {
       "id": "2b0fe167d837",
@@ -1212,7 +1584,7 @@
       "published": "Sun, 05 Jul 2026 00:10:58 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-07-07T07:36:32.663761"
+      "fetched_at": "2026-07-07T10:54:14.856289"
     },
     {
       "id": "e3c84ba95e9f",
@@ -1224,7 +1596,7 @@
       "published": "Sun, 05 Jul 2026 00:03:07 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-07-07T07:36:32.663806"
+      "fetched_at": "2026-07-07T10:54:14.856321"
     },
     {
       "id": "7aaf83fd2189",
@@ -1236,7 +1608,7 @@
       "published": "Sat, 04 Jul 2026 23:39:18 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-07-07T07:36:32.663841"
+      "fetched_at": "2026-07-07T10:54:14.856347"
     },
     {
       "id": "0a804d931ff0",
@@ -1248,7 +1620,7 @@
       "published": "Sat, 04 Jul 2026 20:32:52 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.219218"
+      "fetched_at": "2026-07-07T10:54:15.220571"
     },
     {
       "id": "83d80dd4ab91",
@@ -1260,7 +1632,7 @@
       "published": "Sat, 04 Jul 2026 18:08:50 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:31.955200"
+      "fetched_at": "2026-07-07T10:54:14.276021"
     },
     {
       "id": "ea12998b5d22",
@@ -1272,7 +1644,7 @@
       "published": "Sat, 04 Jul 2026 15:14:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.219305"
+      "fetched_at": "2026-07-07T10:54:15.220620"
     },
     {
       "id": "9e6cf8fda0db",
@@ -1284,7 +1656,7 @@
       "published": "Sat, 04 Jul 2026 11:00:33 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.156158"
+      "fetched_at": "2026-07-07T10:54:16.098143"
     },
     {
       "id": "abe79bf71987",
@@ -1296,7 +1668,7 @@
       "published": "Sat, 04 Jul 2026 11:00:23 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.156196"
+      "fetched_at": "2026-07-07T10:54:16.098171"
     },
     {
       "id": "ec0885fc6867",
@@ -1308,7 +1680,7 @@
       "published": "Sat, 04 Jul 2026 08:00:08 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.219361"
+      "fetched_at": "2026-07-07T10:54:15.220661"
     },
     {
       "id": "c93472d9f5b5",
@@ -1320,7 +1692,7 @@
       "published": "Sat, 04 Jul 2026 05:30:33 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-07-07T07:36:32.663877"
+      "fetched_at": "2026-07-07T10:54:14.856371"
     },
     {
       "id": "39bf26bf3b63",
@@ -1332,7 +1704,7 @@
       "published": "Mon, 29 Jun 2026 11:00:54 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.156446"
+      "fetched_at": "2026-07-07T10:54:16.098329"
     },
     {
       "id": "b650d7229c46",
@@ -1344,19 +1716,7 @@
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.042139"
-    },
-    {
-      "id": "74c0670d6cb6",
-      "title": "Trump says Walmart, at his request, is lowering some prices to celebrate U.S. semiquincentennial",
-      "description": "The retailer said it was cutting prices for corn, cherries, ground beef and products made by Coca-Cola Co. and PepsiCo.",
-      "url": "https://nationalpost.com/news/world/trump-says-walmart-at-his-request-is-lowering-some-prices-to-celebrate-u-s-semiquincentennial",
-      "source": "National Post",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 23:57:49 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170514"
+      "fetched_at": "2026-07-07T10:54:15.180130"
     },
     {
       "id": "bd206ca68985",
@@ -1368,7 +1728,7 @@
       "published": "Mon, 06 Jul 2026 23:56:14 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069516"
+      "fetched_at": "2026-07-07T10:54:14.338707"
     },
     {
       "id": "5579b5d63a56",
@@ -1380,19 +1740,7 @@
       "published": "Mon, 06 Jul 2026 23:55:53 GMT",
       "location": "Vancouver",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.605498"
-    },
-    {
-      "id": "cc7a10e0bfe2",
-      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC - BBC",
-      "description": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC&nbsp;&nbsp;BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43RnE2OExHeDQ3QlVJa2VPZXBla0NBYUppT29TNGx5S25sSVdZc3pWeGp4ejdOaUUyN3U0UzJLeVFjMFVmejVHQzV1ZEZtZDZmelJSTFg5d3hidw?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 23:55:53 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.903156"
+      "fetched_at": "2026-07-07T10:54:15.011262"
     },
     {
       "id": "9cbbee072279",
@@ -1404,19 +1752,7 @@
       "published": "Mon, 06 Jul 2026 23:52:27 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081363"
-    },
-    {
-      "id": "5310797aac2f",
-      "title": "5 key takeaways from Canada choosing Germany's submarine bid - CBC",
-      "description": "5 key takeaways from Canada choosing Germany's submarine bid&nbsp;&nbsp;CBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZHJsU21BZ2plVUZsVFJtNnFCM1ZCWTlCa2JaN01Va0dIWkwzR29nZ0dHRGJWR25MdDdNNU50ODk4SEZVSXIyc3JCRzRKUjhhbl8tYnF4bE5ySFQ5VGFic1BRR2JDNG9jRXZSanpLUnRyRnVnc0ZWQ0hwNmlEZWdwRWtwWUlISWNiR0JKOTVjSQ?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 23:47:08 GMT",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713156"
+      "fetched_at": "2026-07-07T10:54:15.841871"
     },
     {
       "id": "76137297be33",
@@ -1428,7 +1764,7 @@
       "published": "Mon, 06 Jul 2026 23:46:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081393"
+      "fetched_at": "2026-07-07T10:54:15.841902"
     },
     {
       "id": "6ae0f0111760",
@@ -1440,43 +1776,7 @@
       "published": "Mon, 06 Jul 2026 23:42:24 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.073077"
-    },
-    {
-      "id": "10fcd814651c",
-      "title": "City of Calgary has received 70 noise complaints so far during 2026 Stampede",
-      "description": "Last year, the city said it received 225 noise complaints during the entire Stampede, with Cowboys Music Festival being the subject of 125 of those complaints.",
-      "url": "https://globalnews.ca/news/11955800/noise-complaints-so-far-2026-calgary-stampede/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/06/calgary-stampede-concert.jpg?quality=65&strip=all",
-      "published": "Mon, 06 Jul 2026 23:40:40 +0000",
-      "location": "Calgary",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973737"
-    },
-    {
-      "id": "0411b4019d91",
-      "title": "Erika Kirk attends hearing for husband Charlie Kirk’s alleged killer",
-      "description": "Tyler Robinson has not yet indicated whether he intends to plead guilty or not to killing the 31-year-old Christian nationalist at a Utah campus event last year",
-      "url": "https://nationalpost.com/news/erika-kirk-charlie-kirk-accused-killer-hearing",
-      "source": "National Post",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 23:39:59 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170566"
-    },
-    {
-      "id": "fdd6de871bdc",
-      "title": "Suspicious death in Edmonton leads to homicide investigation",
-      "description": "A suspicious death that occurred Saturday morning has become a homicide investigation. Police are asking the public for any video footage of the area.",
-      "url": "https://globalnews.ca/news/11953350/suspicious-death-in-edmonton-leads-to-homicide-investigation/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/07/106-ave-suspicious-death.jpg?quality=65&strip=all",
-      "published": "Mon, 06 Jul 2026 23:39:09 +0000",
-      "location": "Edmonton",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:31.973755"
+      "fetched_at": "2026-07-07T10:54:14.759880"
     },
     {
       "id": "0bb59b30e86a",
@@ -1488,19 +1788,7 @@
       "published": "Mon, 06 Jul 2026 23:33:46 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081417"
-    },
-    {
-      "id": "cea5a1fd547c",
-      "title": "Canada Day 2026 in Enderby – Thank You! - City of Enderby",
-      "description": "Canada Day 2026 in Enderby – Thank You!&nbsp;&nbsp;City of Enderby",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sYlZNMVdWOE5kdG8zZjNEM01ZTTRnWHAyZ0liYWthTUJGbnNiTmx1c3Z2RXBfaENfRkFxTXhzMGZoX0lZNGVvd3M5TkxBZS1aOUxrX0IwT3ZkY2JHX3RaMkQzTWRxaGVUSWp4dmhsbWswYjJ4Vnc?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 23:30:43 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713275"
+      "fetched_at": "2026-07-07T10:54:15.841928"
     },
     {
       "id": "d4e9be0269bb",
@@ -1512,7 +1800,7 @@
       "published": "Mon, 06 Jul 2026 23:21:03 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069551"
+      "fetched_at": "2026-07-07T10:54:14.338739"
     },
     {
       "id": "1f885af1a376",
@@ -1524,7 +1812,7 @@
       "published": "Mon, 06 Jul 2026 23:10:05 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-07-07T07:36:32.135278"
+      "fetched_at": "2026-07-07T10:54:14.326000"
     },
     {
       "id": "a084d47a36b7",
@@ -1536,7 +1824,7 @@
       "published": "Mon, 06 Jul 2026 23:04:47 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302107"
+      "fetched_at": "2026-07-07T10:54:16.267063"
     },
     {
       "id": "b3f8762dcc2c",
@@ -1548,7 +1836,7 @@
       "published": "Mon, 06 Jul 2026 23:04:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.100664"
+      "fetched_at": "2026-07-07T10:54:16.145827"
     },
     {
       "id": "f39b7fab40bf",
@@ -1560,7 +1848,7 @@
       "published": "Mon, 06 Jul 2026 23:00:34 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081448"
+      "fetched_at": "2026-07-07T10:54:15.841966"
     },
     {
       "id": "f4bc117ef816",
@@ -1572,19 +1860,19 @@
       "published": "Mon, 06 Jul 2026 23:00:03 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081474"
+      "fetched_at": "2026-07-07T10:54:15.841997"
     },
     {
       "id": "b4085f294064",
       "title": "Rogers to become sole owner of MLSE as Tanenbaum sells remaining stake for $4.35B - CBC",
-      "description": "Rogers to become sole owner of MLSE as Tanenbaum sells remaining stake for $4.35B&nbsp;&nbsp;CBCRogers Communications buying remaining stake in MLSE for $4.35B&nbsp;&nbsp;Sportsnet.caRogers to become 100 percent owner of Maple Leafs Sports & Entertainment&nbsp;&nbsp;Daily FaceoffOpinion: Rogers has ",
+      "description": "Rogers to become sole owner of MLSE as Tanenbaum sells remaining stake for $4.35B&nbsp;&nbsp;CBCRogers Communications buying remaining stake in MLSE for $4.35B&nbsp;&nbsp;Sportsnet.caRogers’ MLSE play the latest in shift for Canadian sports landscape, experts say&nbsp;&nbsp;Toronto StarRogers to bec",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BUXVaU3l3UU1tTG1TdExTVWNiYTNNVk5Gcm02Vy1GSDIyS3U0MnJJVmlacGZacUo4WjhaNjFWbGdzUk4yY3ZPcmlKNVN4aGFVczVMdDFkNnBGSGdNemlndzREekl4SUgyQ1pwaG53?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 06 Jul 2026 22:37:04 GMT",
-      "location": "Vancouver",
+      "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:33.586876"
+      "fetched_at": "2026-07-07T10:54:15.506285"
     },
     {
       "id": "bfd9263372d8",
@@ -1596,7 +1884,7 @@
       "published": "Mon, 06 Jul 2026 22:31:20 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-07-07T07:36:32.135331"
+      "fetched_at": "2026-07-07T10:54:14.326039"
     },
     {
       "id": "90b02d62d42a",
@@ -1608,7 +1896,7 @@
       "published": "Mon, 06 Jul 2026 22:30:27 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874537"
+      "fetched_at": "2026-07-07T10:54:16.179343"
     },
     {
       "id": "cb07006ba775",
@@ -1620,31 +1908,19 @@
       "published": "Mon, 06 Jul 2026 22:30:27 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.066000"
-    },
-    {
-      "id": "9b2ef0228c15",
-      "title": "John Ivison: Expensive submarines are the cost to redeem years of Liberal defence complacency",
-      "description": "It would have been unthinkable for the government to commit this easily to the largest procurement in Canadian history just two years ago",
-      "url": "https://nationalpost.com/opinion/john-ivison-expensive-submarines-are-the-cost-to-redeem-years-of-liberal-defence-complacency",
-      "source": "National Post",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 22:29:06 +0000",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170611"
+      "fetched_at": "2026-07-07T10:54:16.532267"
     },
     {
       "id": "1397715a21d7",
       "title": "'This might be the tensest summit yet': Carney to meet NATO allies amid Trump threats - National Post",
-      "description": "'This might be the tensest summit yet': Carney to meet NATO allies amid Trump threats&nbsp;&nbsp;National Post‘Cost of drama is too high’: NATO leaders meet in Turkey for annual summit&nbsp;&nbsp;Toronto Star‘Managing Trump’: Carney to travel to Turkey for NATO summit&nbsp;&nbsp;CTV NewsCarney to sp",
+      "description": "'This might be the tensest summit yet': Carney to meet NATO allies amid Trump threats&nbsp;&nbsp;National PostJoint Statement on the Launch of FTA Negotiations between Canada and Türkiye&nbsp;&nbsp;pm.gc.caCarney meets with allied nations in Turkiye on margins of NATO summit&nbsp;&nbsp;CTV NewsCarne",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcW1EaXdweFNrNFF5a2JlME5NLUJobUo3MXNVSWtBTTFpUkx4NFZfdjNZVXU5cnhwb3F6YXQ1cjlJbE1tTXZuUG5VY2Z6aWRkNGlnUGhKNXJSLVgzcWxLeVh1cHg4Z1YxNDBQME16TUs1T3I1M2NwQy01cDZIbFFtcUxCRU4tVlk?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 06 Jul 2026 22:28:45 GMT",
       "location": "Toronto",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.902912"
+      "fetched_at": "2026-07-07T10:54:15.584599"
     },
     {
       "id": "b3d2f7fa84a3",
@@ -1656,7 +1932,7 @@
       "published": "Mon, 06 Jul 2026 22:26:36 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713129"
+      "fetched_at": "2026-07-07T10:54:15.643162"
     },
     {
       "id": "57957eed06cc",
@@ -1668,7 +1944,7 @@
       "published": "Mon, 06 Jul 2026 22:24:29 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302139"
+      "fetched_at": "2026-07-07T10:54:16.267087"
     },
     {
       "id": "707ccd0f58a6",
@@ -1680,7 +1956,7 @@
       "published": "Mon, 06 Jul 2026 22:24:19 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081500"
+      "fetched_at": "2026-07-07T10:54:15.842026"
     },
     {
       "id": "b92bb62f03fc",
@@ -1692,7 +1968,19 @@
       "published": "Mon, 06 Jul 2026 22:16:31 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634708"
+      "fetched_at": "2026-07-07T10:54:16.342814"
+    },
+    {
+      "id": "e210474b3006",
+      "title": "Spain advances to quarterfinals in Portugal star Ronaldo's potential final World Cup game - CBC",
+      "description": "Spain advances to quarterfinals in Portugal star Ronaldo's potential final World Cup game&nbsp;&nbsp;CBCCristiano Ronaldo was indulged at this World Cup and Portugal paid the price - The Athletic&nbsp;&nbsp;The New York TimesCristiano Ronaldo bids adieu to World Cup with ‘clear conscience’&nbsp;&nbs",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbENiRWtVb2xDMlNuS09aWUZMYkg1R094SG42aDFkUVFkSWZxdHRnTFZuNm9yajZKX1psd0ZZb2RuWEdUM3pUUzhSRjBFVXhkQnN1WGJCVVBqaUVvSlY2dExlc2U2dzhHLXZOeGFlOTZqMjdRVXBMSGlBUGMwWWp0aUN6TkpPZm1DRGxORkN0b09PUQ?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 22:12:49 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-07-07T10:54:15.335989"
     },
     {
       "id": "61642b345487",
@@ -1704,7 +1992,7 @@
       "published": "Mon, 06 Jul 2026 22:07:28 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874575"
+      "fetched_at": "2026-07-07T10:54:16.179370"
     },
     {
       "id": "1848685eaedd",
@@ -1716,7 +2004,19 @@
       "published": "Mon, 06 Jul 2026 22:07:28 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.066043"
+      "fetched_at": "2026-07-07T10:54:16.532299"
+    },
+    {
+      "id": "dbd54ebe602e",
+      "title": "A toddler was found in a pool and declared dead. He's alive and his parents could be charged - CTV News",
+      "description": "A toddler was found in a pool and declared dead. He's alive and his parents could be charged&nbsp;&nbsp;CTV NewsArizona toddler declared dead was found alive in the morgue&nbsp;&nbsp;NBC NewsArizona toddler found alive in morgue after doctor pronounced him dead&nbsp;&nbsp;The IndependentToddler Was ",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWktsUlZUVDR1SnpSd3RFMjBsUXNnQ24tZEUzdnNWcFN0OWhPbjZqcnRzMGlRMGphWWVXRUdUdnRMVHVOaUNXS090VEVkSklPZmRBVzhheDNoUmNFZDZWMEdHOW83NXpfaDl2eU1JSWJXbEV6c0dlbkM4R1puUEhZMEhHVGZ6ZnVYYjFCVHIxQU5KOUhDaEc3NlVRX3pXRTJwZll3eU5Ra1MtQ0dlemUzUUhhZ0EzT2tuR1RLcjVublpMWHp2d3NF?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 22:05:21 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:15.584407"
     },
     {
       "id": "5829e2db6500",
@@ -1728,31 +2028,19 @@
       "published": "Mon, 06 Jul 2026 21:58:56 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-07-07T07:36:32.135395"
+      "fetched_at": "2026-07-07T10:54:14.326070"
     },
     {
       "id": "9abe77689139",
-      "title": "Finance minister says big-ticket spending needed for ‘growth’ amid heightened debt worries",
+      "title": "Finance minister says big-ticket spending needed for 'growth' amid heightened debt worries",
       "description": "The finance minister also repeated his argument that Canada has the strongest G7 fiscal position, implying that more debt is affordable.",
       "url": "https://nationalpost.com/news/canada/champagne-ottawa-bigger-deficits-economic-growth",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/mg_8284.ph_304144132.jpg",
       "published": "Mon, 06 Jul 2026 21:57:52 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170661"
-    },
-    {
-      "id": "f8131a5c9fde",
-      "title": "Cristiano Ronaldo’s FIFA World Cup career ends as Portugal falls to Spain - TSN",
-      "description": "Cristiano Ronaldo’s FIFA World Cup career ends as Portugal falls to Spain&nbsp;&nbsp;TSNCristiano Ronaldo exits final World Cup with 'clear conscience'&nbsp;&nbsp;ESPN🗞️ World press hails the MERINAZO that sends Spain into the last eight&nbsp;&nbsp;Yahoo Sports CanadaTactical analysis: How Spain's m",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWFTMU5aQjBudldkblAwSmdiSEtYbS1xTlAzN204N1VvSzlnSFh6QlFNcm43SWxaNG95Z1VsazFDczktYkluRjVzZ1pSclJ6eFVSNEREcGRJOWhrdVJGNUN3Y2xHOUUwYzRuQWVBUlVKZ1FjVEhaRGdmT3VuN0N3alhTcWZtXzRXNVJIQnR2UXJuM0xlb1BROHZldDN3Y2N5N0xIekozbXVaSUZSZVE?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 21:55:53 GMT",
-      "location": "Canada",
-      "category": "sports",
-      "fetched_at": "2026-07-07T07:36:33.512206"
+      "category": "politics",
+      "fetched_at": "2026-07-07T10:54:14.962848"
     },
     {
       "id": "a42c8fa4f962",
@@ -1764,91 +2052,19 @@
       "published": "Mon, 06 Jul 2026 21:52:13 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634739"
-    },
-    {
-      "id": "db08cb280c02",
-      "title": "Afternoon front page: Canada banks on Germany for new subs; Ford and Smith’s pipeline pact; and more",
-      "description": "Catch up on the stories we're following today",
-      "url": "https://nationalpost.com/editors/afternoon-front-page-canada-submarines-ford-and-smiths-pipeline-pact-and-more",
-      "source": "National Post",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 21:51:57 +0000",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170714"
-    },
-    {
-      "id": "959ec8fdba86",
-      "title": "Spain knocks off Portugal with late winner, advances to World Cup quarterfinals",
-      "description": "Mikel Merino scored in the first minute of second-half stoppage time, and Spain beat Portugal 1-0 on Monday to end the&#160;World Cup&#160;career of superstar Cristiano Ronaldo. Merino had just been knocked down, and a foul was called. While a Portugal player argued, Merino played the ball back in, ",
-      "url": "https://toronto.citynews.ca/2026/07/06/spain-knocks-off-portugal-with-late-winner-advances-to-world-cup-quarterfinals/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 21:50:24 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422631"
+      "fetched_at": "2026-07-07T10:54:16.342838"
     },
     {
       "id": "bc312f8582b2",
       "title": "Nemec signs 5-year, $36.25 million contract with Flames - NHL.com",
-      "description": "Nemec signs 5-year, $36.25 million contract with Flames&nbsp;&nbsp;NHL.comFlames sign Simon Nemec to 5-year, $36.25M deal&nbsp;&nbsp;ESPNCalgary Flames sign Simon Nemec to five-year deal&nbsp;&nbsp;Calgary HeraldFlames sign defenseman Šimon Nemec to 5-year, $7.25 million AAV contract&nbsp;&nbsp;The ",
+      "description": "Nemec signs 5-year, $36.25 million contract with Flames&nbsp;&nbsp;NHL.comFlames sign Simon Nemec to five-year, $36.25M contract&nbsp;&nbsp;Sportsnet.caCalgary Flames sign Simon Nemec to five-year deal&nbsp;&nbsp;Calgary HeraldFlames sign defenseman Šimon Nemec to 5-year, $7.25 million AAV contract&",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU21zbzhnUy1zZmhrbjZoYTVXTm9FTkp4ODBGXzVHRWFZcE5lVjdhSnROR3V4Y0lZUkZmT0VpbkRiWXZvSEc3b0ZrOW1TS1VOV2tmeUJEckp4cVNDejQyNnlKZndodDNJSXk1Yjgxam81cnZJRXEyWTdxSjZrNWFsQzVlRC0?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 06 Jul 2026 21:44:36 GMT",
       "location": "Calgary",
       "category": "sports",
-      "fetched_at": "2026-07-07T07:36:33.512439"
-    },
-    {
-      "id": "80ec07838ae8",
-      "title": "Equinor to acquire BP’s stake in Bay du Nord offshore oil project - The Globe and Mail",
-      "description": "Equinor to acquire BP’s stake in Bay du Nord offshore oil project&nbsp;&nbsp;The Globe and MailBP sells interest in Bay du Nord offshore project to Equinor&nbsp;&nbsp;CBCBP to Sell Bay du Nord Stake to Equinor in Canada Portfolio Shake-Up&nbsp;&nbsp;Yahoo! Finance CanadaEquinor Becomes Sole Owner of",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQm5SNnBRVDlRbDQzSGdfTFAzb0wxZkVxZjlNLWYtWVU5cFJjb3hNTzF6WkduYkRsSzBxS2YtVDRJOTE0dmM3dDVscXZJQnFzSlE1Tndza2dHNnpmZnJWOUdQS04wTXAxb2pUVjRMeU5qYl9tVktvX1J4dWNtWk9rYmR3NkM3RUVPc1drVm90SXJsUlFnNEI1dzh5eGlPMm52cDM3WFdjMHBlcG8?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 21:43:13 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:33.587412"
-    },
-    {
-      "id": "43f214d112b3",
-      "title": "Equinor to acquire BP’s stake in Bay du Nord offshore oil project",
-      "description": "Deal underscores company’s faith in project, Newfoundland Premier Tony Wakeham says",
-      "url": "https://www.theglobeandmail.com/business/article-equinor-acquire-bp-stake-bay-du-nord-offshore-oil-project/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/CGIEXOHN6JH4PBCFS227756O6A.JPG?auth=5393af388f3edb16577998537fde4abbe43570b5c0ab509316ea018ca4c968b8&smart=true&width=4200&height=2540",
-      "published": "Mon, 06 Jul 2026 21:43:13 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.073116"
-    },
-    {
-      "id": "3b38e659eea5",
-      "title": "Canada Rushes to Build Up Its Military as U.S. Relationship Frays - WSJ",
-      "description": "Canada Rushes to Build Up Its Military as U.S. Relationship Frays&nbsp;&nbsp;WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3FTd01veU50RkFkT2kzZG8xeDlWS2FyeUZkbjlSRjh3cTVGbktreVlGcHBiTlZfTXNDUTB4b3VhcEdrV1Q0OWp1aGJKVEhfdFlDaTQzRkl2Z01yR2FLVmNQbTkwdjgxQTFacEpqYzg2NXFHSUhqZFN6cG1lZE51eDVfby1iaDQtUGthSGVOaDNSb3JXLTJXdGE0QkJ0alRuZ01YUGh1TFAtNWJm?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 21:43:00 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713308"
-    },
-    {
-      "id": "cd8ae9e1f57c",
-      "title": "Compulsion Games and Double Fine confirm \"Independence Day\" from Xbox - GamesIndustry.biz",
-      "description": "Compulsion Games and Double Fine confirm \"Independence Day\" from Xbox&nbsp;&nbsp;GamesIndustry.bizSee more headlines & perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjRraUJMNzVXc0k2dkx5U2VHNEg5b1A4RGJyZ0FQY3AyU3lReGJaWjlJckdkN2dhN1R0NGdRdVBnR1NvYlE4NFI2SDFDek5BVEpqUVF2bU9IajBWUlNOaFh3aWZNazBfUS0xc3paSWpGWGtlTVA3RFR3OEJlZ0RNRHRzc0FNMnJkMkVIS0RWUGdWX09QYkxUNXNSdXRVdw?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 21:42:55 GMT",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-07-07T07:36:33.587353"
+      "fetched_at": "2026-07-07T10:54:15.335941"
     },
     {
       "id": "21780dad4190",
@@ -1860,19 +2076,7 @@
       "published": "Mon, 06 Jul 2026 21:36:35 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302172"
-    },
-    {
-      "id": "e7de2735f6c6",
-      "title": "Toronto parking enforcement officer struck by vehicle after issuing ticket",
-      "description": "Toronto police are looking for a driver who allegedly struck a parking enforcement officer on Monday after receiving a ticket. Investigators say they were called to the area of Queens Quay East and Richardson Street around 2:25 p.m. Monday. A parking enforcement officer had issued a ticket to a whit",
-      "url": "https://toronto.citynews.ca/2026/07/06/toronto-parking-enforcement-officer-struck-by-vehicle-after-issuing-ticket/",
-      "source": "CityNews Toronto",
-      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/07/06/eed0e023-3457-410d-bc88-f0795570b6fd.jpg",
-      "published": "Mon, 06 Jul 2026 21:31:32 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422658"
+      "fetched_at": "2026-07-07T10:54:16.267110"
     },
     {
       "id": "69803745d607",
@@ -1884,19 +2088,19 @@
       "published": "Mon, 06 Jul 2026 21:30:54 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874609"
+      "fetched_at": "2026-07-07T10:54:16.179395"
     },
     {
       "id": "cdb20c4c8a41",
-      "title": "A ‘quarter to a third’ of Smith’s caucus against pipeline deal with Ottawa, says former MLA",
+      "title": "A 'quarter to a third' of Smith's caucus against pipeline deal with Ottawa, says former MLA",
       "description": "Conservative activist and former UCP MLA Drew Barnes says that Premier Danielle Smith's caucus is far from united on the deal struck with Prime Minister Mark Carney for a new West Coast oil pipeline.",
       "url": "https://nationalpost.com/news/canada/a-quarter-to-a-third-of-smiths-caucus-against-pipeline-deal-with-ottawa-says-former-mla",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/westcoast-pipeline-mark-carney-and-danielle-smith-1.jpg",
       "published": "Mon, 06 Jul 2026 21:28:22 +0000",
       "location": "Ottawa",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170768"
+      "category": "politics",
+      "fetched_at": "2026-07-07T10:54:14.962882"
     },
     {
       "id": "86a0a528e0f3",
@@ -1908,7 +2112,19 @@
       "published": "Mon, 06 Jul 2026 21:21:14 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:31.954979"
+      "fetched_at": "2026-07-07T10:54:14.275856"
+    },
+    {
+      "id": "316325054499",
+      "title": "Legendary coach Bob Bowman hails pupil McIntosh's 'very important' 200m butterfly world record - CBC",
+      "description": "Legendary coach Bob Bowman hails pupil McIntosh's 'very important' 200m butterfly world record&nbsp;&nbsp;CBCSummer McIntosh erases the oldest women’s swimming world record&nbsp;&nbsp;olympic.ca'Scarily similar': Famed coach sees shades of Michael Phelps in Summer McIntosh&nbsp;&nbsp;Sportsnet.caSum",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVduV1VCYTNod1ZBMHpRUUpvZUpuV2VrQmhZbjRXOTQ4ai1RZm9hMHVmRWNXcTctNDJZSlQ1Q0kwOUY5QXJQWTNJdjhjYXRNU3hMNkJ6WGdFOTdMNF95RUtQc2dzUnp4Y0dOWXhSb0dHQms4V0ZTUUFFYmkyS2tCWGNZbEpNajhDV2xLUDV1bDhDMEpzYUFGUnRjbWxPQnRmVEYzQ2VlWC03Q00xNUlKVGhpTWV0cThVZXJfaE9B?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 21:14:00 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-07-07T10:54:15.336035"
     },
     {
       "id": "22a00df22214",
@@ -1920,7 +2136,7 @@
       "published": "Mon, 06 Jul 2026 21:13:34 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-07-07T07:36:33.512303"
+      "fetched_at": "2026-07-07T10:54:15.335841"
     },
     {
       "id": "70a90c96bed0",
@@ -1932,7 +2148,7 @@
       "published": "Mon, 06 Jul 2026 21:12:13 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634765"
+      "fetched_at": "2026-07-07T10:54:16.342858"
     },
     {
       "id": "315b0657a5c0",
@@ -1944,31 +2160,19 @@
       "published": "Mon, 06 Jul 2026 21:08:55 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.066084"
+      "fetched_at": "2026-07-07T10:54:16.532328"
     },
     {
-      "id": "e0fe86e33288",
-      "title": "Champagne defends fiscal track as defence, infrastructure spending ratchets up",
-      "description": "OTTAWA — Finance Minster François-Philippe Champagne says the Liberals are keeping federal finances under control even as key defence and infrastructure spending details remain under wraps. Champagne told reporters today that Ottawa has been &#8220;very transparent&#8221; with Canadians about the pa",
-      "url": "https://toronto.citynews.ca/2026/07/06/champagne-defends-fiscal-track-as-defence-infrastructure-spending-ratchets-up/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 21:08:04 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422698"
-    },
-    {
-      "id": "f61c08880167",
-      "title": "Wildfire in southern France forces some 10,000 people from their homes - CBC",
-      "description": "Wildfire in southern France forces some 10,000 people from their homes&nbsp;&nbsp;CBCWildfires in southern Europe wreak havoc – in pictures&nbsp;&nbsp;The GuardianWildfire in southern France forces evacuation of 10,000 people&nbsp;&nbsp;BBCThousands evacuated from homes in southwest France as wildfi",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Xek5BejNTUzBhOGVaRkJ2b2hBVV9aWTA3VURSN3pLdUxwb0ZoMWhqeWhFaXo3d3JtNmMxZGNEZ25kaUVPdWxkMHN4NklYdUNJbkFiWjl6aEFYQU9UckRDQ2RWTnMwZVZlNkNzb0JmMjJld3ZE?oc=5",
+      "id": "7f13e35ff724",
+      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye - Al Jazeera",
+      "description": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye&nbsp;&nbsp;Al JazeeraExplosions rock Damascus as French President Macron visits Syria&nbsp;&nbsp;CBCExplosions rock Damascus near hotel where French president was staying&nbsp;&nbsp;The GuardianMacron safe after explosions in Syrian c",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkZfRlFfbVNyb0VvNnFNUEJJVXBHYXpmallwTlNFRTFrWHR5OEFSR3FnY0J1em1UQXh4ek45LVRDQXZfMHA5c0xZaFVCV0NSMWt4WlVYaFVNbkhkQnJGM3ZtVnhfeG1TamxLVUEteVRtcHd4RThKZkpIdjM3eXlPWWZyVnB1R2tZYnhTUDFyb1RXU3hCRmlKWFVoODRZeWllZXJQQnJUREzSAa4BQVVfeXFMTVVqcEpxU2NndHNXSWJZNUIwSlZxTEZ1akdIUVZtWE00MkpDcUN4RzBjdWpwYzlCQjBBejA0ekhqQmdrSHdKQnlCVmNYMzh5aFZoTmd6U1VjbDNaVVJLcE84TG1ydk5OV282VHZkUmJoMDNEVXdiamo5OUxWWVdIRTRta3Q1RC1CRnFoODdyTzlOV2EyWDFDbmVpMEFRSTJYbFdaSnUwX2o5Zy11VDln?oc=5",
       "source": "Google News Tech",
       "image": "",
-      "published": "Mon, 06 Jul 2026 20:49:45 GMT",
+      "published": "Mon, 06 Jul 2026 20:51:45 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.903311"
+      "fetched_at": "2026-07-07T10:54:15.584361"
     },
     {
       "id": "9827b6a85985",
@@ -1980,7 +2184,7 @@
       "published": "Mon, 06 Jul 2026 20:44:59 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.419165"
+      "fetched_at": "2026-07-07T10:54:15.064023"
     },
     {
       "id": "b26b44069bb7",
@@ -1992,7 +2196,7 @@
       "published": "Mon, 06 Jul 2026 20:44:42 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.100709"
+      "fetched_at": "2026-07-07T10:54:16.145856"
     },
     {
       "id": "8a84cfc47e77",
@@ -2004,7 +2208,7 @@
       "published": "Mon, 06 Jul 2026 20:42:36 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:33.587313"
+      "fetched_at": "2026-07-07T10:54:15.506664"
     },
     {
       "id": "677b95314901",
@@ -2016,7 +2220,7 @@
       "published": "Mon, 06 Jul 2026 20:41:24 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2026-07-07T07:36:32.135449"
+      "fetched_at": "2026-07-07T10:54:14.326106"
     },
     {
       "id": "4f429788649e",
@@ -2028,7 +2232,7 @@
       "published": "Mon, 06 Jul 2026 20:41:20 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.100737"
+      "fetched_at": "2026-07-07T10:54:16.145874"
     },
     {
       "id": "722b885b0d6a",
@@ -2040,7 +2244,7 @@
       "published": "Mon, 06 Jul 2026 20:40:16 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874664"
+      "fetched_at": "2026-07-07T10:54:16.179419"
     },
     {
       "id": "e82591d0fb90",
@@ -2052,31 +2256,7 @@
       "published": "Mon, 06 Jul 2026 20:40:16 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.066123"
-    },
-    {
-      "id": "812a122e620b",
-      "title": "Man killed, another critically injured in Scarborough shootings",
-      "description": "A man has been killed while another is injured after two shootings in Scarborough on Monday afternoon. Toronto police say they were called to Victoria Park Avenue and south of Highway 401 around 3:15 for reports of a shooting. The victim was found with gunshot wounds and was pronounced dead at the s",
-      "url": "https://toronto.citynews.ca/2026/07/06/scarborough-fatal-shooting-victoria-park/",
-      "source": "CityNews Toronto",
-      "image": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2026/07/06/1000008655-1024x768.jpg",
-      "published": "Mon, 06 Jul 2026 20:35:54 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422724"
-    },
-    {
-      "id": "c62a773dc473",
-      "title": "Canada Soccer CEO Blue says World Cup enthusiasm must translate into lasting support",
-      "description": "Watching Canada embrace the FIFA World Cup has been a &#8220;breathtaking&#8221; experience for Kevin Blue. The co-host nation rallied not only behind the tournament, but truly celebrated the country&#8217;s team, said Canada Soccer&#8217;s CEO. &#8220;There was one instance where we were on the way",
-      "url": "https://toronto.citynews.ca/2026/07/06/canada-soccer-ceo-blue-says-world-cup-enthusiasm-must-translate-into-lasting-support/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 20:35:50 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.422756"
+      "fetched_at": "2026-07-07T10:54:16.532358"
     },
     {
       "id": "385e89c08e08",
@@ -2088,7 +2268,7 @@
       "published": "Mon, 06 Jul 2026 20:33:00 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302201"
+      "fetched_at": "2026-07-07T10:54:16.267131"
     },
     {
       "id": "e98e88b1505a",
@@ -2100,31 +2280,19 @@
       "published": "Mon, 06 Jul 2026 20:27:52 +0000",
       "location": "Ottawa",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.072996"
+      "fetched_at": "2026-07-07T10:54:14.759817"
     },
     {
       "id": "7c71ca5e4469",
       "title": "Canada picks Germany’s TKMS to build ‘up to’ 12 submarines in largest Canadian defence purchase ever",
       "description": "Should the contract with ThyssenKrupp Marine Systems proceed, the first four submarines are expected to be delivered to Canada by 2034",
       "url": "https://nationalpost.com/news/politics/canada-picks-germanys-tkms-to-build-up-to-12-submarines-in-largest-canadian-defence-purchase-ever",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/tch-tk070626carneysub4b_304146229.jpg",
       "published": "Mon, 06 Jul 2026 20:27:26 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:32.170819"
-    },
-    {
-      "id": "670ea3b22266",
-      "title": "Prosecutors in US lay out case against alleged killer of Charlie Kirk - Al Jazeera",
-      "description": "Prosecutors in US lay out case against alleged killer of Charlie Kirk&nbsp;&nbsp;Al JazeeraProsecutors begin to present case against man accused of Charlie Kirk killing&nbsp;&nbsp;The GuardianCharlie Kirk's family attends hearing for suspect charged with his murder&nbsp;&nbsp;BBCCharlie Kirk’s widow",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUZmMnJGRWdGZW5qUVJLVjJDbjdYVWstSzdhZFpPdXE4aXdEcnVLSEppMkYzSjVrOXpDVDlNNXl6V2pDbG5aaHMyaGdFWVhXc3llY0Q1TDFmVGRqV0l2b1Jxc1FxeGg5ckhEcU14TFgxUmlXUTBCWEYtQXZkZHBCQWVSeEZaS1pCa0NkVHlMSEdzdUc2aWgtRzl0cGpBTjF6ZktVVGNBdDRET0lXTkHSAbMBQVVfeXFMTl96TnFJTjVZV2JyZkVxQmxtSlhEUWZPZUtpT3YxNEszMXVaeXdMa25jWXJMaTBnRHZBeTMwSU8tNmFVM194bHJoOUt3RV9XaGVwMzA0RW92QnZBTlVSMGdxbFVsUmdMX21nV1ExTGQtTmhhMngzUlpldl9uMDljWWVwTWpVMEs1akx3WGxtZHBPUkY1S19IMDhxZGxWTE9WQmpPeUZEekhRMEZhMHZpQ1NpVEE?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 20:20:53 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.903097"
+      "category": "politics",
+      "fetched_at": "2026-07-07T10:54:14.962831"
     },
     {
       "id": "805ff91c69e5",
@@ -2136,19 +2304,7 @@
       "published": "Mon, 06 Jul 2026 20:20:29 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081524"
-    },
-    {
-      "id": "4e6c2c41c7c0",
-      "title": "Prime Minister Carney announces the preferred supplier for the Canadian Patrol Submarine Project – the largest defence procurement in Canadian history - pm.gc.ca",
-      "description": "Prime Minister Carney announces the preferred supplier for the Canadian Patrol Submarine Project – the largest defence procurement in Canadian history&nbsp;&nbsp;pm.gc.ca",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzdOSXJuZDF0YllsYUlROGlrVE5sUDh1QjE5UXBNUkFYQ3BGVS1vX3JNUTJfblVrSENxUHlBcWE5X3pyc2U5eUZGNUNJTXA3eENDYk80eDV2NHVlb0JMUXg5RERjTU95dlNjeFkzWXc5UTBKdEZOb25OaUxka0RRQTZtNmlwNTZlM0FydFItLWp0clVrVHdiYm00RzlSd2prbUtqVkJORVd4VElwMW9GbGpacXBKQXlLc19vaw?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 20:10:00 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713061"
+      "fetched_at": "2026-07-07T10:54:15.842053"
     },
     {
       "id": "b96d9864f868",
@@ -2160,7 +2316,19 @@
       "published": "Mon, 06 Jul 2026 19:49:10 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069581"
+      "fetched_at": "2026-07-07T10:54:14.338768"
+    },
+    {
+      "id": "97dfe04b1234",
+      "title": "Microsoft to cut 4,800 jobs, overhaul Xbox unit - CBC",
+      "description": "Microsoft to cut 4,800 jobs, overhaul Xbox unit&nbsp;&nbsp;CBCSee more headlines & perspectives on Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52VDFUVzVCN0pkMmhwZjE1V19xb3N3WUkwQzF1emdjTzdOb2VrWVhaLTBDdWxnT3RuYk1KT0J2ZTRXWjNsV3ZvTXdmeWN4aGtMYTFBcUhVRXpOYmptd3VMRTdXTDVRU2dtcnYzSkRBcWpaaG94QkFPaUJSTDU?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 19:45:00 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:15.506686"
     },
     {
       "id": "2e555831dab7",
@@ -2172,7 +2340,7 @@
       "published": "Mon, 06 Jul 2026 19:41:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634796"
+      "fetched_at": "2026-07-07T10:54:16.342883"
     },
     {
       "id": "85145206c832",
@@ -2184,7 +2352,7 @@
       "published": "Mon, 06 Jul 2026 19:38:25 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.634818"
+      "fetched_at": "2026-07-07T10:54:16.342899"
     },
     {
       "id": "8bf49cdd4157",
@@ -2196,7 +2364,7 @@
       "published": "Mon, 06 Jul 2026 19:30:09 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.219481"
+      "fetched_at": "2026-07-07T10:54:15.220728"
     },
     {
       "id": "6c56ac4ac381",
@@ -2208,7 +2376,7 @@
       "published": "Mon, 06 Jul 2026 19:29:32 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874703"
+      "fetched_at": "2026-07-07T10:54:16.179444"
     },
     {
       "id": "ec182cec61a3",
@@ -2220,7 +2388,7 @@
       "published": "Mon, 06 Jul 2026 19:29:32 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.066160"
+      "fetched_at": "2026-07-07T10:54:16.532387"
     },
     {
       "id": "d03059b94074",
@@ -2232,7 +2400,7 @@
       "published": "Mon, 06 Jul 2026 19:23:57 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.419219"
+      "fetched_at": "2026-07-07T10:54:15.064058"
     },
     {
       "id": "90f4442bcf80",
@@ -2244,7 +2412,7 @@
       "published": "Mon, 06 Jul 2026 19:21:57 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.072974"
+      "fetched_at": "2026-07-07T10:54:14.759801"
     },
     {
       "id": "04097d108c98",
@@ -2256,7 +2424,7 @@
       "published": "Mon, 06 Jul 2026 19:10:53 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:31.955013"
+      "fetched_at": "2026-07-07T10:54:14.275882"
     },
     {
       "id": "6a4bd4bc16da",
@@ -2268,7 +2436,7 @@
       "published": "Mon, 06 Jul 2026 19:06:34 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.605477"
+      "fetched_at": "2026-07-07T10:54:15.011394"
     },
     {
       "id": "e3a98b806373",
@@ -2280,7 +2448,7 @@
       "published": "Mon, 06 Jul 2026 19:05:30 GMT",
       "location": "Winnipeg",
       "category": "sports",
-      "fetched_at": "2026-07-07T07:36:33.512619"
+      "fetched_at": "2026-07-07T10:54:15.336072"
     },
     {
       "id": "0f64c66e0db7",
@@ -2292,7 +2460,7 @@
       "published": "Mon, 06 Jul 2026 19:01:59 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069612"
+      "fetched_at": "2026-07-07T10:54:14.338804"
     },
     {
       "id": "fc99ca8b2a71",
@@ -2304,7 +2472,19 @@
       "published": "Mon, 06 Jul 2026 18:56:57 +0000",
       "location": "Canada",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.419290"
+      "fetched_at": "2026-07-07T10:54:15.064089"
+    },
+    {
+      "id": "b84794453f01",
+      "title": "BP withdrawing its stake in Bay du Nord megaproject off NL | PNI Atlantic News - PNI Atlantic News",
+      "description": "BP withdrawing its stake in Bay du Nord megaproject off NL | PNI Atlantic News&nbsp;&nbsp;PNI Atlantic NewsBP sells interest in Bay du Nord offshore project to Equinor&nbsp;&nbsp;CBCEquinor to acquire BP’s stake in Bay du Nord offshore oil project&nbsp;&nbsp;The Globe and MailEquinor acquires bp’s i",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3alZVR2lOalhFVmtPeWxtRXR1RHpEZzdobmp2TU5LaFNtWm9Ja29Rb05CT1dPbzVQWmpnR1VjTFRaV0VnMS1GYlJPY2k0VVoxMUJYR0I5NFBHUC1CLXEyLUxuVXAzUHhKaU1DYlQwdU5kTTV3VDgwM05NRWVqZw?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 18:54:18 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-07-07T10:54:15.506570"
     },
     {
       "id": "ad53cddec3c4",
@@ -2316,7 +2496,7 @@
       "published": "Mon, 06 Jul 2026 18:53:50 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-07-07T07:36:32.135500"
+      "fetched_at": "2026-07-07T10:54:14.326134"
     },
     {
       "id": "826b27489fd4",
@@ -2328,7 +2508,7 @@
       "published": "Mon, 06 Jul 2026 18:50:48 +0000",
       "location": "Canada",
       "category": "indigenous",
-      "fetched_at": "2026-07-07T07:36:32.135559"
+      "fetched_at": "2026-07-07T10:54:14.326164"
     },
     {
       "id": "9066a2df9a47",
@@ -2340,7 +2520,7 @@
       "published": "Mon, 06 Jul 2026 18:47:37 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-07-07T07:36:32.135600"
+      "fetched_at": "2026-07-07T10:54:14.326194"
     },
     {
       "id": "30e315e5bd60",
@@ -2352,7 +2532,7 @@
       "published": "Mon, 06 Jul 2026 18:45:13 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302231"
+      "fetched_at": "2026-07-07T10:54:16.267153"
     },
     {
       "id": "cd16de521682",
@@ -2364,7 +2544,7 @@
       "published": "Mon, 06 Jul 2026 18:42:21 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:33.587108"
+      "fetched_at": "2026-07-07T10:54:15.506482"
     },
     {
       "id": "b9395410ea09",
@@ -2376,7 +2556,7 @@
       "published": "Mon, 06 Jul 2026 18:35:45 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.777972"
+      "fetched_at": "2026-07-07T10:54:16.299178"
     },
     {
       "id": "1fae758ade94",
@@ -2388,7 +2568,7 @@
       "published": "Mon, 06 Jul 2026 18:35:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069644"
+      "fetched_at": "2026-07-07T10:54:14.338838"
     },
     {
       "id": "90e21e629562",
@@ -2400,7 +2580,7 @@
       "published": "Mon, 06 Jul 2026 18:27:30 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.081551"
+      "fetched_at": "2026-07-07T10:54:15.842083"
     },
     {
       "id": "3b781cac5d82",
@@ -2412,7 +2592,7 @@
       "published": "Mon, 06 Jul 2026 18:15:15 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.419333"
+      "fetched_at": "2026-07-07T10:54:15.064118"
     },
     {
       "id": "63cdddba05c6",
@@ -2424,7 +2604,7 @@
       "published": "Mon, 06 Jul 2026 18:12:01 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069673"
+      "fetched_at": "2026-07-07T10:54:14.338868"
     },
     {
       "id": "fb1d7954026a",
@@ -2436,7 +2616,7 @@
       "published": "Mon, 06 Jul 2026 17:48:15 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302302"
+      "fetched_at": "2026-07-07T10:54:16.267184"
     },
     {
       "id": "fe2504365b38",
@@ -2448,7 +2628,7 @@
       "published": "Mon, 06 Jul 2026 17:46:35 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.200681"
+      "fetched_at": "2026-07-07T10:54:16.436551"
     },
     {
       "id": "0fd42b39b0cd",
@@ -2460,31 +2640,7 @@
       "published": "Mon, 06 Jul 2026 17:33:36 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.200734"
-    },
-    {
-      "id": "db5363121aa5",
-      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
-      "description": "Interpol says the vast majority of the 2,070 victims or potential victims identified were women being trafficked for sex.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0319/live/92f4cc90-794f-11f1-a46d-874d2eff79fe.jpg",
-      "published": "Mon, 06 Jul 2026 17:24:31 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.605631"
-    },
-    {
-      "id": "3a8770ebfd59",
-      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-      "description": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa16/live/efc9a000-7957-11f1-9988-0351319ba973.jpg",
-      "published": "Mon, 06 Jul 2026 17:22:38 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.605585"
+      "fetched_at": "2026-07-07T10:54:16.436599"
     },
     {
       "id": "af0b4d8d9830",
@@ -2496,7 +2652,7 @@
       "published": "Mon, 06 Jul 2026 17:14:06 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.778029"
+      "fetched_at": "2026-07-07T10:54:16.299214"
     },
     {
       "id": "df0b3690ead0",
@@ -2508,7 +2664,7 @@
       "published": "Mon, 06 Jul 2026 17:12:34 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.778096"
+      "fetched_at": "2026-07-07T10:54:16.299249"
     },
     {
       "id": "e1c848cb4f7b",
@@ -2520,7 +2676,7 @@
       "published": "Mon, 06 Jul 2026 17:07:54 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:33.587011"
+      "fetched_at": "2026-07-07T10:54:15.506408"
     },
     {
       "id": "88a9e7b84587",
@@ -2532,7 +2688,7 @@
       "published": "Mon, 06 Jul 2026 17:04:58 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069707"
+      "fetched_at": "2026-07-07T10:54:14.338905"
     },
     {
       "id": "3070bfe68e0a",
@@ -2544,7 +2700,7 @@
       "published": "Mon, 06 Jul 2026 16:58:57 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874735"
+      "fetched_at": "2026-07-07T10:54:16.179465"
     },
     {
       "id": "e2967a36f39f",
@@ -2556,19 +2712,7 @@
       "published": "Mon, 06 Jul 2026 16:58:56 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.200773"
-    },
-    {
-      "id": "1a1416fca1e6",
-      "title": "Skate Canada Announces 2026-2027 National Team - Skate Canada",
-      "description": "Skate Canada Announces 2026-2027 National Team&nbsp;&nbsp;Skate Canada",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEdZZVA1RG9iR01lM3N2UTYxMDBROXNEVmlUcFBYd0hSUDBKWmZRWjVvYjdZR2s2aEhibi13UDRPcFlRdnFoZWRGalVpUlJwbktjTHEybkhXZWpkNU5UOGprZld0cmxYUHZxbFZhU0JUZnJrR2hfUmxtajQzRU9HOGRsRjh4Vlkx?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 16:53:36 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713216"
+      "fetched_at": "2026-07-07T10:54:16.436627"
     },
     {
       "id": "9edbb645a5f9",
@@ -2580,7 +2724,7 @@
       "published": "Mon, 06 Jul 2026 16:51:55 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:32.363572"
+      "fetched_at": "2026-07-07T10:54:14.962898"
     },
     {
       "id": "0b741f47d8a7",
@@ -2592,19 +2736,7 @@
       "published": "Mon, 06 Jul 2026 16:50:45 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.778156"
-    },
-    {
-      "id": "3e371de6d867",
-      "title": "Belgian federation to challenge FIFA’s decision to let Folarin Balogun play in World Cup match - CP24",
-      "description": "Belgian federation to challenge FIFA’s decision to let Folarin Balogun play in World Cup match&nbsp;&nbsp;CP24Why FIFA’s Balogun red card suspension after Trump call is so controversial&nbsp;&nbsp;Al JazeeraBalogun is quiet on pitch after kicking up an international storm&nbsp;&nbsp;ReutersA Very Ba",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUE2Y19yVUtYYlh4b1I5dkVtYXI1UjVKcU5Ba0EtbHdHOTNLOUtfLVBMbHVycHBkT3VtWmkxYXRiemlpMkFKdWJKWjIyUHdQemdCd1M4Qmk2NDFEcnktLUpMdnNHX19Zc0RLSGNDYXdoZU1kQlVFWWVjZERsWGJmYUIxd0kySDExSkJhRmdadlU2aTNDdFV4ZzZMRm91RGh5al9BTHFySGk4clAzMTVUeGJiNnVaanhBSUNwYm40M0cxcGJ4WXhlVFlQYWJDelVkQ25tc2xsS3F1Tmw3SnlFcFNtWQ?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 16:48:18 GMT",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.902719"
+      "fetched_at": "2026-07-07T10:54:16.299285"
     },
     {
       "id": "cce1e7e45a43",
@@ -2616,7 +2748,7 @@
       "published": "Mon, 06 Jul 2026 16:41:47 GMT",
       "location": "Canada",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.219526"
+      "fetched_at": "2026-07-07T10:54:15.220761"
     },
     {
       "id": "ef1685231890",
@@ -2628,7 +2760,7 @@
       "published": "Mon, 06 Jul 2026 16:27:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.200813"
+      "fetched_at": "2026-07-07T10:54:16.436656"
     },
     {
       "id": "d3c7a7f2421d",
@@ -2640,7 +2772,7 @@
       "published": "Mon, 06 Jul 2026 16:21:03 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069735"
+      "fetched_at": "2026-07-07T10:54:14.338935"
     },
     {
       "id": "e5bc141c2217",
@@ -2652,7 +2784,7 @@
       "published": "Mon, 06 Jul 2026 16:18:41 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:31.955038"
+      "fetched_at": "2026-07-07T10:54:14.275900"
     },
     {
       "id": "da588100b903",
@@ -2664,7 +2796,7 @@
       "published": "Mon, 06 Jul 2026 16:16:48 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874772"
+      "fetched_at": "2026-07-07T10:54:16.179492"
     },
     {
       "id": "a241c7078c8d",
@@ -2676,19 +2808,19 @@
       "published": "Mon, 06 Jul 2026 16:10:46 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302330"
+      "fetched_at": "2026-07-07T10:54:16.267203"
     },
     {
-      "id": "8c8188752289",
-      "title": "Canada and Manitoba join forces to give new momentum to Francophone immigration - canada.ca",
-      "description": "Canada and Manitoba join forces to give new momentum to Francophone immigration&nbsp;&nbsp;canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRmQ2bVM1bnVnM0gxdWlsdnp1aTJHTF9FbnQtaUc4S1F6WkFnbU0zdVd4cDI3UlRwaS03RHRTejJWdFpsRnoxRmhZdGVrR3FEOGZPNklSMVRyaWlYSzBCaFhmcUJKZlJVektDTGl0Rk4teFpYVUg5LVpoc1JxWGZ1dl9tYk9wakpGanVOcXY2UkhHYk9wWW9tZkdBd0REdmFJU19QQ3YwT3loTUdJSmhnTW5NMUI3WHF5NDE1bUhCbnl5WThmZXpkaURJYkdfeVJEVXlGSFY2S1p5RGU3SERhNy0zZWRMNUZSam5z?oc=5",
-      "source": "Google News Canada",
+      "id": "9b977f0ff0e4",
+      "title": "‘Cost of drama is too high’: NATO leaders meet in Turkiye for annual summit - BNN Bloomberg",
+      "description": "‘Cost of drama is too high’: NATO leaders meet in Turkiye for annual summit&nbsp;&nbsp;BNN BloombergSee more headlines & perspectives on Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlJ3eENNN0thTXlaWlVMUjV0RnJaRlFDLUxPWC1ydjNycHNydlRYQWpMeExtTjh3X0p5SEo5Rl9TNmZhNTU5MzNLbWdVT0JfVzA0QXYxbUpkSG9FNnlBSE5VYWFTRERCcWJoY0VvSnRSelowR1lIVDBHSjBFS3FEbHRmTERjYXlhVTRTQkRlTE9ObWpBaGFaSXUtX1NmdzdHYmVGcENPbHk1NE5UZnVuSXgxSnhCZGI5RmhFZW5iVWtad1JQWjlESl9R?oc=5",
+      "source": "Google News Tech",
       "image": "",
-      "published": "Mon, 06 Jul 2026 16:03:57 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-07-07T07:36:33.713187"
+      "published": "Mon, 06 Jul 2026 16:03:05 GMT",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-07-07T10:54:15.584438"
     },
     {
       "id": "40185c0bac4d",
@@ -2700,19 +2832,7 @@
       "published": "Mon, 06 Jul 2026 15:58:26 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-07-07T07:36:33.219569"
-    },
-    {
-      "id": "6772f4b347ef",
-      "title": "Carney names Alan Diner as new Federal Court chief justice",
-      "description": "Justice Alan Diner is the new Federal Court chief justice, replacing Paul Crampton who retired at the end of October. Prime Minister Mark Carney announced Diner&#8217;s appointment in a news release issued this morning. The new chief justice takes on a leadership role as a growing case backlog, prim",
-      "url": "https://montreal.citynews.ca/2026/07/06/alan-diner-federal-court-chief-justice/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 15:55:11 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.778213"
+      "fetched_at": "2026-07-07T10:54:15.220793"
     },
     {
       "id": "cc01fcad7735",
@@ -2724,19 +2844,19 @@
       "published": "Mon, 06 Jul 2026 15:55:11 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874805"
+      "fetched_at": "2026-07-07T10:54:16.179516"
     },
     {
-      "id": "56e264bf4e9c",
+      "id": "6772f4b347ef",
       "title": "Carney names Alan Diner as new Federal Court chief justice",
       "description": "Justice Alan Diner is the new Federal Court chief justice, replacing Paul Crampton who retired at the end of October. Prime Minister Mark Carney announced Diner&#8217;s appointment in a news release issued this morning. The new chief justice takes on a leadership role as a growing case backlog, prim",
-      "url": "https://edmonton.citynews.ca/2026/07/06/alan-diner-federal-court-chief-justice/",
-      "source": "CityNews Edmonton",
+      "url": "https://montreal.citynews.ca/2026/07/06/alan-diner-federal-court-chief-justice/",
+      "source": "CityNews Montreal",
       "image": "",
       "published": "Mon, 06 Jul 2026 15:55:11 +0000",
-      "location": "Edmonton",
+      "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.066197"
+      "fetched_at": "2026-07-07T10:54:16.299313"
     },
     {
       "id": "ab538544c97c",
@@ -2748,7 +2868,19 @@
       "published": "Mon, 06 Jul 2026 15:55:11 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.200853"
+      "fetched_at": "2026-07-07T10:54:16.436686"
+    },
+    {
+      "id": "56e264bf4e9c",
+      "title": "Carney names Alan Diner as new Federal Court chief justice",
+      "description": "Justice Alan Diner is the new Federal Court chief justice, replacing Paul Crampton who retired at the end of October. Prime Minister Mark Carney announced Diner&#8217;s appointment in a news release issued this morning. The new chief justice takes on a leadership role as a growing case backlog, prim",
+      "url": "https://edmonton.citynews.ca/2026/07/06/alan-diner-federal-court-chief-justice/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 15:55:11 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-07-07T10:54:16.532414"
     },
     {
       "id": "1f489004e003",
@@ -2760,7 +2892,7 @@
       "published": "Mon, 06 Jul 2026 15:51:42 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-07-07T07:36:32.142133"
+      "fetched_at": "2026-07-07T10:54:14.326219"
     },
     {
       "id": "f9a85e402417",
@@ -2772,7 +2904,7 @@
       "published": "Mon, 06 Jul 2026 15:51:06 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.302361"
+      "fetched_at": "2026-07-07T10:54:16.267225"
     },
     {
       "id": "84d79f882c6a",
@@ -2784,7 +2916,7 @@
       "published": "Mon, 06 Jul 2026 15:46:20 +0000",
       "location": "Halifax",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:31.955064"
+      "fetched_at": "2026-07-07T10:54:14.275920"
     },
     {
       "id": "01983cc69024",
@@ -2796,7 +2928,7 @@
       "published": "Mon, 06 Jul 2026 15:42:18 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-07-07T07:36:33.512509"
+      "fetched_at": "2026-07-07T10:54:15.335896"
     },
     {
       "id": "9c87c2de469d",
@@ -2808,7 +2940,7 @@
       "published": "Mon, 06 Jul 2026 15:36:13 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-07-07T07:36:32.363525"
+      "fetched_at": "2026-07-07T10:54:14.962865"
     },
     {
       "id": "dfbd450da8b7",
@@ -2820,19 +2952,7 @@
       "published": "Mon, 06 Jul 2026 15:33:52 GMT",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:33.587210"
-    },
-    {
-      "id": "507388fe73ce",
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 15:32:43 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:32.069768"
+      "fetched_at": "2026-07-07T10:54:15.506620"
     },
     {
       "id": "78f217ada087",
@@ -2844,31 +2964,19 @@
       "published": "Mon, 06 Jul 2026 15:25:27 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:32.072946"
-    },
-    {
-      "id": "c37c1bcf5c04",
-      "title": "Is NATO at breaking point as it meets in Turkiye? - Al Jazeera",
-      "description": "Is NATO at breaking point as it meets in Turkiye?&nbsp;&nbsp;Al Jazeera‘Cost of drama is too high’: NATO leaders meet in Turkiye for annual summit&nbsp;&nbsp;CTV NewsNATO summit begins: Who is attending and what is at stake?&nbsp;&nbsp;Al JazeeraNATO set to unveil billions in arms deals to prove its",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFVtQk52TlFCT2dYM183TjJrb1gyc1lCUHdtMEJkQy1mcWdpejMtVE42V3F2ekE1OWlfZXlrS2ZQelJCcTlkc2M2Y0RtbzVQdmVoSDFFMjRyZVZpemNHZUlRVE9UVjZ1S2VKVXprd29FWFBuYkhXb1ZZVjVrbTJFenpOckdqQUlhVGg5NFRDdzRFQdIBlwFBVV95cUxOTXphY3Ffbjd1M3MtZjFlR2JfSUE3b3NzZlRELS1qbEpXTDE4QUNIOXZIOFp5SjZhaEktNXV6WHdIa3NadXdrUmtFY2xTcmlnLXdUa3pTcldlTDNhekVlaTlLdnBHSDRFd1FnX0IteFRIZzBxcXdyWEpJczBaMW5zTEozbXZiTGRoQWlubWpUT19TNEppZGxz?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 15:25:10 GMT",
-      "location": "Toronto",
-      "category": "technology",
-      "fetched_at": "2026-07-07T07:36:33.902790"
+      "fetched_at": "2026-07-07T10:54:14.759782"
     },
     {
       "id": "572cf1c60162",
       "title": "Premiers of Ontario, Alberta unveil route for proposed new pipeline - CTV News",
-      "description": "Premiers of Ontario, Alberta unveil route for proposed new pipeline&nbsp;&nbsp;CTV NewsDanielle Smith, Doug Ford announce proposed cross-Canada oil pipeline corridor&nbsp;&nbsp;CTV NewsOntario, Alberta push to advance 3,300 km east-west oil pipeline&nbsp;&nbsp;Global NewsPrime Minister Carney announ",
+      "description": "Premiers of Ontario, Alberta unveil route for proposed new pipeline&nbsp;&nbsp;CTV NewsDanielle Smith, Doug Ford announce proposed cross-Canada oil pipeline corridor&nbsp;&nbsp;CTV News'Treating pipelines like airports': Carney relishes being the one to decide&nbsp;&nbsp;National PostAlberta's new p",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmI0VHVGaU4ta19xQjFpb1VONGRhY3NYTnNoUEwzUEswdWl3c2g0eVpEN29ZbzRaWXl1dWtvdk1WMmF0RUQ1UGV6Yi01WmQxYkhxREJZM0lTanZKRzN5azVKVlRzWEZHcVRjTEhpRWhfM0NUNkE2RF9wZ0k1bEw5VnhBdzZKVGYtTUUybExvTU1KVUE1UW1SS09pYmVLXzA3RGJpZF91VGpTUQ?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 06 Jul 2026 15:17:42 GMT",
-      "location": "Canada",
+      "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-07-07T07:36:33.586944"
+      "fetched_at": "2026-07-07T10:54:15.506332"
     },
     {
       "id": "b04e81d993bf",
@@ -2880,19 +2988,7 @@
       "published": "Mon, 06 Jul 2026 15:14:58 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.778302"
-    },
-    {
-      "id": "e5db513c86a3",
-      "title": "Summer McIntosh breaks women's 200-metre butterfly world record at Canadian trials - CP24",
-      "description": "Summer McIntosh breaks women's 200-metre butterfly world record at Canadian trials&nbsp;&nbsp;CP24Summer McIntosh erases the oldest women’s swimming world record&nbsp;&nbsp;olympic.caSummer McIntosh breaks women’s 200-metre butterfly world record at Canadian trials&nbsp;&nbsp;CityNews OttawaPhelps’s",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbExwcHNIb2VNU0E0VndxRlNBbFV3V1BiZGxlaE1BWHlBbEZRT3JDSjl6YW9lS0NQX2l2cXlfc2w5S0ZMZTR2UWktTG1naXo4WUtTcGdQbkp1UnMxb0lNRGZvcHJBMEtNdmhxakM3WXQ0ODFib0VTN0lYR0ZqRlFKT2gxV1FJYkVmaXNkcTA1X1FNVDhnUUstbjVGQVZXOTFfUmV6MjNsdjJ2ZVREY2hMQ0xwakdKd0VyUUk2UEs5b0NKU0hm?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 14:48:10 GMT",
-      "location": "Vancouver",
-      "category": "sports",
-      "fetched_at": "2026-07-07T07:36:33.512571"
+      "fetched_at": "2026-07-07T10:54:16.299346"
     },
     {
       "id": "4dbce04ac313",
@@ -2904,158 +3000,62 @@
       "published": "Mon, 06 Jul 2026 14:38:41 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.778360"
-    },
-    {
-      "id": "5503a6bf709f",
-      "title": "Montreal’s Auger-Aliassime advances to Wimbledon quarterfinals, to face Djokovic",
-      "description": "Canada&#8217;s&#160;Félix&#160;Auger-Aliassime defeated Spain&#8217;s Alejandro Davidovich Fokina 6-7 (4), 7-6 (6), 6-3, 6-7 (2), 6-1 to advance to the quarterfinals at Wimbledon on Sunday. The Montreal native had 27 aces to just four double faults in the men&#8217;s singles tennis match, but only c",
-      "url": "https://edmonton.citynews.ca/2026/07/06/montreal-auger-aliassime-wimbledon-quarterfinals/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 14:38:41 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.066261"
-    },
-    {
-      "id": "5eba98710934",
-      "title": "Pipelines, separation talk at Alberta NDP Calgary Stampede breakfast",
-      "description": "With Stampede festivities and community events happening in the city, are the big Alberta topics of late on Calgarians' minds?",
-      "url": "https://calgary.citynews.ca/2026/07/06/pipelines-separation-talk-alberta-ndp-calgary-stampede-breakfast/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 14:34:31 +0000",
-      "location": "Calgary",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.874832"
-    },
-    {
-      "id": "86c4f2b3b87b",
-      "title": "Ottawa-Carleton District School Board pulls out of Capital Pride parade",
-      "description": "The OCDSB will not participate in this year's Capital Pride parade, drawing criticism from a trustee over the message it sends to LGBTQ+ students.",
-      "url": "https://ottawacitizen.com/news/ocdsb-capital-pride-parade-2026",
-      "source": "Ottawa Citizen",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 14:11:28 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.100765"
-    },
-    {
-      "id": "e33f1777355d",
-      "title": "George Clooney to get the lifetime achievement prize from Venice Film Festival",
-      "description": "George Clooney is returning to the Venice Film Festival this year, where he’ll be honored with a lifetime achievement award. The festival’s organizers said Monday that Clooney has been selected to receive the Golden Lion at the 83rd edition of the festival in September. “I’ve had so many extraordina",
-      "url": "https://montreal.citynews.ca/2026/07/06/george-clooney-to-get-the-lifetime-achievement-prize-from-venice-film-festival/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 13:19:31 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.778419"
-    },
-    {
-      "id": "9d5d9ff14611",
-      "title": "George Clooney to get the lifetime achievement prize from Venice Film Festival",
-      "description": "George Clooney is returning to the Venice Film Festival this year, where he’ll be honored with a lifetime achievement award. The festival’s organizers said Monday that Clooney has been selected to receive the Golden Lion at the 83rd edition of the festival in September. “I’ve had so many extraordina",
-      "url": "https://edmonton.citynews.ca/2026/07/06/george-clooney-to-get-the-lifetime-achievement-prize-from-venice-film-festival/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 13:19:31 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.066316"
-    },
-    {
-      "id": "d4be096dd4a0",
-      "title": "George Clooney to get the lifetime achievement prize from Venice Film Festival",
-      "description": "George Clooney is returning to the Venice Film Festival this year, where he’ll be honored with a lifetime achievement award. The festival’s organizers said Monday that Clooney has been selected to receive the Golden Lion at the 83rd edition of the festival in September. “I’ve had so many extraordina",
-      "url": "https://ottawa.citynews.ca/2026/07/06/george-clooney-to-get-the-lifetime-achievement-prize-from-venice-film-festival/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 13:19:31 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:34.200894"
-    },
-    {
-      "id": "a1925a67ff5c",
-      "title": "Wildfire in southern France forces evacuation of 10,000 people",
-      "description": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
-      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4df/live/4ab81620-7932-11f1-9510-1546718f668b.jpg",
-      "published": "Mon, 06 Jul 2026 13:08:23 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-07-07T07:36:32.605610"
-    },
-    {
-      "id": "8753d5f29437",
-      "title": "The blurry future of North American free trade",
-      "description": "On its July 1 deadline, U.S. President Donald Trump declined to renew the current conditions of Canada-United States-Mexico Agreement (CUSMA). It doesn&#8217;t mean Canada-U.S.-Mexico trade as we know it dissolves, but it signals a need for trade diversification and an investment in Canada&#8217;s s",
-      "url": "https://montreal.citynews.ca/2026/07/06/cusma-future-free-trade-big-story-podcast/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 13:03:42 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-07-07T07:36:33.778468"
+      "fetched_at": "2026-07-07T10:54:16.299377"
     }
   ],
   "sources": [
+    "Calgary Sun",
+    "Globe Business",
+    "CityNews Vancouver",
+    "Financial Post",
+    "Google News Canada",
+    "Vancouver Sun",
+    "CityNews Toronto",
+    "APTN News",
+    "Wired",
+    "National Post",
+    "CityNews Calgary",
+    "Google News Business",
+    "BetaKit",
     "BBC World",
     "Google News Tech",
-    "Global News",
-    "CityNews Vancouver",
-    "The Guardian",
-    "Calgary Sun",
-    "TechCrunch",
     "Global Politics",
-    "CNN World",
-    "APTN News",
-    "Al Jazeera",
-    "Globe Business",
-    "Ottawa Citizen",
-    "Vancouver Sun",
-    "Google News Canada",
-    "Science Daily",
     "National Post Politics",
-    "CityNews Toronto",
-    "Wired",
-    "Google News Sports",
-    "BetaKit",
-    "CityNews Ottawa",
-    "CityNews Montreal",
-    "Financial Post",
-    "Google News Business",
-    "CityNews Calgary",
     "Edmonton Journal",
+    "CNN World",
+    "Google News Sports",
+    "Al Jazeera",
+    "TechCrunch",
+    "Global News",
     "CityNews Edmonton",
-    "National Post"
+    "CityNews Montreal",
+    "Science Daily",
+    "CityNews Ottawa",
+    "Ottawa Citizen",
+    "The Guardian"
   ],
   "stats": {
     "by_location": {
-      "World": 134,
-      "Canada": 34,
-      "Vancouver": 27,
-      "Edmonton": 14,
-      "Toronto": 10,
-      "Montreal": 11,
-      "Ottawa": 9,
+      "World": 124,
+      "Canada": 37,
+      "Vancouver": 33,
+      "Toronto": 11,
+      "Montreal": 10,
+      "Ottawa": 13,
+      "Edmonton": 13,
       "Halifax": 2,
-      "Calgary": 8,
+      "Calgary": 6,
       "Winnipeg": 1
     },
     "by_category": {
-      "local": 89,
+      "local": 87,
       "science": 8,
-      "world": 34,
-      "business": 26,
+      "world": 35,
+      "business": 27,
+      "technology": 34,
       "canada": 30,
-      "technology": 35,
       "sports": 8,
-      "politics": 12,
+      "politics": 13,
       "indigenous": 8
     },
     "source_count": 29
