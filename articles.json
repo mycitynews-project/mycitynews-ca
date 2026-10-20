@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T03:44:32.373846",
+  "last_updated": "2026-10-20T09:18:48.165686",
   "total_articles": 250,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "published": "Wed, 14 Oct 2026 11:01:29 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.941973"
+      "fetched_at": "2026-10-20T09:08:41.573154"
     },
     {
       "id": "97d22c5ea777",
@@ -24,7 +24,7 @@
       "published": "Wed, 14 Oct 2026 11:00:23 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.941998"
+      "fetched_at": "2026-10-20T09:08:41.573178"
     },
     {
       "id": "ad9a67fb9e8b",
@@ -36,19 +36,727 @@
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.153338"
+      "fetched_at": "2026-10-20T09:08:39.978212"
     },
     {
-      "id": "2015a27e5644",
-      "title": "Angel Reese scores 30 as Dream stun Valkyries to go level in WNBA Finals",
-      "description": "Atlanta Dream defeated Golden State Valkyries 79-65 to tie the best-of-seven WNBA Finals at 1-1.",
-      "url": "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 03:13:52 +0000",
+      "id": "48316f58fd80",
+      "title": "Alberta voters reject plan for referendum to leave Canada",
+      "description": "Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity.With more than 1.5",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "source": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=cb87d3a4c0464016bf02e71c83492916",
+      "published": "Tue, 20 Oct 2026 09:02:43 GMT",
+      "location": "Canada",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.658851"
+    },
+    {
+      "id": "29d7ea1e3da0",
+      "title": "McGill law students petition for convicted murderer to return to studies",
+      "description": "Some McGill law students are calling on the university to allow a convicted murderer on day parole to return to his studies amid a growing campus controversy.",
+      "url": "https://globalnews.ca/news/12108693/mcgill-law-petition-convicted-murderer-student/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/08/1c41eb20b448b5b6feb1158a3d1552804cdafc2f758f1f1c8231a2fceb39793f_7529d3.jpg?quality=65&strip=all",
+      "published": "Tue, 20 Oct 2026 09:00:35 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:38.849838"
+    },
+    {
+      "id": "607477620669",
+      "title": "Montreal man faces massive medical bills after emergency spinal surgery",
+      "description": "A Montreal man from the Philippines says he could face more than $1 million in medical bills after undergoing emergency spinal surgery without provincial health coverage.",
+      "url": "https://globalnews.ca/news/12108704/montreal-man-massive-medical-bills/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Screenshot-2026-10-19-223125.png",
+      "published": "Tue, 20 Oct 2026 09:00:03 +0000",
+      "location": "Montreal",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:38.849855"
+    },
+    {
+      "id": "b6dc4909d914",
+      "title": "The world may be going to hell in a handcart, but Canada is not. Not today",
+      "description": "In Canada, the past couple of years has brought a rediscovery of at least some common ground",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-the-world-may-be-going-to-hell-in-a-handcart-but-canada-is-not/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/7D6XI64HLBBIBNLTTTLWUPAT7M.jpg?auth=2c192885195c13aa4a36ae868b27746f44aae21f856985040dc2fbc13ee6d69f&smart=true&width=8256&height=5504",
+      "published": "Tue, 20 Oct 2026 09:00:00 +0000",
+      "location": "Canada",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:38.974318"
+    },
+    {
+      "id": "bdea49d1aae7",
+      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg",
+      "published": "Tue, 20 Oct 2026 08:58:26 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093572"
+      "fetched_at": "2026-10-20T09:08:39.834698"
+    },
+    {
+      "id": "d047c17d4b35",
+      "title": "French protests: Is it game over for Macron’s centrists before elections?",
+      "description": "The protests have further polarised the French and turned the youth into a key, angry, voting bloc.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 08:46:25 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685697"
+    },
+    {
+      "id": "fb746f93b8e9",
+      "title": "UEFA demands FIFA release key documents on World Cup sell-off plan",
+      "description": "In a letter outlining 42 questions, UEFA gives FIFA until November 2 to release documents on Infantino’s aborted plans.",
+      "url": "https://www.aljazeera.com/sports/2026/10/20/uefa-demands-fifa-release-key-documents-on-world-cup-sell-off-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 08:24:43 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685727"
+    },
+    {
+      "id": "865c8e2f9613",
+      "title": "France protests are ‘outburst of resentment’ against Macron",
+      "description": "French student union spokesperson Alice Cohen-Morzadec says the protests reflect growing anger over Macron&#039;s policies.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 08:11:30 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685750"
+    },
+    {
+      "id": "bc9e158dab15",
+      "title": "VR Receives NOI Permit with Expanded Drill Site Coverage for its New Boston Moly-Copper-Tungsten- Silver Porphyry Project in Nevada",
+      "description": "VANCOUVER, British Columbia, Oct. 20, 2026 (GLOBE NEWSWIRE) &#8212; VR Resources Limited (“VR” or the “Company”, TSX.V: VRR, FSE: 5VR; OTCQB: VRRCF) is pleased to confirm that its NOI drill permit expansion application and associated bond have been approved by the Nevada Bureau of Land Management (t",
+      "url": "https://financialpost.com/globe-newswire/vr-receives-noi-permit-with-expanded-drill-site-coverage-for-its-new-boston-moly-copper-tungsten-silver-porphyry-project-in-nevada",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 08:03:14 +0000",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:38.796169"
+    },
+    {
+      "id": "655e0cc23f74",
+      "title": "Only 8% of insurance BPO users would renew their contracts as-is",
+      "description": "Insurance outsourcing contracts are being reopened as buyers seek AI-led efficiency and stronger strategic value. HAMILTON, Bermuda &#8212; Only 8% of surveyed insurance organizations using business process outsourcing (BPO) would renew their contracts as-is. Among the 110 BPO users in the study, 86",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/only-8-of-insurance-bpo-users-would-renew-their-contracts-as-is",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 08:01:33 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:38.796202"
+    },
+    {
+      "id": "412006bca576",
+      "title": "We need to adopt ranked-vote elections | Letters to the Editor",
+      "description": "Letters to the editor of the Ottawa Citizen for Tuesday, Oct. 20, 2026",
+      "url": "https://ottawacitizen.com/opinion/we-need-to-adopt-ranked-vote-elections-letters-to-the-editor",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 08:00:56 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:41.626240"
+    },
+    {
+      "id": "3595a66c1c42",
+      "title": "Alex Lawson: The problem solver who wants to be a new voice as mayor",
+      "description": "He grew up in poverty and never went to university. But his life changed when he picked up a hammer and forged a career in the trades.",
+      "url": "https://ottawacitizen.com/news/alex-lawson-profile",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 08:00:43 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:41.626265"
+    },
+    {
+      "id": "e07f6d6705d2",
+      "title": "'Very much an open question': Carney's West Coast pipeline project could run into legal pitfalls",
+      "description": "First Nations have been clear that they view Bill C-5 as a violation of the United Nations Declaration on the Rights of Indigenous Peoples",
+      "url": "https://nationalpost.com/news/60-miles-an-hour-into-a-brick-wall-carneys-west-coast-pipeline-project-could-run-into-legal-pitfalls",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/pipeline-1.jpg",
+      "published": "Tue, 20 Oct 2026 08:00:03 +0000",
+      "location": "World",
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:39.410268"
+    },
+    {
+      "id": "c4f1f3503dc6",
+      "title": "Hacked Ottawa gym lost 11 valuable years of social media",
+      "description": "Iron North Studio lost access to its accounts in minutes.",
+      "url": "https://ottawacitizen.com/news/hacked-ottawa-gym-lost-social-media-accounts",
+      "source": "Ottawa Citizen",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 08:00:03 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:41.626283"
+    },
+    {
+      "id": "a0a317a92bf5",
+      "title": "Water shortages will threaten growth within five years, say over half of European industrial leaders",
+      "description": "Water stress is already hitting operating costs, supply chains and infrastructure across European industry Water shortages now rank as high as cyber-attacks and supply chain disruption for industrial business continuity Nearly 60% of leaders admit to not installing the technology they know could cut",
+      "url": "https://financialpost.com/globe-newswire/water-shortages-will-threaten-growth-within-five-years-say-over-half-of-european-industrial-leaders",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 07:32:47 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:38.796231"
+    },
+    {
+      "id": "698aa5abbf32",
+      "title": "How Zhengzhou Marathon turns race into journey through Chinese civilization",
+      "description": "The 2026 Zhengzhou Marathon ZHENGZHOU, China, Oct. 20, 2026 (GLOBE NEWSWIRE) &#8212; For most marathon runners, 42.195 kilometers is a test of endurance, discipline and will. In Zhengzhou, central China&#8217;s Henan Province, the distance can also become a journey through thousands of years of Chin",
+      "url": "https://financialpost.com/globe-newswire/how-zhengzhou-marathon-turns-race-into-journey-through-chinese-civilization",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 07:23:37 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:38.796256"
+    },
+    {
+      "id": "f0927ae55161",
+      "title": "Voters in Oil-Rich Alberta Reject Leaving Canada - The New York Times",
+      "description": "Voters in Oil-Rich Alberta Reject Leaving Canada&nbsp;&nbsp;The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeldIR0ZoMzhuSW44cWI0R0ppVUpaZXRNcVQ2cnBrZHBXY0ZEMXBneVRfdTZTTUx4dF8zX0ZhZDZxT2s2eGw3UVBkNUk4NmRDeUQwV1FpX3hBeHdjV1owUzBYNWdOMWtmQWlEQkR2bmdjeS1ydXk5TmtGbF9EVDFncGZEcHV0SHBtRUl4OFRkSVQyQQ?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 07:18:45 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:40.661556"
+    },
+    {
+      "id": "4d9175c6dd0c",
+      "title": "Albertans Vote to Stay in Canada in Historic Referendum - WSJ",
+      "description": "Albertans Vote to Stay in Canada in Historic Referendum&nbsp;&nbsp;WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2VNMTI5SjRETEprSTJLaFdTb0pnTjN4cjYteGlmRHllQ2toa1N3TXgtanhIY0FQSS1Zb1pzTjJLUVY3YVlIVFdBLXp6b3BhTHp2eUxINVF0V1BJT3JNQmwzSTIydGJiSVhEbVdLQVpyMDc3ME1nYjdIM3hyTzVyRzZTdVVjQnNSWFROODFUak16bko0cUZBa0dBaUh1LV9M?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 07:12:00 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:40.661600"
+    },
+    {
+      "id": "ed971e06e379",
+      "title": "Nano One Advances One-Pot LFP Customer Sampling with Sumitomo Metal Mining",
+      "description": "Highlights Positive feedback from SMM’s cell manufacturer and automaker customers on One-Pot™ samples Latest-generation LFP cathode material now ready for those customers as the next step in qualification Nano One estimates potential savings of up to US$1 million per year for every 1,000 tonnes per ",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nano-one-advances-one-pot-lfp-customer-sampling-with-sumitomo-metal-mining",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 07:10:43 +0000",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:38.796282"
+    },
+    {
+      "id": "4d8d2d06fa1f",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "source": "TechCrunch",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 07:01:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.512737"
+    },
+    {
+      "id": "7223456371c0",
+      "title": "Morocco’s not-so-new government faces new challenges",
+      "description": "The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:58:03 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685772"
+    },
+    {
+      "id": "4fa0acdf8feb",
+      "title": "Alberta voters reject separation from Canada, early results show - Al Jazeera",
+      "description": "Alberta voters reject separation from Canada, early results show&nbsp;&nbsp;Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUJSV3FPRjRUZktDN0tiNEhZcnlObm5aWW92NnNvbl9ydjh3X1dDNVVQczRaNFBEUFhxZ3loVzRJU25sMlZZdnpmeVE2MkNlekMtR0Jla0J5NHN1MGVjRFl1WnJCcHNtQi0zZHhEZ1NteVJ6RE0wWTFPTXJZcE1yX054X1FjbUtxYUJGa0Vwb191MEdYZDhiTHJ2dWYxWXBqN3VRRC1LWTXSAa4BQVVfeXFMT01hN0JFVGxZZmZZUHl4X0tPYzVmdDZBTVozeHhpazluLTdTLUNVbW1veWlMenBBN0piZTlxSmJwZ2RNbGFuVUhXQlQ1ajQ1Y0l6NjVmUFhvb0lBeXQyY2Rfa2hxQndWM0VZdEx4N3MwOE8wMkJxRlVadHJ1VkxxMGJyeFc3QWZUcDI3ZmpfZVlZWmxJa0x5QUlLTVJLMndPUmlSSGJjcm55VHZ3aXN3?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:47:39 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:40.661479"
+    },
+    {
+      "id": "aa87c7435ae4",
+      "title": "Alberta voters reject separation from Canada, early results show",
+      "description": "With more than one million votes counted, about 77 percent supported remaining in Canada.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:37:32 +0000",
+      "location": "Canada",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685792"
+    },
+    {
+      "id": "5906a746c341",
+      "title": "Alberta voters reject separation from Canada as Carney triumphs - The Japan Times",
+      "description": "Alberta voters reject separation from Canada as Carney triumphs&nbsp;&nbsp;The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEE0Q0UzWHBiT0hOWU9rUFJPcFZCMkZCYmFYbW4zTmF2QzJUdWlQUVZlOW9KZ0J3Slg5ZTVXRlpZZEpVTUs0VDRpV2VRM0lxcWhicFlZemY0bUlCblJGNV9ENUo4OEZFNUs1VThkX1ZMZ0tEak45VzFJM29RVDlsUEpHV3lxZlowVjNqWA?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:36:50 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:40.661533"
+    },
+    {
+      "id": "ce9a85cb7efd",
+      "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
+      "description": "Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine&#039;s president says arms shipments delayed.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:23:44 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685811"
+    },
+    {
+      "id": "49803a5cef3b",
+      "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+      "description": "Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:22:33 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685831"
+    },
+    {
+      "id": "a93882d981c0",
+      "title": "Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism",
+      "description": "FIFA punishes Egypt&#039;s head coach, forward and team manager for their comments after their World Cup loss to Argentina.",
+      "url": "https://www.aljazeera.com/sports/2026/10/20/egypts-hassan-and-zico-suspended-over-fifa-world-cup-refereeing-criticism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:21:56 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685852"
+    },
+    {
+      "id": "71acaeff3429",
+      "title": "Southeast Asia’s haze crisis will persist until polluters pay",
+      "description": "Cheap land clearing imposes costs across borders. ASEAN must change the incentives that keep the fires burning.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/20/southeast-asias-haze-crisis-will-persist-until-polluters-pay?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:20:23 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685873"
+    },
+    {
+      "id": "5e8d9a4cff6c",
+      "title": "Alberta referendum voters reject separatism, choose to stay in Canada - Global News",
+      "description": "Alberta referendum voters reject separatism, choose to stay in Canada&nbsp;&nbsp;Global News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kclBvZ0cyZmJGdVZhaXVuMDZSRnMyNy1CTEVQWDZkSUZiV2hIaGlBT2Ffb2V5TlZXenVIUnA4WFBfV25DdFNBWTNZQjVDTUZ0QU9Nc2J3LWdxcW1SLUJ6b1MyVUh3cUVheFBzR2pKaw?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:19:08 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:40.661645"
+    },
+    {
+      "id": "1324e0b5aa93",
+      "title": "Alberta referendum voters reject separatism, choose to stay in Canada",
+      "description": "Most of the province of Alberta has rejected a formal referendum on separatism and would rather remain part of Canada.",
+      "url": "https://globalnews.ca/news/12108827/alberta-referendum-result/",
+      "source": "Global Politics",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP177104864.jpg?quality=65&strip=all",
+      "published": "Tue, 20 Oct 2026 06:19:08 +0000",
+      "location": "Canada",
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:38.841479"
+    },
+    {
+      "id": "c900e80b3b91",
+      "title": "Investor Webinar Via Investor Meet Company",
+      "description": "THIS ANNOUNCEMENT AND THE INFORMATION CONTAINED HEREIN IS RESTRICTED AND IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN, INTO OR FROM AUSTRALIA, JAPAN OR THE REPUBLIC OF SOUTH AFRICA OR TO BE TRANSMITTED, DISTRIBUTED TO, OR SENT BY, ANY NATIONAL OR R",
+      "url": "https://financialpost.com/globe-newswire/investor-webinar-via-investor-meet-company",
+      "source": "Financial Post",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 06:00:59 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:38.796306"
+    },
+    {
+      "id": "f9adf0233ebe",
+      "title": "Alberta voters reject plan for referendum to leave Canada - The Guardian",
+      "description": "Alberta voters reject plan for referendum to leave Canada&nbsp;&nbsp;The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb29FYnNERnE5RTQ1UTNrU1BReXpNODFyVHg2ajFxOUZoaGd5azJzTEtnVXMyaHVTUGg2VlItVllfcENUQTBBUjduM040MDU0MUpFemRTRVNpTXEwZ1hQREFJQjhiajd4eF9rU0FieFRmbXRUNjVxUTA1N1RQLWVJWXhaX1h3c0NuWXcyZEUxMzFIQk5ITjRmRW9vR1dCckR4N1VSUDZB?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:50:00 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:40.661508"
+    },
+    {
+      "id": "24ecc3fc86fc",
+      "title": "Alberta rejects secession referendum, chooses to remain part of Canada, CBC projects - CNN",
+      "description": "Alberta rejects secession referendum, chooses to remain part of Canada, CBC projects&nbsp;&nbsp;CNN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlVNdDlTSXVrVV9qa285RHhFck15VUNGM3p1RVREV1JqMUZnckM4WTBJdlhmUEhCdU9EMWYtUzdQSm5kRnQ2ZWVuTldzYUtnTTFrSWJwMzFlc0EzeGlndDdjb21rXzFLUWJvNmRtMzNRaGs2VVdESWxmdkxNSlpjUjdITHRzblZFMnpPWUxQaVFCS29jMGpncTNGNA?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:36:26 GMT",
+      "location": "Vancouver",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:40.661665"
+    },
+    {
+      "id": "22c4241c9b5f",
+      "title": "Israel’s elections 2026 explained in maps and charts",
+      "description": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:25:31 +0000",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.685895"
+    },
+    {
+      "id": "9cbc2e3dbd08",
+      "title": "'Remain' vote takes early lead on a referendum night filled with confusion and late poll closures",
+      "description": "A collective whoop rose from the crowd at Forever Canadian headquarters at 11:04 p.m. Monday night, as the first batch of referendum results came in from Elections Alberta. Those early numbers gave the stay-in-Canada side a decisive lead over the separation side. By 11:30, CBC and CTV were projectin",
+      "url": "https://edmontonjournal.com/news/local-news/alberta-referendum-separatism-results-delayed-count",
+      "source": "Edmonton Journal",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:16:40 +0000",
+      "location": "Vancouver",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.074079"
+    },
+    {
+      "id": "5561ab58c0c0",
+      "title": "BREAKING: Alberta remaining in Canada leads with 77% of early vote - St. Albert Gazette",
+      "description": "BREAKING: Alberta remaining in Canada leads with 77% of early vote&nbsp;&nbsp;St. Albert Gazette",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOelJxazBMOTVfRWZRVjVhSFVuZzJIcW9YWTlRU0RuNi15TTdGWEVEc1dDdVF5NzZ3RGIxekVhaDEzeVYxMmdRMHBCZ2Zhb3JZU1ZKeTg4b1h5Wm10QWdrOWcycnVBd2lsUkY3dnJUZzIzeC1tekU1Ny1MM0xNWmx1Y2lDeGpDOVJ6d0hkMnNTTnR3bjVwSkJiemEzZzRhSXVXTG9xZVJIalFSZk9pcU9BQ2lZVTFUWlU?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:14:16 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:40.661689"
+    },
+    {
+      "id": "c0533214244f",
+      "title": "Garand makes 29 saves, Rangers defeat Ducks to stay undefeated at home - NHL.com",
+      "description": "Garand makes 29 saves, Rangers defeat Ducks to stay undefeated at home&nbsp;&nbsp;NHL.comNHL: Ducks 2, Rangers 5&nbsp;&nbsp;TSNRangers Find Their Offensive Rhythm In Win Over Ducks&nbsp;&nbsp;YahooRangers look to stay perfect at home as Ducks visit&nbsp;&nbsp;CBS SportsRangers top Ducks to remain un",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObU1VNFpjTFJ2LUVQa3pIN3RBLWVYSWJrMG8zaWlqOTVZVk9fWHR5NVZYQy1yVjR4Z3hyanpyNUZINFdmd3lMNmpPNWZVWEp3empNMG9XQk5NcURSXzBrOVZ6NnlIR2RGb3N2ZC1CV0pWVnlBcFpOT0dLTnlxYU1lQUxoWnhEbnYwaUE?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:05:21 GMT",
+      "location": "World",
+      "category": "sports",
+      "fetched_at": "2026-10-20T09:08:40.950333"
+    },
+    {
+      "id": "8ce15c8776ac",
+      "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
+      "description": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
+      "url": "https://www.wired.com/story/adorama-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827735"
+    },
+    {
+      "id": "75cc01b53556",
+      "title": "Mint Mobile Discounts for October 2026",
+      "description": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "url": "https://www.wired.com/story/mint-mobile-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827754"
+    },
+    {
+      "id": "53b8cf238944",
+      "title": "Mattress Firm Coupons: Save up to $700",
+      "description": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+      "url": "https://www.wired.com/story/mattress-firm-coupon/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827771"
+    },
+    {
+      "id": "aa8c6fb1debc",
+      "title": "Wayfair Coupons: Up to 80% Off October 2026",
+      "description": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827784"
+    },
+    {
+      "id": "759e38e9768d",
+      "title": "50% Off DoorDash Promo Code | October 2026",
+      "description": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827805"
+    },
+    {
+      "id": "615fcb9ad5d9",
+      "title": "Chewy Promo Codes: $20 Off October 2026",
+      "description": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827820"
+    },
+    {
+      "id": "508c9c5da1ee",
+      "title": "30% Off Canon Promo Codes | October 2026",
+      "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827834"
+    },
+    {
+      "id": "c337225bb38f",
+      "title": "Whoop Promo Codes: 20% Off This October 2026",
+      "description": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827850"
+    },
+    {
+      "id": "e908a5b08ea4",
+      "title": "Home Chef Promo Codes for October 2026",
+      "description": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+      "url": "https://www.wired.com/story/home-chef-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827863"
+    },
+    {
+      "id": "8a4b7aa5bc72",
+      "title": "AT&T Promo Codes: $50 Off This October 2026",
+      "description": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "source": "Wired",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:38.827880"
+    },
+    {
+      "id": "1a2f345cd390",
+      "title": "‘Big-time player’ McKenna helps Maple Leafs snap skid - Sportsnet.ca",
+      "description": "‘Big-time player’ McKenna helps Maple Leafs snap skid&nbsp;&nbsp;Sportsnet.caMcKenna steps up, delivers at critical time in Maple Leafs win&nbsp;&nbsp;NHL.comJim Hiller on snapping the losing streak vs. San Jose: \"We had to be gutsy to win that game... Good win for our team\"&nbsp;&nbsp;Maple Leaf Ho",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbW1IWlB1NVo5Y0E5M2VBQXhUMTl0ajRLT1ViS2Q0QXV4bmRVazdYWXhNVkowMmc1cmt0UldRNmJ5NG5aenpjLW9oVmpSTUtvSWE2T1RNU3JTVERMckVXUGZoNHdaQXhMRVlsaktxX0Yzb0pUeFZxM1ZRdERoZXlMaUp4a09qbmh3U3FGZzNpcXNSRGs?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 04:33:00 GMT",
+      "location": "World",
+      "category": "sports",
+      "fetched_at": "2026-10-20T09:08:40.949966"
+    },
+    {
+      "id": "10d2abfd2c2c",
+      "title": "McKenna back in the spotlight for Maple Leafs",
+      "description": "Gavin McKenna found himself stapled to the bench last Thursday.",
+      "url": "https://globalnews.ca/news/12108924/mckenna-back-in-the-spotlight-for-maple-leafs/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/b3d76d27e4518f1f2741fae920fc65c680ae8babc9625ad3f185e98e1a224870.jpg?quality=65&strip=all",
+      "published": "Tue, 20 Oct 2026 04:16:10 +0000",
+      "location": "World",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:38.849884"
+    },
+    {
+      "id": "bb62a6217377",
+      "title": "REPLACING CANADA: The High Cost of American Resource Independence - EnergyNow",
+      "description": "REPLACING CANADA: The High Cost of American Resource Independence&nbsp;&nbsp;EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGtrY25hNHNRcXNSQ3c2bmZnQkdKa3JZV3FYeFNaemNCaVhrZTRlOC1sWDV4c1FqQ2FRVm9tc1U5ck1uMmx3UE5IaG92V2RRY2VxSU5RcGdVQnJhQlRVdXhlZldTV0xqWVBMc2ItMEc0bkVmYmxGWk0zNTN6ckwxTk9MMUN5eTJZSXNwR29HTmNFc25NSkxncFVR?oc=5",
+      "source": "Google News Canada",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 04:08:23 GMT",
+      "location": "Canada",
+      "category": "canada",
+      "fetched_at": "2026-10-20T09:08:40.661578"
+    },
+    {
+      "id": "5e70bfd9b51c",
+      "title": "Green investment guidebook authors hold off on adding carbon capture for oil, gas after pushback",
+      "description": "Concerns were raised over extending the life of fossil fuels, locking in carbon-intensive energy and clashing with other countries’ taxonomies",
+      "url": "https://www.theglobeandmail.com/business/article-green-investment-guidebook-authors-hold-off-on-adding-carbon-capture/",
+      "source": "Globe Business",
+      "image": "https://www.theglobeandmail.com/resizer/v2/UGVDPDLI5BHV7JL77NM3GCY7OA.jpg?auth=5e71782763aa458901faf6bbdef7cdc56b7d0a27c7eefb372dc1790eac49d39f&smart=true&width=4800&height=3200",
+      "published": "Tue, 20 Oct 2026 04:01:00 +0000",
+      "location": "World",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:38.974382"
+    },
+    {
+      "id": "7545897d2f86",
+      "title": "Rays advance to World Series after Game 6 win over Guardians - Sportsnet.ca",
+      "description": "Rays advance to World Series after Game 6 win over Guardians&nbsp;&nbsp;Sportsnet.caWorld Series will have first-time champion as Rays set up showdown with Brewers&nbsp;&nbsp;The GuardianRays 7-3 Guardians (Oct 19, 2026) Game Recap&nbsp;&nbsp;ESPNRays finish off Guards to set up World Series clash v",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVEwc3JsdklkbHBZVTAtbTBKa28xSklGNnZMLXZZRzhpTHF6ZVcwRk9ETjM1c3o3Z1RBVGlDRXFqVHNUR2xPRGR1SzRKVy1pS3AzeS1SMTJsMHlvSVZJUjVLdFFLSEI0dFhNaE1kVVdPbVZlVzBadDZ2LVFiNkY0RHNsWml1TlJvYzJ4dnhfNk1UeVVYNmJJZzYwYjhBcDQ?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 03:59:00 GMT",
+      "location": "Vancouver",
+      "category": "sports",
+      "fetched_at": "2026-10-20T09:08:40.950015"
+    },
+    {
+      "id": "12df7f39de6b",
+      "title": "Harness racer dies in multi-horse crash at Osoyoos raceway",
+      "description": "Scott Knight, 52, of Langley had almost 1,500 wins before the accident",
+      "url": "https://vancouversun.com/news/harness-racer-dies-in-multi-horse-crash-at-osoyoos-raceway",
+      "source": "Vancouver Sun",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 03:51:25 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:41.201747"
+    },
+    {
+      "id": "b8413f001cfe",
+      "title": "Albertans back remaining in Canada in historic referendum vote",
+      "description": "Albertans have voted to remain in Canada, with unofficial referendum results showing a decisive majority rejecting a future binding vote on independence. Question 10 on Monday&#8217;s referendum ballot asked voters whether Alberta should remain in Canada or move toward a second, binding referendum o",
+      "url": "https://toronto.citynews.ca/2026/10/19/alberta-separation-results/",
+      "source": "CityNews Toronto",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 03:42:15 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:41.504284"
+    },
+    {
+      "id": "1af598decd66",
+      "title": "Albertans back remaining in Canada in historic referendum vote",
+      "description": "Albertans have voted to remain in Canada, with unofficial referendum results showing a decisive majority rejecting a future binding vote on independence. Question 10 on Monday&#8217;s referendum ballot asked voters whether Alberta should remain in Canada or move toward a second, binding referendum o",
+      "url": "https://montreal.citynews.ca/2026/10/19/alberta-separation-results/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 03:42:15 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:41.602569"
+    },
+    {
+      "id": "e8f5ea435710",
+      "title": "Albertans back remaining in Canada in historic referendum vote",
+      "description": "Albertans have voted to remain in Canada, with unofficial referendum results showing a decisive majority rejecting a future binding vote on independence. Question 10 on Monday&#8217;s referendum ballot asked voters whether Alberta should remain in Canada or move toward a second, binding referendum o",
+      "url": "https://edmonton.citynews.ca/2026/10/19/alberta-separation-results/",
+      "source": "CityNews Edmonton",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 03:42:15 +0000",
+      "location": "Edmonton",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.114735"
+    },
+    {
+      "id": "47bd3e45b09b",
+      "title": "Albertans back remaining in Canada in historic referendum vote",
+      "description": "Albertans have voted to remain in Canada, with unofficial referendum results showing a decisive majority rejecting a future binding vote on independence. Question 10 on Monday&#8217;s referendum ballot asked voters whether Alberta should remain in Canada or move toward a second, binding referendum o",
+      "url": "https://vancouver.citynews.ca/2026/10/19/alberta-separation-results/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 03:42:15 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.138467"
+    },
+    {
+      "id": "5553cf64981e",
+      "title": "Albertans back remaining in Canada in historic referendum vote",
+      "description": "Albertans have voted to remain in Canada, with unofficial referendum results showing a decisive majority rejecting a future binding vote on independence. Question 10 on Monday&#8217;s referendum ballot asked voters whether Alberta should remain in Canada or move toward a second, binding referendum o",
+      "url": "https://calgary.citynews.ca/2026/10/19/alberta-separation-results/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 03:42:15 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.178020"
+    },
+    {
+      "id": "3464075861fe",
+      "title": "Albertans back remaining in Canada in historic referendum vote",
+      "description": "Albertans have voted to remain in Canada, with unofficial referendum results showing a decisive majority rejecting a future binding vote on independence. Question 10 on Monday&#8217;s referendum ballot asked voters whether Alberta should remain in Canada or move toward a second, binding referendum o",
+      "url": "https://ottawa.citynews.ca/2026/10/19/alberta-separation-results/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 03:42:15 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.518276"
+    },
+    {
+      "id": "18f4be3a3c97",
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f1e/live/5b9b0010-cc2f-11f1-aeea-f9fa95687445.png",
+      "published": "Tue, 20 Oct 2026 03:10:39 GMT",
+      "location": "Canada",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.834751"
     },
     {
       "id": "01cd5776cf80",
@@ -60,7 +768,7 @@
       "published": "Tue, 20 Oct 2026 03:06:21 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219525"
+      "fetched_at": "2026-10-20T09:08:38.849898"
     },
     {
       "id": "d77a4f2bf033",
@@ -72,19 +780,19 @@
       "published": "Tue, 20 Oct 2026 03:02:43 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219557"
+      "fetched_at": "2026-10-20T09:08:38.849916"
     },
     {
-      "id": "f441368ab18b",
-      "title": "PSG vs Barcelona: UEFA Champions League – Yamal, Torres, predictions, teams",
-      "description": "Lamine Yamal faces ex-teammate Ferran Torres as in-form Barcelona take on holders PSG in a spicy encounter in Paris.",
-      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-vs-barcelona-uefa-champions-league-yamal-torres-predictions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 02:52:50 +0000",
+      "id": "14db841bdb15",
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b732/live/2812da60-cc20-11f1-bc2e-018d645d8d21.jpg",
+      "published": "Tue, 20 Oct 2026 02:45:05 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093692"
+      "fetched_at": "2026-10-20T09:08:39.834734"
     },
     {
       "id": "ba8c3d737f80",
@@ -96,31 +804,7 @@
       "published": "Tue, 20 Oct 2026 02:43:06 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.537740"
-    },
-    {
-      "id": "f0927ae55161",
-      "title": "Oil-Rich Alberta Votes on its Future in Canada - The New York Times",
-      "description": "Oil-Rich Alberta Votes on its Future in Canada&nbsp;&nbsp;The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeldIR0ZoMzhuSW44cWI0R0ppVUpaZXRNcVQ2cnBrZHBXY0ZEMXBneVRfdTZTTUx4dF8zX0ZhZDZxT2s2eGw3UVBkNUk4NmRDeUQwV1FpX3hBeHdjV1owUzBYNWdOMWtmQWlEQkR2bmdjeS1ydXk5TmtGbF9EVDFncGZEcHV0SHBtRUl4OFRkSVQyQQ?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 02:41:51 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581319"
-    },
-    {
-      "id": "989aca5f27bc",
-      "title": "Man claims arm broken in violent ICE arrest",
-      "description": "Video shows a man screaming in pain as ICE agents pin him down during an arrest in Long Beach, California.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/man-claims-arm-broken-in-violent-ice-arrest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 02:41:05 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093725"
+      "fetched_at": "2026-10-20T09:08:41.201773"
     },
     {
       "id": "416065dc2da5",
@@ -132,31 +816,7 @@
       "published": "Tue, 20 Oct 2026 02:39:58 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450094"
-    },
-    {
-      "id": "e2aa0b40803f",
-      "title": "Four dead as torrential rain batters eastern Spain",
-      "description": "Cars swept away, roads submerged and residents isolated in parts of Spain&#039;s Mediterranean coast.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 02:36:34 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093746"
-    },
-    {
-      "id": "a7ecfeef31e5",
-      "title": "McKenna scores game-winner to lift Leafs over Sharks, snap three-game skid - Sportsnet.ca",
-      "description": "McKenna scores game-winner to lift Leafs over Sharks, snap three-game skid&nbsp;&nbsp;Sportsnet.caSharks at Maple Leafs projected lineups&nbsp;&nbsp;NHL.comGavin McKenna scores and the Maple Leafs end a 3-game slide with 3-1 win over the Sharks&nbsp;&nbsp;CTV NewsMaple Leafs vs. Sharks: McKenna prev",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemNLY21XSlQ0MFV6aFBPZy1EZkhPN3BVQk5sdXhlTDVhYVVWSDlsNlhrY3pKcmJMaHQwSnlnRE9lVm9NT3ZwZDdlMWVnQmMxR1JRcW9MMXBWZHJrQlE0cUFKZDM2WHJNNUhrNldtMndkTkFWZTQ4QmJueXQxejFRaXQ3UTY4RXlvcGs3M0swOWJ6SkhYVDZYZld4YlF1bjhVcDJZMHJaM3FONnpmM0Q0NA?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 02:30:00 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.780617"
+      "fetched_at": "2026-10-20T09:08:41.602602"
     },
     {
       "id": "5fd2786d9a5f",
@@ -168,7 +828,7 @@
       "published": "Tue, 20 Oct 2026 02:27:05 +0000",
       "location": "Toronto",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936047"
+      "fetched_at": "2026-10-20T09:08:38.796328"
     },
     {
       "id": "6cf8e5e7d145",
@@ -180,7 +840,7 @@
       "published": "Tue, 20 Oct 2026 02:26:01 +0000",
       "location": "Toronto",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219572"
+      "fetched_at": "2026-10-20T09:08:38.849927"
     },
     {
       "id": "0bb7b17aa31b",
@@ -192,7 +852,7 @@
       "published": "Tue, 20 Oct 2026 02:13:20 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.234934"
+      "fetched_at": "2026-10-20T09:08:41.504317"
     },
     {
       "id": "13f9a354daf2",
@@ -204,7 +864,7 @@
       "published": "Tue, 20 Oct 2026 02:06:00 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936088"
+      "fetched_at": "2026-10-20T09:08:38.796362"
     },
     {
       "id": "395604b7026e",
@@ -216,7 +876,7 @@
       "published": "Tue, 20 Oct 2026 02:00:30 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219808"
+      "fetched_at": "2026-10-20T09:08:38.849959"
     },
     {
       "id": "3edce7d95d8a",
@@ -228,43 +888,7 @@
       "published": "Tue, 20 Oct 2026 02:00:00 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.237993"
-    },
-    {
-      "id": "ae2c98a0724b",
-      "title": "The human cost of surging US air strikes in Somalia",
-      "description": "Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 01:52:32 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093765"
-    },
-    {
-      "id": "fa873643269e",
-      "title": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
-      "description": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 01:50:15 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093783"
-    },
-    {
-      "id": "7051c591db7a",
-      "title": "Beyond money: Why young Tunisians are considering emigration",
-      "description": "For many young Tunisians, the question is no longer simply how to make a living, but where they can build a future.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 01:47:42 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093803"
+      "fetched_at": "2026-10-20T09:08:38.512764"
     },
     {
       "id": "2f5341c34f82",
@@ -276,19 +900,7 @@
       "published": "Tue, 20 Oct 2026 01:45:32 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.234966"
-    },
-    {
-      "id": "a67874396085",
-      "title": "Two charged, 127 kg of cocaine seized at Ambassador Bridge: CBSA",
-      "description": "Canada Border Services Agency says two men were charged after the seizure of 127 kilograms of suspected cocaine at Ambassador Bridge border crossing in Windsor, Ont., last month.&#160; The CBSA alleges the drug was seized from a commercial truck arriving from the United States after it was referred ",
-      "url": "https://vancouver.citynews.ca/2026/10/19/two-charged-127-kg-of-cocaine-seized-at-ambassador-bridge-cbsa/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 01:45:32 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274066"
+      "fetched_at": "2026-10-20T09:08:41.504345"
     },
     {
       "id": "8a46a9c97afc",
@@ -300,31 +912,7 @@
       "published": "Tue, 20 Oct 2026 01:45:32 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450128"
-    },
-    {
-      "id": "6ff07fd27caf",
-      "title": "Two charged, 127 kg of cocaine seized at Ambassador Bridge: CBSA",
-      "description": "Canada Border Services Agency says two men were charged after the seizure of 127 kilograms of suspected cocaine at Ambassador Bridge border crossing in Windsor, Ont., last month.&#160; The CBSA alleges the drug was seized from a commercial truck arriving from the United States after it was referred ",
-      "url": "https://calgary.citynews.ca/2026/10/19/two-charged-127-kg-of-cocaine-seized-at-ambassador-bridge-cbsa/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 01:45:32 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649368"
-    },
-    {
-      "id": "f0aaf5eff719",
-      "title": "Two charged, 127 kg of cocaine seized at Ambassador Bridge: CBSA",
-      "description": "Canada Border Services Agency says two men were charged after the seizure of 127 kilograms of suspected cocaine at Ambassador Bridge border crossing in Windsor, Ont., last month.&#160; The CBSA alleges the drug was seized from a commercial truck arriving from the United States after it was referred ",
-      "url": "https://ottawa.citynews.ca/2026/10/19/two-charged-127-kg-of-cocaine-seized-at-ambassador-bridge-cbsa/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 01:45:32 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739111"
+      "fetched_at": "2026-10-20T09:08:41.602631"
     },
     {
       "id": "1f08413a78b9",
@@ -336,7 +924,43 @@
       "published": "Tue, 20 Oct 2026 01:45:32 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931616"
+      "fetched_at": "2026-10-20T09:08:42.114771"
+    },
+    {
+      "id": "a67874396085",
+      "title": "Two charged, 127 kg of cocaine seized at Ambassador Bridge: CBSA",
+      "description": "Canada Border Services Agency says two men were charged after the seizure of 127 kilograms of suspected cocaine at Ambassador Bridge border crossing in Windsor, Ont., last month.&#160; The CBSA alleges the drug was seized from a commercial truck arriving from the United States after it was referred ",
+      "url": "https://vancouver.citynews.ca/2026/10/19/two-charged-127-kg-of-cocaine-seized-at-ambassador-bridge-cbsa/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 01:45:32 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.138497"
+    },
+    {
+      "id": "6ff07fd27caf",
+      "title": "Two charged, 127 kg of cocaine seized at Ambassador Bridge: CBSA",
+      "description": "Canada Border Services Agency says two men were charged after the seizure of 127 kilograms of suspected cocaine at Ambassador Bridge border crossing in Windsor, Ont., last month.&#160; The CBSA alleges the drug was seized from a commercial truck arriving from the United States after it was referred ",
+      "url": "https://calgary.citynews.ca/2026/10/19/two-charged-127-kg-of-cocaine-seized-at-ambassador-bridge-cbsa/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 01:45:32 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.178051"
+    },
+    {
+      "id": "f0aaf5eff719",
+      "title": "Two charged, 127 kg of cocaine seized at Ambassador Bridge: CBSA",
+      "description": "Canada Border Services Agency says two men were charged after the seizure of 127 kilograms of suspected cocaine at Ambassador Bridge border crossing in Windsor, Ont., last month.&#160; The CBSA alleges the drug was seized from a commercial truck arriving from the United States after it was referred ",
+      "url": "https://ottawa.citynews.ca/2026/10/19/two-charged-127-kg-of-cocaine-seized-at-ambassador-bridge-cbsa/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 01:45:32 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.518306"
     },
     {
       "id": "f530450fa4e5",
@@ -348,19 +972,7 @@
       "published": "Tue, 20 Oct 2026 01:36:29 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931662"
-    },
-    {
-      "id": "41adc0a81f20",
-      "title": "Defence strengthens ties with 2SLGBTQI+ communities - Canada.ca",
-      "description": "Defence strengthens ties with 2SLGBTQI+ communities&nbsp;&nbsp;Canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObHROemVkMUluU2IwTThDOFVzSVdvQnNnTmRfVXJkOVNNY1dfSHQ4YmpKSTRYOHZ2Wkg1R3dGZFpJeXJPbjU0Q3psVUVwbVZjSHJpazZpTGdTaE5ZQ2VNenNvUEpqZHdwYkNSQVZFOEZiVGdJTnI4N0hEVTVoVTU0MkU1bDJDWUR2amxMWURFWlV3WThkUmFoMXhCX0tlMVIyUDlMcG1EaExnUnk2Nm1Eckp5dVlybW9ja2IyUDdwQThVZHB5RUU0VDg4b0xtbGpX?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 01:35:51 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581502"
+      "fetched_at": "2026-10-20T09:08:42.114813"
     },
     {
       "id": "1dedd3e07c5e",
@@ -372,7 +984,7 @@
       "published": "Tue, 20 Oct 2026 01:28:55 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219830"
+      "fetched_at": "2026-10-20T09:08:38.849974"
     },
     {
       "id": "57291fadff56",
@@ -384,7 +996,7 @@
       "published": "Tue, 20 Oct 2026 01:27:03 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.238024"
+      "fetched_at": "2026-10-20T09:08:38.512786"
     },
     {
       "id": "8f1683b3930b",
@@ -396,7 +1008,7 @@
       "published": "Tue, 20 Oct 2026 01:21:55 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450208"
+      "fetched_at": "2026-10-20T09:08:41.602661"
     },
     {
       "id": "2c937a06374f",
@@ -408,7 +1020,7 @@
       "published": "Tue, 20 Oct 2026 01:14:23 +0000",
       "location": "Winnipeg",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219845"
+      "fetched_at": "2026-10-20T09:08:38.849987"
     },
     {
       "id": "d0b27aa4e438",
@@ -420,7 +1032,7 @@
       "published": "Tue, 20 Oct 2026 01:09:20 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450247"
+      "fetched_at": "2026-10-20T09:08:41.602701"
     },
     {
       "id": "0f438c738333",
@@ -432,7 +1044,7 @@
       "published": "Tue, 20 Oct 2026 01:08:18 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068569"
+      "fetched_at": "2026-10-20T09:08:41.626303"
     },
     {
       "id": "39e4272bed42",
@@ -444,19 +1056,7 @@
       "published": "Tue, 20 Oct 2026 01:07:11 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649397"
-    },
-    {
-      "id": "6b71691bc75b",
-      "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
-      "description": "Riyadh postpones flagship investment conference until 2027, orders government staff to work from home.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 01:05:31 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093824"
+      "fetched_at": "2026-10-20T09:08:42.178076"
     },
     {
       "id": "4d6236de20cf",
@@ -468,31 +1068,7 @@
       "published": "Tue, 20 Oct 2026 01:02:14 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077090"
-    },
-    {
-      "id": "36762f8c5187",
-      "title": "Could change in B.C. municipal elections echo in provincial vote?",
-      "description": "Former Surrey councillor Barinder Rasode said it appeared to be an election driven by a desire for change, not an ideological shift.",
-      "url": "https://globalnews.ca/news/12108430/bc-municipalities-changes-election-day-what-mean-provincial-election/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/1dd30047ba87014e41083cc664aac8dd144323c0dea23f28cc7405179b26f7a5_07fd40.jpg?quality=65&strip=all",
-      "published": "Tue, 20 Oct 2026 00:46:01 +0000",
-      "location": "Vancouver",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219857"
-    },
-    {
-      "id": "5906a746c341",
-      "title": "Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat - The Japan Times",
-      "description": "Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat&nbsp;&nbsp;The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEE0Q0UzWHBiT0hOWU9rUFJPcFZCMkZCYmFYbW4zTmF2QzJUdWlQUVZlOW9KZ0J3Slg5ZTVXRlpZZEpVTUs0VDRpV2VRM0lxcWhicFlZemY0bUlCblJGNV9ENUo4OEZFNUs1VThkX1ZMZ0tEak45VzFJM29RVDlsUEpHV3lxZlowVjNqWA?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 00:38:00 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581380"
+      "fetched_at": "2026-10-20T09:08:42.074106"
     },
     {
       "id": "de874710207e",
@@ -504,7 +1080,7 @@
       "published": "Tue, 20 Oct 2026 00:32:55 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649424"
+      "fetched_at": "2026-10-20T09:08:42.178102"
     },
     {
       "id": "b9b66d5bfe3b",
@@ -516,7 +1092,7 @@
       "published": "Tue, 20 Oct 2026 00:31:02 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.623973"
+      "fetched_at": "2026-10-20T09:08:38.974362"
     },
     {
       "id": "9d63b8e74bdd",
@@ -528,7 +1104,7 @@
       "published": "Tue, 20 Oct 2026 00:28:00 GMT",
       "location": "Toronto",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:48.664715"
+      "fetched_at": "2026-10-20T09:08:41.052728"
     },
     {
       "id": "bf2b1afdac52",
@@ -540,7 +1116,7 @@
       "published": "Tue, 20 Oct 2026 00:22:31 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077115"
+      "fetched_at": "2026-10-20T09:08:42.074129"
     },
     {
       "id": "83a1badf5e9d",
@@ -552,31 +1128,7 @@
       "published": "Tue, 20 Oct 2026 00:19:42 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.537773"
-    },
-    {
-      "id": "8d2847041da4",
-      "title": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
-      "description": "A protester demanding the release of the Epstein files interrupted US Vice President JD Vance&#039;s speech.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 00:18:48 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093846"
-    },
-    {
-      "id": "cae5fe15a2fd",
-      "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
-      "description": "US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.",
-      "url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
-      "source": "Al Jazeera",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 00:18:20 +0000",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.093867"
+      "fetched_at": "2026-10-20T09:08:41.201793"
     },
     {
       "id": "2b69e9b76a12",
@@ -588,7 +1140,7 @@
       "published": "Tue, 20 Oct 2026 00:14:11 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077135"
+      "fetched_at": "2026-10-20T09:08:42.074149"
     },
     {
       "id": "1396c0b7d5bb",
@@ -600,7 +1152,7 @@
       "published": "Tue, 20 Oct 2026 00:08:21 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.537804"
+      "fetched_at": "2026-10-20T09:08:41.201816"
     },
     {
       "id": "4556483653a9",
@@ -612,7 +1164,7 @@
       "published": "Tue, 20 Oct 2026 00:04:29 +0000",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936114"
+      "fetched_at": "2026-10-20T09:08:38.796386"
     },
     {
       "id": "05ea19344a14",
@@ -624,7 +1176,7 @@
       "published": "Tue, 18 Apr 2023 15:39:40 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.153384"
+      "fetched_at": "2026-10-20T09:08:39.978257"
     },
     {
       "id": "01b90eaf7b77",
@@ -636,7 +1188,7 @@
       "published": "Tue, 13 Oct 2026 11:01:53 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.942021"
+      "fetched_at": "2026-10-20T09:08:41.573201"
     },
     {
       "id": "a2b7282df523",
@@ -648,7 +1200,7 @@
       "published": "Thu, 30 Mar 2023 17:43:18 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.153401"
+      "fetched_at": "2026-10-20T09:08:39.978274"
     },
     {
       "id": "b88ac45ab892",
@@ -660,7 +1212,7 @@
       "published": "Thu, 15 Oct 2026 11:00:48 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.941918"
+      "fetched_at": "2026-10-20T09:08:41.573097"
     },
     {
       "id": "1f14852c8c6b",
@@ -672,7 +1224,7 @@
       "published": "Thu, 15 Oct 2026 11:00:13 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.941946"
+      "fetched_at": "2026-10-20T09:08:41.573126"
     },
     {
       "id": "a3777a8bac7b",
@@ -684,7 +1236,7 @@
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.153305"
+      "fetched_at": "2026-10-20T09:08:39.978181"
     },
     {
       "id": "48332101e695",
@@ -696,7 +1248,7 @@
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.153356"
+      "fetched_at": "2026-10-20T09:08:39.978228"
     },
     {
       "id": "ddc39497d7b8",
@@ -708,7 +1260,7 @@
       "published": "Sun, 18 Oct 2026 23:57:33 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.623913"
+      "fetched_at": "2026-10-20T09:08:38.974398"
     },
     {
       "id": "c0694326ef99",
@@ -720,7 +1272,7 @@
       "published": "Sun, 18 Oct 2026 23:53:13 GMT",
       "location": "Canada",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.054811"
+      "fetched_at": "2026-10-20T09:08:39.658980"
     },
     {
       "id": "0599b6facc02",
@@ -732,7 +1284,7 @@
       "published": "Sun, 18 Oct 2026 20:52:24 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.623935"
+      "fetched_at": "2026-10-20T09:08:38.974415"
     },
     {
       "id": "86307ab92b8a",
@@ -744,19 +1296,7 @@
       "published": "Sun, 18 Oct 2026 20:32:07 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-10-20T03:32:48.058874"
-    },
-    {
-      "id": "7f890744d0b5",
-      "title": "McKenna to face Celebrini for first time in NHL when Maple Leafs host Sharks - NHL.com",
-      "description": "McKenna to face Celebrini for first time in NHL when Maple Leafs host Sharks&nbsp;&nbsp;NHL.comGavin McKenna Watch: No. 1 pick, Maple Leafs face off against Celebrini, Sharks&nbsp;&nbsp;NHL.comMcKenna surviving under the Toronto microscope&nbsp;&nbsp;The Globe and MailMaple Leafs’ Gavin McKenna talk",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNzZrVV8wSGloSW83MTU5Q05jM1dXUEtGc3ZTcUVkUW5OUk9pZ01EWHJpdDItald0ZzI2S3U2eUV3M0tiZU5FN0FmTWxhUkJPc2s0SE42SkVSRHdoRUZHbUkyZnl2LXpoMjVCY1NIWDlXQ2I1V3FqcnpfcS1vZDBKN3VTVDgyTzJ0QUhtdVJpQQ?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Sun, 18 Oct 2026 16:07:36 GMT",
-      "location": "Toronto",
-      "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.780997"
+      "fetched_at": "2026-10-20T09:08:39.177584"
     },
     {
       "id": "7eed23f55f60",
@@ -768,7 +1308,7 @@
       "published": "Sun, 18 Oct 2026 11:00:51 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.941814"
+      "fetched_at": "2026-10-20T09:08:41.572990"
     },
     {
       "id": "af73d09818f7",
@@ -780,7 +1320,7 @@
       "published": "Sun, 18 Oct 2026 10:00:54 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-10-20T03:32:47.267519"
+      "fetched_at": "2026-10-20T09:08:38.841637"
     },
     {
       "id": "ed24048d30df",
@@ -792,7 +1332,7 @@
       "published": "Sun, 18 Oct 2026 09:37:21 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-10-20T03:32:48.058813"
+      "fetched_at": "2026-10-20T09:08:39.177529"
     },
     {
       "id": "7243244a2f6d",
@@ -804,7 +1344,7 @@
       "published": "Sun, 18 Oct 2026 09:00:55 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.054701"
+      "fetched_at": "2026-10-20T09:08:39.658819"
     },
     {
       "id": "10f31ea59a2f",
@@ -816,7 +1356,7 @@
       "published": "Sun, 18 Oct 2026 08:52:13 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-10-20T03:32:48.058899"
+      "fetched_at": "2026-10-20T09:08:39.177608"
     },
     {
       "id": "274a5b3bb3a1",
@@ -828,7 +1368,7 @@
       "published": "Sun, 18 Oct 2026 05:41:44 EDT",
       "location": "World",
       "category": "science",
-      "fetched_at": "2026-10-20T03:32:48.058922"
+      "fetched_at": "2026-10-20T09:08:39.177629"
     },
     {
       "id": "961affa9bc79",
@@ -840,19 +1380,7 @@
       "published": "Sun, 18 Oct 2026 04:00:49 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.054856"
-    },
-    {
-      "id": "3fe09c046bf0",
-      "title": "Search continues after boat capsizes off Baja California coast. Survivors attacked by sharks - CTV News",
-      "description": "Search continues after boat capsizes off Baja California coast. Survivors attacked by sharks&nbsp;&nbsp;CTV NewsSee more headlines & perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnd2dGktN2lRT2pMT2hYQzN0d2pHakVpYkpobUZJV2psSmlpVlVHVUVYemR6SWZnQmpSTENYWkdnejR4WkR0MXZENl9waGJYLVVYMGdtWFpsZk5tdE9CR3dKcm1IM2xGT0VZNHdnQVZvVTYzbmczMjc3dXZLY0V2VGMzRzhqcDhsOWdIdUJHXzZEZTN5QUpqc2U5WTl0cm1XY3FUMHJ3MWhzcHJYZ1Y1aG1QeWpFcmJzZHFSc0xwSFF6N213R0R1Vg?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Sat, 17 Oct 2026 23:14:15 GMT",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:48.664432"
+      "fetched_at": "2026-10-20T09:08:39.659028"
     },
     {
       "id": "746bd0b5e250",
@@ -864,7 +1392,7 @@
       "published": "Sat, 17 Oct 2026 21:47:28 +0000",
       "location": "Montreal",
       "category": "politics",
-      "fetched_at": "2026-10-20T03:32:47.267535"
+      "fetched_at": "2026-10-20T09:08:38.841660"
     },
     {
       "id": "b9e60b0b36e8",
@@ -876,7 +1404,7 @@
       "published": "Sat, 17 Oct 2026 14:55:48 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-10-20T03:32:47.285984"
+      "fetched_at": "2026-10-20T09:08:38.503099"
     },
     {
       "id": "826ad91c7cff",
@@ -888,7 +1416,7 @@
       "published": "Sat, 17 Oct 2026 14:48:47 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-10-20T03:32:47.267556"
+      "fetched_at": "2026-10-20T09:08:38.841689"
     },
     {
       "id": "7e6f6b8742a7",
@@ -900,7 +1428,7 @@
       "published": "Sat, 17 Oct 2026 13:37:44 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-10-20T03:32:47.267575"
+      "fetched_at": "2026-10-20T09:08:38.841718"
     },
     {
       "id": "08037d901332",
@@ -912,19 +1440,7 @@
       "published": "Sat, 17 Oct 2026 11:00:01 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.941840"
-    },
-    {
-      "id": "a37000855a95",
-      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
-      "description": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024Get our breaking news email, free app or daily news podcastA Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/201_0_2463_1970/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=63953268ca6673aa7647702fcd6065c4",
-      "published": "Sat, 17 Oct 2026 02:52:59 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.054900"
+      "fetched_at": "2026-10-20T09:08:41.573017"
     },
     {
       "id": "b650d7229c46",
@@ -936,7 +1452,7 @@
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.153322"
+      "fetched_at": "2026-10-20T09:08:39.978198"
     },
     {
       "id": "9e7e89477d80",
@@ -948,19 +1464,19 @@
       "published": "Mon, 19 Oct 2026 23:59:21 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936147"
+      "fetched_at": "2026-10-20T09:08:38.796417"
     },
     {
       "id": "d9e9d59f5d9a",
       "title": "Alberta voting locations extend hours after late openings, delaying referendum results",
       "description": "Elections Alberta says that for various reasons some locations opened late, so it cannot release unofficial results until 10 p.m. when the last polling station closes.",
       "url": "https://globalnews.ca/news/12108591/alberta-referendum-voting-hours-extended-locations/",
-      "source": "Global News",
+      "source": "Global Politics",
       "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP177116593.jpg?quality=65&strip=all",
       "published": "Mon, 19 Oct 2026 23:47:20 +0000",
       "location": "World",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219873"
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:38.841506"
     },
     {
       "id": "75c745901d14",
@@ -972,19 +1488,7 @@
       "published": "Mon, 19 Oct 2026 23:43:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.234993"
-    },
-    {
-      "id": "107d901b8ffc",
-      "title": "Mounties investigate after man flashes knife at youth in Tumbler Ridge, B.C.",
-      "description": "TUMBLER RIDGE — Mounties in Tumbler Ridge, B.C., say a man is in custody after flashing a knife at youth over the weekend.",
-      "url": "https://vancouver.citynews.ca/2026/10/19/mounties-investigate-after-man-flashes-knife-at-youth-in-tumbler-ridge-b-c/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 23:43:57 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274096"
+      "fetched_at": "2026-10-20T09:08:41.504372"
     },
     {
       "id": "d56eaf21f38f",
@@ -996,7 +1500,19 @@
       "published": "Mon, 19 Oct 2026 23:43:57 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450274"
+      "fetched_at": "2026-10-20T09:08:41.602729"
+    },
+    {
+      "id": "107d901b8ffc",
+      "title": "Mounties investigate after man flashes knife at youth in Tumbler Ridge, B.C.",
+      "description": "TUMBLER RIDGE — Mounties in Tumbler Ridge, B.C., say a man is in custody after flashing a knife at youth over the weekend.",
+      "url": "https://vancouver.citynews.ca/2026/10/19/mounties-investigate-after-man-flashes-knife-at-youth-in-tumbler-ridge-b-c/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 23:43:57 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.138524"
     },
     {
       "id": "a5c2a61df982",
@@ -1008,7 +1524,7 @@
       "published": "Mon, 19 Oct 2026 23:43:57 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649464"
+      "fetched_at": "2026-10-20T09:08:42.178128"
     },
     {
       "id": "71099e85ac04",
@@ -1020,7 +1536,7 @@
       "published": "Mon, 19 Oct 2026 23:41:54 +0000",
       "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.624009"
+      "fetched_at": "2026-10-20T09:08:38.974466"
     },
     {
       "id": "3339a8af8a41",
@@ -1032,7 +1548,7 @@
       "published": "Mon, 19 Oct 2026 23:41:52 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068595"
+      "fetched_at": "2026-10-20T09:08:41.626323"
     },
     {
       "id": "60a2242e62f7",
@@ -1044,7 +1560,7 @@
       "published": "Mon, 19 Oct 2026 23:40:01 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:48.870322"
+      "fetched_at": "2026-10-20T09:08:40.572737"
     },
     {
       "id": "e156b2b76d37",
@@ -1056,19 +1572,7 @@
       "published": "Mon, 19 Oct 2026 23:40:01 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.623991"
-    },
-    {
-      "id": "070b76b02437",
-      "title": "Manitobans roll up sleeves to donate blood after CFB Wainwright tragedy",
-      "description": "Morris Kulbaba sits with a needle jabbed in his arm as he's waiting for platelets to be taken in hopes it helps the critically injured from CFB Wainwright.",
-      "url": "https://globalnews.ca/news/12108455/manitobans-roll-up-sleeves-donate-blood-after-cfb-wainwright-tragedy/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/MORRIS-KULBABA-2-1.jpg?quality=65&strip=all",
-      "published": "Mon, 19 Oct 2026 23:39:47 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219888"
+      "fetched_at": "2026-10-20T09:08:38.974449"
     },
     {
       "id": "a9300eed29e4",
@@ -1080,31 +1584,7 @@
       "published": "Mon, 19 Oct 2026 23:39:38 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.238046"
-    },
-    {
-      "id": "9106f1834d7c",
-      "title": "Alkane Drilling Confirms and Extends Gold-Antimony Mineral System at Nagambie, Victoria",
-      "description": "PERTH, Western Australia, Oct. 19, 2026 (GLOBE NEWSWIRE) &#8212; Alkane Resources Limited (ASX: ALK; TSX: ALK; OTCQX: ALKRY) (‘Alkane’) is pleased to announce the initial exploration results from an earn-in period in which Alkane has agreed to initially spend a total of $12.5M on exploration and eva",
-      "url": "https://financialpost.com/globe-newswire/alkane-drilling-confirms-and-extends-gold-antimony-mineral-system-at-nagambie-victoria",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 23:35:05 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936176"
-    },
-    {
-      "id": "23ca52496855",
-      "title": "Albertans vote on path to independence as Carney fights to keep Canada united - AP News",
-      "description": "Albertans vote on path to independence as Carney fights to keep Canada united&nbsp;&nbsp;AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEF6b1VtZEhfTjVRbnJ2WGFBUUVVaU1BYnJndVVSOVp2R1NValFBX2JnVGk1TVNLYkZTaTc0NTQwSkItZlpUUlRpLTVtMS1PeTFHbDZBeVpTeDhXbmxDSzdkZ3VyLXg4Q2xLNWluZ2hJVDVHZlU3U29KVjExNGJiOENTNG81RnJwelJZcmR6elNGMWtHdDJLM1BFMURpYTZ5ZFMzeDM0bm96dGowOFRB?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 23:28:00 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581355"
+      "fetched_at": "2026-10-20T09:08:38.512809"
     },
     {
       "id": "d79fddbc9008",
@@ -1116,19 +1596,19 @@
       "published": "Mon, 19 Oct 2026 23:27:16 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.537821"
+      "fetched_at": "2026-10-20T09:08:41.201833"
     },
     {
       "id": "1594869f2cbc",
-      "title": "Witness at Toronto gold heist trial says snitching is never ‘a positive thing’ but his sudden memory loss isn’t out of fear",
+      "title": "Witness at Toronto gold heist trial says snitching is never 'a positive thing' but his sudden memory loss isn't out of fear",
       "description": "After much testimony marked by little memory and complaints of ‘feeling triggered’ by questions, Arsalan Chaudhary was asked if his reticence was more about prison culture than mental health",
       "url": "https://nationalpost.com/news/toronto-gold-heist-trial",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/Arsalan-Chaudhary-2.jpg",
       "published": "Mon, 19 Oct 2026 23:21:28 +0000",
       "location": "Toronto",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421293"
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:39.410295"
     },
     {
       "id": "b6d9de53bdf7",
@@ -1140,7 +1620,7 @@
       "published": "Mon, 19 Oct 2026 23:20:46 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.235023"
+      "fetched_at": "2026-10-20T09:08:41.504402"
     },
     {
       "id": "8e6e70c2e273",
@@ -1152,7 +1632,7 @@
       "published": "Mon, 19 Oct 2026 23:18:28 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077156"
+      "fetched_at": "2026-10-20T09:08:42.074169"
     },
     {
       "id": "97ed3b54cbd1",
@@ -1164,31 +1644,7 @@
       "published": "Mon, 19 Oct 2026 23:16:28 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.537849"
-    },
-    {
-      "id": "e15c402d35d9",
-      "title": "Saskatchewan homeless advocates call for solutions ahead of winter",
-      "description": "Homeless advocates are calling for long-term solutions and compassion from municipal and provincial leader, as cities across Saskatchewan deal with a growing homelessness crisis.",
-      "url": "https://globalnews.ca/news/12108613/saskatchewan-homeless-advocates-call-for-solutions-ahead-of-winter/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/20261009_122942.jpg?quality=65&strip=all",
-      "published": "Mon, 19 Oct 2026 23:14:06 +0000",
-      "location": "World",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.219904"
-    },
-    {
-      "id": "63bd92e1fc4f",
-      "title": "Citigroup Declares Common Stock Dividend",
-      "description": "Citigroup Declares Preferred Dividends NEW YORK &#8212; The Board of Directors of Citigroup Inc. today declared a quarterly dividend on Citigroup’s common stock of $0.67 per share, payable on November 25, 2026, to stockholders of record on November 2, 2026. The Board of Directors of Citigroup Inc. a",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/citigroup-declares-common-stock-dividend-9",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 23:12:52 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936204"
+      "fetched_at": "2026-10-20T09:08:41.201875"
     },
     {
       "id": "aff0798da835",
@@ -1200,79 +1656,79 @@
       "published": "Mon, 19 Oct 2026 23:10:38 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068617"
+      "fetched_at": "2026-10-20T09:08:41.626343"
     },
     {
-      "id": "b5209da5d589",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
-      "published": "Mon, 19 Oct 2026 23:08:25 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990335"
-    },
-    {
-      "id": "5978420b887c",
-      "title": "Anthropic, Musk take differing approaches to AI-era philanthropy",
-      "description": "Split could shape how AI technology’s financial windfall reaches the public",
-      "url": "https://www.theglobeandmail.com/business/article-musk-anthropic-ai-philanthropy-spacex/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/3VGZIESAUZCRRJ3VWXKNXPZC5Y.jpg?auth=b6a17f7c0a480b802efe6093b98d2729a628b23c404773552c5cd4becdcc5a93&smart=true&width=7140&height=4760",
-      "published": "Mon, 19 Oct 2026 23:02:25 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.624043"
-    },
-    {
-      "id": "a61186a85e64",
-      "title": "FireSwarm Solutions Recognized Globally Among Cleantech Group’s 2026 Cleantech 50 to Watch for Wildfire Technology Innovation",
-      "description": "Canadian company recognized for technology that automates and swarms ultra-heavy-lift drones for wildfire response SQUAMISH, British Columbia, Oct. 19, 2026 (GLOBE NEWSWIRE) &#8212; FireSwarm Solutions, a Canadian company that develops dual-use technology to automate drones for fire suppression and ",
-      "url": "https://financialpost.com/globe-newswire/fireswarm-solutions-recognized-globally-among-cleantech-groups-2026-cleantech-50-to-watch-for-wildfire-technology-innovation",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:58:12 +0000",
-      "location": "Canada",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936234"
-    },
-    {
-      "id": "56efa468ad26",
+      "id": "2a508b2a3d2f",
       "title": "Alberta referendum results for all 10 questions",
-      "description": "Albertans head to the polls Monday to vote on 10 referendum questions, including whether the province should move toward a separation vote. The separation question, listed as Question 10 on the ballot, will be counted and reported first. Vote totals for Questions 1 through 9, which focus on immigrat",
-      "url": "https://calgary.citynews.ca/2026/10/19/alberta-referendum-results/",
-      "source": "CityNews Calgary",
+      "description": "Albertans headed to the polls Monday to vote on 10 referendum questions, including whether the province should move toward a separation vote. The separation question, listed as Question 10 on the ballot, was to be counted and reported first, according to Elections Alberta. Unofficials results sugges",
+      "url": "https://toronto.citynews.ca/2026/10/19/alberta-referendum-results/",
+      "source": "CityNews Toronto",
       "image": "",
       "published": "Mon, 19 Oct 2026 22:54:15 +0000",
-      "location": "World",
+      "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649496"
+      "fetched_at": "2026-10-20T09:08:41.504435"
+    },
+    {
+      "id": "5ec1c3ad3527",
+      "title": "Alberta referendum results for all 10 questions",
+      "description": "Albertans headed to the polls Monday to vote on 10 referendum questions, including whether the province should move toward a separation vote. The separation question, listed as Question 10 on the ballot, was to be counted and reported first, according to Elections Alberta. Unofficials results sugges",
+      "url": "https://montreal.citynews.ca/2026/10/19/alberta-referendum-results/",
+      "source": "CityNews Montreal",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:54:15 +0000",
+      "location": "Montreal",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:41.602764"
     },
     {
       "id": "9b5a9b29ac92",
       "title": "Alberta referendum results for all 10 questions",
-      "description": "Albertans head to the polls Monday to vote on 10 referendum questions, including whether the province should move toward a separation vote. The separation question, listed as Question 10 on the ballot, will be counted and reported first. Vote totals for Questions 1 through 9, which focus on immigrat",
+      "description": "Albertans headed to the polls Monday to vote on 10 referendum questions, including whether the province should move toward a separation vote. The separation question, listed as Question 10 on the ballot, was to be counted and reported first, according to Elections Alberta. Unofficials results sugges",
       "url": "https://edmonton.citynews.ca/2026/10/19/alberta-referendum-results/",
       "source": "CityNews Edmonton",
       "image": "",
       "published": "Mon, 19 Oct 2026 22:54:15 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931703"
+      "fetched_at": "2026-10-20T09:08:42.114852"
     },
     {
-      "id": "0830e4799ac3",
-      "title": "Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat - Reuters",
-      "description": "Alberta votes on leaving Canada, separatist movement likely to outlast expected defeat&nbsp;&nbsp;Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhpOEEtQU9ScjZPUU5YUnZfaG9LVXh6VHlxYzBrbzJzSGlzc2kweEZqMDZZMGpwNFNSQUtvNmF1bnVidmFNdU5ELUR5MTVaLTNhaTUwdTB3Rnd2cUhOM0ZIQ0k3TTd3VTFucWc4clltY3M4YnNrTGMzcnY0R2dmaXdZQnUxbEQ1eHd1ai1ldV9EUXQ3QTNlRXUwWjZWQlVEUWFCTmVYR05fYXFTbVdidElWcHoyV1RVYWdJVmZPbHA3Q1NheEZjd09B?oc=5",
-      "source": "Google News Canada",
+      "id": "777105075f66",
+      "title": "Alberta referendum results for all 10 questions",
+      "description": "Albertans headed to the polls Monday to vote on 10 referendum questions, including whether the province should move toward a separation vote. The separation question, listed as Question 10 on the ballot, was to be counted and reported first, according to Elections Alberta. Unofficials results sugges",
+      "url": "https://vancouver.citynews.ca/2026/10/19/alberta-referendum-results/",
+      "source": "CityNews Vancouver",
       "image": "",
-      "published": "Mon, 19 Oct 2026 22:51:08 GMT",
+      "published": "Mon, 19 Oct 2026 22:54:15 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581530"
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.138558"
+    },
+    {
+      "id": "56efa468ad26",
+      "title": "Alberta referendum results for all 10 questions",
+      "description": "Albertans headed to the polls Monday to vote on 10 referendum questions, including whether the province should move toward a separation vote. The separation question, listed as Question 10 on the ballot, was to be counted and reported first, according to Elections Alberta. Unofficials results sugges",
+      "url": "https://calgary.citynews.ca/2026/10/19/alberta-referendum-results/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:54:15 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.178160"
+    },
+    {
+      "id": "6ad30ed3cefa",
+      "title": "Alberta referendum results for all 10 questions",
+      "description": "Albertans head to the polls Monday to vote on 10 referendum questions, including whether the province should move toward a separation vote. The separation question, listed as Question 10 on the ballot, will be counted and reported first. Vote totals for Questions 1 through 9, which focus on immigrat",
+      "url": "https://ottawa.citynews.ca/2026/10/19/alberta-referendum-results/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:54:15 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.518341"
     },
     {
       "id": "f94da7fb555a",
@@ -1284,7 +1740,7 @@
       "published": "Mon, 19 Oct 2026 22:49:27 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.238076"
+      "fetched_at": "2026-10-20T09:08:38.512839"
     },
     {
       "id": "2d38cc10e42c",
@@ -1296,19 +1752,7 @@
       "published": "Mon, 19 Oct 2026 22:42:03 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.924948"
-    },
-    {
-      "id": "42a806935e85",
-      "title": "What do PE fund managers see in GFL?",
-      "description": "GFL founder and CEO Patrick Dovigi’s track record has shown that he knows how to turn garbage into cash",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-what-do-pe-fund-managers-see-in-gfl/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/KU5RZQGPJRAMJHTKWGC3LNPUYQ.JPG?auth=c8ddaa2bdff5f6e7a2f0e605919ce8d4ab2edf8a17a0ceccc2c1bf9764a41ae7&smart=true&width=5000&height=3333",
-      "published": "Mon, 19 Oct 2026 22:40:29 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.624060"
+      "fetched_at": "2026-10-20T09:08:39.468652"
     },
     {
       "id": "5265c88d5fca",
@@ -1317,22 +1761,22 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEJlS0x2d2Vacks4ZWNlcTUyMXllNGE1Q1hDNmZyWkx4c0tFcHRoLXZoakFXb3FPTTFsNlBRZEdXdDl6dEJrNC1PT0JqbFltTUt1MjhpQ28zd0VadF9HaEZMTFJYRkVfNWcxc0RmZGNEaDI4LVVrOUF0UWRRclNwdW5yVW5tYUZUQlduRGZNU1lKYzNoaU1LVGxWY1ZIZWJuRVhLMFZneFBsZ3hzVy1R?oc=5",
       "source": "Google News Canada",
       "image": "",
-      "published": "Mon, 19 Oct 2026 22:39:18 GMT",
+      "published": "Mon, 19 Oct 2026 22:41:43 GMT",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581289"
+      "fetched_at": "2026-10-20T09:08:40.661624"
     },
     {
       "id": "0c56dacf410b",
       "title": "Australian MP Helen Haines in critical condition after deliberate vehicle attack, prime minister says - CBC",
-      "description": "Australian MP Helen Haines in critical condition after deliberate vehicle attack, prime minister says&nbsp;&nbsp;CBCAustralian lawmaker Helen Haines in critical condition after vehicle attack&nbsp;&nbsp;Yahoo News CanadaPolitical hate speech can have real-world fallout. After the alleged attack on H",
+      "description": "Australian MP Helen Haines in critical condition after deliberate vehicle attack, prime minister says&nbsp;&nbsp;CBCAn Australian lawmaker is in critical, but stable condition after being allegedly targeted with car&nbsp;&nbsp;CTV NewsAustralian lawmaker loses leg after vehicle attack being probed b",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWTWhsSkg4RmVfUHA4T1FYQVBzREpUYXMtRzliMVlQRElGTDNPRGxFYUVBczZsVDZWUW5ZVUNHd2I2em5CS1BCMWJ3MWg5endVRmc3Wk50WFVLa2pIeGUyazRvdU5PMjlJMzJZYmJHY3Q?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 19 Oct 2026 22:34:56 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:48.664509"
+      "fetched_at": "2026-10-20T09:08:41.052292"
     },
     {
       "id": "7b6262853d24",
@@ -1344,7 +1788,7 @@
       "published": "Mon, 19 Oct 2026 22:34:43 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.054550"
+      "fetched_at": "2026-10-20T09:08:39.658662"
     },
     {
       "id": "7f9dd4f8c14d",
@@ -1354,9 +1798,9 @@
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 19 Oct 2026 22:33:29 GMT",
-      "location": "Winnipeg",
+      "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.780729"
+      "fetched_at": "2026-10-20T09:08:40.950168"
     },
     {
       "id": "6fe84c3a7597",
@@ -1368,19 +1812,7 @@
       "published": "Mon, 19 Oct 2026 22:33:27 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068637"
-    },
-    {
-      "id": "cb6e8e8ff771",
-      "title": "Novice drivers in B.C. now eligible to get full licence without 2nd road test - CBC",
-      "description": "Novice drivers in B.C. now eligible to get full licence without 2nd road test&nbsp;&nbsp;CBCMajor change to ICBC’s graduated licensing program launched Monday&nbsp;&nbsp;CTV NewsMajor ICBC driver licence changes take effect this week&nbsp;&nbsp;Daily Hive",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMHpCT05sdzREaGY3SXd1cWxyaEtfelFyZHFtSXZ5dnVfZVhCRWxFSzFTTWl1SUtIUnJnOERGdGN5VHp0MlhSbUQwMVBtbDNnbUtIcHVVZU1kNGdrRVBWalZMTzZlek1nVjZOZjZ5c29ncTZEWEdmRXZZWnEwNUg1aWE4V05HNGpTNEFjTkZvd0loZw?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:28:09 GMT",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:48.870499"
+      "fetched_at": "2026-10-20T09:08:41.626361"
     },
     {
       "id": "fe2c6c32d22c",
@@ -1392,19 +1824,7 @@
       "published": "Mon, 19 Oct 2026 22:27:03 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077179"
-    },
-    {
-      "id": "de2349e899ee",
-      "title": "Alberta referendum results delayed until 10 p.m. due to Edmonton polling station closing late — one of 106 across province",
-      "description": "Albertans will have to wait longer than expected for Monday night’s referendum results to begin trickling in. That’s because a polling station inside a school in Edmonton’s Glenora neighbourhood reported issues and will now close at 10 p.m. – two hours late – delaying results across the province. “U",
-      "url": "https://toronto.citynews.ca/2026/10/19/alberta-referendum-results-delayed-polling-stations-closing-late/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:24:24 +0000",
-      "location": "Edmonton",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.235058"
+      "fetched_at": "2026-10-20T09:08:42.074194"
     },
     {
       "id": "3e7cc193dc69",
@@ -1416,31 +1836,43 @@
       "published": "Mon, 19 Oct 2026 22:24:24 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.538596"
+      "fetched_at": "2026-10-20T09:08:41.201896"
     },
     {
-      "id": "7dda9d215b8f",
-      "title": "Alberta referendum results delayed until 10 p.m. due to Edmonton polling station closing late — one of 106 across province",
-      "description": "Albertans will have to wait longer than expected for Monday night’s referendum results to begin trickling in. That’s because a polling station inside a school in Edmonton’s Glenora neighbourhood reported issues and will now close at 10 p.m. – two hours late – delaying results across the province. “U",
-      "url": "https://calgary.citynews.ca/2026/10/19/alberta-referendum-results-delayed-polling-stations-closing-late/",
-      "source": "CityNews Calgary",
+      "id": "de2349e899ee",
+      "title": "Alberta referendum results delayed even further as some voters still in line",
+      "description": "Albertans are having to wait even longer for referendum results to begin coming in &#8212; after already waiting an additional two hours. As of 10:50 p.m., voters were still in line for at least one polling station, Elections Alberta said. The elections authority did not confirm the location or loca",
+      "url": "https://toronto.citynews.ca/2026/10/19/alberta-referendum-results-delayed-polling-stations-closing-late/",
+      "source": "CityNews Toronto",
       "image": "",
       "published": "Mon, 19 Oct 2026 22:24:24 +0000",
-      "location": "Edmonton",
+      "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649533"
+      "fetched_at": "2026-10-20T09:08:41.504465"
     },
     {
       "id": "b838b620929a",
-      "title": "Alberta referendum results delayed until 10 p.m. due to Edmonton polling station closing late — one of 106 across province",
-      "description": "Albertans will have to wait longer than expected for Monday night’s referendum results to begin trickling in. That’s because a polling station inside a school in Edmonton’s Glenora neighbourhood reported issues and will now close at 10 p.m. – two hours late – delaying results across the province. “U",
+      "title": "Alberta referendum results delayed even further as some voters were still in line",
+      "description": "Albertans had to wait even longer for referendum results to begin coming in &#8212; after already waiting an additional two hours. As of 10:50 p.m., voters were still in line for at least one polling station, Elections Alberta said. The elections authority did not confirm the location or locations c",
       "url": "https://edmonton.citynews.ca/2026/10/19/alberta-referendum-results-delayed-polling-stations-closing-late/",
       "source": "CityNews Edmonton",
       "image": "",
       "published": "Mon, 19 Oct 2026 22:24:24 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931748"
+      "fetched_at": "2026-10-20T09:08:42.114886"
+    },
+    {
+      "id": "7dda9d215b8f",
+      "title": "Alberta referendum results delayed even further as some voters still in line",
+      "description": "Albertans are having to wait even longer for referendum results to begin coming in &#8212; after already waiting an additional two hours. As of 10:50 p.m., voters were still in line for at least one polling station, Elections Alberta said. The elections authority did not confirm the location or loca",
+      "url": "https://calgary.citynews.ca/2026/10/19/alberta-referendum-results-delayed-polling-stations-closing-late/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:24:24 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.178190"
     },
     {
       "id": "c7d35e9144fd",
@@ -1452,19 +1884,7 @@
       "published": "Mon, 19 Oct 2026 22:23:12 +0000",
       "location": "Toronto",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.235081"
-    },
-    {
-      "id": "14360c59f2c2",
-      "title": "Patagonia Gold Announces Filing of the Technical Report for the Calcatreu Gold-Silver Project Preliminary Economic Assessment",
-      "description": "VANCOUVER, British Columbia, Oct. 19, 2026 (GLOBE NEWSWIRE) &#8212; Patagonia Gold Corp. (“Patagonia” or the “Company”) (TSXV: PGDC) announces that it has filed an independent technical report entitled “Calcatreu Project, Rio Negro Province, Argentina, Preliminary Economic Assessment, NI 43-101 Tech",
-      "url": "https://financialpost.com/globe-newswire/patagonia-gold-announces-filing-of-the-technical-report-for-the-calcatreu-gold-silver-project-preliminary-economic-assessment",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:22:49 +0000",
-      "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936258"
+      "fetched_at": "2026-10-20T09:08:41.504489"
     },
     {
       "id": "08c9d1eb6993",
@@ -1476,7 +1896,7 @@
       "published": "Mon, 19 Oct 2026 22:16:02 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.538627"
+      "fetched_at": "2026-10-20T09:08:41.201912"
     },
     {
       "id": "981dcf938ec7",
@@ -1488,19 +1908,7 @@
       "published": "Mon, 19 Oct 2026 22:14:39 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.235108"
-    },
-    {
-      "id": "cd88f2e571d8",
-      "title": "B.C. victim of Wainwright fire was everybody’s best friend, says rugby coach",
-      "description": "The former rugby coach for Pte. Hayden Lykkemark, one of four soldiers who died in a fire at CFB Wainwright on Saturday, says all of the teenager's team and his schoolmates thought of him as their best friend.",
-      "url": "https://vancouver.citynews.ca/2026/10/19/b-c-victim-of-wainwright-fire-was-everybodys-best-friend-says-rugby-coach/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:14:39 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274125"
+      "fetched_at": "2026-10-20T09:08:41.504516"
     },
     {
       "id": "327603772df5",
@@ -1512,31 +1920,7 @@
       "published": "Mon, 19 Oct 2026 22:14:39 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450303"
-    },
-    {
-      "id": "bf531ccfc06b",
-      "title": "B.C. victim of Wainwright fire was everybody’s best friend, says rugby coach",
-      "description": "The former rugby coach for Pte. Hayden Lykkemark, one of four soldiers who died in a fire at CFB Wainwright on Saturday, says all of the teenager's team and his schoolmates thought of him as their best friend.",
-      "url": "https://calgary.citynews.ca/2026/10/19/b-c-victim-of-wainwright-fire-was-everybodys-best-friend-says-rugby-coach/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:14:39 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649561"
-    },
-    {
-      "id": "32d198f929df",
-      "title": "B.C. victim of Wainwright fire was everybody’s best friend, says rugby coach",
-      "description": "The former rugby coach for Pte. Hayden Lykkemark, one of four soldiers who died in a fire at CFB Wainwright on Saturday, says all of the teenager's team and his schoolmates thought of him as their best friend.",
-      "url": "https://ottawa.citynews.ca/2026/10/19/b-c-victim-of-wainwright-fire-was-everybodys-best-friend-says-rugby-coach/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:14:39 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739145"
+      "fetched_at": "2026-10-20T09:08:41.602799"
     },
     {
       "id": "193931f245b3",
@@ -1548,31 +1932,55 @@
       "published": "Mon, 19 Oct 2026 22:14:39 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931780"
+      "fetched_at": "2026-10-20T09:08:42.114917"
     },
     {
-      "id": "0b938d620bdf",
-      "title": "U.S. FAA to announce certification of Boeing 737 MAX 10, sources say",
-      "description": "U.S. Transportation Secretary to announce certification of larger variant of Boeing’s best-selling airplane",
-      "url": "https://www.theglobeandmail.com/world/article-boeing-737-max-10-certification/",
-      "source": "Globe Business",
-      "image": "https://www.theglobeandmail.com/resizer/v2/ERUUQR5W4RCKPLKOXQCDKYVP7U.JPG?auth=201b99ea83ee4fa72009e578cbd8fdbb4c928ab290fcbae7be5cfa64b9476146&smart=true&width=5667&height=3778",
-      "published": "Mon, 19 Oct 2026 22:12:28 +0000",
+      "id": "cd88f2e571d8",
+      "title": "B.C. victim of Wainwright fire was everybody’s best friend, says rugby coach",
+      "description": "The former rugby coach for Pte. Hayden Lykkemark, one of four soldiers who died in a fire at CFB Wainwright on Saturday, says all of the teenager's team and his schoolmates thought of him as their best friend.",
+      "url": "https://vancouver.citynews.ca/2026/10/19/b-c-victim-of-wainwright-fire-was-everybodys-best-friend-says-rugby-coach/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:14:39 +0000",
       "location": "World",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.624077"
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.138584"
+    },
+    {
+      "id": "bf531ccfc06b",
+      "title": "B.C. victim of Wainwright fire was everybody’s best friend, says rugby coach",
+      "description": "The former rugby coach for Pte. Hayden Lykkemark, one of four soldiers who died in a fire at CFB Wainwright on Saturday, says all of the teenager's team and his schoolmates thought of him as their best friend.",
+      "url": "https://calgary.citynews.ca/2026/10/19/b-c-victim-of-wainwright-fire-was-everybodys-best-friend-says-rugby-coach/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:14:39 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.178217"
+    },
+    {
+      "id": "32d198f929df",
+      "title": "B.C. victim of Wainwright fire was everybody’s best friend, says rugby coach",
+      "description": "The former rugby coach for Pte. Hayden Lykkemark, one of four soldiers who died in a fire at CFB Wainwright on Saturday, says all of the teenager's team and his schoolmates thought of him as their best friend.",
+      "url": "https://ottawa.citynews.ca/2026/10/19/b-c-victim-of-wainwright-fire-was-everybodys-best-friend-says-rugby-coach/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:14:39 +0000",
+      "location": "World",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.518369"
     },
     {
       "id": "c3e1ee430338",
       "title": "The Trump team’s disdain for judicial orders is blowing up in court. Accountability has been slow in coming - CNN",
-      "description": "The Trump team’s disdain for judicial orders is blowing up in court. Accountability has been slow in coming&nbsp;&nbsp;CNNTensions flare at court hearing on Trump’s golf course renovation after president says construction will begin ‘immediately’&nbsp;&nbsp;CNNTrump Golf Course Dispute Sparks Clash ",
+      "description": "The Trump team’s disdain for judicial orders is blowing up in court. Accountability has been slow in coming&nbsp;&nbsp;CNNJudge grills government lawyers over Trump's plan to renovate a DC golf course&nbsp;&nbsp;NPRShe said she wasn’t the Lorax, but she’s starting to act like him&nbsp;&nbsp;MS NOWEx",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xRWN4SWNMVTRaSG5kVVdZaWRtX0VzWnpnS3JmOFo1QWNCTFNDRU5abWhGVDVlbXBFRmxkZC1tQ29jN2M3bThPb09MX1hZUWhNMFItRi1qSktkQ05MN0xUVDlkNkQyQTJUc1p5ci1JajZWemhqOUE?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 19 Oct 2026 22:11:53 GMT",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:48.664400"
+      "fetched_at": "2026-10-20T09:08:41.052409"
     },
     {
       "id": "11e8a6b319e1",
@@ -1584,19 +1992,7 @@
       "published": "Mon, 19 Oct 2026 22:04:42 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.235140"
-    },
-    {
-      "id": "84816665acf3",
-      "title": "Alberta referendum sparks Chinese community push to vote",
-      "description": "With Albertans voting on the province&#8217;s referendum on Monday, Chinese community leaders are mobilizing to help voters understand its 10 complex questions. Many voters are struggling to understand the ballot, but community leaders say the desire to vote has never been stronger. “Even English-sp",
-      "url": "https://vancouver.citynews.ca/2026/10/19/alberta-referendum-sparks-chinese-community-push-to-vote/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:04:42 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274159"
+      "fetched_at": "2026-10-20T09:08:41.504548"
     },
     {
       "id": "20a72f53585a",
@@ -1608,31 +2004,7 @@
       "published": "Mon, 19 Oct 2026 22:04:42 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450336"
-    },
-    {
-      "id": "0017f86c38d9",
-      "title": "Alberta referendum sparks Chinese community push to vote",
-      "description": "With Albertans voting on the province&#8217;s referendum on Monday, Chinese community leaders are mobilizing to help voters understand its 10 complex questions. Many voters are struggling to understand the ballot, but community leaders say the desire to vote has never been stronger. “Even English-sp",
-      "url": "https://calgary.citynews.ca/2026/10/19/alberta-referendum-sparks-chinese-community-push-to-vote/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:04:42 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649593"
-    },
-    {
-      "id": "78ffe6886f39",
-      "title": "Alberta referendum sparks Chinese community push to vote",
-      "description": "With Albertans voting on the province&#8217;s referendum on Monday, Chinese community leaders are mobilizing to help voters understand its 10 complex questions. Many voters are struggling to understand the ballot, but community leaders say the desire to vote has never been stronger. “Even English-sp",
-      "url": "https://ottawa.citynews.ca/2026/10/19/alberta-referendum-sparks-chinese-community-push-to-vote/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 22:04:42 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739183"
+      "fetched_at": "2026-10-20T09:08:41.602844"
     },
     {
       "id": "97ebef2abe46",
@@ -1644,7 +2016,43 @@
       "published": "Mon, 19 Oct 2026 22:04:42 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931819"
+      "fetched_at": "2026-10-20T09:08:42.114967"
+    },
+    {
+      "id": "84816665acf3",
+      "title": "Alberta referendum sparks Chinese community push to vote",
+      "description": "With Albertans voting on the province&#8217;s referendum on Monday, Chinese community leaders are mobilizing to help voters understand its 10 complex questions. Many voters are struggling to understand the ballot, but community leaders say the desire to vote has never been stronger. “Even English-sp",
+      "url": "https://vancouver.citynews.ca/2026/10/19/alberta-referendum-sparks-chinese-community-push-to-vote/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:04:42 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.138618"
+    },
+    {
+      "id": "0017f86c38d9",
+      "title": "Alberta referendum sparks Chinese community push to vote",
+      "description": "With Albertans voting on the province&#8217;s referendum on Monday, Chinese community leaders are mobilizing to help voters understand its 10 complex questions. Many voters are struggling to understand the ballot, but community leaders say the desire to vote has never been stronger. “Even English-sp",
+      "url": "https://calgary.citynews.ca/2026/10/19/alberta-referendum-sparks-chinese-community-push-to-vote/",
+      "source": "CityNews Calgary",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:04:42 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.178250"
+    },
+    {
+      "id": "78ffe6886f39",
+      "title": "Alberta referendum sparks Chinese community push to vote",
+      "description": "With Albertans voting on the province&#8217;s referendum on Monday, Chinese community leaders are mobilizing to help voters understand its 10 complex questions. Many voters are struggling to understand the ballot, but community leaders say the desire to vote has never been stronger. “Even English-sp",
+      "url": "https://ottawa.citynews.ca/2026/10/19/alberta-referendum-sparks-chinese-community-push-to-vote/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 22:04:42 +0000",
+      "location": "Canada",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.518403"
     },
     {
       "id": "244c6a89b0fc",
@@ -1656,7 +2064,7 @@
       "published": "Mon, 19 Oct 2026 22:04:28 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.238098"
+      "fetched_at": "2026-10-20T09:08:38.512861"
     },
     {
       "id": "7dcbe2b9696f",
@@ -1668,19 +2076,7 @@
       "published": "Mon, 19 Oct 2026 21:54:12 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077204"
-    },
-    {
-      "id": "df434ac284dd",
-      "title": "Sport Management grad lands job with Gymnastics Canada - Brock University",
-      "description": "Sport Management grad lands job with Gymnastics Canada&nbsp;&nbsp;Brock University",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzQxZ1pfdE8yeFd1cGIyZkE5V2piOXJpaUhmbFNwdUFOZkhLcmlZZlBMUGE5elI3YkQ4cENoN2l0ZUQ5SVFMOWFoTTlOdk9wVTJtZ0w0bHN2X1p0NlB2VU9NTGNHUTJNUVlzWDBnaWY1UHZ2T1hFRTFoZlhTek00MU5UeldPWmktY0tBaWRoV2gzNEpGVjI4?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 21:50:37 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581553"
+      "fetched_at": "2026-10-20T09:08:42.074218"
     },
     {
       "id": "22800e7ac736",
@@ -1692,19 +2088,7 @@
       "published": "Mon, 19 Oct 2026 21:47:48 +0000",
       "location": "Montreal",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450369"
-    },
-    {
-      "id": "a0454f267a8d",
-      "title": "Some Alberta separatists say they ‘could learn from Quebec’",
-      "description": "As Albertans head to the polls Monday to decide whether their province should take a step toward a future referendum on separation, some independence advocates are looking east to Quebec. “We could learn from Quebec,&#8221; said Cory Morgan. &#8220;They’ve been at this much longer than us.” Morgan i",
-      "url": "https://calgary.citynews.ca/2026/10/19/quebec-alberta-separatists-vote/",
-      "source": "CityNews Calgary",
-      "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2026/10/CP176545463-683x1024.jpg",
-      "published": "Mon, 19 Oct 2026 21:47:48 +0000",
-      "location": "Calgary",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649623"
+      "fetched_at": "2026-10-20T09:08:41.602882"
     },
     {
       "id": "43637b56eae9",
@@ -1716,7 +2100,19 @@
       "published": "Mon, 19 Oct 2026 21:47:48 +0000",
       "location": "Calgary",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931854"
+      "fetched_at": "2026-10-20T09:08:42.115004"
+    },
+    {
+      "id": "a0454f267a8d",
+      "title": "Some Alberta separatists say they ‘could learn from Quebec’",
+      "description": "As Albertans head to the polls Monday to decide whether their province should take a step toward a future referendum on separation, some independence advocates are looking east to Quebec. “We could learn from Quebec,&#8221; said Cory Morgan. &#8220;They’ve been at this much longer than us.” Morgan i",
+      "url": "https://calgary.citynews.ca/2026/10/19/quebec-alberta-separatists-vote/",
+      "source": "CityNews Calgary",
+      "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2026/10/CP176545463-683x1024.jpg",
+      "published": "Mon, 19 Oct 2026 21:47:48 +0000",
+      "location": "Calgary",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.178281"
     },
     {
       "id": "52b7163ff4ac",
@@ -1728,43 +2124,7 @@
       "published": "Mon, 19 Oct 2026 21:41:00 GMT",
       "location": "Winnipeg",
       "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.780780"
-    },
-    {
-      "id": "1d4f61b609d5",
-      "title": "Short of funds, UN food agency cuts aid to 500,000 Palestinians in Gaza and 200,000 in the West Bank",
-      "description": "UNITED NATIONS (AP) — The United Nations has cut food assistance to 500,000 Palestinians in Gaza and 200,000 in the West Bank due to a serious funding shortage, the head of the U.N. food agency said Monday.",
-      "url": "https://toronto.citynews.ca/2026/10/19/short-of-funds-un-food-agency-cuts-aid-to-500000-palestinians-in-gaza-and-200000-in-the-west-bank/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 21:34:25 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.235167"
-    },
-    {
-      "id": "a40c24ad1dae",
-      "title": "Conavi Medical Announces New Grants of Stock Options",
-      "description": "TORONTO, Oct. 19, 2026 (GLOBE NEWSWIRE) &#8212; Conavi Medical Corp. (TSXV: CNVI) (OTCQB: CNVIF) (“Conavi” or the “Company”), a commercial-stage medical device company focused on designing, manufacturing and marketing imaging technologies to guide minimally invasive cardiovascular procedures, today ",
-      "url": "https://financialpost.com/globe-newswire/conavi-medical-announces-new-grants-of-stock-options",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 21:31:38 +0000",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936281"
-    },
-    {
-      "id": "12135bac4201",
-      "title": "News of the day: Lithium legal battles, inflation on the rise, rate hike possibility, Stelco explainer, mining investment supercycle and more",
-      "description": "Catch up on the stories we’re following today",
-      "url": "https://financialpost.com/uncategorized/news-of-the-day-lithium-legal-battles-inflation-on-the-rise-rate-hike-possibility-stelco-explainer-mining-investment-supercycle-and-more",
-      "source": "Financial Post",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 21:30:54 +0000",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.936301"
+      "fetched_at": "2026-10-20T09:08:40.950118"
     },
     {
       "id": "8a7d2a26985f",
@@ -1776,7 +2136,7 @@
       "published": "Mon, 19 Oct 2026 21:30:39 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-10-20T03:32:47.285648"
+      "fetched_at": "2026-10-20T09:08:38.502857"
     },
     {
       "id": "57408cb15393",
@@ -1788,19 +2148,7 @@
       "published": "Mon, 19 Oct 2026 21:25:55 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421320"
-    },
-    {
-      "id": "9d008bb855ce",
-      "title": "Quebec’s new premier to be sworn in Wednesday as PQ prepares to unveil cabinet",
-      "description": "Parti Québécois (PQ) Leader Paul St-Pierre Plamondon is set to be sworn in as Quebec’s 34th premier Wednesday, as his party prepares to form a minority government following the Oct. 5 provincial election. St-Pierre Plamondon will also unveil his cabinet, marking the next step in the transition of po",
-      "url": "https://montreal.citynews.ca/2026/10/19/quebec-premier-sworn-in-wednesday-pq-to-unveil-cabinet/",
-      "source": "CityNews Montreal",
-      "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2026/10/CP177115792-1024x739.jpg",
-      "published": "Mon, 19 Oct 2026 21:25:39 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450404"
+      "fetched_at": "2026-10-20T09:08:40.472032"
     },
     {
       "id": "204c86755b11",
@@ -1812,7 +2160,7 @@
       "published": "Mon, 19 Oct 2026 21:25:13 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-10-20T03:32:47.285697"
+      "fetched_at": "2026-10-20T09:08:38.502900"
     },
     {
       "id": "8cc314c23b9d",
@@ -1824,7 +2172,7 @@
       "published": "Mon, 19 Oct 2026 21:22:46 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-10-20T03:32:47.285747"
+      "fetched_at": "2026-10-20T09:08:38.502952"
     },
     {
       "id": "c63e6b9b9a93",
@@ -1836,7 +2184,7 @@
       "published": "Mon, 19 Oct 2026 21:19:58 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-10-20T03:32:47.285792"
+      "fetched_at": "2026-10-20T09:08:38.502982"
     },
     {
       "id": "0ed4c8b9fc9d",
@@ -1848,43 +2196,31 @@
       "published": "Mon, 19 Oct 2026 21:17:01 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-10-20T03:32:47.285834"
-    },
-    {
-      "id": "bc8ea85dd1e5",
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
-      "published": "Mon, 19 Oct 2026 21:14:53 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990260"
+      "fetched_at": "2026-10-20T09:08:38.503009"
     },
     {
       "id": "6d6e1d517fe4",
-      "title": "Alberta votes on leaving Canada: 1.3 million ballots cast in advance; early results expected after 10 p.m. MT",
-      "description": "More than 800,000 advanced ballots were already cast before voting day, with results expected to roll in late Monday night",
+      "title": "Alberta poised to reject separating from Canada in historic referendum",
+      "description": "The results, while not yet officially confirmed, appear to signal a clear rejection of the separatist movement, support for which had at some points polled higher than 30%",
       "url": "https://nationalpost.com/news/canada/alberta-separatism-independence-referendum-vote-results",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/Alberta-referendum-20-2.jpg",
       "published": "Mon, 19 Oct 2026 21:13:47 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421342"
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:39.410239"
     },
     {
       "id": "fa12b3b5040e",
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+      "description": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
       "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
       "published": "Mon, 19 Oct 2026 21:12:30 GMT",
-      "location": "Vancouver",
+      "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990349"
+      "fetched_at": "2026-10-20T09:08:39.834827"
     },
     {
       "id": "c238ecc33c1b",
@@ -1896,7 +2232,7 @@
       "published": "Mon, 19 Oct 2026 21:04:52 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077219"
+      "fetched_at": "2026-10-20T09:08:42.074234"
     },
     {
       "id": "36bd10447b3e",
@@ -1908,19 +2244,19 @@
       "published": "Mon, 19 Oct 2026 21:02:33 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990313"
+      "fetched_at": "2026-10-20T09:08:39.834797"
     },
     {
       "id": "e6cb6cb9d2d7",
       "title": "7 players to make worlds debut as Canadian women's hockey team looks to youth - CBC",
-      "description": "7 players to make worlds debut as Canadian women's hockey team looks to youth&nbsp;&nbsp;CBCYouth movement sweeps through Canadian women's hockey team for world championship&nbsp;&nbsp;Sportsnet.caNational Women's Team roster named for 2026 IIHF Women's World Championship&nbsp;&nbsp;Hockey CanadaCai",
+      "description": "7 players to make worlds debut as Canadian women's hockey team looks to youth&nbsp;&nbsp;CBCSee more headlines & perspectives on Google News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGVhMGQ3N1RTbUhwb0c3LU5SS3BzWkdkMVNDRHp6TE5wTUlrcFAwcGpMN2JCaWlmek90bFpoZXM1RU42QlVEOWRmUExmZUJ4QU5WaUNpbzU4c2Zoa1lkdDVQMGtFWF9XUGtaQWtlb09aOVNEVm9DMHhZVkNLZ2JzVkQ2aHhBa0NDanpVMG96UHd1Qy0tS19JbEZlU1ZUamVj?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 19 Oct 2026 21:00:50 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.780868"
+      "fetched_at": "2026-10-20T09:08:40.950193"
     },
     {
       "id": "f54dfe0cb5b5",
@@ -1932,19 +2268,7 @@
       "published": "Mon, 19 Oct 2026 20:59:51 +0000",
       "location": "Canada",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077238"
-    },
-    {
-      "id": "782789d74f7d",
-      "title": "Best Power Bank Deals: Laptops, MagSafe, and More",
-      "description": "You can never have too many portable chargers, especially when they’re this discounted.",
-      "url": "https://www.wired.com/story/power-bank-deals-october-2026/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 20:55:15 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.634650"
+      "fetched_at": "2026-10-20T09:08:42.074252"
     },
     {
       "id": "9e06034cc2fa",
@@ -1956,7 +2280,19 @@
       "published": "Mon, 19 Oct 2026 20:53:44 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077255"
+      "fetched_at": "2026-10-20T09:08:42.074270"
+    },
+    {
+      "id": "045dd6c7ce66",
+      "title": "GOP attacks on El-Sayed’s Muslim faith come to a head in heated town hall exchange - CNN",
+      "description": "GOP attacks on El-Sayed’s Muslim faith come to a head in heated town hall exchange&nbsp;&nbsp;CNNOpinion | Abdul El-Sayed had an easy response to 'Tommy's' viral gotcha moment: the U.S. Constitution&nbsp;&nbsp;MS NOWMan who heckled Abdul El-Sayed is former Josh Hawley aide, records show&nbsp;&nbsp;T",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2RmVl90UExuNzBxTmxtbEg2aUxLdGZhclAwQ0ZCR3BBcDU3d0duQWpTSTZlSFlJRWpQdXZoTEhyTDNXYTY4ejNab0FlZ2ZGbmRzdUNjUUM2UFBCc00ycXdTamRSaHdlTXgwMC1rTndaYzN0X215Slk3aXNyOEdLUFJkSm5yUmlzU1p2cE1ENVJZRXlvcDZlYWVn?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 20:50:48 GMT",
+      "location": "World",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:41.052677"
     },
     {
       "id": "3228fa4f503a",
@@ -1968,7 +2304,7 @@
       "published": "Mon, 19 Oct 2026 20:49:00 GMT",
       "location": "Vancouver",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990279"
+      "fetched_at": "2026-10-20T09:08:39.834717"
     },
     {
       "id": "5df2a8c5142e",
@@ -1980,7 +2316,7 @@
       "published": "Mon, 19 Oct 2026 20:45:52 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.924988"
+      "fetched_at": "2026-10-20T09:08:39.468694"
     },
     {
       "id": "cb8fa0adbe2b",
@@ -1992,67 +2328,7 @@
       "published": "Mon, 19 Oct 2026 20:45:40 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068672"
-    },
-    {
-      "id": "b25491b46c9d",
-      "title": "Federal ministers defend major projects bill at House committee meeting",
-      "description": "OTTAWA — Four federal ministers defended the government's contentious legislation to speed up major projects in the House of Commons Monday, as Ottawa continues to face criticism from Indigenous, environment and labour groups.",
-      "url": "https://toronto.citynews.ca/2026/10/19/federal-ministers-defend-major-projects-bill-at-house-committee-meeting/",
-      "source": "CityNews Toronto",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 20:45:17 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.235195"
-    },
-    {
-      "id": "0d4ed70f64da",
-      "title": "Federal ministers defend major projects bill at House committee meeting",
-      "description": "OTTAWA — Four federal ministers are defending the government's contentious legislation to speed up major projects in the House of Commons today, as Ottawa continues to face criticism from Indigenous, environment and labour groups.",
-      "url": "https://vancouver.citynews.ca/2026/10/19/federal-ministers-defend-major-projects-bill-at-house-committee-meeting/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 20:45:17 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274184"
-    },
-    {
-      "id": "31169a4f36a1",
-      "title": "Federal ministers defend major projects bill at House committee meeting",
-      "description": "OTTAWA — Four federal ministers are defending the government's contentious legislation to speed up major projects in the House of Commons today, as Ottawa continues to face criticism from Indigenous, environment and labour groups. The post Federal ministers defend major projects bill at House commit",
-      "url": "https://montreal.citynews.ca/2026/10/19/federal-ministers-defend-major-projects-bill-at-house-committee-meeting/",
-      "source": "CityNews Montreal",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 20:45:17 +0000",
-      "location": "Montreal",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.450432"
-    },
-    {
-      "id": "fd8424b0fc60",
-      "title": "Federal ministers defend major projects bill at House committee meeting",
-      "description": "OTTAWA — Four federal ministers are defending the government's contentious legislation to speed up major projects in the House of Commons today, as Ottawa continues to face criticism from Indigenous, environment and labour groups.",
-      "url": "https://calgary.citynews.ca/2026/10/19/federal-ministers-defend-major-projects-bill-at-house-committee-meeting/",
-      "source": "CityNews Calgary",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 20:45:17 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.649648"
-    },
-    {
-      "id": "a14b2029d986",
-      "title": "Federal ministers defend major projects bill at House committee meeting",
-      "description": "OTTAWA — Four federal ministers are defending the government's contentious legislation to speed up major projects in the House of Commons today, as Ottawa continues to face criticism from Indigenous, environment and labour groups.",
-      "url": "https://ottawa.citynews.ca/2026/10/19/federal-ministers-defend-major-projects-bill-at-house-committee-meeting/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 20:45:17 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739212"
+      "fetched_at": "2026-10-20T09:08:41.626396"
     },
     {
       "id": "ed012e0fcbf1",
@@ -2064,19 +2340,55 @@
       "published": "Mon, 19 Oct 2026 20:45:17 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931886"
+      "fetched_at": "2026-10-20T09:08:42.115036"
+    },
+    {
+      "id": "0d4ed70f64da",
+      "title": "Federal ministers defend major projects bill at House committee meeting",
+      "description": "OTTAWA — Four federal ministers are defending the government's contentious legislation to speed up major projects in the House of Commons today, as Ottawa continues to face criticism from Indigenous, environment and labour groups.",
+      "url": "https://vancouver.citynews.ca/2026/10/19/federal-ministers-defend-major-projects-bill-at-house-committee-meeting/",
+      "source": "CityNews Vancouver",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 20:45:17 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.138643"
+    },
+    {
+      "id": "a14b2029d986",
+      "title": "Federal ministers defend major projects bill at House committee meeting",
+      "description": "OTTAWA — Four federal ministers are defending the government's contentious legislation to speed up major projects in the House of Commons today, as Ottawa continues to face criticism from Indigenous, environment and labour groups.",
+      "url": "https://ottawa.citynews.ca/2026/10/19/federal-ministers-defend-major-projects-bill-at-house-committee-meeting/",
+      "source": "CityNews Ottawa",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 20:45:17 +0000",
+      "location": "Ottawa",
+      "category": "local",
+      "fetched_at": "2026-10-20T09:08:42.518428"
+    },
+    {
+      "id": "843f21e13147",
+      "title": "Stelco posts strongest quarter amid layoffs at Nanticoke mill - BNN Bloomberg",
+      "description": "Stelco posts strongest quarter amid layoffs at Nanticoke mill&nbsp;&nbsp;BNN BloombergOpinion: Ottawa has a case for suing Cleveland-Cliffs. But what does it hope to achieve?&nbsp;&nbsp;The Globe and MailStelco's U.S. owner reports 'strongest' quarter since acquisition, urges Ottawa to do more amid ",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSnVQZ3o2bWpMdTZ1WVB5ZG4tVkk4ajdYd0pseU9scUJXdlFpMmlDUGF1NkhIcmRjeU9RaUhXZHVjMlZiMFZWbEdzeGJ6LU00MDU2RTBHX3hVWXM3QTNFdjNQXzBTUWxNWHY2dGxFWWNxNlh1N2h5MVBMVkFDRzBWSFNETDNHdko4U25VQ1NqMFpEVENRX0VTM0tDMDFmYXpwcWl3TEFtdS1pX29FRWl0S01tNHBHQVdQUDVaU0FCVGp4SGNxZFR5eWw5UWN5UmlCR0Iw?oc=5",
+      "source": "Google News Business",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 20:28:21 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:40.572453"
     },
     {
       "id": "e6c9d513d188",
-      "title": "High personal income taxes drag down Canada’s tax competitiveness, new study finds",
+      "title": "High personal income taxes drag down Canada's tax competitiveness, new study finds",
       "description": "After more than a year of a trade war with the U.S., Canada was also given a poor grade in its cross-border tax regime",
       "url": "https://nationalpost.com/news/canada/high-personal-income-taxes-drag-down-canadas-tax-competitiveness-study-finds",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/seu1313_302831674.jpg",
       "published": "Mon, 19 Oct 2026 20:27:20 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421364"
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:39.410356"
     },
     {
       "id": "e54bbf69df4f",
@@ -2088,7 +2400,7 @@
       "published": "Mon, 19 Oct 2026 20:25:38 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.925024"
+      "fetched_at": "2026-10-20T09:08:39.468728"
     },
     {
       "id": "cd8529d8286d",
@@ -2100,7 +2412,7 @@
       "published": "Mon, 19 Oct 2026 20:24:01 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-10-20T03:32:47.285882"
+      "fetched_at": "2026-10-20T09:08:38.503040"
     },
     {
       "id": "7c43c8330c7b",
@@ -2112,31 +2424,19 @@
       "published": "Mon, 19 Oct 2026 20:19:35 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.538648"
+      "fetched_at": "2026-10-20T09:08:41.201927"
     },
     {
       "id": "48d85ce5ea04",
       "title": "Travis Green rewarded as Senators' contention window opens - Sportsnet.ca",
-      "description": "Travis Green rewarded as Senators' contention window opens&nbsp;&nbsp;Sportsnet.caSenators players react to Travis Green extension&nbsp;&nbsp;NHL.comSenators sign head coach Travis Green to multi-year contract extension&nbsp;&nbsp;CityNews OttawaPounder: Green brings 'extreme structure' to Senators&",
+      "description": "Travis Green rewarded as Senators' contention window opens&nbsp;&nbsp;Sportsnet.caGreen signs contract as Senators coach through 2030-31 season&nbsp;&nbsp;NHL.comOttawa Senators extend head coach Travis Green until 2031&nbsp;&nbsp;CBCSenators sign Travis Green to multi-year extension&nbsp;&nbsp;Dail",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWppY2xOYURjd011TlNiQW5VVC14cWZkajZtck9ncDJhN3FpZ0lhM3NGWThobUlhUzZlYWRUS0JiZnNCWDJ3QVRwOXBLeWlhVFhQSDdrTHFTdldHM2NfdW9ORUFuUlhST1JzRG9nelVHSEk0dGlkaEREUzJMVnlwMXVtS2g3RTQxN2luMjVwTVdmZV84VnBBREx4Yw?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 19 Oct 2026 20:16:00 GMT",
       "location": "Vancouver",
       "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.780820"
-    },
-    {
-      "id": "f014e390411b",
-      "title": "‘Just not acceptable’: Backlash grows over Nova Scotia AI data centre project - Global News",
-      "description": "‘Just not acceptable’: Backlash grows over Nova Scotia AI data centre project&nbsp;&nbsp;Global NewsMPs Kody Blois and Mike Kelloway respond to Halifax Examiner&nbsp;&nbsp;Halifax ExaminerAnthropic signs lease for first Canadian data center&nbsp;&nbsp;ReutersOpposition urges N.S. Premier Tim Houston",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3ZCZmt2T0NyRWdQZTUyZ21qSVQ0WDR6UHE4M1p0MnhkN3BNX0JKSl9oWllNSlowWExZMzdBWndtZmZEaDZjcnJGbG9FSW9jRFFtc0JScHBNR1MxRUhDTTNhV0ZBWERyUnhwS0pGWWhTZWYwSEtNZkttd3RBNERjSV9kcWEwajJtQUpQOHB3?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 20:13:17 GMT",
-      "location": "Halifax",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:48.870291"
+      "fetched_at": "2026-10-20T09:08:40.950236"
     },
     {
       "id": "37fc3e207694",
@@ -2148,19 +2448,31 @@
       "published": "Mon, 19 Oct 2026 20:09:24 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.238122"
+      "fetched_at": "2026-10-20T09:08:38.512884"
+    },
+    {
+      "id": "748ffab65b06",
+      "title": "Maple Leafs notebook: McKenna ‘excited’ for Stenberg showdown - Sportsnet.ca",
+      "description": "Maple Leafs notebook: McKenna ‘excited’ for Stenberg showdown&nbsp;&nbsp;Sportsnet.caMcKenna, Stenberg set to face off in battle of top 2 picks of 2026 Draft&nbsp;&nbsp;NHL.comDemers on Sharks’ matchup against Leafs, Stenberg’s comments about the Leafs and the inconsistent nature of both teams&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRuQVl6NnR4Y1VIR2ZOaXlLTGR4R3lOYnpYM0RZYW1RYlNFeDAzVTN1cTdPbXVzNWRmTVV0OUpyelJ3SjdLSXBCTGg1QkpUODJrRzRSYUxHeVBzMlM0TkEwMEp0Zlg0clZlS0xXTnZod1N3OWJXR0g3TUVteWNaYzdpekhPcVozQmFCNVUyMGR5MGFWTGctUFhZdTY?oc=5",
+      "source": "Google News Sports",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 20:07:00 GMT",
+      "location": "Toronto",
+      "category": "sports",
+      "fetched_at": "2026-10-20T09:08:40.950378"
     },
     {
       "id": "f3e24dc9aae6",
       "title": "Week 21 to decide CFL playoff fates of Stampeders, Roughriders, Blue Bombers - 3DownNation",
-      "description": "Week 21 to decide CFL playoff fates of Stampeders, Roughriders, Blue Bombers&nbsp;&nbsp;3DownNation113th Grey Cup Playoff Scenarios: Final game to decide playoff fates for Riders, Bombers, Stamps&nbsp;&nbsp;CFLBombers can secure CFL playoff spot with victory&nbsp;&nbsp;Global NewsNeed to Know | Week",
+      "description": "Week 21 to decide CFL playoff fates of Stampeders, Roughriders, Blue Bombers&nbsp;&nbsp;3DownNationBombers can secure CFL playoff spot with victory&nbsp;&nbsp;Global News113th Grey Cup Playoff Scenarios: Final game to decide playoff fates for Riders, Bombers, Stamps&nbsp;&nbsp;CFLNeed to Know | Week",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEFkZDZPXzI3ZnJhenN3N29MWXd1dUlkanFQM0h2VURZV0tYdWJSd3JMNzBJMERmTnRWOThsYXRYUkJ6aDNBcERUUHg0dzNRX0FWMl9HSXVyU1FoYWZXeWhDdWVVNWJsU25UZTh0elRQYVFoUThWUDdMdTE0LXl5Rk5XdVBySHN2TUxfNTRaWXBvRVlzSWJtbnhVOER2NVFfcHhaM18wQ1hTcFowc0RN?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 19 Oct 2026 20:05:17 GMT",
       "location": "Winnipeg",
       "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.780672"
+      "fetched_at": "2026-10-20T09:08:40.950065"
     },
     {
       "id": "0f55e27d4a87",
@@ -2172,19 +2484,7 @@
       "published": "Mon, 19 Oct 2026 20:01:41 +0000",
       "location": "Edmonton",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931919"
-    },
-    {
-      "id": "bfcde2e87655",
-      "title": "U.S. owner of Stelco boasts ‘strongest quarter’ just weeks after announcing layoffs - The Spec",
-      "description": "U.S. owner of Stelco boasts ‘strongest quarter’ just weeks after announcing layoffs&nbsp;&nbsp;The SpecSee more headlines & perspectives on Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOXRVZGttM0UtSGstVV9QQVp3c2F1QVlubHBrQUFWYjlQUGJ2eWtiRWh4dWY2Y0NjSF9fMVBQajVTTFgteXpPMkFaNVNySksxdkFqdTVVZGNtdEsxSk5zcjN5YXNoQmZxLXBrdFA2NGZhQzMzeDk5T2VncXZLd01WMlJDQm9IbmNUeVBWM1BJOTUxQjdBb18ySVNjMWw4aUlWd3d0MFBoaUhYblBHNFdXZ1FVeUYyLTQ4b1NDSU5QVm8zdW5HdjZHSVVRNzZNVElmWFpPUlpVMlRvakFOOXc?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 20:00:00 GMT",
-      "location": "World",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:48.870401"
+      "fetched_at": "2026-10-20T09:08:42.115069"
     },
     {
       "id": "525599982cc5",
@@ -2196,43 +2496,31 @@
       "published": "Mon, 19 Oct 2026 19:58:53 +0000",
       "location": "World",
       "category": "indigenous",
-      "fetched_at": "2026-10-20T03:32:47.285935"
+      "fetched_at": "2026-10-20T09:08:38.503072"
     },
     {
-      "id": "d870467c6b67",
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "description": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 19:49:17 +0000",
+      "id": "5a4b83e0f813",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
+      "published": "Mon, 19 Oct 2026 19:45:46 GMT",
       "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.634675"
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.834767"
     },
     {
-      "id": "4ba0342a8d6d",
-      "title": "Prime Minister Carney delivers remarks in the House of Commons following the tragedy at CFB Wainwright - Prime Minister of Canada",
-      "description": "Prime Minister Carney delivers remarks in the House of Commons following the tragedy at CFB Wainwright&nbsp;&nbsp;Prime Minister of Canada",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0NLQzkyaE03Z2FKZ0RkTS1pb2djSkprQ2hvZmhoSklVc2QtNEFKM3pEa2x2eU80ekcwbjRONGcwQnQzTFlKVHV1cFdzMkNDV3JlT3BmQjI3MFMyV3BwRndxTEVNRnFpdHVEVDFnRUVPME5UMWE5U0l0T3FHb211eXFYalJSM2ZPS3JOeV9EQUVnaHR1enRiYXZsWHc5RUl5YmttRkh2NHFMdWs3NFlhUzFyQ2hNVEp6MVJuSEtIaTc?oc=5",
-      "source": "Google News Canada",
+      "id": "136e453c2dfc",
+      "title": "Anthropic sued by major Canadian news publishers for copyright claims in Ontario court - CBC",
+      "description": "Anthropic sued by major Canadian news publishers for copyright claims in Ontario court&nbsp;&nbsp;CBCCanada’s biggest newspapers are suing Anthropic for copyright infringement&nbsp;&nbsp;Toronto LifeAI company Anthropic sued in Ontario court&nbsp;&nbsp;blogTOCanadian publishers launch copyright suit",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlBzRzJOclVTWWVNQVd5VFVYRkVOQVB3MUxfNFZTTEZ4ZkU1QkxjMUtQS19YRlhLLWx4c1hjTHBVSW9jQ3FvbWJldkRtODR2SG9sMjhWVENudlB0YWZBcmg5MHZzcUc2M0syc2t1Y1ZITE9qRWNVZzRkUW9rZWx6VHpHWTkyNlRMUzAwX3RTWHRYVHc0RWI5NG1DMy1UanhQVG5tc2M3bzRkcnRiMHc?oc=5",
+      "source": "Google News Business",
       "image": "",
-      "published": "Mon, 19 Oct 2026 19:46:44 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581586"
-    },
-    {
-      "id": "9801ce645823",
-      "title": "The Best Mixbook Sale for Holiday Cards (2026)",
-      "description": "Mixbook is the best card service I’ve tried, and the brand has multiple sales on holiday cards happening now.",
-      "url": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 19:43:22 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.634695"
+      "published": "Mon, 19 Oct 2026 19:44:41 GMT",
+      "location": "Toronto",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:40.572493"
     },
     {
       "id": "d818b174a4c9",
@@ -2244,19 +2532,19 @@
       "published": "Mon, 19 Oct 2026 19:33:08 +0000",
       "location": "World",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421386"
+      "fetched_at": "2026-10-20T09:08:40.472097"
     },
     {
       "id": "68c712ade650",
-      "title": "Feds spent $4.8M on Microsoft licenses that government employees didn’t even use: CTF",
+      "title": "Feds spent $4.8M on Microsoft licenses that government employees didn't even use: CTF",
       "description": "Agriculture and Agri-Food Canada reported the highest number of unused licenses at 7,443 while Statistics Canada spent the most, almost $1.2 million",
       "url": "https://nationalpost.com/news/feds-spent-4-8m-on-microsoft-licenses-that-government-employees-didnt-even-use-ctf",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/hcp_stockbuildingsign_009_300892992.jpg",
       "published": "Mon, 19 Oct 2026 19:28:52 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421407"
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:39.410409"
     },
     {
       "id": "23a6adb9ef6f",
@@ -2268,7 +2556,7 @@
       "published": "Mon, 19 Oct 2026 19:28:34 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.238149"
+      "fetched_at": "2026-10-20T09:08:38.512913"
     },
     {
       "id": "a0065816de8c",
@@ -2280,19 +2568,19 @@
       "published": "Mon, 19 Oct 2026 19:19:58 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.623953"
+      "fetched_at": "2026-10-20T09:08:38.974431"
     },
     {
       "id": "694a3d5bf589",
       "title": "Indigenous Toronto man with a criminal record of 101 break-ins gets time served",
       "description": "Court heard that the man's 16 most recent break-ins cost victims $26,000",
       "url": "https://nationalpost.com/news/canada/indigenous-toronto-man-101-break-ins-time-served",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/0918-na-choking_304336755.jpg",
       "published": "Mon, 19 Oct 2026 19:14:28 +0000",
       "location": "Toronto",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421422"
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:39.410420"
     },
     {
       "id": "08f322a3118d",
@@ -2304,7 +2592,7 @@
       "published": "Mon, 19 Oct 2026 19:14:00 +0000",
       "location": "Vancouver",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274203"
+      "fetched_at": "2026-10-20T09:08:42.138661"
     },
     {
       "id": "ef193cd6ed9d",
@@ -2316,11 +2604,11 @@
       "published": "Mon, 19 Oct 2026 19:03:05 GMT",
       "location": "Vancouver",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:48.870185"
+      "fetched_at": "2026-10-20T09:08:40.572396"
     },
     {
       "id": "0f28e05ef1d4",
-      "title": "RESULTS | How Albertans voted on each referendum question",
+      "title": "How Albertans voted on each referendum question",
       "description": "Alberta voters are heading to the polls Monday to cast their ballots in a historic referendum that asks, among its 10 questions, whether to hold a second referendum on separating.",
       "url": "https://globalnews.ca/news/12102586/alberta-referendum-2026/",
       "source": "Global Politics",
@@ -2328,7 +2616,7 @@
       "published": "Mon, 19 Oct 2026 19:01:02 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-10-20T03:32:47.267423"
+      "fetched_at": "2026-10-20T09:08:38.841533"
     },
     {
       "id": "8f613608a7e1",
@@ -2340,43 +2628,19 @@
       "published": "Mon, 19 Oct 2026 19:00:12 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.238167"
+      "fetched_at": "2026-10-20T09:08:38.512948"
     },
     {
       "id": "e23a2d44fd94",
       "title": "CFB Wainwright: What we know about the Canadian Armed Forces members killed in the fire",
       "description": "'He was always looking out for everyone and always kept himself in check,' says best friend of Pte. Hayden Lykkemark, who died this weekend",
       "url": "https://nationalpost.com/news/canada/canadian-armed-forces-members-wainwright-fire",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/hayden-lykkemark-wainwright_305845607-1.jpg",
       "published": "Mon, 19 Oct 2026 18:56:52 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421459"
-    },
-    {
-      "id": "cba2b2ff448f",
-      "title": "CFB Wainwright fire highlights long, painful process of burn recovery, specialists say",
-      "description": "TORONTO — Burn specialists in Toronto and Hamilton say their hospitals are ready to support their Alberta colleagues as they care for dozens of patients injured in Saturday's devastating fire at CFB Wainwright. The post CFB Wainwright fire highlights long, painful process of burn recovery, specialis",
-      "url": "https://edmonton.citynews.ca/2026/10/19/cfb-wainwright-fire-highlights-long-painful-process-of-burn-recovery-specialists-say/",
-      "source": "CityNews Edmonton",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 18:55:13 +0000",
-      "location": "Toronto",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.931946"
-    },
-    {
-      "id": "6d8629034d5d",
-      "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
-      "description": "WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.",
-      "url": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 18:55:05 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.634712"
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:39.410373"
     },
     {
       "id": "57749030ada1",
@@ -2388,7 +2652,7 @@
       "published": "Mon, 19 Oct 2026 18:53:22 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274225"
+      "fetched_at": "2026-10-20T09:08:42.138682"
     },
     {
       "id": "77f86440b356",
@@ -2400,7 +2664,7 @@
       "published": "Mon, 19 Oct 2026 18:50:35 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.538669"
+      "fetched_at": "2026-10-20T09:08:41.201958"
     },
     {
       "id": "1ca7c3eb8354",
@@ -2412,67 +2676,19 @@
       "published": "Mon, 19 Oct 2026 18:49:04 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.238190"
-    },
-    {
-      "id": "7b9993e0fa83",
-      "title": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
-      "description": "JAXA is leading an international mission to reach Mars’ Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.",
-      "url": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 18:45:06 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.634732"
-    },
-    {
-      "id": "67511f2f58d3",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "source": "TechCrunch",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 18:37:27 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.238209"
-    },
-    {
-      "id": "4d145262f894",
-      "title": "'An absolute waste of time': Referendum ballots draw mixed feelings from voters in Alberta's oilsands region",
-      "description": "Some voters said they would rather be elsewhere on a Monday morning, while others shared their hopes for more referendums that give residents a voice in political affairs",
-      "url": "https://edmontonjournal.com/news/fort-mcmurray-referendum-vote",
-      "source": "Edmonton Journal",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 18:28:35 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.077275"
+      "fetched_at": "2026-10-20T09:08:38.512978"
     },
     {
       "id": "f4ff87c65ae7",
       "title": "Mississippi attorney general says use of force was justified in death of 1-year-old Kohen Wiley - CNN",
-      "description": "Mississippi attorney general says use of force was justified in death of 1-year-old Kohen Wiley&nbsp;&nbsp;CNNPolice used 'justified' force in fatal shooting of one-year-old, says Mississippi attorney general&nbsp;&nbsp;BBCOfficer Who Fatally Shot 1-Year-Old During Alleged Diaper Theft Was ‘Justifie",
+      "description": "Mississippi attorney general says use of force was justified in death of 1-year-old Kohen Wiley&nbsp;&nbsp;CNNMississippi attorney general rules fatal police shooting of one-year-old as ‘justified’&nbsp;&nbsp;The GuardianPolice Shooting of 1-Year-Old Kohen Wiley ‘Was Justified,’ Mississippi Attorney",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12OU4wZWdpaFcwbGNWNnFnWDZ3b1cteFNFU1RGOFNIUU5GbVl3UEM1aHkyZGhvYlZxLV9NdHd1QW1lMWg4bFFLa2czU3hTRldHRmZqSGNDczJ0YVBtWHhvcE10QmtUNG8?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 19 Oct 2026 18:15:32 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:48.664587"
-    },
-    {
-      "id": "5d2e96825cae",
-      "title": "‘Tariff Man’ finally found tariffs he doesn’t like - CNN",
-      "description": "‘Tariff Man’ finally found tariffs he doesn’t like&nbsp;&nbsp;CNNTrump’s latest moves back Russia, buck Congress and U.S. allies&nbsp;&nbsp;NBC NewsGraham Breaks With Trump Over Russia Sanctions Law Her Brother Championed&nbsp;&nbsp;The New York TimesTrump’s Overtures to Putin Put Republican Candida",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNWM1bEdyRi1zMk44TWVmTDZrOTk2ZUV6dHhybS1VRUdoWTB0TDFrdC12N2o1OUo4N0JJWjhZdk9ybmt3Q0JHeWdVTzJMWUU5T3BTM0RYREtEaVNQSUwtRW14YWVNV1NyZUNVVV8yaVNvQldfb2hFdm91UVhkLXB1Nmh3?oc=5",
-      "source": "Google News Tech",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 18:12:48 GMT",
-      "location": "Vancouver",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:48.664758"
+      "fetched_at": "2026-10-20T09:08:41.052577"
     },
     {
       "id": "0fa182291f59",
@@ -2484,7 +2700,19 @@
       "published": "Mon, 19 Oct 2026 18:11:20 +0000",
       "location": "Canada",
       "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421484"
+      "fetched_at": "2026-10-20T09:08:40.472167"
+    },
+    {
+      "id": "0e7e2465e66b",
+      "title": "New Middle East security alert issued ahead of WWE Crown Jewel - F4W/WON",
+      "description": "New Middle East security alert issued ahead of WWE Crown Jewel&nbsp;&nbsp;F4W/WONUS issues rare Middle East red alert warning to its citizens in the region&nbsp;&nbsp;Euronews.comTrump admin sees escalating risk from Houthis, prompting unprecedented wave of warnings&nbsp;&nbsp;ABC News - Breaking Ne",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMEdHN0NER2h5ZkdoLUJZenNxd3dreHBBNjh6WW9ycTViX3pxMGYtSk5ZNnREeTBHaTVaS3JPVmNsMkdrS1NWLUtEdVZ0OUVlcEFrQk0yOEgzdzd0UU5QTDZzZHNteXVLR1ZmNjZQeFBlVHhkVnNlVEREaEY3aWVuTjJZdjMzamJHRVQ0QkRPVkV4R0tQYkd1eDN6cC1jM1E?oc=5",
+      "source": "Google News Tech",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 17:57:11 GMT",
+      "location": "Vancouver",
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:41.052621"
     },
     {
       "id": "3fc24d2d6e2f",
@@ -2496,19 +2724,19 @@
       "published": "Mon, 19 Oct 2026 17:53:16 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274247"
+      "fetched_at": "2026-10-20T09:08:42.138703"
     },
     {
       "id": "16951729c2ab",
-      "title": "Trump complains about ‘loser’ Trudeau and U.S. subsidizing Canadian health care",
+      "title": "Trump complains about 'loser' Trudeau and U.S. subsidizing Canadian health care",
       "description": "Likely referring to Prime Minister Mark Carney, the U.S. president noted that Canada’s 'current guy’s good,' but said 'he’s not nice when it comes to trade'",
       "url": "https://nationalpost.com/news/trump-says-u-s-is-losing-money-unwisely-spent-on-canadian-health-care",
-      "source": "National Post",
-      "image": "",
+      "source": "National Post Politics",
+      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/10/gettyimages-2239783654_304087827.jpg",
       "published": "Mon, 19 Oct 2026 17:37:50 +0000",
       "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:47.421507"
+      "category": "politics",
+      "fetched_at": "2026-10-20T09:08:39.410322"
     },
     {
       "id": "9d445a286ae8",
@@ -2520,31 +2748,7 @@
       "published": "Mon, 19 Oct 2026 17:37:20 +0000",
       "location": "World",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:47.624026"
-    },
-    {
-      "id": "aea94b59853f",
-      "title": "KITH celebrates new store with very Vancouver collection drop",
-      "description": "The New York City-founded lifestyle brand is set to open at Oakridge Park this week",
-      "url": "https://vancouversun.com/life/fashion-beauty/kith-celebrates-new-store-with-very-vancouver-collection-drop",
-      "source": "Vancouver Sun",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 17:28:20 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.538685"
-    },
-    {
-      "id": "0d98056b59a6",
-      "title": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years",
-      "description": "Longtime CNN anchor Christiane Amanpour will be leaving CNN after 43 years at the network.",
-      "url": "https://vancouver.citynews.ca/2026/10/19/longtime-cnn-anchor-christiane-amanpour-leaving-network-after-a-storied-career-of-43-years/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 17:28:01 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274268"
+      "fetched_at": "2026-10-20T09:08:38.974482"
     },
     {
       "id": "76231999e3a0",
@@ -2556,7 +2760,7 @@
       "published": "Mon, 19 Oct 2026 17:28:01 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739234"
+      "fetched_at": "2026-10-20T09:08:42.518449"
     },
     {
       "id": "9ff10293713b",
@@ -2568,19 +2772,7 @@
       "published": "Mon, 19 Oct 2026 17:20:35 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068691"
-    },
-    {
-      "id": "2009ebc9dfbe",
-      "title": "Brady Tkachuk, McDavid, Kaprizov named NHL's three stars of the week - Sportsnet.ca",
-      "description": "Brady Tkachuk, McDavid, Kaprizov named NHL's three stars of the week&nbsp;&nbsp;Sportsnet.caBrady Tkachuk leads 3 Stars of the Week, had back-to-back hat tricks&nbsp;&nbsp;NHL.comPanthers’ Tkachuk, Oilers’ McDavid, Wild’s Kaprizov named NHL’s three stars of the week&nbsp;&nbsp;TSNFlorida Panthers' B",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWU1c2JycjVUODVvMFdOZG8ycWRKRlF0RFc5NDdXdkxNTzBoZmI2bkR0NS1Bck5qRjlzOGpsTHozRG4zcjRzYzFJaTkxdDlFbmZGM00xTklOcHE1dXduQjdDd3hFY0dGZUNpTTM5MFdOQ29tS1lzTm93Y2c3dFF2M2N1bGlBR3RmYTV3YllNUHA1bEtrRjBEVzdWT3VTSy1sd2Q1ak9n?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 17:20:00 GMT",
-      "location": "Edmonton",
-      "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.781046"
+      "fetched_at": "2026-10-20T09:08:41.626414"
     },
     {
       "id": "53a2df1eb01a",
@@ -2592,31 +2784,7 @@
       "published": "Mon, 19 Oct 2026 17:18:04 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990297"
-    },
-    {
-      "id": "e0c6a89ad919",
-      "title": "Surrey man killed in crash near Merritt; driver of other vehicle arrested for suspected impaired driving",
-      "description": "A 24-year-old man from Surrey has died following a crash on Highway 5 near Merritt Saturday, the BC Highway Patrol (BCHP) says.",
-      "url": "https://vancouver.citynews.ca/2026/10/19/merritt-crash-surrey-man-killed/",
-      "source": "CityNews Vancouver",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 17:12:40 +0000",
-      "location": "Vancouver",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.274285"
-    },
-    {
-      "id": "bd9ed4dae2c3",
-      "title": "Ontario’s electricity rates are falling this November. Here’s how much it will cost - CP24",
-      "description": "Ontario’s electricity rates are falling this November. Here’s how much it will cost&nbsp;&nbsp;CP24How will household electricity rebate reduction, temporary winter pricing change impact Ontarians?&nbsp;&nbsp;CBCElectricity prices and hours change soon across Ontario&nbsp;&nbsp;insauga.comOntario el",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGYwcHhFSTdmd1hiay1UVXh5ZW9DTnY5Wm9NQk9LendoVHotOVJLdmR6MzZCQlVBMUZrWlZONnAxWDFkM3dGRHBPX2NfNnEtamZqRUlCUlpqckNaOHhpWG5FYmNHMUtDT1k4QjZVa2ItZlozblpDdWVoTHlHbEJBNDU5ejByWEktbWZsN2puc1FndUdFenFHZWN1LW84UThkVmpzcWZ5ZGdQNVpoY3JVQVVSMEI5SG5kWFBWa0F0TW4ycEVUMWc?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 17:11:47 GMT",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:48.870594"
+      "fetched_at": "2026-10-20T09:08:39.834782"
     },
     {
       "id": "6d1caf730f93",
@@ -2628,19 +2796,19 @@
       "published": "Mon, 19 Oct 2026 17:10:11 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068712"
+      "fetched_at": "2026-10-20T09:08:41.626433"
     },
     {
-      "id": "1f0b4b509c02",
-      "title": "Arson unit investigating 'suspicious' fire in Barrhaven",
-      "description": "No injuries were reported as the fire broke out around 2 a.m. Sunday at a home on Moonbeam Street in Barrhaven.",
-      "url": "https://ottawacitizen.com/news/arson-unit-investigating-suspicious-fire-in-barrhaven",
-      "source": "Ottawa Citizen",
+      "id": "6d12f727dcf6",
+      "title": "Major change to ICBC’s graduated licensing program launched Monday - CTV News",
+      "description": "Major change to ICBC’s graduated licensing program launched Monday&nbsp;&nbsp;CTV NewsNovice drivers in B.C. now eligible to get full licence without 2nd road test&nbsp;&nbsp;CBCMajor ICBC driver licence changes take effect this week&nbsp;&nbsp;Daily Hive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0FpOVYxSjZ0NXI1STR6ajQ4NGI5VFlKX08tSXBUakJmMEd4aDd6T2JRN2pIeDQ3d2dkYWIxbDByYzhHeUlNVjktY1VEb01aM3ZZZ240bkpqTUN3XzhMNzBnNC1xZ0RldDFuRy1yVkRHQWtYcEJ5WEVKbWtvZlFyMTI0SVdiUnBCTXlKN0NqRHM2bEVWRGtLUkFBR0s2amJ2V2NtNmdJZVFydVk?oc=5",
+      "source": "Google News Business",
       "image": "",
-      "published": "Mon, 19 Oct 2026 17:02:35 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068731"
+      "published": "Mon, 19 Oct 2026 17:02:04 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:40.572626"
     },
     {
       "id": "6645ecdca0b8",
@@ -2652,19 +2820,19 @@
       "published": "Mon, 19 Oct 2026 16:59:55 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739264"
+      "fetched_at": "2026-10-20T09:08:42.518476"
     },
     {
       "id": "5c203e519875",
       "title": "Sentiment improved, but new tariffs weigh on business outlook: BoC report - Castanet",
-      "description": "Sentiment improved, but new tariffs weigh on business outlook: BoC report&nbsp;&nbsp;CastanetBusiness Outlook Survey—Third Quarter of 2026&nbsp;&nbsp;Bank of CanadaBank of Canada Survey Records Notable Rise in Inflation Expectations&nbsp;&nbsp;WSJBusinesses expect inflation rate to remain above 3% o",
+      "description": "Sentiment improved, but new tariffs weigh on business outlook: BoC report&nbsp;&nbsp;CastanetBusiness Outlook Survey—Third Quarter of 2026&nbsp;&nbsp;Bank of CanadaCanadian firms' outlooks dimmed after trade talks collapse, BoC survey finds&nbsp;&nbsp;ReutersBusinesses expect inflation rate to remai",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2hYMmdiVGVwOUxOWEY5NVVnMzllNmZ4UWNqU3ZGb1piM2x5eXdjV3N2UnJwRU1vSHVseWh3MWVYZEhtd1l5MDd0bm9zS2d2b3hORG9Scm1uRGE2RzFDclV4S0VhLTRCTUlCdEVWZC0tVzgxS3NneDBoOGhtVDFKNjQ4a3cxa2lWX1JpZ3VsR1BsMDMySkFrRWRybWFXZlNNRjZvaWcxa1g3Y3BKTUdydGw2dkdrZw?oc=5",
       "source": "Google News Business",
       "image": "",
       "published": "Mon, 19 Oct 2026 16:52:00 GMT",
-      "location": "Vancouver",
+      "location": "Canada",
       "category": "business",
-      "fetched_at": "2026-10-20T03:32:48.870462"
+      "fetched_at": "2026-10-20T09:08:40.572678"
     },
     {
       "id": "92675508c66b",
@@ -2676,55 +2844,31 @@
       "published": "Mon, 19 Oct 2026 16:51:11 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.925056"
+      "fetched_at": "2026-10-20T09:08:39.468761"
     },
     {
-      "id": "11016e96e9c5",
-      "title": "News publishers launch copyright suit against AI company Anthropic in Ontario - CTV News",
-      "description": "News publishers launch copyright suit against AI company Anthropic in Ontario&nbsp;&nbsp;CTV NewsAnthropic sued by major Canadian news publishers for copyright claims in Ontario court&nbsp;&nbsp;CBCCanada’s biggest newspapers are suing Anthropic for copyright infringement&nbsp;&nbsp;Toronto LifeAI c",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeS0tWU5Ra21ybmFjOUxtdUFDTVJOODBFMnpPOFhvOU93a2FubG9KQXpmdzcwUk1rMnpNS2VLZXdpX000U3pKMDVGSmpITGNBdS1zOVo1eGVnVFkxdDN4eFczSndNWFhuWk5iNGxaSXBzTVJLaUJNRDVpbjBtRkhsX1o1RWRnWWlmb3VfWmxyeTFaRlJ0cHZrVmhKQVJGVDFGQktuMk15eDVSUzBfMmRTRjNZc3FodDRn?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 16:47:27 GMT",
-      "location": "Toronto",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:48.870367"
+      "id": "17b4c9addfad",
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "description": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3138/live/44562b50-cbd0-11f1-aba9-2bb2608f11d9.jpg",
+      "published": "Mon, 19 Oct 2026 16:46:35 GMT",
+      "location": "World",
+      "category": "world",
+      "fetched_at": "2026-10-20T09:08:39.834812"
     },
     {
       "id": "5e02e4c0ac18",
-      "title": "Macron increasingly isolated amid unrest across France - Euronews",
-      "description": "Macron increasingly isolated amid unrest across France&nbsp;&nbsp;EuronewsOpinion | The French Fantasy Is Coming to an End&nbsp;&nbsp;The New York TimesRioting in France: What’s Fueling the Violence and What Happens Next&nbsp;&nbsp;WSJWhat Trump’s Comments About France Say About Him&nbsp;&nbsp;The A",
+      "title": "Macron increasingly isolated amid unrest across France - Euronews.com",
+      "description": "Macron increasingly isolated amid unrest across France&nbsp;&nbsp;Euronews.comIn pictures: French landmarks damaged and destroyed by violent protesters&nbsp;&nbsp;Yahoo News CanadaFrench cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live&nbsp;&nbsp;The GuardianPolice i",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbVR0WTNmSFVlWWVHakFPaF81aWo5QmRDczlhajl0M1h1Ml9FQ1hIWXJGc1BYcWhYWnBFalhlVmZETXBlQl9EeHliWHRFdEt5dUxNODBuZUFPZXZoZTctSUNKRHBvR3lpTm5feVhzNmdaYjJjaUJOYm1FZ2p1TjV5Y0ZJWEtrMncyeDVxcWFYWW4ySEJi?oc=5",
       "source": "Google News Tech",
       "image": "",
       "published": "Mon, 19 Oct 2026 16:38:51 GMT",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:48.664331"
-    },
-    {
-      "id": "078ad49b5bca",
-      "title": "Unifor Stellantis workers in Ontario vote 97% in favour of strike mandate as talks still stalled - CBC",
-      "description": "Unifor Stellantis workers in Ontario vote 97% in favour of strike mandate as talks still stalled&nbsp;&nbsp;CBCStellantis workers give union authorization to strike&nbsp;&nbsp;CTV NewsStellantis workers give union authorization to strike as talks with automaker stalled&nbsp;&nbsp;The SpecStellantis ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdExYVU5oT2ZCaExUZXRHVUw0THNOS0dWN1ktLUJ2M2NzTVdJb1NUVWZOZlBjNXpoRk5ReGp0TWVMQndBbW8xQW40YUlqX2p2UW9SNnNlS0daOTdCZVpmT2syUU02ZWQxMWFOQUd4Z2t6NlNnYWJwZDBOYXJNbUdkLVdiR0d6ZEpQS3ZCdlJFSDZJZw?oc=5",
-      "source": "Google News Business",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 16:28:01 GMT",
       "location": "Vancouver",
-      "category": "business",
-      "fetched_at": "2026-10-20T03:32:48.870232"
-    },
-    {
-      "id": "df92a7bc3ed5",
-      "title": "A Bank of Canada rate hike could still land in 2026, say economists after inflation reading - Financial Post",
-      "description": "A Bank of Canada rate hike could still land in 2026, say economists after inflation reading&nbsp;&nbsp;Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWEpyUkRXREJSSC1fSWNuREJLVWthbDNTd0hud3dVZzJ5MEJTZnNVQVQ2S1hCX3FqMDRHRm9PWUNXWFFFUDZwMmZ1QlZ5RjUtTUZMOEc0Z2xDanE4aUlCSVFrWWxSVEdIZXlYNy02X3dsQkRCTk1CN3ZSai1LUVo5VmdQd05DbUt0?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 16:25:42 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581612"
+      "category": "technology",
+      "fetched_at": "2026-10-20T09:08:41.052348"
     },
     {
       "id": "219616b8c14b",
@@ -2736,7 +2880,7 @@
       "published": "Mon, 19 Oct 2026 16:24:26 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-10-20T03:32:47.267457"
+      "fetched_at": "2026-10-20T09:08:38.841557"
     },
     {
       "id": "3f0146ab8279",
@@ -2748,19 +2892,7 @@
       "published": "Mon, 19 Oct 2026 16:21:44 +0000",
       "location": "World",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.925089"
-    },
-    {
-      "id": "d4d74125e7dc",
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "description": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg",
-      "published": "Mon, 19 Oct 2026 16:20:51 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990382"
+      "fetched_at": "2026-10-20T09:08:39.468793"
     },
     {
       "id": "982e9ee280f5",
@@ -2772,31 +2904,7 @@
       "published": "Mon, 19 Oct 2026 16:19:29 +0000",
       "location": "World",
       "category": "politics",
-      "fetched_at": "2026-10-20T03:32:47.962471"
-    },
-    {
-      "id": "e10bbb763a6c",
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "description": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
-      "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/e0f10480-cb2b-11f1-97d2-23d8daaba2e1.jpg",
-      "published": "Mon, 19 Oct 2026 16:16:51 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990415"
-    },
-    {
-      "id": "b26da8daa49d",
-      "title": "All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking",
-      "description": "Upgrade your cold-weather cooking setup with discounted cookware for soups, stews, and roasts.",
-      "url": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
-      "source": "Wired",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 16:10:40 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.634747"
+      "fetched_at": "2026-10-20T09:08:39.410390"
     },
     {
       "id": "f9778a798f36",
@@ -2808,19 +2916,19 @@
       "published": "Mon, 19 Oct 2026 16:08:14 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.054591"
+      "fetched_at": "2026-10-20T09:08:39.658703"
     },
     {
-      "id": "b2e8936cbbae",
-      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-      "description": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
-      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-      "source": "Wired",
+      "id": "0a15407fad84",
+      "title": "Stellantis workers vote overwhelmingly in favour of strike mandate - Global News",
+      "description": "Stellantis workers vote overwhelmingly in favour of strike mandate&nbsp;&nbsp;Global NewsStellantis workers give union authorization to strike&nbsp;&nbsp;CTV NewsUnifor Stellantis workers in Ontario vote 97% in favour of strike mandate as talks still stalled&nbsp;&nbsp;CBCStellantis workers give uni",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXNKS3hER190clhZMWctOUljbEw5b3RQaDlzYjBZNF84Y1FEU2gtWlRjalotVXdheE5rRkNLY2haZTZ6NDRsMkpZUkdaWkkwSTJFQ1ZJckl4OXpJb1V0N2ZoNk5kd09mOEhfOGVuTlh5U3M3WDBxQ2hRMDZ0SFNyVlJsYzhfblpBcTlYSmVCRkNCZG9DTlVzcU5qZFJQSUFiVDlLbFFR?oc=5",
+      "source": "Google News Business",
       "image": "",
-      "published": "Mon, 19 Oct 2026 16:00:00 +0000",
-      "location": "World",
-      "category": "technology",
-      "fetched_at": "2026-10-20T03:32:47.634766"
+      "published": "Mon, 19 Oct 2026 15:51:18 GMT",
+      "location": "Vancouver",
+      "category": "business",
+      "fetched_at": "2026-10-20T09:08:40.572537"
     },
     {
       "id": "f76c08689534",
@@ -2832,7 +2940,7 @@
       "published": "Mon, 19 Oct 2026 15:45:35 +0000",
       "location": "Ottawa",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739291"
+      "fetched_at": "2026-10-20T09:08:42.518500"
     },
     {
       "id": "48f86e48cfac",
@@ -2844,67 +2952,7 @@
       "published": "Mon, 19 Oct 2026 15:35:53 +0000",
       "location": "World",
       "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739318"
-    },
-    {
-      "id": "458516e62801",
-      "title": "Oro-Medonte mayoral candidate’s son injured in CFB Wainwright fire",
-      "description": "The son of an Oro-Medonte, Ont., mayoral candidate was critically injured in the fatal fire at CFB Wainwright on Saturday that claimed the lives of four soldiers and injured dozens of others. In a post on Facebook, Cathy Keane confirmed that her eldest son was among the 39 injured in the blaze. &#82",
-      "url": "https://ottawa.citynews.ca/2026/10/19/oro-medonte-mayoral-candidates-son-injured-in-cfb-wainwright-fire/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 15:13:40 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739346"
-    },
-    {
-      "id": "76487e4224fe",
-      "title": "Stellantis workers give union authorization to strike as talks with automaker stalled",
-      "description": "Stellantis workers in Canada have voted to give their union a mandate to strike. Unifor says 97.3 per cent of members who took part in the vote over the weekend were in favour of authorizing a potential strike. The union is not yet in a legal strike position as neither it nor Stellantis have request",
-      "url": "https://ottawa.citynews.ca/2026/10/19/stellantis-unifor-strike-mandate/",
-      "source": "CityNews Ottawa",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 15:02:12 +0000",
-      "location": "Canada",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:48.739370"
-    },
-    {
-      "id": "890d87992f9d",
-      "title": "Roundup: What you may have missed in the municipal election campaign last week",
-      "description": "With election campaigns in full swing, keeping up with the municipal election can be hard. Here’s what you might have missed between Oct. 12. and 18.",
-      "url": "https://ottawacitizen.com/news/local-news/roundup-week-mayoral-campaign",
-      "source": "Ottawa Citizen",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 15:00:07 +0000",
-      "location": "World",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068754"
-    },
-    {
-      "id": "3f80338a9365",
-      "title": "Rays on verge of World Series as Rasmussen stifles Guardians in Game 5 - Sportsnet.ca",
-      "description": "Rays on verge of World Series as Rasmussen stifles Guardians in Game 5&nbsp;&nbsp;Sportsnet.caRays clinch ALCS with Game 6 win, to face Brewers in World Series&nbsp;&nbsp;ESPNRays advance to World Series after Game 6 win over Guardians&nbsp;&nbsp;Sportsnet.caWhat Mets learned from Peralta's disappoi",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVG1SM2cyUmdDdXAtQlJJWlJoNFlBbHdxck1McVJIMW5RWktlSE9DUUN2cllUOGFVMmliQndPTzNUN3dueW5zRzZoTGtfQUhqTzhvZDVxR1lmajhWRjA1SHZUZk5QYVNzbFV5VnlZaWdpVXZXT25nbmlhakN2VHo1RWdvemdOTnNEcU1iVkYtTU5Xd016SlljcGpqQUdJZVdRMlh2TDVnSHFmT3lz?oc=5",
-      "source": "Google News Sports",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 14:58:00 GMT",
-      "location": "Vancouver",
-      "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.780957"
-    },
-    {
-      "id": "6e42643dcc9d",
-      "title": "Ottawa Senators commit to coach Travis Green to help them take the next step",
-      "description": "As the Ottawa Senators prepare to face the Florida Panthers, the team announced a new contract extension for its head coach.",
-      "url": "https://ottawacitizen.com/ottawa-senators/ottawa-senators-commit-to-coach-travis-green-with-three-year-extension",
-      "source": "Ottawa Citizen",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 14:56:11 +0000",
-      "location": "Ottawa",
-      "category": "local",
-      "fetched_at": "2026-10-20T03:32:49.068772"
+      "fetched_at": "2026-10-20T09:08:42.518524"
     },
     {
       "id": "c1a4784f07de",
@@ -2916,7 +2964,7 @@
       "published": "Mon, 19 Oct 2026 14:45:53 GMT",
       "location": "World",
       "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.054622"
+      "fetched_at": "2026-10-20T09:08:39.658733"
     },
     {
       "id": "b8fccad6fadf",
@@ -2928,7 +2976,7 @@
       "published": "Mon, 19 Oct 2026 14:32:47 GMT",
       "location": "Vancouver",
       "category": "technology",
-      "fetched_at": "2026-10-20T03:32:48.664616"
+      "fetched_at": "2026-10-20T09:08:41.052525"
     },
     {
       "id": "f2d3483debf8",
@@ -2940,122 +2988,73 @@
       "published": "Mon, 19 Oct 2026 14:30:54 +0000",
       "location": "Canada",
       "category": "politics",
-      "fetched_at": "2026-10-20T03:32:47.267483"
+      "fetched_at": "2026-10-20T09:08:38.841587"
     },
     {
       "id": "6f146f840625",
       "title": "Hurts has blood clots in lungs, reportedly done for season - theScore",
-      "description": "Hurts has blood clots in lungs, reportedly done for season&nbsp;&nbsp;theScoreJalen Hurts expected to miss season after blood clots discovered in QB's lungs&nbsp;&nbsp;ESPNNFL Network analyst apologizes to Jalen Hurts for 'unfounded' comments&nbsp;&nbsp;USA TodayEagles QB Hurts reportedly played aft",
+      "description": "Hurts has blood clots in lungs, reportedly done for season&nbsp;&nbsp;theScoreJalen Hurts expected to miss season after blood clots discovered in QB's lungs&nbsp;&nbsp;ESPNEagles QB Hurts reportedly played after not sleeping for 36 hours amid blood clot diagnosis&nbsp;&nbsp;The GuardianPhiladelphia ",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkJTU2UwSl9JWnBEWjc2b0JFN0dySkpaOUF6WEdFZkkzeE5PUFdpU1VMZDdaUXRYM1BmeUpTYkFMWE82UC14NlZVOEdBa1hLRU50ZGE3RGhUZF9NOFNHUHBDMnlaQXZidlIwUEdjdDR3SjRvdWk2RTVMQlo3bEVXS3NvT1hmUnM5YTZLMzlNdVVvWDhNSGt2WEVWRHBqU0to?oc=5",
       "source": "Google News Sports",
       "image": "",
       "published": "Mon, 19 Oct 2026 14:27:23 GMT",
-      "location": "Vancouver",
+      "location": "World",
       "category": "sports",
-      "fetched_at": "2026-10-20T03:32:48.780916"
-    },
-    {
-      "id": "e55556a01601",
-      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-      "description": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d94/live/b7ee0580-cbd8-11f1-b139-f77a8b036d06.jpg",
-      "published": "Mon, 19 Oct 2026 14:13:18 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990398"
-    },
-    {
-      "id": "1d889556549b",
-      "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
-      "description": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHOAn eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more t",
-      "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/121fe3d421149eeeeb2952b13cb999bdc527852e/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=0fdf8f6069692abee1ef39afeb50d7cb",
-      "published": "Mon, 19 Oct 2026 14:11:08 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:48.054660"
-    },
-    {
-      "id": "bf60807015f3",
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "description": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
-      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6002/live/ca68a640-cbae-11f1-821f-c5d07d801cca.png",
-      "published": "Mon, 19 Oct 2026 13:42:41 GMT",
-      "location": "World",
-      "category": "world",
-      "fetched_at": "2026-10-20T03:32:47.990364"
-    },
-    {
-      "id": "8699550d561f",
-      "title": "The Daily — Consumer Price Index, September 2026 - Statistique Canada",
-      "description": "The Daily — Consumer Price Index, September 2026&nbsp;&nbsp;Statistique Canada",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01XzRoY2xpRUhlM21rSlF3Tl9NeGU5YUYtUzNibVBMdm1zb3ZZNU96bmJrUTVmYVluck44d1YwSnU3OXZmZElqcHlHMzl3dHp2eU5rcGRHTU5xOUdfcks2c1JiRF82Um9pdXU4Y2V3NmhKai1aOE9iQ1owa0c?oc=5",
-      "source": "Google News Canada",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 13:38:47 GMT",
-      "location": "Canada",
-      "category": "canada",
-      "fetched_at": "2026-10-20T03:32:48.581414"
+      "fetched_at": "2026-10-20T09:08:40.950291"
     }
   ],
   "sources": [
-    "CityNews Vancouver",
-    "Science Daily",
-    "BetaKit",
-    "The Guardian",
-    "APTN News",
-    "Ottawa Citizen",
-    "Al Jazeera",
-    "BBC World",
-    "Wired",
-    "Edmonton Journal",
-    "National Post",
-    "Global News",
-    "CityNews Calgary",
-    "Vancouver Sun",
-    "CityNews Ottawa",
-    "Google News Canada",
-    "CityNews Toronto",
-    "Globe Business",
-    "Google News Sports",
-    "CNN World",
-    "Global Politics",
-    "Calgary Sun",
     "CityNews Edmonton",
-    "National Post Politics",
-    "Google News Business",
-    "Google News Tech",
+    "Science Daily",
+    "Google News Canada",
+    "CityNews Calgary",
+    "Edmonton Journal",
+    "BBC World",
     "Financial Post",
+    "Global News",
+    "Calgary Sun",
+    "CityNews Ottawa",
+    "Ottawa Citizen",
+    "Vancouver Sun",
+    "The Guardian",
+    "Global Politics",
+    "National Post Politics",
+    "CityNews Vancouver",
+    "Google News Sports",
+    "APTN News",
+    "Al Jazeera",
+    "Google News Business",
     "TechCrunch",
-    "CityNews Montreal"
+    "BetaKit",
+    "Wired",
+    "CityNews Montreal",
+    "CNN World",
+    "National Post",
+    "Globe Business",
+    "CityNews Toronto",
+    "Google News Tech"
   ],
   "stats": {
     "by_location": {
-      "Canada": 39,
-      "World": 127,
-      "Montreal": 12,
-      "Toronto": 12,
-      "Edmonton": 12,
-      "Winnipeg": 4,
-      "Calgary": 5,
+      "Canada": 49,
+      "World": 125,
+      "Montreal": 13,
       "Vancouver": 27,
-      "Ottawa": 11,
-      "Halifax": 1
+      "Ottawa": 10,
+      "Edmonton": 10,
+      "Toronto": 8,
+      "Winnipeg": 3,
+      "Calgary": 5
     },
     "by_category": {
       "local": 97,
-      "world": 34,
-      "canada": 30,
+      "world": 32,
+      "canada": 22,
+      "business": 26,
+      "politics": 18,
+      "technology": 33,
       "sports": 10,
-      "business": 29,
-      "technology": 30,
       "science": 4,
-      "politics": 8,
       "indigenous": 8
     },
     "source_count": 29
